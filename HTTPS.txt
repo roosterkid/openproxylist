@@ -1,4 +1,4 @@
-HTTP(S) Proxy list updated at 2021-04-11 14:42:03 GMT+7
+HTTP(S) Proxy list updated at 2021-04-11 14:42:41 GMT+7
 Website=https://openproxylist.com
 Fromat: CountryFlag IP:PORT CountryCode [ISP]
 
@@ -29,6 +29,7 @@ Fromat: CountryFlag IP:PORT CountryCode [ISP]
 🇸🇬 45.32.102.157:8080 SG [The Constant Company]
 🇸🇬 139.180.213.18:8080 SG [Choopa, LLC]
 🇨🇿 81.19.0.134:3128 CZ [FASTER CZ spol. s r.o]
+🇳🇱 212.80.217.28:1080 NL [Serverius Holding B.V.]
 🇮🇩 182.253.172.254:8080 ID [Biznet Networks]
 🇧🇩 103.81.104.82:8080 BD [Sajid Trading Ltd]
 🇧🇷 200.207.94.214:3128 BR [Vivo]
@@ -59,6 +60,7 @@ Fromat: CountryFlag IP:PORT CountryCode [ISP]
 🇺🇸 104.45.143.84:3128 US [Microsoft Corporation]
 🇮🇩 45.64.99.254:8080 ID [ARGON]
 🇹🇭 183.88.219.206:41564 TH [Triple T Internet Company Limited]
+🇬🇧 149.36.2.118:41002 GB [Clouvider Limited]
 🇮🇩 118.99.122.161:8080 ID [Biznet Networks]
 🇪🇸 178.60.201.59:8080 ES [R Cable y Telecomunicaciones Galicia S.A.]
 🇬🇧 149.36.2.226:41002 GB [Clouvider Limited]
