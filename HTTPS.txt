@@ -1,4 +1,4 @@
-HTTP(S) Proxy list updated at 2021-04-11 14:40:08 GMT+7
+HTTP(S) Proxy list updated at 2021-04-11 14:42:03 GMT+7
 Website=https://openproxylist.com
 Fromat: CountryFlag IP:PORT CountryCode [ISP]
 
@@ -80,7 +80,6 @@ Fromat: CountryFlag IP:PORT CountryCode [ISP]
 🇸🇬 178.128.83.219:8899 SG [DigitalOcean]
 🇮🇳 103.6.184.222:39241 IN [websurf Broadband]
 🇮🇳 103.240.77.98:30093 IN [GTPLPARSHWANEWORKPVTLTD]
-🇬🇧 185.121.27.217:24399 GB [Clouvider Limited]
 🇰🇭 119.82.252.122:36182 KH [EZECOM limited]
 🇩🇪 165.227.173.87:40997 DE [DigitalOcean, LLC]
 🇩🇪 68.183.221.156:33333 DE [DigitalOcean, LLC]
@@ -199,7 +198,6 @@ Fromat: CountryFlag IP:PORT CountryCode [ISP]
 🇺🇸 176.113.73.100:3128 US [M247 Europe SRL]
 🇮🇩 103.116.113.62:8888 ID [PT. Inet Global Indo]
 🇸🇬 104.248.152.185:3128 SG [DigitalOcean LLC]
-🇮🇹 2.236.16.113:3128 IT [Fastweb]
 🇺🇸 167.179.113.45:3128 US [Choopa LLC]
 🇸🇬 178.128.109.226:8080 SG [DigitalOcean LLC]
 🇺🇸 69.12.73.214:3128 US [QuadraNet Enterprises LLC]
