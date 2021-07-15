@@ -1,3 +1,7 @@
+# Update July 15, 2021
+* Improved server 
+* New checker logic
+
 # Open Proxy List
 Open Proxy provides a list of public proxies and all proxies must go through a detailed check (every minute) before entering the list.
 
