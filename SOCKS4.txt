@@ -1,4 +1,4 @@
-SOCKS4 Proxy list updated at 2021-07-15 14:00:01 GMT+7
+SOCKS4 Proxy list updated at 2021-07-15 15:00:01 GMT+7
 Website=https://openproxylist.com
 Support us:
 BTC: 1GeZeEnrV4SibfS5yDwuzY3w7n94ZE3zMQ
@@ -7,3 +7,9 @@ XMR: 8AGZWnqriYzQjq7hzoTzVWbQNvGeke8AHdk1tVHFqUtfX1oqDY632kwaSnZZqEtFzD4fZN3CUfC
 LTC: MAG1cWWEpgdviZChWvr2oyuxD61JPJ1Q43
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
+🇧🇷 189.90.192.246:5678 5269ms BR [Sempre Telecomunicacoes Ltda]
+🇧🇷 187.75.207.36:5678 3849ms BR [Vivo]
+🇮🇹 185.93.206.206:5678 5048ms IT [Novaquadri]
+🇮🇳 117.212.91.133:5678 2254ms IN [BSNL Internet]
+🇰🇭 103.12.160.246:5678 1624ms KH [KingCorp Inc]
+🇷🇴 109.102.254.170:4145 4808ms RO [Romtelecom]
