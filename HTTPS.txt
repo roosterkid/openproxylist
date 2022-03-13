@@ -1,4 +1,4 @@
-HTTP(S) Proxy list updated at 2022-03-13 23:00:01 GMT+7
+HTTP(S) Proxy list updated at 2022-03-14 00:00:01 GMT+7
 Support us:
 BTC: 1GeZeEnrV4SibfS5yDwuzY3w7n94ZE3zMQ
 ETH: 0x6dce795c56d1485213d689ef98277c9fb7e7a6d2
@@ -6,19 +6,22 @@ XMR: 8AGZWnqriYzQjq7hzoTzVWbQNvGeke8AHdk1tVHFqUtfX1oqDY632kwaSnZZqEtFzD4fZN3CUfC
 LTC: MAG1cWWEpgdviZChWvr2oyuxD61JPJ1Q43
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇮🇹 93.185.123.154:3128 985ms IT [Omegacom S.R.L.S.]
-🇮🇳 14.139.87.40:3128 2809ms IN [National Knowledge Network]
-🇳🇱 209.250.253.162:59394 694ms NL [The Constant Company]
-🇨🇦 51.79.124.80:3128 1760ms CA [OVH SAS]
-🇰🇷 218.238.214.45:8080 1258ms KR [SK Broadband Co Ltd]
-🇫🇷 85.25.119.98:5566 4973ms FR [BSB-SERVICE]
-🇮🇩 103.159.196.215:1085 4228ms ID [PT Andalan Dinamika Informatika]
-🇪🇨 45.189.112.225:999 3952ms EC [Anibal Humberto Enriquez Moncayo(Comunicate)]
-🇮🇳 14.139.184.130:3128 2035ms IN [National Knowledge Network]
-🇲🇽 45.190.79.160:999 2353ms MX [Meta Networks SA De CV]
-🇻🇪 45.230.169.9:999 4400ms VE [Level 3 Communications, Inc.]
-🇮🇳 103.38.5.226:82 2743ms IN [Max tech media and communications pvt ltd]
-🇦🇷 190.112.219.57:999 2924ms AR [WNet Internet y Hosting]
-🇰🇷 58.120.171.37:8080 1383ms KR [SK Broadband Co Ltd]
-🇻🇳 27.72.149.205:8080 2846ms VN [Newass2011xDSLHN]
-🇹🇭 122.155.165.191:3128 1601ms TH [CAT Telecom Public Company Limited]
+🇮🇹 93.185.123.154:3128 810ms IT [Omegacom S.R.L.S.]
+🇯🇴 212.34.1.110:8080 2785ms JO [Jordan Telecom Group]
+🇰🇷 13.124.165.69:8888 2042ms KR [Amazon Technologies Inc.]
+🇳🇱 185.92.223.62:59394 2702ms NL [The Constant Company]
+🇮🇳 117.251.114.197:3128 2593ms IN [BSNL Internet]
+🇵🇸 85.114.112.22:8080 4238ms PS [fusion services]
+🇮🇳 43.243.174.3:84 4157ms IN [Shah Solutions]
+🇮🇳 14.139.184.130:3128 2904ms IN [National Knowledge Network]
+🇮🇳 175.101.14.115:83 4642ms IN [ExcellMedia Pvt Ltd]
+🇯🇵 164.70.122.6:3128 4458ms JP [NTT PC Communications, Inc.]
+🇲🇽 189.199.106.202:999 2276ms MX [Mega Cable, S.A. de C.V.]
+🇩🇪 85.195.104.71:80 3891ms DE [Host Europe GmbH]
+🇯🇵 133.242.146.103:8000 2833ms JP [SAKURA Internet Inc.]
+🇧🇷 168.196.215.16:9999 4340ms BR [ITA TELECOM]
+🇰🇷 58.120.171.37:8080 1433ms KR [SK Broadband Co Ltd]
+🇧🇷 177.87.168.97:53281 4189ms BR [Asstelecom telecomunicaÔÔo Ltda me]
+🇮🇩 36.92.107.194:8080 4117ms ID [Telekomunikasi Indonesia]
+🇮🇩 182.23.107.210:3128 3947ms ID [PT Aplikanusa Lintasarta]
+🇹🇭 122.155.165.191:3128 1801ms TH [CAT Telecom Public Company Limited]
