@@ -1,4 +1,4 @@
-HTTP(S) Proxy list updated at 2022-03-14 19:00:01 GMT+7
+HTTP(S) Proxy list updated at 2022-03-14 20:00:01 GMT+7
 Support us:
 BTC: 1GeZeEnrV4SibfS5yDwuzY3w7n94ZE3zMQ
 ETH: 0x6dce795c56d1485213d689ef98277c9fb7e7a6d2
@@ -6,25 +6,17 @@ XMR: 8AGZWnqriYzQjq7hzoTzVWbQNvGeke8AHdk1tVHFqUtfX1oqDY632kwaSnZZqEtFzD4fZN3CUfC
 LTC: MAG1cWWEpgdviZChWvr2oyuxD61JPJ1Q43
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇮🇹 93.185.123.154:3128 752ms IT [Omegacom S.R.L.S.]
-🇹🇷 185.254.94.202:3128 1239ms TR [Mahsum Celik trading as ServerPlusInternet Sunucu Hizmetleri]
-🇳🇱 147.75.100.31:3128 2566ms NL [PACKET]
-🇵🇰 14.192.129.140:8080 3317ms PK [Fariya Networks 129]
-🇳🇱 185.92.223.62:59394 1123ms NL [The Constant Company]
-🇸🇬 159.65.133.175:31280 1539ms SG [DigitalOcean, LLC]
-🇧🇩 202.40.177.69:80 4337ms BD [Ranks ITT]
-🇹🇷 78.186.85.159:10001 3675ms TR [TurkTelecom]
-🇺🇸 130.185.119.20:3128 4953ms US [rapiddedi]
-🇸🇬 145.40.73.102:9443 562ms SG [Packet Host, Inc.]
-🇮🇳 175.101.14.115:83 3431ms IN [ExcellMedia Pvt Ltd]
-🇮🇩 36.67.152.213:11111 3895ms ID [PT. Telekomunikasi Indonesia]
-🇬🇧 79.143.87.138:9090 1930ms GB [Hydra Communications Ltd]
-🇬🇧 79.143.87.134:9090 1775ms GB [Hydra Communications Ltd]
-🇧🇷 45.167.72.22:8080 3224ms BR [L.E.G BENSONI - INFORMATICA ME]
-🇮🇩 118.97.164.19:8080 2766ms ID [PT. TELKOM INDONESIA]
-🇰🇷 58.120.171.37:8080 1406ms KR [SK Broadband Co Ltd]
-🇧🇷 187.62.195.145:8080 3138ms BR [UWBR VOX TelecomunicaÔÔes S/A]
-🇸🇱 160.19.155.51:8080 7301ms SL [PCS Holdings Limited]
-🇮🇩 103.80.83.48:3127 3961ms ID [Jaringanku Sarana Nusantara]
-🇦🇷 181.209.82.154:23500 6612ms AR [ARSAT - Empresa Argentina de Soluciones Satelitales S.A]
-🇹🇭 122.155.165.191:3128 1778ms TH [CAT Telecom Public Company Limited]
+🇯🇵 160.16.242.164:3128 2956ms JP [SAKURA Internet Inc.]
+🇳🇱 20.103.234.40:8080 1352ms NL [Microsoft Corporation]
+🇲🇽 201.120.27.15:53281 3019ms MX [Uninet S.A. de C.V]
+🇮🇩 103.122.32.10:8080 2149ms ID [PT. Mora Telematika Indonesia]
+🇩🇪 85.195.104.71:80 3780ms DE [Host Europe GmbH]
+🇮🇩 123.231.221.243:6969 4394ms ID [LAMPLS188]
+🇮🇩 202.93.229.194:3128 1114ms ID [PT. HIPERNET INDODATA]
+🇸🇬 139.99.99.165:8080 4018ms SG [OVH SAS]
+🇮🇩 103.255.242.115:8080 3902ms ID [Indonesia Network Information Center]
+🇷🇺 79.143.30.163:8080 4422ms RU [OOO "Network of data-centers "Selectel"]
+🇰🇷 58.120.171.37:8080 1391ms KR [SK Broadband Co Ltd]
+🇧🇬 77.238.79.111:8080 6857ms BG [FIBER1]
+🇬🇳 102.176.160.70:61279 7341ms GN [2nd RO]
+🇹🇭 122.155.165.191:3128 2753ms TH [CAT Telecom Public Company Limited]
