@@ -1,4 +1,4 @@
-HTTP(S) Proxy list updated at 2022-03-21 20:00:02 GMT+7
+HTTP(S) Proxy list updated at 2022-03-21 21:00:02 GMT+7
 Support us:
 BTC: 1GeZeEnrV4SibfS5yDwuzY3w7n94ZE3zMQ
 ETH: 0x6dce795c56d1485213d689ef98277c9fb7e7a6d2
@@ -6,26 +6,16 @@ XMR: 8AGZWnqriYzQjq7hzoTzVWbQNvGeke8AHdk1tVHFqUtfX1oqDY632kwaSnZZqEtFzD4fZN3CUfC
 LTC: MAG1cWWEpgdviZChWvr2oyuxD61JPJ1Q43
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇪🇸 185.253.154.181:3128 870ms ES [Cloudi Nextgen SL]
-🇫🇷 81.1.26.102:8080 780ms FR [SFR SA]
-🇺🇸 129.153.111.20:59394 1186ms US [Oracle Corporation]
-🇯🇵 160.16.242.164:3128 2944ms JP [SAKURA Internet Inc.]
-🇦🇷 190.221.33.10:999 3741ms AR [AMX Argentina S.A.]
-🇮🇩 103.143.195.2:1080 2300ms ID [TRINITY]
-🇦🇱 77.242.16.30:8080 4917ms AL [Abissnet ISP]
-🇯🇵 164.70.122.6:3128 1970ms JP [NTT PC Communications, Inc.]
-🇮🇩 139.255.21.74:8080 3279ms ID [PT. LINKNET]
-🇩🇪 85.195.104.71:80 2907ms DE [Host Europe GmbH]
-🇧🇷 200.164.65.80:55443 4648ms BR [Telemar Norte Leste S.A]
-🏳 103.68.207.34:83 3894ms  []
-🏳 82.114.97.157:1256 4406ms  []
-🇯🇵 133.242.146.103:8000 1148ms JP [SAKURA Internet Inc.]
-🇧🇷 170.79.12.72:9090 4752ms BR [I T Tecnologia e InformaÔÔo Ltda]
-🇯🇵 140.227.211.47:8080 2888ms JP [NTT PC Communications, Inc.]
-🇺🇸 186.233.186.60:8080 1524ms US [Maxihost LTDA]
-🇮🇩 112.78.170.250:80 2283ms ID [BIZNET]
-🇷🇺 188.168.56.82:55443 3398ms RU [TTK-Retail]
-🇮🇩 103.11.106.25:8181 3955ms ID [PT. Pascal Indonesia]
-🇮🇩 36.89.229.97:59707 3794ms ID [PT. Telekomunikasi Indonesia]
-🇹🇭 180.180.170.188:8080 4349ms TH [TOT Public Company Limited]
-🇸🇬 128.199.214.87:3128 1560ms SG [DigitalOcean LLC]
+🇪🇸 185.253.154.181:3128 742ms ES [Cloudi Nextgen SL]
+🇫🇷 81.1.26.102:8080 1860ms FR [SFR SA]
+🇲🇽 186.96.50.39:999 4360ms MX [Total Play Telecomunicaciones SA De CV]
+🇨🇭 152.67.85.151:8118 1063ms CH [Oracle Corporation]
+🇺🇸 99.71.86.199:8118 2202ms US [AT&T Services, Inc.]
+🇯🇵 160.251.14.122:3128 3471ms JP [GMO Internet, Inc]
+🇵🇰 180.178.190.70:8080 4208ms PK [KK Networks (Pvt.) Limited]
+🇮🇩 123.231.221.243:6969 3924ms ID [LAMPLS188]
+🇲🇽 187.237.121.46:80 4333ms MX [Uninet S.A. de C.V.]
+🇮🇩 118.97.47.249:55443 3383ms ID [PT. TELKOM INDONESIA]
+🇹🇭 1.10.141.220:54620 4409ms TH [TOT Public Company Limited]
+🇮🇩 36.89.229.97:59707 4240ms ID [PT. Telekomunikasi Indonesia]
+🇯🇵 116.80.41.12:80 3108ms JP [NTT PC Communications, Inc.]
