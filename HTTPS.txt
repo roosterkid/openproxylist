@@ -1,4 +1,4 @@
-HTTP(S) Proxy list updated at 2022-03-21 22:00:01 GMT+7
+HTTP(S) Proxy list updated at 2022-03-21 23:00:01 GMT+7
 Support us:
 BTC: 1GeZeEnrV4SibfS5yDwuzY3w7n94ZE3zMQ
 ETH: 0x6dce795c56d1485213d689ef98277c9fb7e7a6d2
@@ -6,12 +6,12 @@ XMR: 8AGZWnqriYzQjq7hzoTzVWbQNvGeke8AHdk1tVHFqUtfX1oqDY632kwaSnZZqEtFzD4fZN3CUfC
 LTC: MAG1cWWEpgdviZChWvr2oyuxD61JPJ1Q43
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇪🇸 185.253.154.181:3128 1748ms ES [Cloudi Nextgen SL]
-🇺🇸 199.195.254.168:8118 2112ms US [FranTech Solutions]
-🇸🇬 159.65.133.175:31280 1614ms SG [DigitalOcean, LLC]
-🇯🇵 133.167.86.191:8118 3051ms JP [SAKURA Internet Inc.]
-🇲🇽 177.242.151.158:8080 3226ms MX [Mega Cable, S.A. de C.V.]
-🇷🇺 77.236.252.187:1256 3328ms RU [JSC "ER-Telecom Holding"]
-🇫🇮 95.216.10.237:6000 2800ms FI [Hetzner Online GmbH]
-🇮🇩 118.97.47.249:55443 3361ms ID [PT. TELKOM INDONESIA]
-🇮🇩 116.254.100.165:46675 1777ms ID [Bangun Abadi Teknologi Indonesia]
+🇪🇸 185.253.154.181:3128 1119ms ES [Cloudi Nextgen SL]
+🇮🇪 52.169.143.106:8080 1463ms IE [Microsoft Corporation]
+🇮🇷 130.185.73.139:8888 2688ms IR [Pars Parva System Ltd]
+🇧🇴 190.186.1.121:999 3255ms BO [Cotas Ltda.]
+🇲🇽 189.199.106.202:999 3285ms MX [Mega Cable, S.A. de C.V.]
+🇮🇩 103.124.138.131:8085 2776ms ID [Global Media Data Prima]
+🇮🇩 123.231.221.243:6969 3983ms ID [LAMPLS188]
+🇫🇮 95.216.10.237:6000 7630ms FI [Hetzner Online GmbH]
+🇮🇩 182.253.108.186:8080 2371ms ID [BIZNET]
