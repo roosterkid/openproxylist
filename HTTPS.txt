@@ -1,4 +1,4 @@
-HTTP(S) Proxy list updated at 2022-03-23 04:00:01 GMT+7
+HTTP(S) Proxy list updated at 2022-03-23 05:00:01 GMT+7
 Support us:
 BTC: 1GeZeEnrV4SibfS5yDwuzY3w7n94ZE3zMQ
 ETH: 0x6dce795c56d1485213d689ef98277c9fb7e7a6d2
@@ -6,18 +6,27 @@ XMR: 8AGZWnqriYzQjq7hzoTzVWbQNvGeke8AHdk1tVHFqUtfX1oqDY632kwaSnZZqEtFzD4fZN3CUfC
 LTC: MAG1cWWEpgdviZChWvr2oyuxD61JPJ1Q43
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇫🇷 81.1.26.102:8080 2019ms FR [SFR SA]
-🇯🇵 160.16.242.164:3128 1896ms JP [SAKURA Internet Inc.]
-🇺🇸 45.77.125.208:59394 2551ms US [The Constant Company]
-🇺🇸 130.185.119.20:3128 3189ms US [rapiddedi]
-🇲🇽 189.199.106.202:999 2815ms MX [Mega Cable, S.A. de C.V.]
-🇮🇩 103.36.11.17:8181 1860ms ID [PT Awinet Global Mandiri]
-🇮🇩 123.231.221.243:6969 1076ms ID [LAMPLS188]
-🇮🇩 202.93.229.194:3128 2588ms ID [PT. HIPERNET INDODATA]
-🇸🇬 194.233.69.38:443 1851ms SG [Contabo Asia Private Limited]
-🇫🇮 95.216.10.237:6000 2866ms FI [Hetzner Online GmbH]
-🇮🇩 182.253.108.186:8080 689ms ID [BIZNET]
-🇮🇩 103.11.106.8:8181 1030ms ID [PT. Pascal Indonesia]
-🇮🇩 103.80.83.48:3127 1155ms ID [Jaringanku Sarana Nusantara]
-🇹🇭 122.155.165.191:3128 1372ms TH [CAT Telecom Public Company Limited]
-🇩🇪 176.9.63.62:3128 1508ms DE [Hetzner Online AG]
+🇪🇸 80.240.126.125:3128 1741ms ES [Cloudi Nextgen SL]
+🇰🇷 218.238.214.45:8080 3072ms KR [SK Broadband Co Ltd]
+🇮🇩 123.231.238.221:80 2535ms ID [PT Aplikanusa Lintasarta]
+🇮🇩 202.138.239.120:8888 1761ms ID [PT Melvar Lintasnusa]
+🇧🇷 186.208.81.214:3129 3198ms BR [RazaoInfo Internet Ltda]
+🇮🇩 103.124.138.131:8085 1803ms ID [Global Media Data Prima]
+🇳🇵 103.1.93.105:63141 1724ms NP [Classic Tech Pvt. Ltd]
+🇮🇩 103.121.215.34:43520 554ms ID [PT Parsaoran Global Datatrans]
+🇩🇪 85.195.104.71:80 2789ms DE [Host Europe GmbH]
+🇮🇩 123.231.221.243:6969 4174ms ID [LAMPLS188]
+🇮🇩 202.93.229.194:3128 4756ms ID [PT. HIPERNET INDODATA]
+🇯🇵 133.242.146.103:8000 3521ms JP [SAKURA Internet Inc.]
+🇮🇩 103.139.47.250:8080 4609ms ID [PT iForte Global Internet]
+🇫🇷 213.32.75.44:9300 1507ms FR [OVH SAS]
+🇮🇩 118.97.47.249:55443 1502ms ID [PT. TELKOM INDONESIA]
+🇺🇦 94.231.178.249:9797 3128ms UA ["Galichina Telekommunication" LTD]
+🇧🇩 45.127.246.102:8080 3626ms BD [Dhaka Fiber Net Limited]
+🇧🇷 45.167.72.22:8080 4722ms BR [L.E.G BENSONI - INFORMATICA ME]
+🇹🇭 103.20.204.104:80 3554ms TH [AIS-Cloud]
+🇧🇷 131.108.118.27:8080 3937ms BR [CatalÔo Bandnet ServiÔos MultimÔdia LTDA - ME]
+🇵🇪 190.119.211.74:8080 2573ms PE [America Movil Peru S.A.C.]
+🇮🇩 103.11.106.25:8181 1332ms ID [PT. Pascal Indonesia]
+🇹🇭 122.155.165.191:3128 2311ms TH [CAT Telecom Public Company Limited]
+🇩🇪 176.9.63.62:3128 1427ms DE [Hetzner Online AG]
