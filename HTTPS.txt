@@ -1,4 +1,4 @@
-HTTP(S) Proxy list updated at 2022-03-23 17:00:02 GMT+7
+HTTP(S) Proxy list updated at 2022-03-23 18:00:02 GMT+7
 Support us:
 BTC: 1GeZeEnrV4SibfS5yDwuzY3w7n94ZE3zMQ
 ETH: 0x6dce795c56d1485213d689ef98277c9fb7e7a6d2
@@ -6,20 +6,17 @@ XMR: 8AGZWnqriYzQjq7hzoTzVWbQNvGeke8AHdk1tVHFqUtfX1oqDY632kwaSnZZqEtFzD4fZN3CUfC
 LTC: MAG1cWWEpgdviZChWvr2oyuxD61JPJ1Q43
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇪🇸 185.253.154.181:3128 779ms ES [Cloudi Nextgen SL]
-🇪🇸 80.240.126.125:3128 919ms ES [Cloudi Nextgen SL]
-🇳🇱 209.250.253.162:59394 806ms NL [The Constant Company]
-🇸🇬 159.65.133.175:31280 1320ms SG [DigitalOcean, LLC]
-🇳🇱 20.103.139.62:3128 1342ms NL [Microsoft Corporation]
-🇯🇵 164.70.122.6:3128 4471ms JP [NTT PC Communications, Inc.]
-🇮🇩 139.255.21.74:8080 3558ms ID [PT. LINKNET]
-🇮🇩 103.122.32.10:8080 2224ms ID [PT. Mora Telematika Indonesia]
-🇩🇪 167.86.81.208:3128 2028ms DE [Contabo GmbH]
-🇧🇩 45.125.222.97:36110 4552ms BD [SSD-TECH]
-🇮🇩 123.231.221.243:6969 4273ms ID [LAMPLS188]
-🇮🇩 202.93.229.194:3128 3759ms ID [PT. HIPERNET INDODATA]
-🇸🇬 194.233.69.90:443 3187ms SG [Contabo Asia Private Limited]
-🇯🇵 133.242.146.103:8000 866ms JP [SAKURA Internet Inc.]
-🇮🇩 103.76.12.42:80 3318ms ID [MORATELINDO]
-🇮🇩 36.89.229.97:59707 1594ms ID [PT. Telekomunikasi Indonesia]
-🇩🇪 176.9.63.62:3128 604ms DE [Hetzner Online AG]
+🇪🇸 185.253.154.181:3128 1207ms ES [Cloudi Nextgen SL]
+🇪🇸 80.240.126.125:3128 3502ms ES [Cloudi Nextgen SL]
+🇯🇵 160.16.242.164:3128 1785ms JP [SAKURA Internet Inc.]
+🇪🇸 149.62.177.117:3128 2936ms ES [Avatel Telecom]
+🇫🇷 85.25.195.177:5566 3671ms FR [Host Europe GmbH]
+🇯🇵 164.70.122.6:3128 2797ms JP [NTT PC Communications, Inc.]
+🇩🇪 167.86.81.208:3128 1169ms DE [Contabo GmbH]
+🇹🇷 95.0.219.234:8080 3382ms TR [TurkTelecom]
+🇹🇼 59.124.224.205:3128 2272ms TW [Chunghwa Telecom Co., Ltd.]
+🇮🇩 103.121.215.34:43520 4141ms ID [PT Parsaoran Global Datatrans]
+🇮🇩 202.93.229.194:3128 4362ms ID [PT. HIPERNET INDODATA]
+🇯🇵 133.242.146.103:8000 2862ms JP [SAKURA Internet Inc.]
+🇮🇩 118.97.164.19:8080 2136ms ID [PT. TELKOM INDONESIA]
+🇩🇪 176.9.63.62:3128 677ms DE [Hetzner Online AG]
