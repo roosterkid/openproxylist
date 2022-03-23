@@ -1,4 +1,4 @@
-HTTP(S) Proxy list updated at 2022-03-23 15:00:01 GMT+7
+HTTP(S) Proxy list updated at 2022-03-23 16:00:01 GMT+7
 Support us:
 BTC: 1GeZeEnrV4SibfS5yDwuzY3w7n94ZE3zMQ
 ETH: 0x6dce795c56d1485213d689ef98277c9fb7e7a6d2
@@ -6,16 +6,24 @@ XMR: 8AGZWnqriYzQjq7hzoTzVWbQNvGeke8AHdk1tVHFqUtfX1oqDY632kwaSnZZqEtFzD4fZN3CUfC
 LTC: MAG1cWWEpgdviZChWvr2oyuxD61JPJ1Q43
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇪🇸 185.253.154.181:3128 1105ms ES [Cloudi Nextgen SL]
-🇪🇸 80.240.126.125:3128 1372ms ES [Cloudi Nextgen SL]
-🇺🇸 20.88.122.67:8080 2039ms US [Microsoft Corporation]
-🇮🇳 101.53.154.137:2008 2926ms IN [NetMagic Solutions Pvt Ltd]
-🇹🇼 59.124.224.205:3128 2852ms TW [Chunghwa Telecom Co., Ltd.]
-🇲🇽 189.199.106.202:999 3475ms MX [Mega Cable, S.A. de C.V.]
-🇮🇩 103.124.138.131:8085 2253ms ID [Global Media Data Prima]
-🇪🇨 45.235.15.15:999 2780ms EC [Anibal Humberto Enriquez Moncayo(Comunicate)]
-🇮🇳 150.129.207.84:30093 1485ms IN [GTPL Vidarbha telelink pvt ltd]
-🇧🇷 186.225.157.22:8080 3044ms BR [Sinal Br Telecom Ltda]
-🇮🇩 182.23.107.210:3128 2447ms ID [PT Aplikanusa Lintasarta]
-🇷🇴 37.120.192.154:8080 2009ms RO [Secure Data Systems SRL]
-🇩🇪 176.9.63.62:3128 2825ms DE [Hetzner Online AG]
+🇪🇸 185.253.154.181:3128 1090ms ES [Cloudi Nextgen SL]
+🇪🇸 80.240.126.125:3128 2591ms ES [Cloudi Nextgen SL]
+🇫🇷 81.1.26.102:8080 1596ms FR [SFR SA]
+🇮🇷 130.185.73.139:8888 1175ms IR [Pars Parva System Ltd]
+🇪🇸 149.62.177.117:3128 4909ms ES [Avatel Telecom]
+🇸🇬 159.65.133.175:31280 2152ms SG [DigitalOcean, LLC]
+🇦🇷 170.239.180.51:999 4343ms AR [Escobar Arnez Marcelino]
+🇲🇽 189.206.193.252:999 2586ms MX [Alestra, S. de R.L. de C.V.]
+🇺🇸 130.185.119.20:3128 3056ms US [rapiddedi]
+🇭🇰 150.109.144.175:82 1627ms HK [Tencent Cloud Computing (Beijing) Co]
+🇲🇽 189.199.106.202:999 4642ms MX [Mega Cable, S.A. de C.V.]
+🇮🇩 103.124.138.131:8085 1517ms ID [Global Media Data Prima]
+🇮🇩 139.255.71.90:8080 3524ms ID [PT. LINKNET]
+🇦🇷 170.155.5.235:8080 2248ms AR [Gobernacion de la Provincia de Buenos Aires]
+🇮🇳 103.38.5.226:82 2381ms IN [Max tech media and communications pvt ltd]
+🇮🇩 202.138.249.241:8000 3462ms ID [PT Melvar Lintasnusa]
+🇦🇷 190.112.219.57:999 3632ms AR [WNet Internet y Hosting]
+🇮🇩 182.253.108.186:8080 2134ms ID [BIZNET]
+🇷🇺 91.217.42.3:8080 2669ms RU [Uralskie Kabelnye Seti Ltd. Verkhny Ufaley]
+🇮🇩 103.11.106.8:8181 1477ms ID [PT. Pascal Indonesia]
+🇩🇪 176.9.63.62:3128 685ms DE [Hetzner Online AG]
