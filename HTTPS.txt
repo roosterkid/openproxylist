@@ -1,4 +1,4 @@
-HTTP(S) Proxy list updated at 2022-03-24 20:00:02 GMT+7
+HTTP(S) Proxy list updated at 2022-03-24 21:00:01 GMT+7
 Support us:
 BTC: 1GeZeEnrV4SibfS5yDwuzY3w7n94ZE3zMQ
 ETH: 0x6dce795c56d1485213d689ef98277c9fb7e7a6d2
@@ -6,21 +6,18 @@ XMR: 8AGZWnqriYzQjq7hzoTzVWbQNvGeke8AHdk1tVHFqUtfX1oqDY632kwaSnZZqEtFzD4fZN3CUfC
 LTC: MAG1cWWEpgdviZChWvr2oyuxD61JPJ1Q43
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇪🇸 185.253.154.181:3128 1216ms ES [Cloudi Nextgen SL]
-🇪🇸 80.240.126.125:3128 2114ms ES [Cloudi Nextgen SL]
-🇯🇵 116.80.87.146:3128 2905ms JP [NTT PC Communications, Inc.]
-🇧🇷 189.45.198.99:8081 1604ms BR [Unifique Telecomunica??es SA]
-🇮🇩 36.90.119.217:8080 3299ms ID [PT. Telekomunikasi Indonesia]
-🇨🇴 200.69.83.23:8080 4553ms CO [TV AZTECA SUCURSAL COLOMBIA]
-🇫🇷 147.135.134.57:5566 1086ms FR [OVH SAS]
-🇺🇸 137.184.136.135:3128 4535ms US [DigitalOcean, LLC]
-🇮🇩 202.179.185.155:80 4210ms ID [Telemedia Dinamika Sarana]
-🇸🇬 139.99.99.165:8080 3715ms SG [OVH SAS]
-🇮🇩 202.43.190.10:53128 3803ms ID [CEPATNET]
-🇲🇽 189.220.227.6:999 6149ms MX [Cablemas Telecomunicaciones SA de CV]
-🇧🇷 201.28.120.142:3128 2580ms BR [Vivo]
-🇮🇩 124.158.168.22:8080 2819ms ID [ICON+]
-🇨🇴 181.143.224.46:999 4590ms CO [EPM Telecomunicaciones S.A. E.S.P.]
-🇮🇩 116.254.100.165:46675 3738ms ID [Bangun Abadi Teknologi Indonesia]
-🇹🇭 180.180.170.188:8080 4062ms TH [TOT Public Company Limited]
-🇹🇭 122.155.165.191:3128 1868ms TH [CAT Telecom Public Company Limited]
+🇪🇸 185.253.154.181:3128 1667ms ES [Cloudi Nextgen SL]
+🇪🇸 80.240.126.125:3128 886ms ES [Cloudi Nextgen SL]
+🇸🇬 159.65.133.175:31280 2171ms SG [DigitalOcean, LLC]
+🇺🇸 45.77.125.208:59394 1516ms US [The Constant Company]
+🇺🇸 137.184.136.135:3128 3637ms US [DigitalOcean, LLC]
+🇷🇺 195.211.219.146:5555 808ms RU [OOO "Sestroretskoe Cable Television"]
+🇩🇪 167.86.81.208:3128 542ms DE [Contabo GmbH]
+🇮🇩 103.121.215.34:43520 926ms ID [PT Parsaoran Global Datatrans]
+🇨🇱 190.107.224.150:3128 2378ms CL [WOM S.A.]
+🇦🇷 170.155.5.235:8080 3063ms AR [Gobernacion de la Provincia de Buenos Aires]
+🇧🇩 103.209.230.129:8080 4216ms BD [WIMS1]
+🇮🇩 118.97.47.249:55443 4398ms ID [PT. TELKOM INDONESIA]
+🇮🇩 124.158.168.22:8080 1152ms ID [ICON+]
+🇮🇩 182.23.107.210:3128 1049ms ID [PT Aplikanusa Lintasarta]
+🇹🇭 122.155.165.191:3128 1783ms TH [CAT Telecom Public Company Limited]
