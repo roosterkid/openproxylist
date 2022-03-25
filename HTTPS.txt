@@ -1,4 +1,4 @@
-HTTP(S) Proxy list updated at 2022-03-25 15:00:01 GMT+7
+HTTP(S) Proxy list updated at 2022-03-25 16:00:01 GMT+7
 Support us:
 BTC: 1GeZeEnrV4SibfS5yDwuzY3w7n94ZE3zMQ
 ETH: 0x6dce795c56d1485213d689ef98277c9fb7e7a6d2
@@ -6,12 +6,25 @@ XMR: 8AGZWnqriYzQjq7hzoTzVWbQNvGeke8AHdk1tVHFqUtfX1oqDY632kwaSnZZqEtFzD4fZN3CUfC
 LTC: MAG1cWWEpgdviZChWvr2oyuxD61JPJ1Q43
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇪🇸 80.240.126.125:3128 1867ms ES [Cloudi Nextgen SL]
-🇸🇬 8.214.41.50:80 1184ms SG [Alibaba (US) Technology Co., Ltd.]
-🇮🇩 103.121.215.34:43520 3994ms ID [PT Parsaoran Global Datatrans]
-🇦🇷 170.155.5.235:8080 2432ms AR [Gobernacion de la Provincia de Buenos Aires]
-🇺🇸 186.233.186.60:8080 1458ms US [Maxihost LTDA]
-🇷🇺 79.143.30.163:8080 3294ms RU [OOO "Network of data-centers "Selectel"]
-🇧🇷 201.28.120.142:3128 2490ms BR [Vivo]
-🇮🇩 36.89.229.97:59707 1071ms ID [PT. Telekomunikasi Indonesia]
-🇹🇭 180.180.170.188:8080 3997ms TH [TOT Public Company Limited]
+🇷🇺 84.252.139.198:3128 963ms RU [Yandex.Cloud LLC]
+🇪🇸 185.253.154.181:3128 2597ms ES [Cloudi Nextgen SL]
+🇭🇰 103.27.179.63:8888 4849ms HK [Shenzhen Katherine Heng Technology Information Co., Ltd.]
+🇸🇬 172.104.48.219:8080 2370ms SG [Linode, LLC]
+🇪🇸 80.240.126.125:3128 1596ms ES [Cloudi Nextgen SL]
+🇺🇸 34.224.3.158:3128 2849ms US [Amazon.com, Inc.]
+🇫🇷 81.1.26.102:8080 2401ms FR [SFR SA]
+🇪🇸 149.62.177.117:3128 2941ms ES [Avatel Telecom]
+🇸🇬 159.65.133.175:31280 1369ms SG [DigitalOcean, LLC]
+🇲🇽 45.230.172.13:8080 3911ms MX [Opsicome SA De CV]
+🇮🇩 202.179.185.155:80 2275ms ID [Telemedia Dinamika Sarana]
+🇮🇩 123.231.221.243:6969 854ms ID [LAMPLS188]
+🇨🇦 158.69.64.142:9300 1964ms CA [OVH SAS]
+🏳 46.146.209.132:61309 5314ms  []
+🇧🇩 103.209.230.129:8080 1484ms BD [WIMS1]
+🇦🇫 180.94.64.114:8080 7858ms AF [Government Communications Network]
+🇧🇩 118.179.173.253:40836 1218ms BD [dhakaCom Limited]
+🇬🇳 102.176.160.70:61279 4992ms GN [2nd RO]
+🇮🇩 103.11.106.25:8181 2632ms ID [PT. Pascal Indonesia]
+🇮🇩 36.89.229.97:59707 2010ms ID [PT. Telekomunikasi Indonesia]
+🇹🇭 180.180.170.188:8080 4141ms TH [TOT Public Company Limited]
+🇷🇴 37.120.192.154:8080 2125ms RO [Secure Data Systems SRL]
