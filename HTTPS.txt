@@ -1,4 +1,4 @@
-HTTP(S) Proxy list updated at 2022-03-25 09:00:01 GMT+7
+HTTP(S) Proxy list updated at 2022-03-25 10:00:01 GMT+7
 Support us:
 BTC: 1GeZeEnrV4SibfS5yDwuzY3w7n94ZE3zMQ
 ETH: 0x6dce795c56d1485213d689ef98277c9fb7e7a6d2
@@ -6,18 +6,24 @@ XMR: 8AGZWnqriYzQjq7hzoTzVWbQNvGeke8AHdk1tVHFqUtfX1oqDY632kwaSnZZqEtFzD4fZN3CUfC
 LTC: MAG1cWWEpgdviZChWvr2oyuxD61JPJ1Q43
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇪🇸 185.253.154.181:3128 644ms ES [Cloudi Nextgen SL]
-🇪🇸 80.240.126.125:3128 841ms ES [Cloudi Nextgen SL]
-🇯🇵 116.80.87.146:3128 2640ms JP [NTT PC Communications, Inc.]
-🇫🇷 81.1.26.102:8080 2105ms FR [SFR SA]
-🇸🇬 159.65.133.175:31280 1338ms SG [DigitalOcean, LLC]
-🇨🇭 152.67.85.151:8118 1580ms CH [Oracle Corporation]
-🇮🇩 103.122.32.10:8080 4035ms ID [PT. Mora Telematika Indonesia]
-🇺🇸 20.47.108.204:8888 1479ms US [Microsoft Corporation]
-🇷🇺 95.66.142.11:8080 4887ms RU [Limited Liability Company "Infocentre"]
-🇦🇷 170.155.5.235:8080 2256ms AR [Gobernacion de la Provincia de Buenos Aires]
-🇸🇬 139.99.99.165:8080 1610ms SG [OVH SAS]
-🏳 103.68.207.34:83 3921ms  []
-🇰🇭 49.156.42.210:8080 4403ms KH [WiCAM Corporation Ltd]
-🇹🇭 122.155.165.191:3128 915ms TH [CAT Telecom Public Company Limited]
-🇺🇸 168.138.211.5:8080 2944ms US [Oracle Public Cloud]
+🇷🇺 84.252.139.198:3128 1156ms RU [Yandex.Cloud LLC]
+🇪🇸 185.253.154.181:3128 2873ms ES [Cloudi Nextgen SL]
+🇪🇸 80.240.126.125:3128 725ms ES [Cloudi Nextgen SL]
+🇫🇷 62.75.229.155:5566 1378ms FR [Host Europe GmbH]
+🇪🇸 149.62.177.117:3128 4886ms ES [Avatel Telecom]
+🇸🇬 159.65.133.175:31280 1458ms SG [DigitalOcean, LLC]
+🇫🇷 85.25.132.27:5566 4653ms FR [Host Europe GmbH]
+🇹🇷 78.186.85.159:10001 3019ms TR [TurkTelecom]
+🇮🇩 202.179.185.155:80 2546ms ID [Telemedia Dinamika Sarana]
+🇮🇩 103.122.32.10:8080 1522ms ID [PT. Mora Telematika Indonesia]
+🇷🇺 77.236.238.69:1256 3724ms RU [Enforta-MSK]
+🇺🇸 20.47.108.204:8888 2304ms US [Microsoft Corporation]
+🇦🇷 170.155.5.235:8080 3528ms AR [Gobernacion de la Provincia de Buenos Aires]
+🇮🇩 202.93.229.194:3128 1673ms ID [PT. HIPERNET INDODATA]
+🇮🇳 103.38.5.226:82 2753ms IN [Max tech media and communications pvt ltd]
+🏳 103.68.207.34:83 3710ms  []
+🇮🇩 202.138.249.241:8000 2099ms ID [PT Melvar Lintasnusa]
+🇮🇳 43.249.224.170:83 4114ms IN [Equinox Consulting PVT LTD]
+🇮🇩 36.89.229.97:59707 7923ms ID [PT. Telekomunikasi Indonesia]
+🇹🇭 122.155.165.191:3128 1641ms TH [CAT Telecom Public Company Limited]
+🇷🇴 37.120.192.154:8080 2116ms RO [Secure Data Systems SRL]
