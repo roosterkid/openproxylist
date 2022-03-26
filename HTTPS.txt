@@ -1,4 +1,4 @@
-HTTP(S) Proxy list updated at 2022-03-26 13:00:01 GMT+7
+HTTP(S) Proxy list updated at 2022-03-26 14:00:01 GMT+7
 Support us:
 BTC: 1GeZeEnrV4SibfS5yDwuzY3w7n94ZE3zMQ
 ETH: 0x6dce795c56d1485213d689ef98277c9fb7e7a6d2
@@ -6,22 +6,14 @@ XMR: 8AGZWnqriYzQjq7hzoTzVWbQNvGeke8AHdk1tVHFqUtfX1oqDY632kwaSnZZqEtFzD4fZN3CUfC
 LTC: MAG1cWWEpgdviZChWvr2oyuxD61JPJ1Q43
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇷🇺 84.252.139.198:3128 1702ms RU [Yandex.Cloud LLC]
-🇵🇱 83.12.128.42:8080 1608ms PL [Orange Polska Spolka Akcyjna]
-🇺🇸 104.161.92.74:3128 1217ms US [Input Output Flood LLC]
-🇫🇷 81.1.26.102:8080 2075ms FR [SFR SA]
-🇸🇬 159.65.133.175:31280 1568ms SG [DigitalOcean, LLC]
-🇰🇷 121.151.223.96:1337 2474ms KR [Korea Telecom]
-🇮🇩 103.122.32.10:8080 3501ms ID [PT. Mora Telematika Indonesia]
-🇩🇪 167.86.81.208:3128 2392ms DE [Contabo GmbH]
-🇮🇩 103.18.77.237:8080 4193ms ID [PT Usaha Adi Sanggoro]
-🇦🇷 190.220.1.173:56974 5894ms AR [AMX Argentina S.A.]
-🇸🇬 194.233.69.126:443 3483ms SG [Contabo Asia Private Limited]
-🇮🇩 202.138.249.241:8000 4942ms ID [PT Melvar Lintasnusa]
-🇧🇩 103.209.230.129:8080 2278ms BD [WIMS1]
-🇦🇫 180.94.64.114:8080 5010ms AF [Government Communications Network]
-🇮🇩 116.254.100.165:46675 1102ms ID [Bangun Abadi Teknologi Indonesia]
-🇮🇩 36.89.229.97:59707 991ms ID [PT. Telekomunikasi Indonesia]
-🇹🇭 180.180.170.188:8080 4624ms TH [TOT Public Company Limited]
-🇹🇭 122.155.165.191:3128 978ms TH [CAT Telecom Public Company Limited]
-🇷🇴 37.120.192.154:8080 1869ms RO [Secure Data Systems SRL]
+🇫🇷 81.1.26.102:8080 1833ms FR [SFR SA]
+🇮🇹 93.185.123.154:3128 487ms IT [Omegacom S.R.L.S.]
+🇸🇬 159.65.133.175:31280 1585ms SG [DigitalOcean, LLC]
+🇺🇸 66.94.97.238:443 2433ms US [Contabo Inc.]
+🇨🇦 51.222.40.26:9090 1709ms CA [OVH SAS]
+🇩🇪 85.195.104.71:80 2185ms DE [Host Europe GmbH]
+🇦🇷 170.155.5.235:8080 1630ms AR [Gobernacion de la Provincia de Buenos Aires]
+🇧🇩 103.209.229.54:8080 1174ms BD [WIMS1]
+🇮🇩 116.254.100.165:46675 3800ms ID [Bangun Abadi Teknologi Indonesia]
+🇬🇳 102.176.160.70:61279 5447ms GN [2nd RO]
+🇹🇭 122.155.165.191:3128 2551ms TH [CAT Telecom Public Company Limited]
