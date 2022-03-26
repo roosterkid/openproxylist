@@ -1,4 +1,4 @@
-HTTP(S) Proxy list updated at 2022-03-26 15:00:01 GMT+7
+HTTP(S) Proxy list updated at 2022-03-26 16:00:02 GMT+7
 Support us:
 BTC: 1GeZeEnrV4SibfS5yDwuzY3w7n94ZE3zMQ
 ETH: 0x6dce795c56d1485213d689ef98277c9fb7e7a6d2
@@ -6,20 +6,13 @@ XMR: 8AGZWnqriYzQjq7hzoTzVWbQNvGeke8AHdk1tVHFqUtfX1oqDY632kwaSnZZqEtFzD4fZN3CUfC
 LTC: MAG1cWWEpgdviZChWvr2oyuxD61JPJ1Q43
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇺🇸 167.172.239.13:3128 2161ms US [DigitalOcean, LLC]
-🇸🇬 172.104.48.219:8080 1812ms SG [Linode, LLC]
-🇮🇳 103.82.147.123:8080 2768ms IN [Cloudatix Biz India Ventures Pvt Ltd]
-🇫🇷 62.75.229.165:5566 3520ms FR [Host Europe GmbH]
-🇸🇬 159.65.133.175:31280 1643ms SG [DigitalOcean, LLC]
-🇯🇵 133.167.121.133:1976 2210ms JP [SAKURA Internet Inc.]
-🇨🇦 51.222.40.26:9090 1761ms CA [OVH SAS]
-🇵🇰 180.178.190.70:8080 3535ms PK [KK Networks (Pvt.) Limited]
-🇮🇩 103.122.32.10:8080 4263ms ID [PT. Mora Telematika Indonesia]
-🇩🇪 167.86.81.208:3128 907ms DE [Contabo GmbH]
-🇹🇼 59.124.224.205:3128 3595ms TW [Chunghwa Telecom Co., Ltd.]
-🇮🇩 123.231.221.243:6969 2380ms ID [LAMPLS188]
-🇸🇬 194.233.69.38:443 1181ms SG [Contabo Asia Private Limited]
-🇺🇸 186.233.186.60:8080 2400ms US [Maxihost LTDA]
-🇮🇩 182.253.108.186:8080 3924ms ID [BIZNET]
-🇮🇩 182.23.107.210:3128 2734ms ID [PT Aplikanusa Lintasarta]
-🇹🇭 122.155.165.191:3128 2326ms TH [CAT Telecom Public Company Limited]
+🇺🇸 167.172.239.13:3128 2390ms US [DigitalOcean, LLC]
+🇺🇸 129.153.111.20:59394 2287ms US [Oracle Corporation]
+🇺🇸 45.77.125.208:59394 2689ms US [The Constant Company]
+🇰🇷 121.151.223.96:1337 2512ms KR [Korea Telecom]
+🇲🇽 201.120.27.15:53281 3671ms MX [Uninet S.A. de C.V]
+🇹🇼 59.124.224.205:3128 3346ms TW [Chunghwa Telecom Co., Ltd.]
+🇷🇺 79.143.30.163:8080 7797ms RU [OOO "Network of data-centers "Selectel"]
+🇮🇩 182.23.107.210:3128 3620ms ID [PT Aplikanusa Lintasarta]
+🇹🇭 122.155.165.191:3128 1846ms TH [CAT Telecom Public Company Limited]
+🇷🇴 37.120.192.154:8080 876ms RO [Secure Data Systems SRL]
