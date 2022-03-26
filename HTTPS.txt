@@ -1,4 +1,4 @@
-HTTP(S) Proxy list updated at 2022-03-26 16:00:02 GMT+7
+HTTP(S) Proxy list updated at 2022-03-26 17:00:01 GMT+7
 Support us:
 BTC: 1GeZeEnrV4SibfS5yDwuzY3w7n94ZE3zMQ
 ETH: 0x6dce795c56d1485213d689ef98277c9fb7e7a6d2
@@ -6,13 +6,21 @@ XMR: 8AGZWnqriYzQjq7hzoTzVWbQNvGeke8AHdk1tVHFqUtfX1oqDY632kwaSnZZqEtFzD4fZN3CUfC
 LTC: MAG1cWWEpgdviZChWvr2oyuxD61JPJ1Q43
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇺🇸 167.172.239.13:3128 2390ms US [DigitalOcean, LLC]
-🇺🇸 129.153.111.20:59394 2287ms US [Oracle Corporation]
-🇺🇸 45.77.125.208:59394 2689ms US [The Constant Company]
-🇰🇷 121.151.223.96:1337 2512ms KR [Korea Telecom]
-🇲🇽 201.120.27.15:53281 3671ms MX [Uninet S.A. de C.V]
-🇹🇼 59.124.224.205:3128 3346ms TW [Chunghwa Telecom Co., Ltd.]
-🇷🇺 79.143.30.163:8080 7797ms RU [OOO "Network of data-centers "Selectel"]
-🇮🇩 182.23.107.210:3128 3620ms ID [PT Aplikanusa Lintasarta]
-🇹🇭 122.155.165.191:3128 1846ms TH [CAT Telecom Public Company Limited]
-🇷🇴 37.120.192.154:8080 876ms RO [Secure Data Systems SRL]
+🇷🇺 84.252.139.198:3128 1648ms RU [Yandex.Cloud LLC]
+🇺🇸 167.172.239.13:3128 1247ms US [DigitalOcean, LLC]
+🇺🇸 45.77.125.208:59394 2677ms US [The Constant Company]
+🇨🇴 190.14.224.244:999 4321ms CO [Media Commerce Partners S.A]
+🇮🇳 14.139.184.130:3128 4065ms IN [National Knowledge Network]
+🇮🇩 103.122.32.10:8080 4545ms ID [PT. Mora Telematika Indonesia]
+🇩🇪 167.86.81.208:3128 2032ms DE [Contabo GmbH]
+🇮🇩 123.231.221.243:6969 1575ms ID [LAMPLS188]
+🇮🇩 202.138.249.241:8000 3825ms ID [PT Melvar Lintasnusa]
+🇦🇫 180.94.64.114:8080 3620ms AF [Government Communications Network]
+🇹🇭 1.10.141.220:54620 1051ms TH [TOT Public Company Limited]
+🇮🇩 182.253.191.132:8080 4595ms ID [BIZNET]
+🇧🇬 77.238.79.111:8080 7281ms BG [FIBER1]
+🇮🇩 116.254.100.165:46675 1838ms ID [Bangun Abadi Teknologi Indonesia]
+🇮🇩 103.11.106.8:8181 2780ms ID [PT. Pascal Indonesia]
+🇬🇳 102.176.160.70:61279 6708ms GN [2nd RO]
+🇮🇩 36.89.229.97:59707 3705ms ID [PT. Telekomunikasi Indonesia]
+🇹🇭 122.155.165.191:3128 1478ms TH [CAT Telecom Public Company Limited]
