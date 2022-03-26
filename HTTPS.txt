@@ -1,4 +1,4 @@
-HTTP(S) Proxy list updated at 2022-03-26 17:00:01 GMT+7
+HTTP(S) Proxy list updated at 2022-03-26 18:00:01 GMT+7
 Support us:
 BTC: 1GeZeEnrV4SibfS5yDwuzY3w7n94ZE3zMQ
 ETH: 0x6dce795c56d1485213d689ef98277c9fb7e7a6d2
@@ -6,21 +6,12 @@ XMR: 8AGZWnqriYzQjq7hzoTzVWbQNvGeke8AHdk1tVHFqUtfX1oqDY632kwaSnZZqEtFzD4fZN3CUfC
 LTC: MAG1cWWEpgdviZChWvr2oyuxD61JPJ1Q43
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇷🇺 84.252.139.198:3128 1648ms RU [Yandex.Cloud LLC]
-🇺🇸 167.172.239.13:3128 1247ms US [DigitalOcean, LLC]
-🇺🇸 45.77.125.208:59394 2677ms US [The Constant Company]
-🇨🇴 190.14.224.244:999 4321ms CO [Media Commerce Partners S.A]
-🇮🇳 14.139.184.130:3128 4065ms IN [National Knowledge Network]
-🇮🇩 103.122.32.10:8080 4545ms ID [PT. Mora Telematika Indonesia]
-🇩🇪 167.86.81.208:3128 2032ms DE [Contabo GmbH]
-🇮🇩 123.231.221.243:6969 1575ms ID [LAMPLS188]
-🇮🇩 202.138.249.241:8000 3825ms ID [PT Melvar Lintasnusa]
-🇦🇫 180.94.64.114:8080 3620ms AF [Government Communications Network]
-🇹🇭 1.10.141.220:54620 1051ms TH [TOT Public Company Limited]
-🇮🇩 182.253.191.132:8080 4595ms ID [BIZNET]
-🇧🇬 77.238.79.111:8080 7281ms BG [FIBER1]
-🇮🇩 116.254.100.165:46675 1838ms ID [Bangun Abadi Teknologi Indonesia]
-🇮🇩 103.11.106.8:8181 2780ms ID [PT. Pascal Indonesia]
-🇬🇳 102.176.160.70:61279 6708ms GN [2nd RO]
-🇮🇩 36.89.229.97:59707 3705ms ID [PT. Telekomunikasi Indonesia]
-🇹🇭 122.155.165.191:3128 1478ms TH [CAT Telecom Public Company Limited]
+🇷🇺 84.252.139.198:3128 1745ms RU [Yandex.Cloud LLC]
+🇮🇳 103.82.147.123:8080 4139ms IN [Cloudatix Biz India Ventures Pvt Ltd]
+🇺🇸 149.19.40.31:80 2677ms US [iboss, inc]
+🇷🇺 176.119.158.31:8118 1214ms RU [JSC Mediasoft ekspert]
+🇦🇷 170.155.5.235:8080 2564ms AR [Gobernacion de la Provincia de Buenos Aires]
+🇨🇦 158.69.53.132:9300 2004ms CA [OVH SAS]
+🇫🇷 213.32.75.44:9300 2398ms FR [OVH SAS]
+🇦🇫 180.94.64.114:8080 4787ms AF [Government Communications Network]
+🇹🇭 122.155.165.191:3128 1421ms TH [CAT Telecom Public Company Limited]
