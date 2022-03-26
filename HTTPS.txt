@@ -1,4 +1,4 @@
-HTTP(S) Proxy list updated at 2022-03-26 07:00:01 GMT+7
+HTTP(S) Proxy list updated at 2022-03-26 08:00:01 GMT+7
 Support us:
 BTC: 1GeZeEnrV4SibfS5yDwuzY3w7n94ZE3zMQ
 ETH: 0x6dce795c56d1485213d689ef98277c9fb7e7a6d2
@@ -6,23 +6,19 @@ XMR: 8AGZWnqriYzQjq7hzoTzVWbQNvGeke8AHdk1tVHFqUtfX1oqDY632kwaSnZZqEtFzD4fZN3CUfC
 LTC: MAG1cWWEpgdviZChWvr2oyuxD61JPJ1Q43
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇷🇺 84.252.139.198:3128 660ms RU [Yandex.Cloud LLC]
-🇮🇪 52.169.143.106:8080 2552ms IE [Microsoft Corporation]
-🇵🇰 180.178.190.70:8080 3299ms PK [KK Networks (Pvt.) Limited]
-🇹🇼 59.124.224.205:3128 2413ms TW [Chunghwa Telecom Co., Ltd.]
-🇺🇸 20.47.108.204:8888 1484ms US [Microsoft Corporation]
-🇨🇱 190.107.224.150:3128 3582ms CL [WOM S.A.]
-🇦🇷 170.155.5.235:8080 3756ms AR [Gobernacion de la Provincia de Buenos Aires]
-🇮🇩 123.231.221.243:6969 3466ms ID [LAMPLS188]
-🇮🇳 103.129.3.246:83 4371ms IN [S S Cablenet]
-🇮🇩 103.255.242.115:8080 2794ms ID [Indonesia Network Information Center]
-🇮🇩 182.253.199.102:8080 2408ms ID [Biznet Networks]
-🇮🇩 112.78.170.251:8080 749ms ID [BIZNET]
-🇮🇩 124.158.168.22:8080 4220ms ID [ICON+]
-🇮🇩 116.254.100.165:46675 7653ms ID [Bangun Abadi Teknologi Indonesia]
-🇮🇩 182.23.107.210:3128 3114ms ID [PT Aplikanusa Lintasarta]
-🇮🇩 115.85.65.147:39736 3750ms ID [Sudirman Central Business District]
-🇬🇳 102.176.160.70:61279 4993ms GN [2nd RO]
-🇮🇩 36.89.229.97:59707 7907ms ID [PT. Telekomunikasi Indonesia]
-🇹🇭 122.155.165.191:3128 1913ms TH [CAT Telecom Public Company Limited]
-🇷🇴 37.120.192.154:8080 1777ms RO [Secure Data Systems SRL]
+🇸🇬 159.65.133.175:31280 1372ms SG [DigitalOcean, LLC]
+🇮🇩 103.145.130.150:8080 4715ms ID [PT. Indonesia Comnets Plus]
+🇷🇺 51.250.17.27:8080 4539ms RU [Yandex.Cloud LLC]
+🇮🇩 202.179.185.155:80 3969ms ID [Telemedia Dinamika Sarana]
+🇵🇰 180.178.190.70:8080 3125ms PK [KK Networks (Pvt.) Limited]
+🇦🇷 170.155.5.235:8080 2937ms AR [Gobernacion de la Provincia de Buenos Aires]
+🇨🇦 158.69.64.142:9300 7133ms CA [OVH SAS]
+🇺🇸 186.233.186.60:8080 2480ms US [Maxihost LTDA]
+🇦🇫 180.94.64.114:8080 3972ms AF [Government Communications Network]
+🇹🇭 1.10.141.220:54620 4051ms TH [TOT Public Company Limited]
+🇮🇩 124.158.168.22:8080 1753ms ID [ICON+]
+🇮🇩 115.85.65.147:39736 3799ms ID [Sudirman Central Business District]
+🇬🇳 102.176.160.70:61279 7079ms GN [2nd RO]
+🇰🇭 49.156.42.188:8080 651ms KH [WiCAM Corporation Ltd]
+🇹🇭 180.180.170.188:8080 2032ms TH [TOT Public Company Limited]
+🇹🇭 122.155.165.191:3128 1558ms TH [CAT Telecom Public Company Limited]
