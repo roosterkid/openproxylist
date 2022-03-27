@@ -1,4 +1,4 @@
-HTTP(S) Proxy list updated at 2022-03-27 06:00:01 GMT+7
+HTTP(S) Proxy list updated at 2022-03-27 07:00:01 GMT+7
 Support us:
 BTC: 1GeZeEnrV4SibfS5yDwuzY3w7n94ZE3zMQ
 ETH: 0x6dce795c56d1485213d689ef98277c9fb7e7a6d2
@@ -6,15 +6,13 @@ XMR: 8AGZWnqriYzQjq7hzoTzVWbQNvGeke8AHdk1tVHFqUtfX1oqDY632kwaSnZZqEtFzD4fZN3CUfC
 LTC: MAG1cWWEpgdviZChWvr2oyuxD61JPJ1Q43
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇮🇹 93.185.123.154:3128 2692ms IT [Omegacom S.R.L.S.]
-🇧🇷 189.45.198.99:8081 1816ms BR [Unifique Telecomunica??es SA]
-🇨🇴 190.14.224.244:999 3057ms CO [Media Commerce Partners S.A]
-🇮🇩 139.255.21.74:8080 3960ms ID [PT. LINKNET]
-🇮🇩 103.124.138.131:8085 3301ms ID [Global Media Data Prima]
-🇦🇷 170.155.5.235:8080 1683ms AR [Gobernacion de la Provincia de Buenos Aires]
-🇧🇩 45.125.222.97:36110 2284ms BD [SSD-TECH]
-🇮🇩 202.93.229.194:3128 3862ms ID [PT. HIPERNET INDODATA]
-🏳 45.233.244.141:8083 2958ms  []
-🇦🇫 180.94.64.114:8080 3100ms AF [Government Communications Network]
-🇮🇩 36.66.206.74:8080 1245ms ID [PT. Telekomunikasi Indonesia]
-🇷🇴 37.120.192.154:8080 1582ms RO [Secure Data Systems SRL]
+🇷🇺 84.252.139.198:3128 2160ms RU [Yandex.Cloud LLC]
+🇰🇷 143.248.55.62:8118 6771ms KR [Korea Advanced Institute of Science and Technology]
+🇷🇺 83.151.4.172:57812 3806ms RU [MTS PJSC]
+🇦🇷 170.155.5.235:8080 2291ms AR [Gobernacion de la Provincia de Buenos Aires]
+🇮🇩 202.93.229.194:3128 4840ms ID [PT. HIPERNET INDODATA]
+🇺🇸 186.233.186.60:8080 2677ms US [Maxihost LTDA]
+🇮🇩 112.78.170.250:80 712ms ID [BIZNET]
+🇮🇳 103.15.60.23:8080 2251ms IN [Apollo Online Services Pvt ltd]
+🇰🇭 49.156.42.188:8080 1646ms KH [WiCAM Corporation Ltd]
+🇹🇭 122.155.165.191:3128 1640ms TH [CAT Telecom Public Company Limited]
