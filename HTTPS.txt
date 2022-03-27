@@ -1,4 +1,4 @@
-HTTP(S) Proxy list updated at 2022-03-28 00:00:01 GMT+7
+HTTP(S) Proxy list updated at 2022-03-28 01:00:02 GMT+7
 Support us:
 BTC: 1GeZeEnrV4SibfS5yDwuzY3w7n94ZE3zMQ
 ETH: 0x6dce795c56d1485213d689ef98277c9fb7e7a6d2
@@ -6,9 +6,14 @@ XMR: 8AGZWnqriYzQjq7hzoTzVWbQNvGeke8AHdk1tVHFqUtfX1oqDY632kwaSnZZqEtFzD4fZN3CUfC
 LTC: MAG1cWWEpgdviZChWvr2oyuxD61JPJ1Q43
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇺🇸 167.172.239.13:3128 2419ms US [DigitalOcean, LLC]
-🇮🇩 202.179.185.155:80 2773ms ID [Telemedia Dinamika Sarana]
-🇮🇩 202.93.229.194:3128 2143ms ID [PT. HIPERNET INDODATA]
-🇦🇫 180.94.64.114:8080 3228ms AF [Government Communications Network]
-🇮🇩 36.89.229.97:59707 7858ms ID [PT. Telekomunikasi Indonesia]
-🇹🇭 122.155.165.191:3128 1533ms TH [CAT Telecom Public Company Limited]
+🇺🇸 167.172.239.13:3128 2940ms US [DigitalOcean, LLC]
+🇸🇬 159.65.133.175:31280 1455ms SG [DigitalOcean, LLC]
+🇷🇺 77.242.1.101:41890 4434ms RU [Limited Company Sakha Sprint Network]
+🇳🇱 20.103.139.62:3128 528ms NL [Microsoft Corporation]
+🇮🇩 202.93.229.194:3128 3031ms ID [PT. HIPERNET INDODATA]
+🇮🇩 103.76.12.42:80 3724ms ID [MORATELINDO]
+🇦🇫 180.94.64.114:8080 4305ms AF [Government Communications Network]
+🇮🇩 182.253.108.186:8080 2264ms ID [BIZNET]
+🇮🇩 182.253.191.132:8080 3925ms ID [BIZNET]
+🇮🇩 36.89.229.97:59707 7997ms ID [PT. Telekomunikasi Indonesia]
+🇹🇭 122.155.165.191:3128 1227ms TH [CAT Telecom Public Company Limited]
