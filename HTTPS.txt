@@ -1,4 +1,4 @@
-HTTP(S) Proxy list updated at 2022-03-27 15:00:01 GMT+7
+HTTP(S) Proxy list updated at 2022-03-27 16:00:01 GMT+7
 Support us:
 BTC: 1GeZeEnrV4SibfS5yDwuzY3w7n94ZE3zMQ
 ETH: 0x6dce795c56d1485213d689ef98277c9fb7e7a6d2
@@ -6,13 +6,20 @@ XMR: 8AGZWnqriYzQjq7hzoTzVWbQNvGeke8AHdk1tVHFqUtfX1oqDY632kwaSnZZqEtFzD4fZN3CUfC
 LTC: MAG1cWWEpgdviZChWvr2oyuxD61JPJ1Q43
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇫🇷 81.1.26.102:8080 490ms FR [SFR SA]
-🇩🇪 167.86.81.208:3128 2607ms DE [Contabo GmbH]
-🇹🇼 59.124.224.205:3128 2607ms TW [Chunghwa Telecom Co., Ltd.]
-🇪🇸 149.34.7.65:8080 4174ms ES [Adamo Telecom Iberia S.A.]
-🇨🇱 190.107.224.150:3128 2563ms CL [WOM S.A.]
-🇦🇷 170.155.5.235:8080 1807ms AR [Gobernacion de la Provincia de Buenos Aires]
-🇨🇦 158.69.53.132:9300 1605ms CA [OVH SAS]
-🇦🇫 180.94.64.114:8080 3586ms AF [Government Communications Network]
-🇮🇩 116.254.100.165:46675 1667ms ID [Bangun Abadi Teknologi Indonesia]
-🇷🇴 37.120.192.154:8080 2753ms RO [Secure Data Systems SRL]
+🇷🇺 84.252.139.198:3128 1184ms RU [Yandex.Cloud LLC]
+🇫🇷 81.1.26.102:8080 2514ms FR [SFR SA]
+🇸🇬 159.65.133.175:31280 1573ms SG [DigitalOcean, LLC]
+🇺🇸 45.77.125.208:59394 1785ms US [The Constant Company]
+🇮🇩 139.255.21.74:8080 1749ms ID [PT. LINKNET]
+🇺🇸 20.47.108.204:8888 1635ms US [Microsoft Corporation]
+🇮🇩 123.231.221.243:6969 1074ms ID [LAMPLS188]
+🇮🇳 103.129.3.246:83 4058ms IN [S S Cablenet]
+🇸🇬 194.233.69.38:443 2295ms SG [Contabo Asia Private Limited]
+🇺🇦 93.171.224.62:8080 3998ms UA [PE TV and Radio Company Kentavr-TV]
+🇲🇽 189.220.227.6:999 4507ms MX [Cablemas Telecomunicaciones SA de CV]
+🇦🇫 180.94.64.114:8080 5127ms AF [Government Communications Network]
+🇮🇩 118.97.164.19:8080 4473ms ID [PT. TELKOM INDONESIA]
+🇩🇪 173.249.38.220:80 682ms DE [Contabo GmbH]
+🇮🇩 103.11.23.0:8085 4214ms ID [Faasri Utama Sakti]
+🇮🇩 36.89.229.97:59707 1168ms ID [PT. Telekomunikasi Indonesia]
+🇹🇭 122.155.165.191:3128 1544ms TH [CAT Telecom Public Company Limited]
