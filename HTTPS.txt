@@ -1,4 +1,4 @@
-HTTP(S) Proxy list updated at 2022-03-30 10:00:01 GMT+7
+HTTP(S) Proxy list updated at 2022-03-30 11:00:01 GMT+7
 Support us:
 BTC: 1GeZeEnrV4SibfS5yDwuzY3w7n94ZE3zMQ
 ETH: 0x6dce795c56d1485213d689ef98277c9fb7e7a6d2
@@ -6,9 +6,11 @@ XMR: 8AGZWnqriYzQjq7hzoTzVWbQNvGeke8AHdk1tVHFqUtfX1oqDY632kwaSnZZqEtFzD4fZN3CUfC
 LTC: MAG1cWWEpgdviZChWvr2oyuxD61JPJ1Q43
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇷🇺 84.252.139.198:3128 776ms RU [Yandex.Cloud LLC]
-🇵🇱 83.12.128.42:8080 782ms PL [Orange Polska Spolka Akcyjna]
-🇳🇱 5.39.189.39:3128 1407ms NL [ColoCenter b.v.]
-🇿🇦 165.0.50.110:8080 3152ms ZA [RSAWEB (PTY) LTD]
-🇸🇬 194.233.69.38:443 4064ms SG [Contabo Asia Private Limited]
-🇹🇭 122.155.165.191:3128 1379ms TH [CAT Telecom Public Company Limited]
+🇧🇷 186.248.89.6:5005 2946ms BR [AMERICAN TOWER DO BRASIL-COMUNICAÔÔO MULTIMÔDIA LT]
+🇯🇵 164.70.122.6:3128 2639ms JP [NTT PC Communications, Inc.]
+🇳🇱 151.236.14.178:5678 645ms NL [EDIS]
+🇩🇪 167.86.81.208:3128 1152ms DE [Contabo GmbH]
+🇸🇬 194.233.69.38:443 1289ms SG [Contabo Asia Private Limited]
+🇧🇷 167.250.75.17:3128 3684ms BR [sÔo miguel telecomunicaÔÔes e informatica ltda - m]
+🇺🇸 186.233.186.60:8080 2638ms US [Maxihost LTDA]
+🇹🇭 122.155.165.191:3128 2714ms TH [CAT Telecom Public Company Limited]
