@@ -1,4 +1,4 @@
-HTTP(S) Proxy list updated at 2022-03-30 12:00:01 GMT+7
+HTTP(S) Proxy list updated at 2022-03-30 13:00:01 GMT+7
 Support us:
 BTC: 1GeZeEnrV4SibfS5yDwuzY3w7n94ZE3zMQ
 ETH: 0x6dce795c56d1485213d689ef98277c9fb7e7a6d2
@@ -6,12 +6,7 @@ XMR: 8AGZWnqriYzQjq7hzoTzVWbQNvGeke8AHdk1tVHFqUtfX1oqDY632kwaSnZZqEtFzD4fZN3CUfC
 LTC: MAG1cWWEpgdviZChWvr2oyuxD61JPJ1Q43
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇷🇺 84.252.139.198:3128 1217ms RU [Yandex.Cloud LLC]
-🇳🇱 5.39.189.39:3128 1653ms NL [ColoCenter b.v.]
-🇳🇱 151.236.14.178:5678 517ms NL [EDIS]
-🇹🇼 59.124.224.205:3128 2385ms TW [Chunghwa Telecom Co., Ltd.]
-🇲🇽 189.199.106.202:999 4948ms MX [Mega Cable, S.A. de C.V.]
-🇿🇦 165.0.50.110:8080 3188ms ZA [RSAWEB (PTY) LTD]
-🇨🇱 190.107.224.150:3128 2297ms CL [WOM S.A.]
-🇮🇩 202.93.229.194:3128 3234ms ID [PT. HIPERNET INDODATA]
-🇹🇭 180.180.170.188:8080 3866ms TH [TOT Public Company Limited]
+🇺🇸 167.172.239.13:3128 1523ms US [DigitalOcean, LLC]
+🇮🇹 93.185.123.154:3128 1455ms IT [Omegacom S.R.L.S.]
+🇮🇩 103.124.138.131:8085 3982ms ID [Global Media Data Prima]
+🇮🇩 202.138.249.241:8000 1669ms ID [PT Melvar Lintasnusa]
