@@ -1,4 +1,4 @@
-HTTP(S) Proxy list updated at 2022-04-05 01:00:01 GMT+7
+HTTP(S) Proxy list updated at 2022-04-05 02:00:01 GMT+7
 Support us:
 BTC: 1GeZeEnrV4SibfS5yDwuzY3w7n94ZE3zMQ
 ETH: 0x6dce795c56d1485213d689ef98277c9fb7e7a6d2
@@ -6,20 +6,17 @@ XMR: 8AGZWnqriYzQjq7hzoTzVWbQNvGeke8AHdk1tVHFqUtfX1oqDY632kwaSnZZqEtFzD4fZN3CUfC
 LTC: MAG1cWWEpgdviZChWvr2oyuxD61JPJ1Q43
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇺🇸 167.172.239.13:3128 1818ms US [DigitalOcean, LLC]
-🇸🇬 172.104.48.219:8080 2203ms SG [Linode, LLC]
-🇮🇹 93.185.123.154:3128 2300ms IT [Omegacom S.R.L.S.]
-🇺🇸 149.28.120.8:59394 1478ms US [The Constant Company]
-🇫🇷 188.138.101.167:5566 3001ms FR [Host Europe GmbH]
-🇰🇷 143.248.55.62:8118 4038ms KR [Korea Advanced Institute of Science and Technology]
-🇻🇪 181.225.54.38:999 4864ms VE [IFX Networks Venezuela C.A.]
-🇩🇪 167.86.81.208:3128 2599ms DE [Contabo GmbH]
-🇺🇸 20.47.108.204:8888 1978ms US [Microsoft Corporation]
-🇦🇷 170.155.5.235:8080 2526ms AR [Gobernacion de la Provincia de Buenos Aires]
-🇮🇩 103.153.35.73:8181 521ms ID [JMExpress]
-🇮🇩 202.43.190.10:53128 701ms ID [CEPATNET]
-🇫🇷 213.32.75.88:9300 1718ms FR [OVH SAS]
-🇺🇸 186.233.186.60:8080 1813ms US [Maxihost LTDA]
-🇮🇩 116.254.100.165:46675 1639ms ID [Bangun Abadi Teknologi Indonesia]
-🇹🇭 122.155.165.191:3128 1622ms TH [CAT Telecom Public Company Limited]
-🇸🇬 128.199.214.87:3128 1304ms SG [DigitalOcean LLC]
+🇨🇦 54.39.102.233:3128 2194ms CA [OVH SAS]
+🇯🇵 74.82.50.155:3128 2280ms JP [Hurricane Electric]
+🇺🇸 104.161.92.74:3128 1409ms US [Input Output Flood LLC]
+🇰🇷 143.248.55.62:8118 5861ms KR [Korea Advanced Institute of Science and Technology]
+🇸🇬 159.65.133.175:31280 1659ms SG [DigitalOcean, LLC]
+🇺🇸 130.185.119.20:3128 2198ms US [rapiddedi]
+🇳🇱 37.48.82.87:3128 516ms NL [LeaseWeb Netherlands B.V.]
+🇸🇬 47.74.226.8:5001 450ms SG [Alibaba Cloud (Singapore) Private Limited]
+🇺🇸 20.47.108.204:8888 1887ms US [Microsoft Corporation]
+🇦🇷 170.155.5.235:8080 2323ms AR [Gobernacion de la Provincia de Buenos Aires]
+🇿🇦 196.15.213.235:3128 3970ms ZA [Telkom SA Ltd.]
+🇸🇬 194.233.69.90:443 708ms SG [Contabo Asia Private Limited]
+🇮🇩 103.11.106.25:8181 1789ms ID [PT. Pascal Indonesia]
+🇸🇬 128.199.214.87:3128 1383ms SG [DigitalOcean LLC]
