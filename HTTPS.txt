@@ -1,4 +1,4 @@
-HTTP(S) Proxy list updated at 2022-04-04 23:00:01 GMT+7
+HTTP(S) Proxy list updated at 2022-04-05 00:00:01 GMT+7
 Support us:
 BTC: 1GeZeEnrV4SibfS5yDwuzY3w7n94ZE3zMQ
 ETH: 0x6dce795c56d1485213d689ef98277c9fb7e7a6d2
@@ -6,14 +6,22 @@ XMR: 8AGZWnqriYzQjq7hzoTzVWbQNvGeke8AHdk1tVHFqUtfX1oqDY632kwaSnZZqEtFzD4fZN3CUfC
 LTC: MAG1cWWEpgdviZChWvr2oyuxD61JPJ1Q43
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇺🇸 45.32.83.231:3128 2651ms US [Choopa]
-🇩🇪 88.99.117.147:8888 1874ms DE [Hetzner Online GmbH]
-🇷🇺 84.252.139.198:3128 1632ms RU [Yandex.Cloud LLC]
-🇮🇹 93.185.123.154:3128 936ms IT [Omegacom S.R.L.S.]
-🇳🇱 37.48.82.87:3128 518ms NL [LeaseWeb Netherlands B.V.]
-🇮🇩 103.122.32.10:8080 3149ms ID [PT. Mora Telematika Indonesia]
-🇮🇩 103.124.138.131:8085 2310ms ID [Global Media Data Prima]
-🇮🇩 103.36.11.17:8181 1259ms ID [PT Awinet Global Mandiri]
-🇮🇩 118.97.164.19:8080 4208ms ID [PT. TELKOM INDONESIA]
-🇹🇭 122.155.165.191:3128 1965ms TH [CAT Telecom Public Company Limited]
-🇸🇬 128.199.214.87:3128 1494ms SG [DigitalOcean LLC]
+🇺🇸 45.32.83.231:3128 2780ms US [Choopa]
+🇮🇹 93.185.123.154:3128 2266ms IT [Omegacom S.R.L.S.]
+🇸🇬 159.65.133.175:31280 1574ms SG [DigitalOcean, LLC]
+🇮🇩 202.138.239.120:8888 580ms ID [PT Melvar Lintasnusa]
+🇯🇵 164.70.122.6:3128 4176ms JP [NTT PC Communications, Inc.]
+🇳🇱 37.48.82.87:3128 609ms NL [LeaseWeb Netherlands B.V.]
+🇮🇩 117.54.238.62:8080 3229ms ID [PT IndoInternet]
+🇦🇷 170.155.5.235:8080 2367ms AR [Gobernacion de la Provincia de Buenos Aires]
+🇮🇩 103.153.35.73:8181 1668ms ID [JMExpress]
+🇸🇬 194.233.69.90:443 2923ms SG [Contabo Asia Private Limited]
+🇮🇩 182.253.94.56:8080 603ms ID [Biznet Networks]
+🇯🇵 140.227.211.47:8080 2771ms JP [NTT PC Communications, Inc.]
+🇺🇸 186.233.186.60:8080 1514ms US [Maxihost LTDA]
+🇷🇺 79.143.30.163:8080 6204ms RU [OOO "Network of data-centers "Selectel"]
+🇮🇩 116.254.100.165:46675 3642ms ID [Bangun Abadi Teknologi Indonesia]
+🇮🇩 182.23.107.210:3128 4015ms ID [PT Aplikanusa Lintasarta]
+🇮🇩 36.89.229.97:59707 4379ms ID [PT. Telekomunikasi Indonesia]
+🇹🇭 122.155.165.191:3128 1510ms TH [CAT Telecom Public Company Limited]
+🇸🇬 128.199.214.87:3128 569ms SG [DigitalOcean LLC]
