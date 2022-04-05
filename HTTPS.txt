@@ -1,4 +1,4 @@
-HTTP(S) Proxy list updated at 2022-04-05 21:00:01 GMT+7
+HTTP(S) Proxy list updated at 2022-04-05 22:00:01 GMT+7
 Support us:
 BTC: 1GeZeEnrV4SibfS5yDwuzY3w7n94ZE3zMQ
 ETH: 0x6dce795c56d1485213d689ef98277c9fb7e7a6d2
@@ -6,13 +6,15 @@ XMR: 8AGZWnqriYzQjq7hzoTzVWbQNvGeke8AHdk1tVHFqUtfX1oqDY632kwaSnZZqEtFzD4fZN3CUfC
 LTC: MAG1cWWEpgdviZChWvr2oyuxD61JPJ1Q43
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇯🇵 153.126.179.216:8080 2392ms JP [SAKURA Internet Inc.]
-🇳🇱 5.39.189.39:3128 746ms NL [ColoCenter b.v.]
-🇮🇹 93.185.123.154:3128 831ms IT [Omegacom S.R.L.S.]
-🇺🇸 149.28.120.8:59394 2906ms US [The Constant Company]
-🇮🇳 103.38.5.226:82 1906ms IN [Max tech media and communications pvt ltd]
-🇺🇸 186.233.186.60:8080 2467ms US [Maxihost LTDA]
-🇮🇩 116.254.100.165:46675 1754ms ID [Bangun Abadi Teknologi Indonesia]
-🇮🇩 182.23.107.210:3128 3374ms ID [PT Aplikanusa Lintasarta]
-🇮🇩 36.89.229.97:59707 2390ms ID [PT. Telekomunikasi Indonesia]
-🇹🇭 122.155.165.191:3128 1610ms TH [CAT Telecom Public Company Limited]
+🇺🇸 162.241.55.222:1081 2168ms US [Unified Layer]
+🇳🇱 5.39.189.39:3128 1655ms NL [ColoCenter b.v.]
+🇮🇹 93.185.123.154:3128 1998ms IT [Omegacom S.R.L.S.]
+🇫🇷 188.138.101.167:5566 3556ms FR [Host Europe GmbH]
+🇰🇷 143.248.55.62:8118 5220ms KR [Korea Advanced Institute of Science and Technology]
+🇨🇴 190.14.224.244:999 3679ms CO [Media Commerce Partners S.A]
+🏳 93.171.224.42:8080 5879ms  []
+🇮🇩 182.253.94.56:8080 1986ms ID [Biznet Networks]
+🇮🇩 182.253.108.186:8080 3772ms ID [BIZNET]
+🇮🇩 116.254.100.165:46675 605ms ID [Bangun Abadi Teknologi Indonesia]
+🇮🇩 103.11.106.8:8181 3587ms ID [PT. Pascal Indonesia]
+🇹🇭 180.180.170.188:8080 999ms TH [TOT Public Company Limited]
