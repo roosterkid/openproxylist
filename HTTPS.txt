@@ -1,4 +1,4 @@
-HTTP(S) Proxy list updated at 2022-04-05 18:00:01 GMT+7
+HTTP(S) Proxy list updated at 2022-04-05 19:00:02 GMT+7
 Support us:
 BTC: 1GeZeEnrV4SibfS5yDwuzY3w7n94ZE3zMQ
 ETH: 0x6dce795c56d1485213d689ef98277c9fb7e7a6d2
@@ -6,20 +6,11 @@ XMR: 8AGZWnqriYzQjq7hzoTzVWbQNvGeke8AHdk1tVHFqUtfX1oqDY632kwaSnZZqEtFzD4fZN3CUfC
 LTC: MAG1cWWEpgdviZChWvr2oyuxD61JPJ1Q43
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇺🇸 162.241.55.222:1081 4642ms US [Unified Layer]
-🇺🇸 132.145.195.93:3128 791ms US [Oracle Corporation]
-🇨🇦 54.39.102.233:3128 1093ms CA [OVH SAS]
-🇺🇸 167.172.239.13:3128 2307ms US [DigitalOcean, LLC]
-🇺🇸 104.161.92.74:3128 1295ms US [Input Output Flood LLC]
-🇳🇱 5.39.189.39:3128 547ms NL [ColoCenter b.v.]
-🇮🇹 93.185.123.154:3128 751ms IT [Omegacom S.R.L.S.]
-🇮🇳 14.139.184.130:3128 2795ms IN [National Knowledge Network]
-🇺🇸 54.193.249.144:8080 2297ms US [Amazon.com, Inc.]
-🇮🇩 139.255.21.74:8080 3680ms ID [PT. LINKNET]
-🇦🇷 170.155.5.235:8080 2169ms AR [Gobernacion de la Provincia de Buenos Aires]
-🇮🇳 103.129.3.246:83 4322ms IN [S S Cablenet]
-🇺🇸 186.233.186.60:8080 1624ms US [Maxihost LTDA]
-🇷🇺 79.143.30.163:8080 3067ms RU [OOO "Network of data-centers "Selectel"]
-🇰🇭 49.156.42.210:8080 791ms KH [WiCAM Corporation Ltd]
-🇮🇩 103.11.106.25:8181 3925ms ID [PT. Pascal Indonesia]
-🇹🇭 122.155.165.191:3128 1358ms TH [CAT Telecom Public Company Limited]
+🇺🇸 167.172.239.13:3128 2808ms US [DigitalOcean, LLC]
+🇯🇵 74.82.50.155:3128 1850ms JP [Hurricane Electric]
+🇮🇹 93.185.123.154:3128 1835ms IT [Omegacom S.R.L.S.]
+🇦🇲 91.103.31.147:81 2980ms AM [MTS Armenia CJSC]
+🇦🇷 170.155.5.235:8080 2423ms AR [Gobernacion de la Provincia de Buenos Aires]
+🇦🇫 180.94.64.114:8080 6897ms AF [Government Communications Network]
+🇹🇭 180.180.170.188:8080 950ms TH [TOT Public Company Limited]
+🇹🇭 122.155.165.191:3128 1376ms TH [CAT Telecom Public Company Limited]
