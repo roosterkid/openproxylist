@@ -1,4 +1,4 @@
-HTTP(S) Proxy list updated at 2022-04-07 01:00:01 GMT+7
+HTTP(S) Proxy list updated at 2022-04-07 02:00:01 GMT+7
 Support us:
 BTC: 1GeZeEnrV4SibfS5yDwuzY3w7n94ZE3zMQ
 ETH: 0x6dce795c56d1485213d689ef98277c9fb7e7a6d2
@@ -6,23 +6,17 @@ XMR: 8AGZWnqriYzQjq7hzoTzVWbQNvGeke8AHdk1tVHFqUtfX1oqDY632kwaSnZZqEtFzD4fZN3CUfC
 LTC: MAG1cWWEpgdviZChWvr2oyuxD61JPJ1Q43
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇺🇸 162.241.55.222:1081 5256ms US [Unified Layer]
-🇳🇱 5.39.189.39:3128 466ms NL [ColoCenter b.v.]
-🇮🇹 93.185.123.154:3128 659ms IT [Omegacom S.R.L.S.]
-🇨🇴 190.14.224.244:999 3109ms CO [Media Commerce Partners S.A]
-🇫🇷 85.25.119.98:5566 4880ms FR [BSB-SERVICE]
-🇮🇩 103.124.138.131:8085 3410ms ID [Global Media Data Prima]
-🇬🇧 82.15.31.108:8118 928ms GB [Virgin Media]
-🇺🇸 20.47.108.204:8888 2045ms US [Microsoft Corporation]
-🇦🇷 170.155.5.235:8080 2623ms AR [Gobernacion de la Provincia de Buenos Aires]
-🇸🇬 194.233.73.108:443 2768ms SG [Contabo Asia Private Limited]
-🇸🇬 194.233.69.90:443 1113ms SG [Contabo Asia Private Limited]
-🇮🇩 36.67.152.213:11111 3034ms ID [PT. Telekomunikasi Indonesia]
-🇹🇷 95.0.206.51:8080 3773ms TR [Turk Telekomunikasyon Anonim Sirketi]
-🇮🇳 175.101.80.145:8080 3768ms IN [ExcellMedia Pvt Ltd]
-🇺🇸 186.233.186.60:8080 1635ms US [Maxihost LTDA]
-🇷🇺 79.143.30.163:8080 4341ms RU [OOO "Network of data-centers "Selectel"]
-🇦🇫 180.94.64.114:8080 6498ms AF [Government Communications Network]
-🇸🇱 160.19.155.51:8080 7521ms SL [PCS Holdings Limited]
-🇮🇩 116.254.100.165:46675 7932ms ID [Bangun Abadi Teknologi Indonesia]
-🇹🇭 122.155.165.191:3128 1366ms TH [CAT Telecom Public Company Limited]
+🇺🇸 132.145.195.93:3128 1880ms US [Oracle Corporation]
+🇺🇸 167.172.239.13:3128 1038ms US [DigitalOcean, LLC]
+🇳🇱 5.39.189.39:3128 681ms NL [ColoCenter b.v.]
+🇺🇸 149.28.120.8:59394 1613ms US [The Constant Company]
+🇫🇷 62.138.3.125:5566 4959ms FR [Host Europe GmbH]
+🇸🇬 159.65.133.175:31280 1462ms SG [DigitalOcean, LLC]
+🇨🇴 190.14.224.244:999 3458ms CO [Media Commerce Partners S.A]
+🇮🇶 65.20.191.201:41890 4907ms IQ [EarthLink Ltd. Communications&Internet Services]
+🇹🇷 95.0.219.234:8080 3729ms TR [TurkTelecom]
+🇦🇷 170.155.5.235:8080 4166ms AR [Gobernacion de la Provincia de Buenos Aires]
+🇦🇫 180.94.64.114:8080 5256ms AF [Government Communications Network]
+🇹🇭 110.171.84.180:8080 3511ms TH [True Internet Corporation CO. Ltd.]
+🇮🇩 182.253.191.132:8080 2395ms ID [BIZNET]
+🇹🇭 122.155.165.191:3128 1513ms TH [CAT Telecom Public Company Limited]
