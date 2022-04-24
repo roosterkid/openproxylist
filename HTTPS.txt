@@ -1,4 +1,4 @@
-HTTP(S) Proxy list updated at 2022-04-24 15:00:01 GMT+7
+HTTP(S) Proxy list updated at 2022-04-24 16:00:01 GMT+7
 Support us:
 BTC: 1GeZeEnrV4SibfS5yDwuzY3w7n94ZE3zMQ
 ETH: 0x6dce795c56d1485213d689ef98277c9fb7e7a6d2
@@ -6,21 +6,17 @@ XMR: 8AGZWnqriYzQjq7hzoTzVWbQNvGeke8AHdk1tVHFqUtfX1oqDY632kwaSnZZqEtFzD4fZN3CUfC
 LTC: MAG1cWWEpgdviZChWvr2oyuxD61JPJ1Q43
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇲🇽 189.164.87.226:3128 1652ms MX [Uninet S.A. de C.V]
-🇰🇷 143.248.55.62:8118 5047ms KR [Korea Advanced Institute of Science and Technology]
-🇺🇸 63.161.104.189:3128 857ms US [Sprint]
-🇸🇬 159.65.133.175:31280 2481ms SG [DigitalOcean, LLC]
-🇮🇩 116.254.119.31:8080 4036ms ID [PT Media Sarana Data]
-🇮🇩 202.138.239.120:8888 524ms ID [PT Melvar Lintasnusa]
-🇦🇲 91.103.31.147:81 4186ms AM [MTS Armenia CJSC]
-🇹🇷 88.255.64.83:1976 3019ms TR [Turk Telekomunikasyon Anonim Sirketi]
-🇮🇩 103.121.215.34:43520 1878ms ID [PT Parsaoran Global Datatrans]
-🇦🇷 170.155.5.235:8080 2653ms AR [Gobernacion de la Provincia de Buenos Aires]
-🇮🇩 103.153.35.73:8181 7540ms ID [JMExpress]
-🇷🇺 95.143.8.182:57169 7056ms RU [Avelacom Khabarovsk]
-🇮🇩 112.78.170.251:8080 7971ms ID [BIZNET]
-🇦🇫 180.94.64.114:8080 3357ms AF [Government Communications Network]
-🇮🇩 124.158.168.22:8080 1763ms ID [ICON+]
-🇮🇩 116.254.100.165:46675 790ms ID [Bangun Abadi Teknologi Indonesia]
-🇰🇭 49.156.42.188:8080 1997ms KH [WiCAM Corporation Ltd]
-🇦🇷 181.209.82.154:23500 7510ms AR [ARSAT - Empresa Argentina de Soluciones Satelitales S.A]
+🇺🇸 52.90.182.59:16133 797ms US [Amazon.com, Inc.]
+🇰🇷 143.248.55.62:8118 5339ms KR [Korea Advanced Institute of Science and Technology]
+🇺🇸 63.161.104.189:3128 1236ms US [Sprint]
+🇦🇲 91.103.31.147:81 3172ms AM [MTS Armenia CJSC]
+🇮🇶 65.20.191.201:41890 4150ms IQ [EarthLink Ltd. Communications&Internet Services]
+🇹🇷 88.255.64.83:1976 6311ms TR [Turk Telekomunikasyon Anonim Sirketi]
+🇩🇪 195.201.100.236:10091 1658ms DE [Hetzner Online GmbH]
+🇮🇩 103.121.215.34:43520 1466ms ID [PT Parsaoran Global Datatrans]
+🇦🇷 170.155.5.235:8080 2879ms AR [Gobernacion de la Provincia de Buenos Aires]
+🇺🇦 93.171.224.63:8080 2848ms UA [PE TV and Radio Company Kentavr-TV]
+🇹🇭 180.180.216.90:8080 4005ms TH [TOT Public Company Limited]
+🇷🇺 95.143.8.182:57169 4643ms RU [Avelacom Khabarovsk]
+🇹🇭 183.88.219.206:41564 7909ms TH [Triple T Internet Company Limited]
+🇹🇭 122.155.165.191:3128 1969ms TH [CAT Telecom Public Company Limited]
