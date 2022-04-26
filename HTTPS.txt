@@ -1,4 +1,4 @@
-HTTP(S) Proxy list updated at 2022-04-26 09:00:01 GMT+7
+HTTP(S) Proxy list updated at 2022-04-26 10:00:01 GMT+7
 Support us:
 BTC: 1GeZeEnrV4SibfS5yDwuzY3w7n94ZE3zMQ
 ETH: 0x6dce795c56d1485213d689ef98277c9fb7e7a6d2
@@ -6,13 +6,23 @@ XMR: 8AGZWnqriYzQjq7hzoTzVWbQNvGeke8AHdk1tVHFqUtfX1oqDY632kwaSnZZqEtFzD4fZN3CUfC
 LTC: MAG1cWWEpgdviZChWvr2oyuxD61JPJ1Q43
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇩🇪 5.189.169.141:3128 1263ms DE [Contabo GmbH]
-🇳🇱 5.39.189.39:3128 1338ms NL [ColoCenter b.v.]
-🇸🇬 159.65.133.175:31280 1654ms SG [DigitalOcean, LLC]
-🇺🇦 176.98.22.224:8181 3276ms UA [Crystal Telecom Ltd]
-🇩🇪 167.86.81.208:3128 1942ms DE [Contabo GmbH]
-🇩🇪 62.171.167.176:3128 2425ms DE [Contabo GmbH]
-🇮🇩 202.138.249.241:8000 4261ms ID [PT Melvar Lintasnusa]
-🇮🇩 112.78.170.251:8080 1850ms ID [BIZNET]
-🇮🇩 118.97.164.19:8080 4426ms ID [PT. TELKOM INDONESIA]
-🇹🇭 122.155.165.191:3128 2186ms TH [CAT Telecom Public Company Limited]
+🇿🇦 102.130.79.254:3128 2939ms ZA [Adnexus Celerity Networks (Proprietary) Limited]
+🇩🇪 5.189.169.141:3128 2577ms DE [Contabo GmbH]
+🇩🇪 130.61.95.193:3128 2475ms DE [Oracle Corporation]
+🇺🇸 132.145.195.93:3128 1110ms US [Oracle Corporation]
+🇳🇱 5.39.189.39:3128 709ms NL [ColoCenter b.v.]
+🇸🇬 159.65.133.175:31280 2326ms SG [DigitalOcean, LLC]
+🇲🇽 201.120.27.15:53281 5629ms MX [Uninet S.A. de C.V]
+🇺🇸 137.184.136.135:3128 6469ms US [DigitalOcean, LLC]
+🇧🇷 138.0.188.134:10001 4035ms BR [WN TELECOM LTDA - ME]
+🇦🇲 91.103.31.147:81 3193ms AM [MTS Armenia CJSC]
+🇮🇶 65.20.191.201:41890 5146ms IQ [EarthLink Ltd. Communications&Internet Services]
+🇮🇩 103.164.191.90:8181 3711ms ID [PT iForte Global Internet]
+🇨🇱 201.222.45.64:999 3787ms CL [Grupo Ulloa Clivio SPA]
+🇮🇩 103.36.11.17:8181 4107ms ID [PT Awinet Global Mandiri]
+🇦🇷 170.155.5.235:8080 3308ms AR [Gobernacion de la Provincia de Buenos Aires]
+🇩🇪 62.171.167.176:3128 2084ms DE [Contabo GmbH]
+🇮🇩 103.76.12.42:80 2324ms ID [MORATELINDO]
+🇷🇺 95.143.8.182:57169 4815ms RU [Avelacom Khabarovsk]
+🇦🇫 180.94.64.114:8080 3220ms AF [Government Communications Network]
+🇹🇭 122.155.165.191:3128 1235ms TH [CAT Telecom Public Company Limited]
