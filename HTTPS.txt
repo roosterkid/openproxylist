@@ -1,4 +1,4 @@
-HTTP(S) Proxy list updated at 2022-04-26 22:00:01 GMT+7
+HTTP(S) Proxy list updated at 2022-04-26 23:00:01 GMT+7
 Support us:
 BTC: 1GeZeEnrV4SibfS5yDwuzY3w7n94ZE3zMQ
 ETH: 0x6dce795c56d1485213d689ef98277c9fb7e7a6d2
@@ -6,16 +6,27 @@ XMR: 8AGZWnqriYzQjq7hzoTzVWbQNvGeke8AHdk1tVHFqUtfX1oqDY632kwaSnZZqEtFzD4fZN3CUfC
 LTC: MAG1cWWEpgdviZChWvr2oyuxD61JPJ1Q43
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇨🇦 20.116.130.70:3128 1904ms CA [Microsoft Corporation]
-🇸🇬 194.233.86.75:45232 2613ms SG [Contabo Asia Private Limited]
-🇺🇸 132.145.195.93:3128 1331ms US [Oracle Corporation]
-🇰🇷 143.248.55.62:8118 6752ms KR [Korea Advanced Institute of Science and Technology]
-🇲🇽 201.120.27.15:53281 5688ms MX [Uninet S.A. de C.V]
-🇦🇲 91.103.31.147:81 5962ms AM [MTS Armenia CJSC]
-🇮🇶 65.20.191.201:41890 5769ms IQ [EarthLink Ltd. Communications&Internet Services]
-🇮🇳 43.224.10.8:6666 2515ms IN [gtpl hariom world vision]
-🇦🇷 170.155.5.235:8080 2860ms AR [Gobernacion de la Provincia de Buenos Aires]
-🇩🇪 62.171.167.176:3128 2102ms DE [Contabo GmbH]
-🇷🇺 79.143.30.163:8080 4336ms RU [OOO "Network of data-centers "Selectel"]
-🇮🇷 185.239.105.211:3128 1746ms IR [Noyan Abr Arvan Co. ( Private Joint Stock)]
-🇹🇭 122.155.165.191:3128 1443ms TH [CAT Telecom Public Company Limited]
+🇸🇬 194.233.88.38:3128 2024ms SG [Contabo Asia Private Limited]
+🇸🇬 194.233.86.75:45232 2581ms SG [Contabo Asia Private Limited]
+🇳🇱 5.39.189.39:3128 645ms NL [ColoCenter b.v.]
+🇫🇷 62.75.229.155:5566 3859ms FR [Host Europe GmbH]
+🇰🇷 143.248.55.62:8118 5262ms KR [Korea Advanced Institute of Science and Technology]
+🇲🇽 201.120.27.15:53281 6056ms MX [Uninet S.A. de C.V]
+🇧🇷 186.248.89.6:5005 2106ms BR [AMERICAN TOWER DO BRASIL-COMUNICAÔÔO MULTIMÔDIA LT]
+🇦🇲 91.103.31.147:81 3268ms AM [MTS Armenia CJSC]
+🇮🇶 65.20.191.201:41890 5883ms IQ [EarthLink Ltd. Communications&Internet Services]
+🇫🇷 188.165.59.127:3128 561ms FR [OVH ISP]
+🇨🇱 190.107.224.150:3128 2184ms CL [WOM S.A.]
+🇦🇷 170.155.5.235:8080 2856ms AR [Gobernacion de la Provincia de Buenos Aires]
+🇧🇩 45.125.222.97:36110 4221ms BD [SSD-TECH]
+🇧🇷 45.169.16.1:8080 4248ms BR [Radionet Telecom Ltda]
+🇮🇩 103.153.35.73:8181 3686ms ID [JMExpress]
+🏳 103.135.227.193:8181 2778ms  []
+🇷🇺 95.143.8.182:57169 3845ms RU [Avelacom Khabarovsk]
+🇷🇺 79.143.30.163:8080 3194ms RU [OOO "Network of data-centers "Selectel"]
+🇮🇩 112.78.170.251:8080 753ms ID [BIZNET]
+🇦🇫 180.94.64.114:8080 3279ms AF [Government Communications Network]
+🇸🇱 160.19.155.51:8080 4699ms SL [PCS Holdings Limited]
+🇮🇩 36.89.229.97:59707 7729ms ID [PT. Telekomunikasi Indonesia]
+🇮🇷 185.239.105.211:3128 1269ms IR [Noyan Abr Arvan Co. ( Private Joint Stock)]
+🇹🇭 122.155.165.191:3128 1505ms TH [CAT Telecom Public Company Limited]
