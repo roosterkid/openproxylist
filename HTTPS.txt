@@ -1,4 +1,4 @@
-HTTP(S) Proxy list updated at 2022-04-26 21:00:01 GMT+7
+HTTP(S) Proxy list updated at 2022-04-26 22:00:01 GMT+7
 Support us:
 BTC: 1GeZeEnrV4SibfS5yDwuzY3w7n94ZE3zMQ
 ETH: 0x6dce795c56d1485213d689ef98277c9fb7e7a6d2
@@ -6,22 +6,16 @@ XMR: 8AGZWnqriYzQjq7hzoTzVWbQNvGeke8AHdk1tVHFqUtfX1oqDY632kwaSnZZqEtFzD4fZN3CUfC
 LTC: MAG1cWWEpgdviZChWvr2oyuxD61JPJ1Q43
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇫🇷 91.121.42.14:1081 5145ms FR [OVH SAS]
-🇸🇬 194.233.88.38:3128 2335ms SG [Contabo Asia Private Limited]
-🇳🇱 5.39.189.39:3128 765ms NL [ColoCenter b.v.]
-🇰🇷 143.248.55.62:8118 5340ms KR [Korea Advanced Institute of Science and Technology]
-🇫🇷 85.25.119.98:5566 4230ms FR [BSB-SERVICE]
-🇲🇽 201.120.27.15:53281 2748ms MX [Uninet S.A. de C.V]
-🇧🇷 186.248.89.6:5005 2678ms BR [AMERICAN TOWER DO BRASIL-COMUNICAÔÔO MULTIMÔDIA LT]
-🇦🇲 91.103.31.147:81 6436ms AM [MTS Armenia CJSC]
-🇮🇶 65.20.191.201:41890 7185ms IQ [EarthLink Ltd. Communications&Internet Services]
-🇧🇷 177.6.235.74:8080 4972ms BR [Brasil Telecom S/A - Filial Distrito Federal]
-🇮🇩 139.255.21.74:8080 4475ms ID [PT. LINKNET]
-🇩🇪 167.86.81.208:3128 4669ms DE [Contabo GmbH]
-🇮🇩 103.121.215.34:43520 540ms ID [PT Parsaoran Global Datatrans]
-🇹🇷 95.0.206.51:8080 6697ms TR [Turk Telekomunikasyon Anonim Sirketi]
-🇷🇺 95.143.8.182:57169 4831ms RU [Avelacom Khabarovsk]
-🇦🇫 180.94.64.114:8080 4320ms AF [Government Communications Network]
-🇩🇪 173.249.38.220:80 562ms DE [Contabo GmbH]
-🇮🇷 185.239.105.211:3128 1492ms IR [Noyan Abr Arvan Co. ( Private Joint Stock)]
-🇹🇭 122.155.165.191:3128 1380ms TH [CAT Telecom Public Company Limited]
+🇨🇦 20.116.130.70:3128 1904ms CA [Microsoft Corporation]
+🇸🇬 194.233.86.75:45232 2613ms SG [Contabo Asia Private Limited]
+🇺🇸 132.145.195.93:3128 1331ms US [Oracle Corporation]
+🇰🇷 143.248.55.62:8118 6752ms KR [Korea Advanced Institute of Science and Technology]
+🇲🇽 201.120.27.15:53281 5688ms MX [Uninet S.A. de C.V]
+🇦🇲 91.103.31.147:81 5962ms AM [MTS Armenia CJSC]
+🇮🇶 65.20.191.201:41890 5769ms IQ [EarthLink Ltd. Communications&Internet Services]
+🇮🇳 43.224.10.8:6666 2515ms IN [gtpl hariom world vision]
+🇦🇷 170.155.5.235:8080 2860ms AR [Gobernacion de la Provincia de Buenos Aires]
+🇩🇪 62.171.167.176:3128 2102ms DE [Contabo GmbH]
+🇷🇺 79.143.30.163:8080 4336ms RU [OOO "Network of data-centers "Selectel"]
+🇮🇷 185.239.105.211:3128 1746ms IR [Noyan Abr Arvan Co. ( Private Joint Stock)]
+🇹🇭 122.155.165.191:3128 1443ms TH [CAT Telecom Public Company Limited]
