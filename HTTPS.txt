@@ -1,4 +1,4 @@
-HTTP(S) Proxy list updated at 2022-05-01 23:00:01 GMT+7
+HTTP(S) Proxy list updated at 2022-05-02 00:00:01 GMT+7
 Support us:
 BTC: 1GeZeEnrV4SibfS5yDwuzY3w7n94ZE3zMQ
 ETH: 0x6dce795c56d1485213d689ef98277c9fb7e7a6d2
@@ -6,23 +6,22 @@ XMR: 8AGZWnqriYzQjq7hzoTzVWbQNvGeke8AHdk1tVHFqUtfX1oqDY632kwaSnZZqEtFzD4fZN3CUfC
 LTC: MAG1cWWEpgdviZChWvr2oyuxD61JPJ1Q43
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇨🇱 186.67.230.45:3128 2616ms CL [Entel Chile S.A.]
-🇬🇧 216.176.32.79:3128 2530ms GB [Rackdog, LLC]
-🇶🇦 212.77.203.36:80 988ms QA [Ooredoo Q.S.C.]
-🇩🇪 130.61.95.193:3128 1193ms DE [Oracle Corporation]
-🇺🇸 132.145.195.93:3128 3398ms US [Oracle Corporation]
-🇩🇪 142.132.178.65:3128 846ms DE [Hetzner Online GmbH]
-🇮🇹 93.185.123.154:3128 1432ms IT [Omegacom S.R.L.S.]
-🇰🇷 143.248.55.62:8118 5853ms KR [Korea Advanced Institute of Science and Technology]
-🇸🇬 159.65.133.175:31280 1526ms SG [DigitalOcean, LLC]
-🇫🇷 85.25.199.122:5566 5171ms FR [Host Europe GmbH]
-🇷🇺 195.211.219.146:5555 1234ms RU [OOO "Sestroretskoe Cable Television"]
-🇸🇬 47.74.226.8:5001 2183ms SG [Alibaba Cloud (Singapore) Private Limited]
-🇫🇷 188.165.59.127:3128 904ms FR [OVH ISP]
-🇮🇩 103.76.12.42:80 3208ms ID [MORATELINDO]
-🇺🇸 186.233.186.60:8080 1691ms US [Maxihost LTDA]
-🇷🇺 79.143.30.163:8080 4414ms RU [OOO "Network of data-centers "Selectel"]
-🇧🇬 77.238.79.111:8080 4450ms BG [FIBER1]
-🇮🇩 103.11.106.8:8181 4090ms ID [PT. Pascal Indonesia]
-🇹🇭 180.180.170.188:8080 879ms TH [TOT Public Company Limited]
-🇹🇭 122.155.165.191:3128 2325ms TH [CAT Telecom Public Company Limited]
+🇬🇧 216.176.32.79:3128 2560ms GB [Rackdog, LLC]
+🇭🇰 103.100.208.56:59394 2800ms HK [Yisu Cloud LTD]
+🇩🇪 142.132.178.65:3128 2014ms DE [Hetzner Online GmbH]
+🇺🇸 199.195.254.168:8118 735ms US [FranTech Solutions]
+🇮🇹 93.185.123.154:3128 1183ms IT [Omegacom S.R.L.S.]
+🇰🇷 143.248.55.62:8118 5422ms KR [Korea Advanced Institute of Science and Technology]
+🇫🇷 85.25.117.68:5566 4823ms FR [BSB-SERVICE]
+🇫🇷 85.25.199.122:5566 6574ms FR [Host Europe GmbH]
+🇬🇧 20.90.220.85:3128 233ms GB [Microsoft Corporation]
+🇸🇬 47.74.226.8:5001 2476ms SG [Alibaba Cloud (Singapore) Private Limited]
+🇮🇩 103.124.138.131:8085 2132ms ID [Global Media Data Prima]
+🇺🇸 96.95.164.41:3128 2284ms US [Comcast Cable Communications, LLC]
+🇺🇸 186.233.186.60:8080 1381ms US [Maxihost LTDA]
+🇷🇺 79.143.30.163:8080 3368ms RU [OOO "Network of data-centers "Selectel"]
+🇦🇫 180.94.64.114:8080 5447ms AF [Government Communications Network]
+🇮🇩 116.254.100.165:46675 615ms ID [Bangun Abadi Teknologi Indonesia]
+🇮🇩 36.89.229.97:59707 791ms ID [PT. Telekomunikasi Indonesia]
+🇹🇭 180.180.170.188:8080 878ms TH [TOT Public Company Limited]
+🇹🇭 122.155.165.191:3128 1308ms TH [CAT Telecom Public Company Limited]
