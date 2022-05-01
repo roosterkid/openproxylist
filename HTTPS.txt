@@ -1,4 +1,4 @@
-HTTP(S) Proxy list updated at 2022-05-02 01:00:01 GMT+7
+HTTP(S) Proxy list updated at 2022-05-02 02:00:01 GMT+7
 Support us:
 BTC: 1GeZeEnrV4SibfS5yDwuzY3w7n94ZE3zMQ
 ETH: 0x6dce795c56d1485213d689ef98277c9fb7e7a6d2
@@ -6,19 +6,15 @@ XMR: 8AGZWnqriYzQjq7hzoTzVWbQNvGeke8AHdk1tVHFqUtfX1oqDY632kwaSnZZqEtFzD4fZN3CUfC
 LTC: MAG1cWWEpgdviZChWvr2oyuxD61JPJ1Q43
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇨🇱 186.67.230.45:3128 1405ms CL [Entel Chile S.A.]
-🇬🇧 216.176.32.79:3128 4706ms GB [Rackdog, LLC]
-🇯🇵 153.126.179.216:8080 2231ms JP [SAKURA Internet Inc.]
-🇮🇹 93.185.123.154:3128 1668ms IT [Omegacom S.R.L.S.]
-🇰🇷 143.248.55.62:8118 5452ms KR [Korea Advanced Institute of Science and Technology]
-🇫🇷 85.25.226.242:5566 3572ms FR [Host Europe GmbH]
-🇫🇷 85.25.199.122:5566 4965ms FR [Host Europe GmbH]
-🇫🇷 85.25.208.212:5566 4025ms FR [Host Europe GmbH]
-🇫🇷 82.66.126.34:8118 1165ms FR [Proxad / Free SAS]
-🇸🇬 194.233.69.90:443 2934ms SG [Contabo Asia Private Limited]
-🇨🇦 192.99.144.208:8080 2283ms CA [OVH SAS]
-🇷🇺 79.143.30.163:8080 3799ms RU [OOO "Network of data-centers "Selectel"]
-🇧🇬 77.238.79.111:8080 6478ms BG [FIBER1]
-🇮🇩 116.254.100.165:46675 569ms ID [Bangun Abadi Teknologi Indonesia]
-🇮🇩 36.89.229.97:59707 3711ms ID [PT. Telekomunikasi Indonesia]
-🇹🇭 122.155.165.191:3128 494ms TH [CAT Telecom Public Company Limited]
+🇶🇦 212.77.203.36:80 1609ms QA [Ooredoo Q.S.C.]
+🇮🇹 93.185.123.154:3128 699ms IT [Omegacom S.R.L.S.]
+🇰🇷 143.248.55.62:8118 5631ms KR [Korea Advanced Institute of Science and Technology]
+🇸🇬 159.65.133.175:31280 1181ms SG [DigitalOcean, LLC]
+🇫🇷 85.25.199.122:5566 7843ms FR [Host Europe GmbH]
+🇫🇷 147.135.134.57:5566 2181ms FR [OVH SAS]
+🇮🇳 14.139.184.130:3128 2968ms IN [National Knowledge Network]
+🇻🇪 190.205.42.42:999 3166ms VE [CANTV Servicios, Venezuela]
+🇺🇸 186.233.186.60:8080 1521ms US [Maxihost LTDA]
+🇧🇬 77.238.79.111:8080 3359ms BG [FIBER1]
+🇹🇭 122.155.165.191:3128 1507ms TH [CAT Telecom Public Company Limited]
+🇮🇳 182.72.150.242:8080 4386ms IN [Bharti Airtel Ltd.]
