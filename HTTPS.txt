@@ -1,4 +1,4 @@
-HTTP(S) Proxy list updated at 2022-05-01 15:00:01 GMT+7
+HTTP(S) Proxy list updated at 2022-05-01 16:00:02 GMT+7
 Support us:
 BTC: 1GeZeEnrV4SibfS5yDwuzY3w7n94ZE3zMQ
 ETH: 0x6dce795c56d1485213d689ef98277c9fb7e7a6d2
@@ -6,19 +6,17 @@ XMR: 8AGZWnqriYzQjq7hzoTzVWbQNvGeke8AHdk1tVHFqUtfX1oqDY632kwaSnZZqEtFzD4fZN3CUfC
 LTC: MAG1cWWEpgdviZChWvr2oyuxD61JPJ1Q43
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇨🇱 186.67.230.45:3128 2843ms CL [Entel Chile S.A.]
-🇹🇷 176.88.168.155:8080 4556ms TR [Superonline Iletisim Hizmetleri A.S.]
-🇩🇪 130.61.95.193:3128 2694ms DE [Oracle Corporation]
-🇯🇵 140.227.61.156:23456 2600ms JP [NTT PC Communications, Inc.]
-🇮🇹 93.185.123.154:3128 684ms IT [Omegacom S.R.L.S.]
-🇸🇬 159.65.133.175:31280 1276ms SG [DigitalOcean, LLC]
-🇫🇷 85.25.199.122:5566 5652ms FR [Host Europe GmbH]
-🇮🇳 14.139.184.130:3128 2308ms IN [National Knowledge Network]
-🇯🇵 164.70.122.6:3128 2745ms JP [NTT PC Communications, Inc.]
-🇮🇩 103.164.116.170:8080 2442ms ID [SOLUSINET]
-🇫🇷 213.32.75.44:9300 2455ms FR [OVH SAS]
-🇹🇭 180.180.216.90:8080 4108ms TH [TOT Public Company Limited]
-🇷🇺 79.143.30.163:8080 6252ms RU [OOO "Network of data-centers "Selectel"]
-🇮🇩 112.78.170.250:80 1811ms ID [BIZNET]
-🇮🇩 116.254.100.165:46675 540ms ID [Bangun Abadi Teknologi Indonesia]
-🇹🇭 180.180.170.188:8080 2306ms TH [TOT Public Company Limited]
+🇬🇧 216.176.32.79:3128 629ms GB [Rackdog, LLC]
+🇶🇦 212.77.203.36:80 1128ms QA [Ooredoo Q.S.C.]
+🇩🇪 142.132.178.65:3128 508ms DE [Hetzner Online GmbH]
+🇯🇵 140.227.61.156:23456 2909ms JP [NTT PC Communications, Inc.]
+🇸🇬 159.65.133.175:31280 1222ms SG [DigitalOcean, LLC]
+🇮🇳 14.139.184.130:3128 2215ms IN [National Knowledge Network]
+🇫🇷 188.165.59.127:3128 370ms FR [OVH ISP]
+🇻🇪 190.205.42.42:999 6308ms VE [CANTV Servicios, Venezuela]
+🇪🇸 149.34.7.65:8080 3735ms ES [Adamo Telecom Iberia S.A.]
+🇺🇸 20.47.108.204:8888 1939ms US [Microsoft Corporation]
+🇹🇭 180.180.216.90:8080 1104ms TH [TOT Public Company Limited]
+🇺🇸 186.233.186.60:8080 1585ms US [Maxihost LTDA]
+🇹🇭 180.180.170.188:8080 7991ms TH [TOT Public Company Limited]
+🇹🇭 122.155.165.191:3128 1502ms TH [CAT Telecom Public Company Limited]
