@@ -1,4 +1,4 @@
-HTTP(S) Proxy list updated at 2022-05-01 14:00:01 GMT+7
+HTTP(S) Proxy list updated at 2022-05-01 15:00:01 GMT+7
 Support us:
 BTC: 1GeZeEnrV4SibfS5yDwuzY3w7n94ZE3zMQ
 ETH: 0x6dce795c56d1485213d689ef98277c9fb7e7a6d2
@@ -6,26 +6,19 @@ XMR: 8AGZWnqriYzQjq7hzoTzVWbQNvGeke8AHdk1tVHFqUtfX1oqDY632kwaSnZZqEtFzD4fZN3CUfC
 LTC: MAG1cWWEpgdviZChWvr2oyuxD61JPJ1Q43
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇨🇱 186.67.230.45:3128 2444ms CL [Entel Chile S.A.]
-🇬🇧 216.176.32.79:3128 2741ms GB [Rackdog, LLC]
-🇧🇷 189.4.184.34:8080 4393ms BR [Claro S.A.]
-🇹🇷 176.88.168.155:8080 3106ms TR [Superonline Iletisim Hizmetleri A.S.]
-🇫🇷 91.121.42.14:1081 5301ms FR [OVH SAS]
-🇸🇬 194.233.88.38:3128 1403ms SG [Contabo Asia Private Limited]
-🇮🇹 93.185.123.154:3128 1196ms IT [Omegacom S.R.L.S.]
-🇰🇷 143.248.55.62:8118 5492ms KR [Korea Advanced Institute of Science and Technology]
-🇭🇰 103.73.194.2:80 928ms HK [TouchPal HK Co., Limited]
-🇮🇳 101.53.154.137:2008 2371ms IN [NetMagic Solutions Pvt Ltd]
-🇷🇺 95.140.31.39:41890 3382ms RU [Sputnik LTD]
-🇹🇷 88.255.64.83:1976 6221ms TR [Turk Telekomunikasyon Anonim Sirketi]
-🇨🇱 201.220.102.146:8080 3196ms CL [Telefonica del Sur S.A.]
-🇿🇦 196.15.213.235:3128 3119ms ZA [Telkom SA Ltd.]
-🇸🇬 194.233.73.106:443 2518ms SG [Contabo Asia Private Limited]
-🇸🇬 194.233.69.38:443 4007ms SG [Contabo Asia Private Limited]
-🇺🇸 186.233.186.60:8080 2567ms US [Maxihost LTDA]
-🇷🇺 79.143.30.163:8080 4798ms RU [OOO "Network of data-centers "Selectel"]
-🇮🇩 112.78.170.250:80 3720ms ID [BIZNET]
-🇮🇩 182.253.191.132:8080 2299ms ID [BIZNET]
-🇬🇳 102.176.160.70:61279 5009ms GN [2nd RO]
-🇹🇭 180.180.170.188:8080 1952ms TH [TOT Public Company Limited]
-🇹🇭 122.155.165.191:3128 1603ms TH [CAT Telecom Public Company Limited]
+🇨🇱 186.67.230.45:3128 2843ms CL [Entel Chile S.A.]
+🇹🇷 176.88.168.155:8080 4556ms TR [Superonline Iletisim Hizmetleri A.S.]
+🇩🇪 130.61.95.193:3128 2694ms DE [Oracle Corporation]
+🇯🇵 140.227.61.156:23456 2600ms JP [NTT PC Communications, Inc.]
+🇮🇹 93.185.123.154:3128 684ms IT [Omegacom S.R.L.S.]
+🇸🇬 159.65.133.175:31280 1276ms SG [DigitalOcean, LLC]
+🇫🇷 85.25.199.122:5566 5652ms FR [Host Europe GmbH]
+🇮🇳 14.139.184.130:3128 2308ms IN [National Knowledge Network]
+🇯🇵 164.70.122.6:3128 2745ms JP [NTT PC Communications, Inc.]
+🇮🇩 103.164.116.170:8080 2442ms ID [SOLUSINET]
+🇫🇷 213.32.75.44:9300 2455ms FR [OVH SAS]
+🇹🇭 180.180.216.90:8080 4108ms TH [TOT Public Company Limited]
+🇷🇺 79.143.30.163:8080 6252ms RU [OOO "Network of data-centers "Selectel"]
+🇮🇩 112.78.170.250:80 1811ms ID [BIZNET]
+🇮🇩 116.254.100.165:46675 540ms ID [Bangun Abadi Teknologi Indonesia]
+🇹🇭 180.180.170.188:8080 2306ms TH [TOT Public Company Limited]
