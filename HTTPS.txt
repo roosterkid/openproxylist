@@ -1,4 +1,4 @@
-HTTP(S) Proxy list updated at 2022-05-02 16:00:01 GMT+7
+HTTP(S) Proxy list updated at 2022-05-02 17:00:02 GMT+7
 Support us:
 BTC: 1GeZeEnrV4SibfS5yDwuzY3w7n94ZE3zMQ
 ETH: 0x6dce795c56d1485213d689ef98277c9fb7e7a6d2
@@ -6,19 +6,25 @@ XMR: 8AGZWnqriYzQjq7hzoTzVWbQNvGeke8AHdk1tVHFqUtfX1oqDY632kwaSnZZqEtFzD4fZN3CUfC
 LTC: MAG1cWWEpgdviZChWvr2oyuxD61JPJ1Q43
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇨🇱 186.67.230.45:3128 1709ms CL [Entel Chile S.A.]
-🇬🇧 216.176.32.79:3128 2173ms GB [Rackdog, LLC]
-🇹🇷 176.88.168.155:8080 3175ms TR [Superonline Iletisim Hizmetleri A.S.]
-🇩🇪 130.61.95.193:3128 935ms DE [Oracle Corporation]
-🇺🇸 132.145.195.93:3128 2421ms US [Oracle Corporation]
-🇩🇪 144.91.78.202:5566 3608ms DE [Contabo GmbH]
-🇩🇪 142.132.178.65:3128 2037ms DE [Hetzner Online GmbH]
-🇫🇷 85.25.199.122:5566 6836ms FR [Host Europe GmbH]
-🇫🇷 152.228.128.48:8118 494ms FR [OVH SAS]
-🇮🇩 103.36.11.17:8181 2939ms ID [PT Awinet Global Mandiri]
-🇮🇩 36.67.152.213:11111 3589ms ID [PT. Telekomunikasi Indonesia]
-🇺🇸 186.233.186.60:8080 2376ms US [Maxihost LTDA]
-🇧🇬 77.238.79.111:8080 3500ms BG [FIBER1]
-🇳🇵 110.44.124.220:55443 4554ms NP [Vianet Communications Pvt. Ltd]
-🇺🇦 159.224.232.222:3128 1713ms UA [Triolan]
-🇹🇭 122.155.165.191:3128 1454ms TH [CAT Telecom Public Company Limited]
+🇨🇱 186.67.230.45:3128 2759ms CL [Entel Chile S.A.]
+🇬🇧 216.176.32.79:3128 897ms GB [Rackdog, LLC]
+🇩🇪 130.61.95.193:3128 1871ms DE [Oracle Corporation]
+🇺🇸 132.145.195.93:3128 1982ms US [Oracle Corporation]
+🇩🇪 142.132.178.65:3128 2033ms DE [Hetzner Online GmbH]
+🇯🇵 140.227.61.156:23456 2577ms JP [NTT PC Communications, Inc.]
+🇮🇹 93.185.123.154:3128 1237ms IT [Omegacom S.R.L.S.]
+🇸🇬 159.65.133.175:31280 1394ms SG [DigitalOcean, LLC]
+🇫🇷 85.25.199.122:5566 7085ms FR [Host Europe GmbH]
+🇹🇷 95.0.168.41:1976 4300ms TR [Turk Telekomunikasyon Anonim Sirketi]
+🇮🇩 103.124.138.131:8085 2870ms ID [Global Media Data Prima]
+🇺🇸 134.209.42.113:8118 1787ms US [DigitalOcean, LLC]
+🇸🇬 194.233.69.90:443 2158ms SG [Contabo Asia Private Limited]
+🇮🇩 103.76.12.42:80 2927ms ID [MORATELINDO]
+🇺🇸 186.233.186.60:8080 1744ms US [Maxihost LTDA]
+🇷🇺 79.143.30.163:8080 4536ms RU [OOO "Network of data-centers "Selectel"]
+🇷🇺 109.70.189.70:56408 3395ms RU [LTD "Elektrosvyaz"]
+🇧🇬 77.238.79.111:8080 6555ms BG [FIBER1]
+🇰🇭 49.156.42.188:8080 7842ms KH [WiCAM Corporation Ltd]
+🇮🇩 36.89.229.97:59707 4129ms ID [PT. Telekomunikasi Indonesia]
+🇹🇭 122.155.165.191:3128 2961ms TH [CAT Telecom Public Company Limited]
+🇮🇳 182.72.150.242:8080 2451ms IN [Bharti Airtel Ltd.]
