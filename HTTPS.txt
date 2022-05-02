@@ -1,4 +1,4 @@
-HTTP(S) Proxy list updated at 2022-05-02 22:00:01 GMT+7
+HTTP(S) Proxy list updated at 2022-05-02 23:00:01 GMT+7
 Support us:
 BTC: 1GeZeEnrV4SibfS5yDwuzY3w7n94ZE3zMQ
 ETH: 0x6dce795c56d1485213d689ef98277c9fb7e7a6d2
@@ -6,21 +6,14 @@ XMR: 8AGZWnqriYzQjq7hzoTzVWbQNvGeke8AHdk1tVHFqUtfX1oqDY632kwaSnZZqEtFzD4fZN3CUfC
 LTC: MAG1cWWEpgdviZChWvr2oyuxD61JPJ1Q43
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇨🇱 186.67.230.45:3128 4547ms CL [Entel Chile S.A.]
-🇬🇧 216.176.32.79:3128 1438ms GB [Rackdog, LLC]
-🇮🇩 202.180.29.59:8080 2716ms ID [PT. HIPERNET INDODATA]
-🇿🇦 102.130.79.254:3128 3023ms ZA [Adnexus Celerity Networks (Proprietary) Limited]
-🇩🇪 130.61.95.193:3128 2419ms DE [Oracle Corporation]
-🇨🇦 54.39.102.233:3128 3842ms CA [OVH SAS]
-🇮🇹 93.185.123.154:3128 1762ms IT [Omegacom S.R.L.S.]
-🇰🇷 143.248.55.62:8118 4405ms KR [Korea Advanced Institute of Science and Technology]
-🇸🇬 159.65.133.175:31280 1239ms SG [DigitalOcean, LLC]
-🇮🇳 43.224.10.22:6666 2903ms IN [gtpl hariom world vision]
-🇨🇦 66.70.178.214:9300 2763ms CA [OVH SAS]
-🇫🇷 213.32.75.44:9300 2112ms FR [OVH SAS]
-🇱🇹 88.222.187.98:3128 2155ms LT [Init]
-🇺🇸 186.233.186.60:8080 2649ms US [Maxihost LTDA]
-🇧🇬 77.238.79.111:8080 7082ms BG [FIBER1]
-🇮🇩 36.89.229.97:59707 611ms ID [PT. Telekomunikasi Indonesia]
-🇹🇭 180.180.170.188:8080 1777ms TH [TOT Public Company Limited]
-🇹🇭 122.155.165.191:3128 1494ms TH [CAT Telecom Public Company Limited]
+🇨🇱 186.67.230.45:3128 3669ms CL [Entel Chile S.A.]
+🇬🇧 216.176.32.79:3128 679ms GB [Rackdog, LLC]
+🇮🇹 93.185.123.154:3128 1378ms IT [Omegacom S.R.L.S.]
+🇰🇷 143.248.55.62:8118 4760ms KR [Korea Advanced Institute of Science and Technology]
+🇸🇬 159.65.133.175:31280 1338ms SG [DigitalOcean, LLC]
+🇨🇱 190.107.224.150:3128 2253ms CL [WOM S.A.]
+🇯🇵 140.227.211.47:8080 2612ms JP [NTT PC Communications, Inc.]
+🇮🇩 112.78.170.251:8080 7738ms ID [BIZNET]
+🇮🇩 36.89.229.97:59707 3965ms ID [PT. Telekomunikasi Indonesia]
+🇹🇭 180.180.170.188:8080 982ms TH [TOT Public Company Limited]
+🇹🇭 122.155.165.191:3128 1571ms TH [CAT Telecom Public Company Limited]
