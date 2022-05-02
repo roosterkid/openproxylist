@@ -1,4 +1,4 @@
-HTTP(S) Proxy list updated at 2022-05-02 23:00:01 GMT+7
+HTTP(S) Proxy list updated at 2022-05-03 00:00:01 GMT+7
 Support us:
 BTC: 1GeZeEnrV4SibfS5yDwuzY3w7n94ZE3zMQ
 ETH: 0x6dce795c56d1485213d689ef98277c9fb7e7a6d2
@@ -6,14 +6,21 @@ XMR: 8AGZWnqriYzQjq7hzoTzVWbQNvGeke8AHdk1tVHFqUtfX1oqDY632kwaSnZZqEtFzD4fZN3CUfC
 LTC: MAG1cWWEpgdviZChWvr2oyuxD61JPJ1Q43
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇨🇱 186.67.230.45:3128 3669ms CL [Entel Chile S.A.]
-🇬🇧 216.176.32.79:3128 679ms GB [Rackdog, LLC]
-🇮🇹 93.185.123.154:3128 1378ms IT [Omegacom S.R.L.S.]
-🇰🇷 143.248.55.62:8118 4760ms KR [Korea Advanced Institute of Science and Technology]
-🇸🇬 159.65.133.175:31280 1338ms SG [DigitalOcean, LLC]
-🇨🇱 190.107.224.150:3128 2253ms CL [WOM S.A.]
-🇯🇵 140.227.211.47:8080 2612ms JP [NTT PC Communications, Inc.]
-🇮🇩 112.78.170.251:8080 7738ms ID [BIZNET]
-🇮🇩 36.89.229.97:59707 3965ms ID [PT. Telekomunikasi Indonesia]
-🇹🇭 180.180.170.188:8080 982ms TH [TOT Public Company Limited]
-🇹🇭 122.155.165.191:3128 1571ms TH [CAT Telecom Public Company Limited]
+🇨🇱 186.67.230.45:3128 2816ms CL [Entel Chile S.A.]
+🇬🇧 216.176.32.79:3128 567ms GB [Rackdog, LLC]
+🇭🇳 45.238.142.10:3128 2797ms HN [INET Communication]
+🇩🇪 130.61.95.193:3128 1257ms DE [Oracle Corporation]
+🇨🇦 54.39.102.233:3128 1698ms CA [OVH SAS]
+🇰🇷 143.248.55.62:8118 4226ms KR [Korea Advanced Institute of Science and Technology]
+🇸🇬 159.65.133.175:31280 1677ms SG [DigitalOcean, LLC]
+🇷🇺 85.143.219.153:3128 955ms RU [Trader soft LLC]
+🇺🇸 66.94.97.238:443 2749ms US [Contabo Inc.]
+🇮🇩 103.124.138.131:8085 2334ms ID [Global Media Data Prima]
+🇨🇱 190.107.224.150:3128 2730ms CL [WOM S.A.]
+🇸🇬 194.233.69.90:443 2699ms SG [Contabo Asia Private Limited]
+🇮🇩 36.67.152.213:11111 1888ms ID [PT. Telekomunikasi Indonesia]
+🇺🇸 186.233.186.60:8080 3056ms US [Maxihost LTDA]
+🇷🇺 79.143.30.163:8080 3533ms RU [OOO "Network of data-centers "Selectel"]
+🇧🇬 77.238.79.111:8080 5076ms BG [FIBER1]
+🇮🇩 116.254.100.165:46675 1650ms ID [Bangun Abadi Teknologi Indonesia]
+🇹🇭 122.155.165.191:3128 2465ms TH [CAT Telecom Public Company Limited]
