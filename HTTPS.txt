@@ -1,4 +1,4 @@
-HTTP(S) Proxy list updated at 2022-05-03 11:00:01 GMT+7
+HTTP(S) Proxy list updated at 2022-05-03 12:00:01 GMT+7
 Support us:
 BTC: 1GeZeEnrV4SibfS5yDwuzY3w7n94ZE3zMQ
 ETH: 0x6dce795c56d1485213d689ef98277c9fb7e7a6d2
@@ -6,26 +6,19 @@ XMR: 8AGZWnqriYzQjq7hzoTzVWbQNvGeke8AHdk1tVHFqUtfX1oqDY632kwaSnZZqEtFzD4fZN3CUfC
 LTC: MAG1cWWEpgdviZChWvr2oyuxD61JPJ1Q43
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇨🇱 186.67.230.45:3128 2374ms CL [Entel Chile S.A.]
-🇬🇧 216.176.32.79:3128 486ms GB [Rackdog, LLC]
-🇹🇷 176.88.168.155:8080 6167ms TR [Superonline Iletisim Hizmetleri A.S.]
-🇯🇵 140.227.61.156:23456 2577ms JP [NTT PC Communications, Inc.]
-🇮🇶 65.20.191.201:41890 5904ms IQ [EarthLink Ltd. Communications&Internet Services]
-🇦🇷 170.239.180.50:999 4139ms AR [Escobar Arnez Marcelino]
-🇹🇷 88.255.64.83:1976 4004ms TR [Turk Telekomunikasyon Anonim Sirketi]
-🇮🇩 139.255.21.74:8080 4652ms ID [PT. LINKNET]
-🇮🇩 103.121.215.34:43520 1635ms ID [PT Parsaoran Global Datatrans]
-🇺🇸 50.236.203.15:8080 4028ms US [Comcast Cable Communications, LLC]
-🇨🇦 167.114.96.27:9300 1745ms CA [OVH SAS]
-🇸🇬 194.233.69.41:443 2887ms SG [Contabo Asia Private Limited]
-🇸🇬 194.233.67.98:443 4766ms SG [Contabo Asia Private Limited]
-🇮🇩 202.43.190.10:53128 2569ms ID [CEPATNET]
-🇷🇺 62.78.84.159:8080 2731ms RU [LLC Milecom]
-🇮🇩 36.67.152.213:11111 2993ms ID [PT. Telekomunikasi Indonesia]
-🇮🇩 103.76.12.42:80 3349ms ID [MORATELINDO]
-🇷🇺 79.143.30.163:8080 3042ms RU [OOO "Network of data-centers "Selectel"]
-🇮🇩 182.253.191.132:8080 4940ms ID [BIZNET]
-🇲🇽 187.188.169.169:8080 2120ms MX [Total Play Telecomunicaciones SA De CV]
-🇬🇳 102.176.160.70:61279 4062ms GN [2nd RO]
-🇹🇭 180.180.170.188:8080 1685ms TH [TOT Public Company Limited]
-🇹🇭 122.155.165.191:3128 1421ms TH [CAT Telecom Public Company Limited]
+🇨🇱 186.67.230.45:3128 1346ms CL [Entel Chile S.A.]
+🇬🇧 216.176.32.79:3128 1726ms GB [Rackdog, LLC]
+🇸🇬 159.65.133.175:31280 2728ms SG [DigitalOcean, LLC]
+🇭🇰 103.73.194.2:80 746ms HK [TouchPal HK Co., Limited]
+🇮🇳 43.224.10.22:6666 5500ms IN [gtpl hariom world vision]
+🇸🇬 47.74.226.8:5001 639ms SG [Alibaba Cloud (Singapore) Private Limited]
+🇮🇩 103.124.138.131:8085 2244ms ID [Global Media Data Prima]
+🇮🇩 103.121.215.34:43520 807ms ID [PT Parsaoran Global Datatrans]
+🇨🇦 167.114.96.27:9300 2590ms CA [OVH SAS]
+🇮🇩 36.95.142.26:8080 707ms ID [PT. Telekomunikasi Indonesia]
+🇮🇩 103.76.12.42:80 4350ms ID [MORATELINDO]
+🇮🇳 125.62.198.65:83 4525ms IN [VOL BROADBAND]
+🇷🇺 79.143.30.163:8080 6503ms RU [OOO "Network of data-centers "Selectel"]
+🇧🇷 201.28.120.142:3128 2347ms BR [Vivo]
+🇧🇬 77.238.79.111:8080 3482ms BG [FIBER1]
+🇹🇭 122.155.165.191:3128 1330ms TH [CAT Telecom Public Company Limited]
