@@ -1,4 +1,4 @@
-HTTP(S) Proxy list updated at 2022-05-03 06:00:01 GMT+7
+HTTP(S) Proxy list updated at 2022-05-03 07:00:01 GMT+7
 Support us:
 BTC: 1GeZeEnrV4SibfS5yDwuzY3w7n94ZE3zMQ
 ETH: 0x6dce795c56d1485213d689ef98277c9fb7e7a6d2
@@ -6,14 +6,20 @@ XMR: 8AGZWnqriYzQjq7hzoTzVWbQNvGeke8AHdk1tVHFqUtfX1oqDY632kwaSnZZqEtFzD4fZN3CUfC
 LTC: MAG1cWWEpgdviZChWvr2oyuxD61JPJ1Q43
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇬🇧 216.176.32.79:3128 550ms GB [Rackdog, LLC]
-🇳🇱 89.248.174.40:8118 1120ms NL [IP Volume inc]
-🇰🇷 143.248.55.62:8118 4879ms KR [Korea Advanced Institute of Science and Technology]
-🇸🇬 159.65.133.175:31280 1307ms SG [DigitalOcean, LLC]
-🇮🇩 103.122.32.10:8080 4338ms ID [PT. Mora Telematika Indonesia]
-🇮🇩 103.124.138.131:8085 3104ms ID [Global Media Data Prima]
-🇧🇷 177.36.200.52:8080 5112ms BR [NT Brasil Tecnologia Ltda. ME]
-🇨🇦 192.99.144.208:8080 2425ms CA [OVH SAS]
-🇺🇸 186.233.186.60:8080 2692ms US [Maxihost LTDA]
-🇧🇬 77.238.79.111:8080 3397ms BG [FIBER1]
-🇮🇩 116.254.100.165:46675 2012ms ID [Bangun Abadi Teknologi Indonesia]
+🇬🇧 216.176.32.79:3128 688ms GB [Rackdog, LLC]
+🇿🇦 102.130.79.254:3128 3183ms ZA [Adnexus Celerity Networks (Proprietary) Limited]
+🇰🇷 143.248.55.62:8118 5650ms KR [Korea Advanced Institute of Science and Technology]
+🇸🇬 159.65.133.175:31280 1548ms SG [DigitalOcean, LLC]
+🇺🇸 66.94.97.238:443 2809ms US [Contabo Inc.]
+🇮🇳 103.168.164.26:83 2181ms IN [Nutech Broadband]
+🇮🇩 103.151.140.165:8080 4848ms ID [PT Indotechno Digital Komputasi]
+🇮🇩 139.255.21.74:8080 3985ms ID [PT. LINKNET]
+🇫🇷 188.165.59.127:3128 1320ms FR [OVH ISP]
+🇸🇬 194.233.69.41:443 2319ms SG [Contabo Asia Private Limited]
+🇸🇬 194.233.69.38:443 4449ms SG [Contabo Asia Private Limited]
+🇺🇸 186.233.186.60:8080 1413ms US [Maxihost LTDA]
+🇷🇺 79.143.30.163:8080 6251ms RU [OOO "Network of data-centers "Selectel"]
+🇧🇬 77.238.79.111:8080 3369ms BG [FIBER1]
+🇮🇩 116.254.100.165:46675 504ms ID [Bangun Abadi Teknologi Indonesia]
+🇮🇩 103.116.203.244:43520 1618ms ID [PT Parsaoran Global Datatrans]
+🇹🇭 122.155.165.191:3128 2132ms TH [CAT Telecom Public Company Limited]
