@@ -1,4 +1,4 @@
-HTTP(S) Proxy list updated at 2022-05-03 19:00:01 GMT+7
+HTTP(S) Proxy list updated at 2022-05-03 20:00:01 GMT+7
 Support us:
 BTC: 1GeZeEnrV4SibfS5yDwuzY3w7n94ZE3zMQ
 ETH: 0x6dce795c56d1485213d689ef98277c9fb7e7a6d2
@@ -6,21 +6,24 @@ XMR: 8AGZWnqriYzQjq7hzoTzVWbQNvGeke8AHdk1tVHFqUtfX1oqDY632kwaSnZZqEtFzD4fZN3CUfC
 LTC: MAG1cWWEpgdviZChWvr2oyuxD61JPJ1Q43
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇨🇱 186.67.230.45:3128 4351ms CL [Entel Chile S.A.]
-🇬🇧 216.176.32.79:3128 739ms GB [Rackdog, LLC]
-🇧🇷 189.4.184.34:8080 4553ms BR [Claro S.A.]
-🇮🇹 93.185.123.154:3128 2581ms IT [Omegacom S.R.L.S.]
-🇸🇬 159.65.133.175:31280 1336ms SG [DigitalOcean, LLC]
-🇮🇩 202.138.239.120:8888 7826ms ID [PT Melvar Lintasnusa]
-🇧🇷 201.87.241.137:5555 4005ms BR [Logtel Telecomunicacoes E Informatica Ltda ME]
-🇹🇼 59.124.224.205:3128 2638ms TW [Chunghwa Telecom Co., Ltd.]
-🇻🇪 190.205.42.42:999 4084ms VE [CANTV Servicios, Venezuela]
-🇨🇱 190.107.224.150:3128 2432ms CL [WOM S.A.]
-🇮🇩 202.138.249.241:8000 3914ms ID [PT Melvar Lintasnusa]
-🇹🇷 95.0.206.51:8080 6639ms TR [Turk Telekomunikasyon Anonim Sirketi]
-🇷🇺 31.135.65.140:3128 1074ms RU [Intek-M LLC]
-🇷🇺 79.143.30.163:8080 3080ms RU [OOO "Network of data-centers "Selectel"]
-🇧🇬 77.238.79.111:8080 6845ms BG [FIBER1]
-🇮🇩 115.85.65.147:39736 3773ms ID [Sudirman Central Business District]
-🇮🇩 36.89.229.97:59707 5093ms ID [PT. Telekomunikasi Indonesia]
-🇹🇭 122.155.165.191:3128 2182ms TH [CAT Telecom Public Company Limited]
+🇨🇱 186.67.230.45:3128 2359ms CL [Entel Chile S.A.]
+🇬🇧 216.176.32.79:3128 494ms GB [Rackdog, LLC]
+🇧🇷 189.4.184.34:8080 4214ms BR [Claro S.A.]
+🇳🇱 89.248.174.40:8118 1116ms NL [IP Volume inc]
+🇺🇸 167.172.239.13:3128 1721ms US [DigitalOcean, LLC]
+🇮🇩 103.156.57.86:8080 1921ms ID [PT Filltech Antar Nusa]
+🇮🇩 202.138.239.120:8888 3801ms ID [PT Melvar Lintasnusa]
+🇮🇩 139.255.21.74:8080 3798ms ID [PT. LINKNET]
+🇫🇷 188.165.59.127:3128 816ms FR [OVH ISP]
+🇹🇼 59.124.224.205:3128 2930ms TW [Chunghwa Telecom Co., Ltd.]
+🇮🇩 103.121.215.34:43520 1676ms ID [PT Parsaoran Global Datatrans]
+🇳🇱 51.15.8.75:3738 2771ms NL [Online SAS NL]
+🇹🇭 180.180.216.90:8080 2218ms TH [TOT Public Company Limited]
+🇨🇦 192.99.144.208:8080 2472ms CA [OVH SAS]
+🇷🇺 95.143.8.182:57169 5530ms RU [Avelacom Khabarovsk]
+🇷🇺 79.143.30.163:8080 7871ms RU [OOO "Network of data-centers "Selectel"]
+🇹🇭 49.231.174.182:8080 3333ms TH [Advanced Wireless Network Company Limited]
+🇧🇬 77.238.79.111:8080 4512ms BG [FIBER1]
+🇹🇭 183.88.219.206:41564 3646ms TH [Triple T Internet Company Limited]
+🇮🇩 36.89.229.97:59707 1847ms ID [PT. Telekomunikasi Indonesia]
+🇹🇭 122.155.165.191:3128 712ms TH [CAT Telecom Public Company Limited]
