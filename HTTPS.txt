@@ -1,4 +1,4 @@
-HTTP(S) Proxy list updated at 2022-05-06 21:00:01 GMT+7
+HTTP(S) Proxy list updated at 2022-05-06 22:00:01 GMT+7
 Support us:
 BTC: 1GeZeEnrV4SibfS5yDwuzY3w7n94ZE3zMQ
 ETH: 0x6dce795c56d1485213d689ef98277c9fb7e7a6d2
@@ -6,22 +6,23 @@ XMR: 8AGZWnqriYzQjq7hzoTzVWbQNvGeke8AHdk1tVHFqUtfX1oqDY632kwaSnZZqEtFzD4fZN3CUfC
 LTC: MAG1cWWEpgdviZChWvr2oyuxD61JPJ1Q43
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇺🇸 155.138.232.110:59394 986ms US [The Constant Company]
-🇷🇺 51.250.26.41:3128 860ms RU [Yandex.Cloud LLC]
-🇸🇬 167.71.207.46:8080 425ms SG [DigitalOcean, LLC]
-🇺🇸 45.63.69.252:59394 2867ms US [The Constant Company]
-🇺🇸 45.76.13.167:59394 2004ms US [The Constant Company]
-🇮🇳 13.127.170.8:3128 2080ms IN [Amazon Technologies Inc.]
-🇺🇸 167.172.239.13:3128 1469ms US [DigitalOcean, LLC]
-🇮🇹 93.185.123.154:3128 2289ms IT [Omegacom S.R.L.S.]
-🇸🇬 159.65.133.175:31280 1412ms SG [DigitalOcean, LLC]
-🇮🇳 103.105.228.134:8080 3250ms IN [Mnk Infoway Private Limited]
-🇦🇲 91.103.31.147:81 6267ms AM [MTS Armenia CJSC]
-🇮🇩 139.255.21.74:8080 3485ms ID [PT. LINKNET]
-🇮🇩 103.124.138.131:8085 4247ms ID [Global Media Data Prima]
-🇨🇦 198.144.149.82:3128 901ms CA [Netminders Server Hosting]
-🇨🇱 190.107.224.150:3128 2842ms CL [WOM S.A.]
-🇦🇷 190.220.1.173:56974 7648ms AR [AMX Argentina S.A.]
-🇷🇺 109.70.189.70:56408 6235ms RU [LTD "Elektrosvyaz"]
-🇮🇩 116.254.100.165:46675 7559ms ID [Bangun Abadi Teknologi Indonesia]
-🇹🇭 180.180.170.188:8080 3690ms TH [TOT Public Company Limited]
+🇧🇷 45.190.249.100:8080 4475ms BR [RK Telecom Provedor Internet LTDA]
+🇺🇸 155.138.232.110:59394 2999ms US [The Constant Company]
+🇸🇬 167.71.207.46:8080 468ms SG [DigitalOcean, LLC]
+🇺🇸 45.63.69.252:59394 1755ms US [The Constant Company]
+🇺🇸 45.76.13.167:59394 2840ms US [The Constant Company]
+🇮🇳 13.127.170.8:3128 1493ms IN [Amazon Technologies Inc.]
+🇨🇱 186.67.230.45:3128 4408ms CL [Entel Chile S.A.]
+🇮🇹 93.185.123.154:3128 2806ms IT [Omegacom S.R.L.S.]
+🇫🇷 147.135.134.57:5566 696ms FR [OVH SAS]
+🇹🇷 88.255.64.83:1976 3205ms TR [Turk Telekomunikasyon Anonim Sirketi]
+🇸🇬 47.74.226.8:5001 2662ms SG [Alibaba Cloud (Singapore) Private Limited]
+🇨🇦 198.144.149.82:3128 1278ms CA [Netminders Server Hosting]
+🇨🇦 158.69.64.142:9300 2436ms CA [OVH SAS]
+🏳 103.135.227.193:8181 4186ms  []
+🇮🇩 202.43.190.10:53128 1366ms ID [CEPATNET]
+🇮🇩 202.138.249.241:8000 3394ms ID [PT Melvar Lintasnusa]
+🇷🇺 79.143.30.163:8080 6382ms RU [OOO "Network of data-centers "Selectel"]
+🇸🇱 160.19.155.51:8080 3575ms SL [PCS Holdings Limited]
+🇮🇩 116.254.100.165:46675 3685ms ID [Bangun Abadi Teknologi Indonesia]
+🇹🇭 122.155.165.191:3128 1589ms TH [CAT Telecom Public Company Limited]
