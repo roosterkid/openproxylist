@@ -1,4 +1,4 @@
-HTTP(S) Proxy list updated at 2022-05-08 17:00:02 GMT+7
+HTTP(S) Proxy list updated at 2022-05-08 18:00:01 GMT+7
 Support us:
 BTC: 1GeZeEnrV4SibfS5yDwuzY3w7n94ZE3zMQ
 ETH: 0x6dce795c56d1485213d689ef98277c9fb7e7a6d2
@@ -6,20 +6,20 @@ XMR: 8AGZWnqriYzQjq7hzoTzVWbQNvGeke8AHdk1tVHFqUtfX1oqDY632kwaSnZZqEtFzD4fZN3CUfC
 LTC: MAG1cWWEpgdviZChWvr2oyuxD61JPJ1Q43
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇬🇧 51.89.33.32:20000 586ms GB [OVH SAS]
-🇫🇷 91.121.42.14:1081 5036ms FR [OVH SAS]
-🇮🇹 93.185.123.154:3128 1362ms IT [Omegacom S.R.L.S.]
-🇸🇬 159.65.133.175:31280 1347ms SG [DigitalOcean, LLC]
-🇩🇪 85.25.91.141:15333 3698ms DE [PlusServer GmbH]
-🇮🇩 202.138.239.120:8888 1607ms ID [PT Melvar Lintasnusa]
-🇰🇭 110.235.250.155:8080 3694ms KH [COGETEL Co]
-🇮🇩 103.121.215.34:43520 3783ms ID [PT Parsaoran Global Datatrans]
-🇫🇷 149.91.80.206:3128 2818ms FR [Datawire SAS]
-🇮🇩 36.67.152.213:11111 2917ms ID [PT. Telekomunikasi Indonesia]
-🇩🇪 144.91.89.245:3128 2944ms DE [Contabo GmbH]
-🇮🇩 103.76.12.42:80 2708ms ID [MORATELINDO]
-🇷🇺 79.143.30.163:8080 4417ms RU [OOO "Network of data-centers "Selectel"]
-🇦🇫 180.94.64.114:8080 6960ms AF [Government Communications Network]
-🇷🇺 109.70.189.70:56408 6263ms RU [LTD "Elektrosvyaz"]
-🇮🇩 116.254.100.165:46675 1533ms ID [Bangun Abadi Teknologi Indonesia]
-🇹🇭 180.180.170.188:8080 3690ms TH [TOT Public Company Limited]
+🇬🇧 51.89.33.32:20000 368ms GB [OVH SAS]
+🇧🇷 45.190.249.100:8080 4973ms BR [RK Telecom Provedor Internet LTDA]
+🇨🇱 186.67.230.45:3128 2621ms CL [Entel Chile S.A.]
+🇺🇸 167.172.239.13:3128 1811ms US [DigitalOcean, LLC]
+🇸🇬 159.65.133.175:31280 1491ms SG [DigitalOcean, LLC]
+🇧🇷 186.208.81.214:3129 4937ms BR [RazaoInfo Internet Ltda]
+🇰🇭 110.235.250.155:8080 2057ms KH [COGETEL Co]
+🇮🇩 103.122.32.10:8080 1657ms ID [PT. Mora Telematika Indonesia]
+🇮🇩 103.124.138.131:8085 3531ms ID [Global Media Data Prima]
+🇨🇱 190.107.224.150:3128 2529ms CL [WOM S.A.]
+🇮🇳 125.17.4.72:8080 2141ms IN [BHARTI]
+🇧🇷 170.81.37.54:8080 3001ms BR [M2B - SOLUCOES EM TECNOLOGIA EIRELLI ME]
+🇮🇩 103.76.12.42:80 4971ms ID [MORATELINDO]
+🇺🇸 186.233.186.60:8080 2411ms US [Maxihost LTDA]
+🇷🇺 79.143.30.163:8080 3473ms RU [OOO "Network of data-centers "Selectel"]
+🇦🇫 180.94.64.114:8080 3451ms AF [Government Communications Network]
+🇹🇭 180.180.170.188:8080 7738ms TH [TOT Public Company Limited]
