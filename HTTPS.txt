@@ -1,4 +1,4 @@
-HTTP(S) Proxy list updated at 2022-05-08 19:00:01 GMT+7
+HTTP(S) Proxy list updated at 2022-05-08 20:00:01 GMT+7
 Support us:
 BTC: 1GeZeEnrV4SibfS5yDwuzY3w7n94ZE3zMQ
 ETH: 0x6dce795c56d1485213d689ef98277c9fb7e7a6d2
@@ -6,22 +6,21 @@ XMR: 8AGZWnqriYzQjq7hzoTzVWbQNvGeke8AHdk1tVHFqUtfX1oqDY632kwaSnZZqEtFzD4fZN3CUfC
 LTC: MAG1cWWEpgdviZChWvr2oyuxD61JPJ1Q43
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇬🇧 51.89.33.32:20000 2542ms GB [OVH SAS]
-🇧🇷 201.140.208.146:3128 2920ms BR [Norte Line Telecomunicacoes Ltda.]
-🇺🇸 167.172.239.13:3128 2991ms US [DigitalOcean, LLC]
-🇸🇬 159.65.133.175:31280 1119ms SG [DigitalOcean, LLC]
-🇮🇩 202.180.20.11:55443 2357ms ID [PT. HIPERNET INDODATA]
-🇮🇩 203.123.57.154:63123 3858ms ID [PT Maxindo Mitra Solusi]
-🇨🇴 190.8.248.12:3128 4916ms CO [Telmex Colombia S.A.]
-🇮🇶 65.20.191.201:41890 6518ms IQ [EarthLink Ltd. Communications&Internet Services]
-🇰🇭 110.235.250.155:8080 785ms KH [COGETEL Co]
-🇦🇷 45.5.154.42:8080 3234ms AR [Intersat S.A]
-🇫🇷 188.165.59.127:3128 806ms FR [OVH ISP]
-🇻🇪 190.205.42.42:999 4448ms VE [CANTV Servicios, Venezuela]
-🇮🇳 125.17.4.72:8080 1686ms IN [BHARTI]
-🇩🇪 144.91.89.245:3128 1844ms DE [Contabo GmbH]
-🇺🇸 186.233.186.60:8080 1665ms US [Maxihost LTDA]
-🇦🇫 180.94.64.114:8080 4873ms AF [Government Communications Network]
-🇲🇽 187.243.250.197:3128 3292ms MX [Mega Cable, S.A. de C.V.]
-🇷🇺 109.70.189.70:56408 6138ms RU [LTD "Elektrosvyaz"]
-🇹🇭 122.155.165.191:3128 2735ms TH [CAT Telecom Public Company Limited]
+🇬🇧 51.89.33.32:20000 2009ms GB [OVH SAS]
+🇺🇸 3.19.179.179:8000 4764ms US [Amazon.com, Inc.]
+🇺🇸 167.172.239.13:3128 2452ms US [DigitalOcean, LLC]
+🇧🇷 177.53.221.89:39310 3874ms BR [Sergipeweb Provedores De Internet Ltda]
+🇰🇭 110.235.250.155:8080 2077ms KH [COGETEL Co]
+🇫🇷 188.165.59.127:3128 807ms FR [OVH ISP]
+🇺🇸 206.125.41.130:443 1266ms US [Multacom Corporation]
+🇮🇩 103.121.215.34:43520 7904ms ID [PT Parsaoran Global Datatrans]
+🇻🇪 190.205.42.42:999 4067ms VE [CANTV Servicios, Venezuela]
+🇮🇩 117.54.238.62:8080 3382ms ID [PT IndoInternet]
+🇦🇷 190.220.1.173:56974 5276ms AR [AMX Argentina S.A.]
+🇮🇳 125.17.4.72:8080 1913ms IN [BHARTI]
+🇩🇪 144.91.89.245:3128 800ms DE [Contabo GmbH]
+🇲🇽 189.220.227.6:999 4023ms MX [Cablemas Telecomunicaciones SA de CV]
+🇦🇫 180.94.64.114:8080 4641ms AF [Government Communications Network]
+🇷🇺 109.70.189.70:56408 4059ms RU [LTD "Elektrosvyaz"]
+🇮🇩 36.89.229.97:59707 1478ms ID [PT. Telekomunikasi Indonesia]
+🇹🇭 180.180.170.188:8080 856ms TH [TOT Public Company Limited]
