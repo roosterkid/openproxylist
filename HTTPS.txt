@@ -1,4 +1,4 @@
-HTTP(S) Proxy list updated at 2022-05-08 21:00:01 GMT+7
+HTTP(S) Proxy list updated at 2022-05-08 22:00:01 GMT+7
 Support us:
 BTC: 1GeZeEnrV4SibfS5yDwuzY3w7n94ZE3zMQ
 ETH: 0x6dce795c56d1485213d689ef98277c9fb7e7a6d2
@@ -6,20 +6,24 @@ XMR: 8AGZWnqriYzQjq7hzoTzVWbQNvGeke8AHdk1tVHFqUtfX1oqDY632kwaSnZZqEtFzD4fZN3CUfC
 LTC: MAG1cWWEpgdviZChWvr2oyuxD61JPJ1Q43
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇬🇧 51.89.33.32:20000 434ms GB [OVH SAS]
-🇫🇷 147.135.134.57:5566 2432ms FR [OVH SAS]
-🇲🇽 201.120.27.15:53281 2686ms MX [Uninet S.A. de C.V]
-🇫🇷 51.159.3.223:443 1561ms FR [SCALEWAY]
-🇰🇭 110.235.250.155:8080 4179ms KH [COGETEL Co]
-🇮🇩 139.255.21.74:8080 4880ms ID [PT. LINKNET]
-🇺🇸 206.125.41.130:443 1173ms US [Multacom Corporation]
-🇮🇩 103.124.138.131:8085 4337ms ID [Global Media Data Prima]
-🇻🇪 190.205.42.42:999 3258ms VE [CANTV Servicios, Venezuela]
-🇮🇳 125.17.4.72:8080 2142ms IN [BHARTI]
-🇩🇪 144.91.89.245:3128 1685ms DE [Contabo GmbH]
-🇮🇩 112.78.170.251:8080 3778ms ID [BIZNET]
-🇦🇫 180.94.64.114:8080 3386ms AF [Government Communications Network]
-🇷🇺 109.70.189.70:56408 4267ms RU [LTD "Elektrosvyaz"]
-🇮🇩 116.254.100.165:46675 709ms ID [Bangun Abadi Teknologi Indonesia]
-🇮🇩 36.89.229.97:59707 3808ms ID [PT. Telekomunikasi Indonesia]
-🇹🇭 122.155.165.191:3128 1563ms TH [CAT Telecom Public Company Limited]
+🇬🇧 51.89.33.32:20000 920ms GB [OVH SAS]
+🇮🇳 13.127.170.8:3128 1952ms IN [Amazon Technologies Inc.]
+🇵🇰 103.4.94.12:3128 2679ms PK [HEC]
+🇺🇸 167.172.239.13:3128 2433ms US [DigitalOcean, LLC]
+🇫🇷 51.159.3.223:443 2267ms FR [SCALEWAY]
+🇰🇭 110.235.250.155:8080 860ms KH [COGETEL Co]
+🇺🇸 206.125.41.130:443 2614ms US [Multacom Corporation]
+🇮🇩 203.153.125.242:8080 4804ms ID [GMNUSANTARA]
+🇮🇩 103.121.215.34:43520 3742ms ID [PT Parsaoran Global Datatrans]
+🇻🇪 190.205.42.42:999 6415ms VE [CANTV Servicios, Venezuela]
+🇩🇪 85.195.104.71:80 3417ms DE [Host Europe GmbH]
+🇮🇩 103.36.11.17:8181 4727ms ID [PT Awinet Global Mandiri]
+🇮🇳 125.17.4.72:8080 2170ms IN [BHARTI]
+🇨🇦 158.69.64.142:9300 1917ms CA [OVH SAS]
+🇮🇩 36.95.142.26:8080 498ms ID [PT. Telekomunikasi Indonesia]
+🇩🇪 144.91.89.245:3128 2305ms DE [Contabo GmbH]
+🇺🇦 93.171.224.49:8080 2952ms UA [PE TV and Radio Company Kentavr-TV]
+🇮🇳 175.101.80.145:8080 1716ms IN [ExcellMedia Pvt Ltd]
+🇮🇩 112.78.170.251:8080 665ms ID [BIZNET]
+🇮🇩 139.255.74.125:8080 4097ms ID [PT. LINKNET]
+🇹🇭 180.180.170.188:8080 881ms TH [TOT Public Company Limited]
