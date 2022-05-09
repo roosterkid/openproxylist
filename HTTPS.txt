@@ -1,4 +1,4 @@
-HTTP(S) Proxy list updated at 2022-05-09 21:00:02 GMT+7
+HTTP(S) Proxy list updated at 2022-05-09 22:00:02 GMT+7
 Support us:
 BTC: 1GeZeEnrV4SibfS5yDwuzY3w7n94ZE3zMQ
 ETH: 0x6dce795c56d1485213d689ef98277c9fb7e7a6d2
@@ -6,24 +6,16 @@ XMR: 8AGZWnqriYzQjq7hzoTzVWbQNvGeke8AHdk1tVHFqUtfX1oqDY632kwaSnZZqEtFzD4fZN3CUfC
 LTC: MAG1cWWEpgdviZChWvr2oyuxD61JPJ1Q43
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇨🇦 172.105.6.190:3128 2956ms CA [Linode, LLC]
-🇮🇩 139.255.199.248:8080 1470ms ID [PT. First Media, Tbk]
-🇬🇧 51.89.33.32:20000 868ms GB [OVH SAS]
-🇮🇳 13.127.170.8:3128 1219ms IN [Amazon Technologies Inc.]
-🇨🇱 186.67.230.45:3128 2884ms CL [Entel Chile S.A.]
-🇮🇩 103.160.41.54:8085 2749ms ID [PT Wistel Teknologi Solusi]
-🇮🇩 114.4.104.254:3128 3995ms ID [PT. INDOSAT Tbk]
-🇺🇸 167.172.239.13:3128 3653ms US [DigitalOcean, LLC]
-🇰🇭 110.235.250.155:8080 886ms KH [COGETEL Co]
-🇮🇩 103.36.11.17:8181 2182ms ID [PT Awinet Global Mandiri]
-🇨🇱 190.107.224.150:3128 1987ms CL [WOM S.A.]
-🏳 93.171.224.42:8080 2958ms  []
-🇸🇬 194.233.69.90:443 3556ms SG [Contabo Asia Private Limited]
-🇺🇦 93.171.224.62:8080 3682ms UA [PE TV and Radio Company Kentavr-TV]
-🇮🇩 117.102.87.66:8080 2698ms ID [Biznet Networks]
-🇷🇺 79.143.30.163:8080 6348ms RU [OOO "Network of data-centers "Selectel"]
-🇮🇳 182.71.146.148:8080 1850ms IN [Bharti Airtel]
-🇧🇬 77.238.79.111:8080 4300ms BG [FIBER1]
-🇮🇩 182.23.107.210:3128 4377ms ID [PT Aplikanusa Lintasarta]
-🇮🇩 202.152.51.44:8080 1667ms ID [Network Access Provider and Internet Service Provider]
-🇹🇭 122.155.165.191:3128 1452ms TH [CAT Telecom Public Company Limited]
+🇺🇸 68.183.128.165:3128 2616ms US [DigitalOcean, LLC]
+🇮🇩 139.255.199.248:8080 1839ms ID [PT. First Media, Tbk]
+🇬🇧 51.89.33.32:20000 1482ms GB [OVH SAS]
+🇮🇳 13.127.170.8:3128 2744ms IN [Amazon Technologies Inc.]
+🇮🇩 114.4.104.254:3128 1131ms ID [PT. INDOSAT Tbk]
+🇺🇸 167.172.239.13:3128 2625ms US [DigitalOcean, LLC]
+🇯🇵 160.16.242.164:3128 2945ms JP [SAKURA Internet Inc.]
+🇰🇭 110.235.250.155:8080 1066ms KH [COGETEL Co]
+🇮🇩 139.255.21.74:8080 4165ms ID [PT. LINKNET]
+🇺🇦 93.171.224.62:8080 5894ms UA [PE TV and Radio Company Kentavr-TV]
+🇺🇸 186.233.186.60:8080 2659ms US [Maxihost LTDA]
+🇷🇺 79.143.30.163:8080 3313ms RU [OOO "Network of data-centers "Selectel"]
+🇧🇬 77.238.79.111:8080 5808ms BG [FIBER1]
