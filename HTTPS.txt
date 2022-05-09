@@ -1,4 +1,4 @@
-HTTP(S) Proxy list updated at 2022-05-09 11:00:01 GMT+7
+HTTP(S) Proxy list updated at 2022-05-09 12:00:01 GMT+7
 Support us:
 BTC: 1GeZeEnrV4SibfS5yDwuzY3w7n94ZE3zMQ
 ETH: 0x6dce795c56d1485213d689ef98277c9fb7e7a6d2
@@ -6,17 +6,20 @@ XMR: 8AGZWnqriYzQjq7hzoTzVWbQNvGeke8AHdk1tVHFqUtfX1oqDY632kwaSnZZqEtFzD4fZN3CUfC
 LTC: MAG1cWWEpgdviZChWvr2oyuxD61JPJ1Q43
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇺🇸 68.183.128.165:3128 2112ms US [DigitalOcean, LLC]
-🇨🇦 172.105.6.190:3128 1256ms CA [Linode, LLC]
-🇬🇧 51.89.33.32:20000 728ms GB [OVH SAS]
-🇧🇷 189.112.10.242:3128 2552ms BR [ALGAR TELECOM S/A]
-🇮🇩 103.75.209.138:3128 3509ms ID [PT. Mora Telematika Indonesia]
-🇮🇩 114.4.104.254:3128 2095ms ID [PT. INDOSAT Tbk]
-🇺🇸 167.172.239.13:3128 3249ms US [DigitalOcean, LLC]
-🇸🇬 159.65.133.175:31280 1551ms SG [DigitalOcean, LLC]
-🇨🇱 190.107.224.150:3128 2495ms CL [WOM S.A.]
-🇸🇬 194.233.69.126:443 4921ms SG [Contabo Asia Private Limited]
-🇺🇦 93.171.224.62:8080 3853ms UA [PE TV and Radio Company Kentavr-TV]
-🇷🇺 79.143.30.163:8080 3088ms RU [OOO "Network of data-centers "Selectel"]
-🇹🇭 180.180.170.188:8080 966ms TH [TOT Public Company Limited]
-🇹🇭 122.155.165.191:3128 1699ms TH [CAT Telecom Public Company Limited]
+🇺🇸 149.248.5.225:59394 1731ms US [The Constant Company]
+🇺🇸 40.70.172.110:80 1607ms US [Microsoft Corporation]
+🇺🇸 144.202.116.156:59394 2400ms US [The Constant Company]
+🇬🇧 51.89.33.32:20000 304ms GB [OVH SAS]
+🇮🇳 13.127.170.8:3128 2075ms IN [Amazon Technologies Inc.]
+🇨🇱 186.67.230.45:3128 1292ms CL [Entel Chile S.A.]
+🇫🇷 91.121.42.14:1081 3120ms FR [OVH SAS]
+🇺🇸 167.172.239.13:3128 2968ms US [DigitalOcean, LLC]
+🇯🇵 164.70.122.6:3128 2686ms JP [NTT PC Communications, Inc.]
+🇰🇭 110.235.250.155:8080 7936ms KH [COGETEL Co]
+🇮🇩 103.122.32.10:8080 4486ms ID [PT. Mora Telematika Indonesia]
+🇨🇱 190.107.224.150:3128 2708ms CL [WOM S.A.]
+🇸🇬 194.233.69.90:443 2294ms SG [Contabo Asia Private Limited]
+🇸🇬 194.233.69.38:443 2556ms SG [Contabo Asia Private Limited]
+🇩🇪 144.91.89.245:3128 3551ms DE [Contabo GmbH]
+🇲🇽 189.220.227.6:999 2842ms MX [Cablemas Telecomunicaciones SA de CV]
+🇷🇺 79.143.30.163:8080 4841ms RU [OOO "Network of data-centers "Selectel"]
