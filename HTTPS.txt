@@ -1,4 +1,4 @@
-HTTP(S) Proxy list updated at 2022-05-09 10:00:01 GMT+7
+HTTP(S) Proxy list updated at 2022-05-09 11:00:01 GMT+7
 Support us:
 BTC: 1GeZeEnrV4SibfS5yDwuzY3w7n94ZE3zMQ
 ETH: 0x6dce795c56d1485213d689ef98277c9fb7e7a6d2
@@ -6,21 +6,17 @@ XMR: 8AGZWnqriYzQjq7hzoTzVWbQNvGeke8AHdk1tVHFqUtfX1oqDY632kwaSnZZqEtFzD4fZN3CUfC
 LTC: MAG1cWWEpgdviZChWvr2oyuxD61JPJ1Q43
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇺🇸 68.183.128.165:3128 2498ms US [DigitalOcean, LLC]
-🇺🇸 149.248.5.225:59394 1820ms US [The Constant Company]
-🇺🇸 40.70.172.110:80 832ms US [Microsoft Corporation]
-🇩🇪 217.79.181.49:3128 2832ms DE [myLoc managed IT AG]
-🇮🇳 13.127.170.8:3128 2970ms IN [Amazon Technologies Inc.]
-🇨🇱 186.67.230.45:3128 3664ms CL [Entel Chile S.A.]
-🇮🇩 114.4.104.254:3128 1777ms ID [PT. INDOSAT Tbk]
-🇺🇸 167.172.239.13:3128 1518ms US [DigitalOcean, LLC]
-🇸🇬 159.65.133.175:31280 1184ms SG [DigitalOcean, LLC]
-🇮🇹 149.154.157.17:5678 1728ms IT [ONE ON CDLAN SRL]
-🇮🇩 139.255.21.74:8080 4598ms ID [PT. LINKNET]
-🇨🇱 190.107.224.150:3128 2716ms CL [WOM S.A.]
-🇰🇷 117.20.216.218:8080 1179ms KR [HYUNDAI COMMUNICATIONS & NETWORK]
-🇩🇪 144.91.89.245:3128 3422ms DE [Contabo GmbH]
-🇮🇩 118.97.164.19:8080 3623ms ID [PT. TELKOM INDONESIA]
-🇮🇳 202.62.67.209:53281 4776ms IN [CityOnline Services]
-🇹🇭 180.180.170.188:8080 1939ms TH [TOT Public Company Limited]
-🇹🇭 122.155.165.191:3128 1786ms TH [CAT Telecom Public Company Limited]
+🇺🇸 68.183.128.165:3128 2112ms US [DigitalOcean, LLC]
+🇨🇦 172.105.6.190:3128 1256ms CA [Linode, LLC]
+🇬🇧 51.89.33.32:20000 728ms GB [OVH SAS]
+🇧🇷 189.112.10.242:3128 2552ms BR [ALGAR TELECOM S/A]
+🇮🇩 103.75.209.138:3128 3509ms ID [PT. Mora Telematika Indonesia]
+🇮🇩 114.4.104.254:3128 2095ms ID [PT. INDOSAT Tbk]
+🇺🇸 167.172.239.13:3128 3249ms US [DigitalOcean, LLC]
+🇸🇬 159.65.133.175:31280 1551ms SG [DigitalOcean, LLC]
+🇨🇱 190.107.224.150:3128 2495ms CL [WOM S.A.]
+🇸🇬 194.233.69.126:443 4921ms SG [Contabo Asia Private Limited]
+🇺🇦 93.171.224.62:8080 3853ms UA [PE TV and Radio Company Kentavr-TV]
+🇷🇺 79.143.30.163:8080 3088ms RU [OOO "Network of data-centers "Selectel"]
+🇹🇭 180.180.170.188:8080 966ms TH [TOT Public Company Limited]
+🇹🇭 122.155.165.191:3128 1699ms TH [CAT Telecom Public Company Limited]
