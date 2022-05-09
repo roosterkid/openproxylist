@@ -1,4 +1,4 @@
-HTTP(S) Proxy list updated at 2022-05-09 15:00:01 GMT+7
+HTTP(S) Proxy list updated at 2022-05-09 16:00:01 GMT+7
 Support us:
 BTC: 1GeZeEnrV4SibfS5yDwuzY3w7n94ZE3zMQ
 ETH: 0x6dce795c56d1485213d689ef98277c9fb7e7a6d2
@@ -6,16 +6,16 @@ XMR: 8AGZWnqriYzQjq7hzoTzVWbQNvGeke8AHdk1tVHFqUtfX1oqDY632kwaSnZZqEtFzD4fZN3CUfC
 LTC: MAG1cWWEpgdviZChWvr2oyuxD61JPJ1Q43
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇺🇸 40.70.172.110:80 4821ms US [Microsoft Corporation]
-🇮🇩 139.255.199.248:8080 2724ms ID [PT. First Media, Tbk]
-🇬🇧 51.89.33.32:20000 354ms GB [OVH SAS]
-🇨🇱 186.67.230.45:3128 4599ms CL [Entel Chile S.A.]
-🇮🇩 114.4.104.254:3128 1420ms ID [PT. INDOSAT Tbk]
-🇧🇷 186.208.81.214:3129 4682ms BR [RazaoInfo Internet Ltda]
-🇰🇭 110.235.250.155:8080 931ms KH [COGETEL Co]
-🇮🇩 103.124.138.131:8085 2542ms ID [Global Media Data Prima]
-🇨🇱 190.107.224.150:3128 2384ms CL [WOM S.A.]
-🇩🇪 144.91.89.245:3128 1847ms DE [Contabo GmbH]
-🇺🇦 93.171.224.62:8080 5919ms UA [PE TV and Radio Company Kentavr-TV]
-🇮🇩 118.97.47.249:55443 4628ms ID [PT. TELKOM INDONESIA]
-🇮🇳 182.71.146.148:8080 7881ms IN [Bharti Airtel]
+🇺🇸 40.70.172.110:80 1712ms US [Microsoft Corporation]
+🇩🇪 217.79.181.49:3128 2223ms DE [myLoc managed IT AG]
+🇬🇧 51.89.33.32:20000 669ms GB [OVH SAS]
+🇫🇮 95.217.207.66:3128 711ms FI [Hetzner Online GmbH]
+🇨🇱 186.67.230.45:3128 4601ms CL [Entel Chile S.A.]
+🇸🇬 159.65.133.175:31280 1457ms SG [DigitalOcean, LLC]
+🇰🇭 110.235.250.155:8080 7847ms KH [COGETEL Co]
+🇧🇩 103.166.38.1:8080 3420ms BD [Fast Network]
+🇩🇪 144.91.89.245:3128 1783ms DE [Contabo GmbH]
+🇷🇺 79.143.30.163:8080 6269ms RU [OOO "Network of data-centers "Selectel"]
+🇹🇭 1.10.141.220:54620 3375ms TH [TOT Public Company Limited]
+🇮🇩 182.253.108.186:8080 3423ms ID [BIZNET]
+🇹🇭 122.155.165.191:3128 834ms TH [CAT Telecom Public Company Limited]
