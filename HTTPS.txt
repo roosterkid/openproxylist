@@ -1,4 +1,4 @@
-HTTP(S) Proxy list updated at 2022-05-11 04:00:01 GMT+7
+HTTP(S) Proxy list updated at 2022-05-11 05:00:01 GMT+7
 Support us:
 BTC: 1GeZeEnrV4SibfS5yDwuzY3w7n94ZE3zMQ
 ETH: 0x6dce795c56d1485213d689ef98277c9fb7e7a6d2
@@ -6,27 +6,15 @@ XMR: 8AGZWnqriYzQjq7hzoTzVWbQNvGeke8AHdk1tVHFqUtfX1oqDY632kwaSnZZqEtFzD4fZN3CUfC
 LTC: MAG1cWWEpgdviZChWvr2oyuxD61JPJ1Q43
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇮🇱 129.159.148.238:3128 1481ms IL [Oracle Corporation]
-🇳🇱 195.2.92.103:3128 1353ms NL [Hosting technology LTD]
-🇩🇪 217.79.181.49:3128 1412ms DE [myLoc managed IT AG]
-🇺🇸 3.19.179.179:8000 2343ms US [Amazon.com, Inc.]
-🇸🇬 139.99.88.19:8080 389ms SG [OVH SAS]
-🇺🇸 167.172.239.13:3128 2080ms US [DigitalOcean, LLC]
-🇫🇷 154.49.216.33:3128 2403ms FR [Cogent Communications]
-🇸🇬 159.65.133.175:31280 1267ms SG [DigitalOcean, LLC]
-🇧🇷 177.53.221.89:39310 3949ms BR [Sergipeweb Provedores De Internet Ltda]
-🇰🇭 110.235.250.155:8080 4284ms KH [COGETEL Co]
-🇺🇸 174.139.41.164:9090 1564ms US [Krypt Technologies]
-🇮🇩 103.122.32.10:8080 2651ms ID [PT. Mora Telematika Indonesia]
-🇫🇷 188.165.59.127:3128 471ms FR [OVH ISP]
-🇮🇩 103.124.138.131:8085 4693ms ID [Global Media Data Prima]
-🇸🇬 194.233.73.109:443 1379ms SG [Contabo Asia Private Limited]
-🇮🇳 125.17.4.72:8080 1535ms IN [BHARTI]
-🇹🇷 95.0.206.19:8080 3170ms TR [Turk Telekomunikasyon Anonim Sirketi]
-🇺🇸 51.81.32.81:8888 1914ms US [OVH US LLC]
-🇮🇳 1.186.139.9:54754 3315ms IN [D-VoiS Broadband Private Limited]
-🇮🇩 103.76.12.42:80 1749ms ID [MORATELINDO]
-🇲🇽 189.220.227.6:999 6001ms MX [Cablemas Telecomunicaciones SA de CV]
-🇷🇺 79.143.30.163:8080 6373ms RU [OOO "Network of data-centers "Selectel"]
-🇧🇷 201.28.120.142:3128 2199ms BR [Vivo]
-🇮🇩 118.97.164.19:8080 3888ms ID [PT. TELKOM INDONESIA]
+🇮🇱 129.159.148.238:3128 311ms IL [Oracle Corporation]
+🇩🇪 164.68.117.160:3128 1264ms DE [Contabo GmbH]
+🇺🇸 167.160.89.13:3128 1569ms US [Dedicated.com]
+🇩🇪 217.79.181.49:3128 2329ms DE [myLoc managed IT AG]
+🇨🇱 186.67.230.45:3128 2227ms CL [Entel Chile S.A.]
+🇺🇸 167.172.239.13:3128 1554ms US [DigitalOcean, LLC]
+🇫🇷 154.49.216.33:3128 2047ms FR [Cogent Communications]
+🇧🇷 186.248.89.6:5005 2183ms BR [AMERICAN TOWER DO BRASIL-COMUNICAÔÔO MULTIMÔDIA LT]
+🇫🇷 188.165.59.127:3128 743ms FR [OVH ISP]
+🇷🇺 95.171.5.144:1256 4047ms RU [Universum bit Ltd.]
+🇩🇪 144.91.89.245:3128 1494ms DE [Contabo GmbH]
+🇹🇭 1.10.141.220:54620 4007ms TH [TOT Public Company Limited]
