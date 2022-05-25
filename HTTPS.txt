@@ -1,4 +1,4 @@
-HTTP(S) Proxy list updated at 2022-05-25 21:00:01 GMT+7
+HTTP(S) Proxy list updated at 2022-05-25 22:00:01 GMT+7
 Support us:
 BTC: 1GeZeEnrV4SibfS5yDwuzY3w7n94ZE3zMQ
 ETH: 0x6dce795c56d1485213d689ef98277c9fb7e7a6d2
@@ -6,25 +6,16 @@ XMR: 8AGZWnqriYzQjq7hzoTzVWbQNvGeke8AHdk1tVHFqUtfX1oqDY632kwaSnZZqEtFzD4fZN3CUfC
 LTC: MAG1cWWEpgdviZChWvr2oyuxD61JPJ1Q43
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇯🇵 20.222.136.61:8000 2085ms JP [Microsoft Corporation]
-🇺🇸 18.218.45.35:3128 2218ms US [Amazon.com, Inc.]
-🇩🇪 136.243.37.84:9090 1734ms DE [Hetzner Online GmbH]
-🇺🇸 162.150.62.93:443 3214ms US [Comcast Cable Communications, LLC]
-🇬🇧 141.147.95.36:3128 2650ms GB [Oracle Corporation]
-🇺🇸 162.150.62.96:443 2836ms US [Comcast Cable Communications, LLC]
-🇮🇹 93.185.123.154:3128 3932ms IT [Omegacom S.R.L.S.]
-🇳🇱 209.250.253.162:59394 1702ms NL [The Constant Company]
-🇸🇬 159.65.133.175:31280 1248ms SG [DigitalOcean, LLC]
-🇸🇬 157.230.34.219:3128 2161ms SG [DigitalOcean, LLC]
-🇮🇩 139.255.21.74:8080 1644ms ID [PT. LINKNET]
-🇮🇩 103.122.32.10:8080 3439ms ID [PT. Mora Telematika Indonesia]
-🇩🇪 85.195.104.71:80 4302ms DE [Host Europe GmbH]
-🇮🇩 117.54.238.62:8080 4727ms ID [PT IndoInternet]
-🇮🇩 103.18.77.237:8080 2533ms ID [PT Usaha Adi Sanggoro]
-🇮🇩 103.36.11.17:8181 2821ms ID [PT Awinet Global Mandiri]
-🇮🇩 103.76.12.42:80 2602ms ID [MORATELINDO]
-🇮🇳 43.227.129.65:83 3202ms IN [Apple Broadband Services Pvt.ltd]
-🇦🇫 180.94.64.114:8080 7865ms AF [Government Communications Network]
-🇧🇩 180.211.183.2:8080 2290ms BD [Bangladesh Telecommunications Company Ltd.]
-🇹🇭 180.180.170.188:8080 2641ms TH [TOT Public Company Limited]
-🇹🇭 122.155.165.191:3128 2653ms TH [CAT Telecom Public Company Limited]
+🇯🇵 20.222.136.61:8000 957ms JP [Microsoft Corporation]
+🇧🇷 177.141.99.50:8080 2668ms BR [Claro S.A.]
+🇺🇸 18.218.45.35:3128 2031ms US [Amazon.com, Inc.]
+🇩🇪 136.243.37.84:9090 798ms DE [Hetzner Online GmbH]
+🇺🇸 167.172.239.13:3128 1311ms US [DigitalOcean, LLC]
+🇳🇱 209.250.253.162:59394 669ms NL [The Constant Company]
+🇧🇩 45.125.222.97:36110 2538ms BD [SSD-TECH]
+🇮🇩 103.76.12.42:80 2639ms ID [MORATELINDO]
+🇧🇬 77.238.79.111:8080 4836ms BG [FIBER1]
+🇮🇩 116.254.100.165:46675 1683ms ID [Bangun Abadi Teknologi Indonesia]
+🇬🇳 102.176.160.70:61279 5263ms GN [2nd RO]
+🇹🇭 180.180.170.188:8080 4148ms TH [TOT Public Company Limited]
+🇹🇭 122.155.165.191:3128 1738ms TH [CAT Telecom Public Company Limited]
