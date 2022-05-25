@@ -1,4 +1,4 @@
-HTTP(S) Proxy list updated at 2022-05-25 19:00:01 GMT+7
+HTTP(S) Proxy list updated at 2022-05-25 20:00:01 GMT+7
 Support us:
 BTC: 1GeZeEnrV4SibfS5yDwuzY3w7n94ZE3zMQ
 ETH: 0x6dce795c56d1485213d689ef98277c9fb7e7a6d2
@@ -6,22 +6,21 @@ XMR: 8AGZWnqriYzQjq7hzoTzVWbQNvGeke8AHdk1tVHFqUtfX1oqDY632kwaSnZZqEtFzD4fZN3CUfC
 LTC: MAG1cWWEpgdviZChWvr2oyuxD61JPJ1Q43
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇯🇵 20.222.136.61:8000 833ms JP [Microsoft Corporation]
-🇧🇷 177.141.99.50:8080 2642ms BR [Claro S.A.]
-🇺🇸 18.218.45.35:3128 2237ms US [Amazon.com, Inc.]
-🇩🇪 136.243.37.84:9090 891ms DE [Hetzner Online GmbH]
-🇧🇷 189.90.118.238:3128 2581ms BR [Brasilnet TelecomunicaÔÔes Ltda ME]
-🇸🇬 139.59.249.244:7777 4939ms SG [DigitalOcean, LLC]
-🇵🇰 103.4.94.12:3128 2842ms PK [HEC]
-🇺🇸 167.172.239.13:3128 1926ms US [DigitalOcean, LLC]
-🇮🇹 93.185.123.154:3128 1038ms IT [Omegacom S.R.L.S.]
-🇳🇱 209.250.253.162:59394 2483ms NL [The Constant Company]
-🇰🇭 110.235.250.155:8080 1742ms KH [COGETEL Co]
-🇹🇼 59.124.224.205:3128 4419ms TW [Chunghwa Telecom Co., Ltd.]
-🇮🇩 103.130.61.61:8081 3416ms ID [Fastama]
-🇺🇸 186.233.186.60:8080 1639ms US [Maxihost LTDA]
-🇧🇬 77.238.79.111:8080 3482ms BG [FIBER1]
-🇮🇩 116.254.100.165:46675 995ms ID [Bangun Abadi Teknologi Indonesia]
-🇬🇳 102.176.160.70:61279 5336ms GN [2nd RO]
-🇹🇭 122.155.165.191:3128 3702ms TH [CAT Telecom Public Company Limited]
-🇫🇷 51.159.24.172:3167 1486ms FR [Online S.A.S.]
+🇯🇵 20.222.136.61:8000 984ms JP [Microsoft Corporation]
+🇩🇪 136.243.37.84:9090 604ms DE [Hetzner Online GmbH]
+🇳🇱 185.235.43.196:8118 2139ms NL [Softqloud GmbH]
+🇵🇰 103.4.94.12:3128 2859ms PK [HEC]
+🇮🇹 93.185.123.154:3128 2476ms IT [Omegacom S.R.L.S.]
+🇳🇱 209.250.253.162:59394 1581ms NL [The Constant Company]
+🇸🇬 157.230.34.219:3128 2937ms SG [DigitalOcean, LLC]
+🇹🇼 59.124.224.205:3128 2659ms TW [Chunghwa Telecom Co., Ltd.]
+🇲🇽 187.251.138.81:3128 4149ms MX [Total Play Telecomunicaciones SA De CV]
+🇨🇱 190.107.224.150:3128 2953ms CL [WOM S.A.]
+🇮🇳 175.101.80.145:8080 4086ms IN [ExcellMedia Pvt Ltd]
+🇺🇸 186.233.186.60:8080 2666ms US [Maxihost LTDA]
+🇷🇺 79.143.30.163:8080 4409ms RU [OOO "Network of data-centers "Selectel"]
+🇦🇫 180.94.64.114:8080 6817ms AF [Government Communications Network]
+🇮🇳 43.249.224.170:83 4911ms IN [Equinox Consulting PVT LTD]
+🇧🇬 77.238.79.111:8080 6891ms BG [FIBER1]
+🇹🇭 180.180.170.188:8080 1178ms TH [TOT Public Company Limited]
+🇹🇭 122.155.165.191:3128 1563ms TH [CAT Telecom Public Company Limited]
