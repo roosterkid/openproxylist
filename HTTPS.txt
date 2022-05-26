@@ -1,4 +1,4 @@
-HTTP(S) Proxy list updated at 2022-05-27 01:00:01 GMT+7
+HTTP(S) Proxy list updated at 2022-05-27 02:00:01 GMT+7
 Support us:
 BTC: 1GeZeEnrV4SibfS5yDwuzY3w7n94ZE3zMQ
 ETH: 0x6dce795c56d1485213d689ef98277c9fb7e7a6d2
@@ -6,22 +6,18 @@ XMR: 8AGZWnqriYzQjq7hzoTzVWbQNvGeke8AHdk1tVHFqUtfX1oqDY632kwaSnZZqEtFzD4fZN3CUfC
 LTC: MAG1cWWEpgdviZChWvr2oyuxD61JPJ1Q43
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇨🇴 51.161.51.196:9090 2431ms CO [OVH Hosting]
-🇧🇷 177.141.99.50:8080 3533ms BR [Claro S.A.]
-🇩🇪 136.243.37.84:9090 1436ms DE [Hetzner Online GmbH]
-🇺🇸 162.150.62.93:443 2487ms US [Comcast Cable Communications, LLC]
-🇮🇩 114.4.104.254:3128 734ms ID [PT. INDOSAT Tbk]
-🇮🇹 93.185.123.154:3128 1179ms IT [Omegacom S.R.L.S.]
-🇮🇩 36.93.2.50:8080 1742ms ID [Telekomunikasi Indonesia]
-🇵🇾 190.128.231.146:8080 2842ms PY [Telecel S.A.]
-🇮🇩 103.168.44.118:8080 4206ms ID [PT CYB Media Group]
-🇪🇨 45.189.112.225:999 3177ms EC [Anibal Humberto Enriquez Moncayo(Comunicate)]
-🇮🇳 125.99.114.105:40390 2808ms IN [Hathway IP over Cable Internet Access]
-🇨🇦 167.114.96.27:9300 2097ms CA [OVH SAS]
-🏳 103.135.227.193:8181 1187ms  []
-🇺🇦 93.171.224.63:8080 3853ms UA [PE TV and Radio Company Kentavr-TV]
-🇮🇩 36.67.152.213:11111 3196ms ID [PT. Telekomunikasi Indonesia]
-🇮🇳 125.62.198.65:83 3287ms IN [VOL BROADBAND]
-🇷🇺 79.143.30.163:8080 4215ms RU [OOO "Network of data-centers "Selectel"]
-🇹🇭 49.0.82.190:8080 1425ms TH [AIS-Fibre]
-🇹🇭 122.155.165.191:3128 1836ms TH [CAT Telecom Public Company Limited]
+🇺🇸 47.184.190.251:3128 2337ms US [Frontier Communications Solutions]
+🇩🇪 136.243.37.84:9090 992ms DE [Hetzner Online GmbH]
+🇧🇷 45.190.249.100:8080 4240ms BR [RK Telecom Provedor Internet LTDA]
+🇩🇪 138.201.125.229:8118 1480ms DE [Hetzner Online GmbH]
+🇮🇹 93.185.123.154:3128 702ms IT [Omegacom S.R.L.S.]
+🇺🇸 20.47.108.204:8888 1550ms US [Microsoft Corporation]
+🇺🇦 93.171.224.63:8080 3849ms UA [PE TV and Radio Company Kentavr-TV]
+🇯🇵 133.242.146.103:8000 2200ms JP [SAKURA Internet Inc.]
+🇹🇭 180.180.216.90:8080 3772ms TH [TOT Public Company Limited]
+🇺🇸 186.233.186.60:8080 2519ms US [Maxihost LTDA]
+🇷🇺 95.143.8.182:57169 3688ms RU [Avelacom Khabarovsk]
+🇮🇩 124.158.175.19:8080 4509ms ID [ICON+]
+🇮🇩 182.253.191.132:8080 3788ms ID [BIZNET]
+🇹🇭 49.0.82.190:8080 1362ms TH [AIS-Fibre]
+🇧🇷 179.189.125.222:8080 3200ms BR [IP CARRIER BRASIL]
