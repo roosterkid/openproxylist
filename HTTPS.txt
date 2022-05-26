@@ -1,4 +1,4 @@
-HTTP(S) Proxy list updated at 2022-05-27 00:00:01 GMT+7
+HTTP(S) Proxy list updated at 2022-05-27 01:00:01 GMT+7
 Support us:
 BTC: 1GeZeEnrV4SibfS5yDwuzY3w7n94ZE3zMQ
 ETH: 0x6dce795c56d1485213d689ef98277c9fb7e7a6d2
@@ -6,22 +6,22 @@ XMR: 8AGZWnqriYzQjq7hzoTzVWbQNvGeke8AHdk1tVHFqUtfX1oqDY632kwaSnZZqEtFzD4fZN3CUfC
 LTC: MAG1cWWEpgdviZChWvr2oyuxD61JPJ1Q43
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇺🇸 103.124.104.14:3128 1410ms US [DediPath]
-🇨🇴 181.129.14.165:999 3615ms CO [EPM Telecomunicaciones S.A. E.S.P.]
-🇺🇸 44.233.33.179:3128 1430ms US [Amazon.com, Inc.]
-🇩🇪 173.212.216.104:3128 2067ms DE [Contabo GmbH]
-🇺🇸 162.150.62.96:443 3210ms US [Comcast Cable Communications, LLC]
-🇯🇵 140.227.61.156:23456 2490ms JP [NTT PC Communications, Inc.]
-🇮🇹 93.185.123.154:3128 1272ms IT [Omegacom S.R.L.S.]
-🇰🇷 121.151.223.96:1337 2993ms KR [Korea Telecom]
-🇰🇭 110.235.250.155:8080 4050ms KH [COGETEL Co]
-🇹🇷 88.255.64.83:1976 3313ms TR [Turk Telekomunikasyon Anonim Sirketi]
-🇨🇦 51.161.51.195:9090 1523ms CA [OVH Hosting]
-🏳 103.135.227.193:8181 2361ms  []
-🇹🇭 180.180.216.90:8080 1683ms TH [TOT Public Company Limited]
-🇦🇫 180.94.64.114:8080 3886ms AF [Government Communications Network]
-🇮🇩 182.253.108.186:8080 1853ms ID [BIZNET]
-🇮🇩 182.253.191.132:8080 4621ms ID [BIZNET]
-🇹🇭 49.0.82.190:8080 1369ms TH [AIS-Fibre]
-🇧🇬 77.238.79.111:8080 6618ms BG [FIBER1]
-🇹🇭 122.155.165.191:3128 1573ms TH [CAT Telecom Public Company Limited]
+🇨🇴 51.161.51.196:9090 2431ms CO [OVH Hosting]
+🇧🇷 177.141.99.50:8080 3533ms BR [Claro S.A.]
+🇩🇪 136.243.37.84:9090 1436ms DE [Hetzner Online GmbH]
+🇺🇸 162.150.62.93:443 2487ms US [Comcast Cable Communications, LLC]
+🇮🇩 114.4.104.254:3128 734ms ID [PT. INDOSAT Tbk]
+🇮🇹 93.185.123.154:3128 1179ms IT [Omegacom S.R.L.S.]
+🇮🇩 36.93.2.50:8080 1742ms ID [Telekomunikasi Indonesia]
+🇵🇾 190.128.231.146:8080 2842ms PY [Telecel S.A.]
+🇮🇩 103.168.44.118:8080 4206ms ID [PT CYB Media Group]
+🇪🇨 45.189.112.225:999 3177ms EC [Anibal Humberto Enriquez Moncayo(Comunicate)]
+🇮🇳 125.99.114.105:40390 2808ms IN [Hathway IP over Cable Internet Access]
+🇨🇦 167.114.96.27:9300 2097ms CA [OVH SAS]
+🏳 103.135.227.193:8181 1187ms  []
+🇺🇦 93.171.224.63:8080 3853ms UA [PE TV and Radio Company Kentavr-TV]
+🇮🇩 36.67.152.213:11111 3196ms ID [PT. Telekomunikasi Indonesia]
+🇮🇳 125.62.198.65:83 3287ms IN [VOL BROADBAND]
+🇷🇺 79.143.30.163:8080 4215ms RU [OOO "Network of data-centers "Selectel"]
+🇹🇭 49.0.82.190:8080 1425ms TH [AIS-Fibre]
+🇹🇭 122.155.165.191:3128 1836ms TH [CAT Telecom Public Company Limited]
