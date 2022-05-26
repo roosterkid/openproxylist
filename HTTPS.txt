@@ -1,4 +1,4 @@
-HTTP(S) Proxy list updated at 2022-05-26 14:00:01 GMT+7
+HTTP(S) Proxy list updated at 2022-05-26 15:00:01 GMT+7
 Support us:
 BTC: 1GeZeEnrV4SibfS5yDwuzY3w7n94ZE3zMQ
 ETH: 0x6dce795c56d1485213d689ef98277c9fb7e7a6d2
@@ -6,17 +6,16 @@ XMR: 8AGZWnqriYzQjq7hzoTzVWbQNvGeke8AHdk1tVHFqUtfX1oqDY632kwaSnZZqEtFzD4fZN3CUfC
 LTC: MAG1cWWEpgdviZChWvr2oyuxD61JPJ1Q43
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇯🇵 20.222.136.61:8000 2590ms JP [Microsoft Corporation]
-🇩🇪 136.243.37.84:9090 725ms DE [Hetzner Online GmbH]
-🇺🇸 44.233.33.179:3128 2642ms US [Amazon.com, Inc.]
-🇩🇪 173.212.216.104:3128 2645ms DE [Contabo GmbH]
-🇳🇱 209.250.253.162:59394 1267ms NL [The Constant Company]
-🇰🇭 110.235.250.155:8080 2064ms KH [COGETEL Co]
-🇫🇷 188.165.59.127:3128 438ms FR [OVH ISP]
-🇫🇷 213.32.75.44:9300 1284ms FR [OVH SAS]
-🇺🇸 186.233.186.60:8080 2689ms US [Maxihost LTDA]
-🇦🇫 180.94.64.114:8080 7154ms AF [Government Communications Network]
-🇹🇭 49.0.82.190:8080 1382ms TH [AIS-Fibre]
-🇧🇬 77.238.79.111:8080 5341ms BG [FIBER1]
-🇺🇦 85.198.185.26:8080 4947ms UA [Science Production Company "Trifle" Ltd.]
-🇹🇭 122.155.165.191:3128 1855ms TH [CAT Telecom Public Company Limited]
+🇩🇪 173.212.216.104:3128 1835ms DE [Contabo GmbH]
+🇮🇩 114.4.104.254:3128 3076ms ID [PT. INDOSAT Tbk]
+🇮🇩 103.11.106.148:8181 1938ms ID [PT. Pascal Indonesia]
+🇵🇸 85.114.112.22:8080 3356ms PS [fusion services]
+🇰🇭 110.235.250.155:8080 1758ms KH [COGETEL Co]
+🇹🇷 95.0.206.19:8080 3465ms TR [Turk Telekomunikasyon Anonim Sirketi]
+🇹🇭 180.180.216.90:8080 3952ms TH [TOT Public Company Limited]
+🇷🇺 95.143.8.182:57169 3997ms RU [Avelacom Khabarovsk]
+🇦🇫 180.94.64.114:8080 4576ms AF [Government Communications Network]
+🇹🇭 49.0.82.190:8080 1387ms TH [AIS-Fibre]
+🇧🇬 77.238.79.111:8080 3771ms BG [FIBER1]
+🇹🇭 180.180.170.188:8080 1246ms TH [TOT Public Company Limited]
+🇹🇭 122.155.165.191:3128 1925ms TH [CAT Telecom Public Company Limited]
