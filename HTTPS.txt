@@ -1,4 +1,4 @@
-HTTP(S) Proxy list updated at 2022-05-26 16:00:01 GMT+7
+HTTP(S) Proxy list updated at 2022-05-26 17:00:01 GMT+7
 Support us:
 BTC: 1GeZeEnrV4SibfS5yDwuzY3w7n94ZE3zMQ
 ETH: 0x6dce795c56d1485213d689ef98277c9fb7e7a6d2
@@ -6,26 +6,16 @@ XMR: 8AGZWnqriYzQjq7hzoTzVWbQNvGeke8AHdk1tVHFqUtfX1oqDY632kwaSnZZqEtFzD4fZN3CUfC
 LTC: MAG1cWWEpgdviZChWvr2oyuxD61JPJ1Q43
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇨🇴 181.129.14.165:999 3347ms CO [EPM Telecomunicaciones S.A. E.S.P.]
-🇧🇷 177.141.99.50:8080 2525ms BR [Claro S.A.]
-🇩🇪 136.243.37.84:9090 924ms DE [Hetzner Online GmbH]
-🇩🇪 173.212.216.104:3128 2180ms DE [Contabo GmbH]
-🇮🇩 114.4.104.254:3128 3388ms ID [PT. INDOSAT Tbk]
-🇮🇹 93.185.123.154:3128 798ms IT [Omegacom S.R.L.S.]
-🇨🇦 51.79.124.80:3128 2461ms CA [OVH SAS]
-🇰🇭 110.235.250.155:8080 1191ms KH [COGETEL Co]
-🇨🇱 190.107.224.150:3128 2418ms CL [WOM S.A.]
-🇨🇦 51.79.50.22:9300 4334ms CA [OVH SAS]
-🏳 91.93.118.3:8090 3656ms  []
-🇮🇩 36.67.152.213:11111 4396ms ID [PT. Telekomunikasi Indonesia]
-🇹🇭 180.180.216.90:8080 4063ms TH [TOT Public Company Limited]
-🇮🇳 150.129.207.84:30093 3692ms IN [GTPL Vidarbha telelink pvt ltd]
-🇹🇭 110.78.28.94:8080 3889ms TH [CAT Telecom Public Company Limited]
-🇷🇺 95.143.8.182:57169 3878ms RU [Avelacom Khabarovsk]
-🇷🇺 79.143.30.163:8080 5040ms RU [OOO "Network of data-centers "Selectel"]
-🇦🇫 180.94.64.114:8080 5390ms AF [Government Communications Network]
-🇹🇭 49.0.82.190:8080 1352ms TH [AIS-Fibre]
-🇧🇬 77.238.79.111:8080 6655ms BG [FIBER1]
-🇮🇩 182.23.107.210:3128 2803ms ID [PT Aplikanusa Lintasarta]
-🇧🇩 180.211.248.222:8080 4134ms BD [Bangladesh Telegraph & Telephone Board]
-🇹🇭 122.155.165.191:3128 2316ms TH [CAT Telecom Public Company Limited]
+🇺🇸 47.184.190.251:3128 1233ms US [Frontier Communications Solutions]
+🇩🇪 195.4.165.41:8080 1415ms DE [WORTMANN AG]
+🇺🇸 18.218.45.35:3128 1182ms US [Amazon.com, Inc.]
+🇩🇪 136.243.37.84:9090 1498ms DE [Hetzner Online GmbH]
+🇺🇸 3.128.120.252:80 1711ms US [Amazon.com, Inc.]
+🇷🇺 77.242.1.101:41890 4685ms RU [Limited Company Sakha Sprint Network]
+🇮🇩 103.156.249.66:8080 3830ms ID [Trans Media Telekomunikasi]
+🇰🇭 110.235.250.155:8080 5898ms KH [COGETEL Co]
+🇹🇷 95.0.206.19:8080 4482ms TR [Turk Telekomunikasyon Anonim Sirketi]
+🇦🇫 180.94.64.114:8080 6825ms AF [Government Communications Network]
+🇹🇭 49.0.82.190:8080 1400ms TH [AIS-Fibre]
+🇧🇬 77.238.79.111:8080 6969ms BG [FIBER1]
+🇹🇭 122.155.165.191:3128 1732ms TH [CAT Telecom Public Company Limited]
