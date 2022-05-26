@@ -1,4 +1,4 @@
-HTTP(S) Proxy list updated at 2022-05-26 13:00:01 GMT+7
+HTTP(S) Proxy list updated at 2022-05-26 14:00:01 GMT+7
 Support us:
 BTC: 1GeZeEnrV4SibfS5yDwuzY3w7n94ZE3zMQ
 ETH: 0x6dce795c56d1485213d689ef98277c9fb7e7a6d2
@@ -6,23 +6,17 @@ XMR: 8AGZWnqriYzQjq7hzoTzVWbQNvGeke8AHdk1tVHFqUtfX1oqDY632kwaSnZZqEtFzD4fZN3CUfC
 LTC: MAG1cWWEpgdviZChWvr2oyuxD61JPJ1Q43
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇺🇸 47.184.190.251:3128 2106ms US [Frontier Communications Solutions]
-🇧🇷 177.141.99.50:8080 2909ms BR [Claro S.A.]
-🇺🇸 18.218.45.35:3128 1935ms US [Amazon.com, Inc.]
-🇩🇪 136.243.37.84:9090 1588ms DE [Hetzner Online GmbH]
-🇺🇸 209.80.129.2:3128 2308ms US [HopOne Internet Corporation]
-🇩🇪 138.201.108.13:3389 1694ms DE [Hetzner Online GmbH]
-🇺🇸 44.233.33.179:3128 1204ms US [Amazon.com, Inc.]
-🇸🇬 51.79.152.70:80 2859ms SG [OVH SAS]
-🇹🇷 176.88.168.155:8080 6567ms TR [Superonline Iletisim Hizmetleri A.S.]
-🇸🇬 157.230.34.219:3128 2191ms SG [DigitalOcean, LLC]
-🇰🇭 110.235.250.155:8080 2978ms KH [COGETEL Co]
-🇩🇪 85.195.104.71:80 1536ms DE [Host Europe GmbH]
-🇮🇳 43.224.10.8:6666 3373ms IN [gtpl hariom world vision]
-🇨🇱 190.107.224.150:3128 1755ms CL [WOM S.A.]
-🇮🇩 103.76.12.42:80 4278ms ID [MORATELINDO]
-🇺🇸 186.233.186.60:8080 2685ms US [Maxihost LTDA]
-🇹🇭 49.0.82.190:8080 1326ms TH [AIS-Fibre]
-🇧🇬 77.238.79.111:8080 6806ms BG [FIBER1]
-🇹🇭 180.180.170.188:8080 4511ms TH [TOT Public Company Limited]
-🇹🇭 122.155.165.191:3128 1836ms TH [CAT Telecom Public Company Limited]
+🇯🇵 20.222.136.61:8000 2590ms JP [Microsoft Corporation]
+🇩🇪 136.243.37.84:9090 725ms DE [Hetzner Online GmbH]
+🇺🇸 44.233.33.179:3128 2642ms US [Amazon.com, Inc.]
+🇩🇪 173.212.216.104:3128 2645ms DE [Contabo GmbH]
+🇳🇱 209.250.253.162:59394 1267ms NL [The Constant Company]
+🇰🇭 110.235.250.155:8080 2064ms KH [COGETEL Co]
+🇫🇷 188.165.59.127:3128 438ms FR [OVH ISP]
+🇫🇷 213.32.75.44:9300 1284ms FR [OVH SAS]
+🇺🇸 186.233.186.60:8080 2689ms US [Maxihost LTDA]
+🇦🇫 180.94.64.114:8080 7154ms AF [Government Communications Network]
+🇹🇭 49.0.82.190:8080 1382ms TH [AIS-Fibre]
+🇧🇬 77.238.79.111:8080 5341ms BG [FIBER1]
+🇺🇦 85.198.185.26:8080 4947ms UA [Science Production Company "Trifle" Ltd.]
+🇹🇭 122.155.165.191:3128 1855ms TH [CAT Telecom Public Company Limited]
