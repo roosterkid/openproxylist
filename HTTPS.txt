@@ -1,4 +1,4 @@
-HTTP(S) Proxy list updated at 2022-05-26 22:00:02 GMT+7
+HTTP(S) Proxy list updated at 2022-05-26 23:00:02 GMT+7
 Support us:
 BTC: 1GeZeEnrV4SibfS5yDwuzY3w7n94ZE3zMQ
 ETH: 0x6dce795c56d1485213d689ef98277c9fb7e7a6d2
@@ -6,22 +6,22 @@ XMR: 8AGZWnqriYzQjq7hzoTzVWbQNvGeke8AHdk1tVHFqUtfX1oqDY632kwaSnZZqEtFzD4fZN3CUfC
 LTC: MAG1cWWEpgdviZChWvr2oyuxD61JPJ1Q43
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇺🇸 103.124.104.14:3128 1941ms US [DediPath]
-🇺🇸 18.218.45.35:3128 2117ms US [Amazon.com, Inc.]
-🇩🇪 136.243.37.84:9090 1754ms DE [Hetzner Online GmbH]
-🇺🇸 44.233.33.179:3128 2246ms US [Amazon.com, Inc.]
-🇩🇪 173.212.216.104:3128 946ms DE [Contabo GmbH]
-🇨🇦 54.39.102.233:3128 3739ms CA [OVH SAS]
-🇳🇱 209.250.253.162:59394 906ms NL [The Constant Company]
-🇸🇬 159.65.133.175:31280 1643ms SG [DigitalOcean, LLC]
-🇨🇴 190.14.224.244:999 2982ms CO [Media Commerce Partners S.A]
-🇮🇩 103.133.24.97:8181 3222ms ID [PT PHATRIA INTI PERSADA]
-🇻🇪 190.205.42.42:999 3425ms VE [CANTV Servicios, Venezuela]
-🇩🇪 85.195.104.71:80 1382ms DE [Host Europe GmbH]
-🏳 20.81.62.32:3128 2350ms  []
-🇮🇩 103.76.12.42:80 1787ms ID [MORATELINDO]
-🇮🇩 103.153.40.38:8080 1664ms ID [Persada Nayaka Infotama]
-🇦🇫 180.94.64.114:8080 4371ms AF [Government Communications Network]
-🇹🇭 49.0.82.190:8080 1395ms TH [AIS-Fibre]
-🇧🇬 77.238.79.111:8080 3370ms BG [FIBER1]
-🇹🇭 122.155.165.191:3128 2082ms TH [CAT Telecom Public Company Limited]
+🇺🇸 103.124.104.14:3128 1759ms US [DediPath]
+🇺🇸 18.218.45.35:3128 2428ms US [Amazon.com, Inc.]
+🇩🇪 136.243.37.84:9090 1637ms DE [Hetzner Online GmbH]
+🇺🇸 44.233.33.179:3128 1254ms US [Amazon.com, Inc.]
+🇺🇸 148.72.179.51:3128 2103ms US [GoDaddy.com]
+🇮🇹 93.185.123.154:3128 737ms IT [Omegacom S.R.L.S.]
+🇳🇱 209.250.253.162:59394 2028ms NL [The Constant Company]
+🇸🇬 157.230.34.219:3128 2086ms SG [DigitalOcean, LLC]
+🇮🇩 139.255.21.74:8080 1666ms ID [PT. LINKNET]
+🇨🇦 167.114.96.27:9300 4153ms CA [OVH SAS]
+🇹🇷 95.0.206.19:8080 4203ms TR [Turk Telekomunikasyon Anonim Sirketi]
+🇹🇭 180.180.216.90:8080 738ms TH [TOT Public Company Limited]
+🇷🇺 95.143.8.182:57169 4929ms RU [Avelacom Khabarovsk]
+🇦🇫 180.94.64.114:8080 7236ms AF [Government Communications Network]
+🇹🇭 49.0.82.190:8080 1390ms TH [AIS-Fibre]
+🇧🇬 77.238.79.111:8080 4448ms BG [FIBER1]
+🇮🇩 103.11.106.8:8181 3965ms ID [PT. Pascal Indonesia]
+🇮🇩 182.23.107.210:3128 4702ms ID [PT Aplikanusa Lintasarta]
+🇹🇭 122.155.165.191:3128 1966ms TH [CAT Telecom Public Company Limited]
