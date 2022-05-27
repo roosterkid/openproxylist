@@ -1,4 +1,4 @@
-HTTP(S) Proxy list updated at 2022-05-27 21:00:01 GMT+7
+HTTP(S) Proxy list updated at 2022-05-27 22:00:01 GMT+7
 Support us:
 BTC: 1GeZeEnrV4SibfS5yDwuzY3w7n94ZE3zMQ
 ETH: 0x6dce795c56d1485213d689ef98277c9fb7e7a6d2
@@ -6,20 +6,22 @@ XMR: 8AGZWnqriYzQjq7hzoTzVWbQNvGeke8AHdk1tVHFqUtfX1oqDY632kwaSnZZqEtFzD4fZN3CUfC
 LTC: MAG1cWWEpgdviZChWvr2oyuxD61JPJ1Q43
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇺🇸 44.233.33.179:3128 1097ms US [Amazon.com, Inc.]
-🇩🇪 173.212.216.104:3128 1577ms DE [Contabo GmbH]
-🇨🇴 181.129.14.166:999 3009ms CO [EPM Telecomunicaciones S.A. E.S.P.]
-🇳🇱 209.250.253.162:59394 2231ms NL [The Constant Company]
-🇨🇴 190.14.224.244:999 3063ms CO [Media Commerce Partners S.A]
-🇧🇴 190.186.18.177:999 4808ms BO [Cotas Ltda.]
-🇮🇩 103.121.215.34:43520 1794ms ID [PT Parsaoran Global Datatrans]
-🇮🇩 103.76.12.42:80 3179ms ID [MORATELINDO]
-🇧🇷 177.220.188.213:8080 4658ms BR [COPEL TelecomunicaÔÔes S.A.]
-🇮🇩 182.253.108.186:8080 3911ms ID [BIZNET]
-🇸🇱 160.19.155.51:8080 5249ms SL [PCS Holdings Limited]
-🇹🇭 49.0.82.190:8080 1651ms TH [AIS-Fibre]
-🇮🇩 182.23.107.210:3128 3983ms ID [PT Aplikanusa Lintasarta]
-🇮🇩 36.89.229.97:59707 1457ms ID [PT. Telekomunikasi Indonesia]
-🇹🇭 122.155.165.191:3128 1409ms TH [CAT Telecom Public Company Limited]
-🇮🇳 182.72.150.242:8080 1305ms IN [Bharti Airtel Ltd.]
-🇸🇬 128.199.214.87:3128 1153ms SG [DigitalOcean LLC]
+🇯🇵 126.109.104.128:3128 1785ms JP [Softbank BB Corp.]
+🇩🇪 173.212.216.104:3128 720ms DE [Contabo GmbH]
+🇨🇴 181.129.14.166:999 4095ms CO [EPM Telecomunicaciones S.A. E.S.P.]
+🇧🇷 45.190.249.100:8080 4833ms BR [RK Telecom Provedor Internet LTDA]
+🇮🇹 93.185.123.154:3128 956ms IT [Omegacom S.R.L.S.]
+🇮🇩 103.124.138.131:8085 2497ms ID [Global Media Data Prima]
+🇻🇪 190.205.42.42:999 6449ms VE [CANTV Servicios, Venezuela]
+🇮🇳 103.129.3.246:83 3743ms IN [S S Cablenet]
+🇨🇦 158.69.52.218:9300 1861ms CA [OVH SAS]
+🇹🇭 180.180.216.90:8080 2886ms TH [TOT Public Company Limited]
+🇮🇳 150.129.207.84:30093 4329ms IN [GTPL Vidarbha telelink pvt ltd]
+🇮🇩 202.138.249.241:8000 1854ms ID [PT Melvar Lintasnusa]
+🇷🇺 95.143.8.182:57169 3804ms RU [Avelacom Khabarovsk]
+🇷🇺 79.143.30.163:8080 4677ms RU [OOO "Network of data-centers "Selectel"]
+🇦🇫 180.94.64.114:8080 3856ms AF [Government Communications Network]
+🇹🇭 49.0.82.190:8080 1605ms TH [AIS-Fibre]
+🇧🇬 77.238.79.111:8080 6449ms BG [FIBER1]
+🇹🇭 122.155.165.191:3128 1330ms TH [CAT Telecom Public Company Limited]
+🇫🇷 51.159.24.172:3167 1328ms FR [Online S.A.S.]
