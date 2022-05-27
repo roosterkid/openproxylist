@@ -1,4 +1,4 @@
-HTTP(S) Proxy list updated at 2022-05-28 04:00:02 GMT+7
+HTTP(S) Proxy list updated at 2022-05-28 05:00:01 GMT+7
 Support us:
 BTC: 1GeZeEnrV4SibfS5yDwuzY3w7n94ZE3zMQ
 ETH: 0x6dce795c56d1485213d689ef98277c9fb7e7a6d2
@@ -6,22 +6,23 @@ XMR: 8AGZWnqriYzQjq7hzoTzVWbQNvGeke8AHdk1tVHFqUtfX1oqDY632kwaSnZZqEtFzD4fZN3CUfC
 LTC: MAG1cWWEpgdviZChWvr2oyuxD61JPJ1Q43
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇩🇪 88.99.21.177:81 2771ms DE [Hetzner Online GmbH]
-🇩🇪 173.212.216.104:3128 2012ms DE [Contabo GmbH]
-🇮🇩 114.4.104.254:3128 2509ms ID [PT. INDOSAT Tbk]
-🇰🇭 49.156.34.190:41890 7716ms KH [WiCAM Corporation Ltd.]
-🇸🇬 47.74.226.8:5001 443ms SG [Alibaba Cloud (Singapore) Private Limited]
-🇮🇩 103.122.32.10:8080 4122ms ID [PT. Mora Telematika Indonesia]
-🇫🇷 188.165.59.127:3128 539ms FR [OVH ISP]
-🇫🇷 82.64.228.168:3128 3000ms FR [Proxad / Free SAS]
-🇮🇩 36.67.152.213:11111 3282ms ID [PT. Telekomunikasi Indonesia]
-🇹🇭 180.180.216.90:8080 680ms TH [TOT Public Company Limited]
-🇮🇳 150.129.207.84:30093 1122ms IN [GTPL Vidarbha telelink pvt ltd]
-🇮🇩 103.76.12.42:80 2690ms ID [MORATELINDO]
-🇮🇳 103.47.67.154:8080 3040ms IN [Zapbytes Technologies Pvt. Ltd]
-🇹🇭 49.0.82.190:8080 1391ms TH [AIS-Fibre]
-🇧🇬 77.238.79.111:8080 4273ms BG [FIBER1]
-🇮🇩 116.254.100.165:46675 3570ms ID [Bangun Abadi Teknologi Indonesia]
-🇬🇳 102.176.160.70:61279 5332ms GN [2nd RO]
-🇮🇩 36.89.229.97:59707 4049ms ID [PT. Telekomunikasi Indonesia]
-🇹🇭 122.155.165.191:3128 1681ms TH [CAT Telecom Public Company Limited]
+🇯🇵 126.109.104.128:3128 2635ms JP [Softbank BB Corp.]
+🇩🇪 88.99.21.177:81 2721ms DE [Hetzner Online GmbH]
+🇺🇸 18.218.45.35:3128 1610ms US [Amazon.com, Inc.]
+🇺🇸 44.233.33.179:3128 1327ms US [Amazon.com, Inc.]
+🇨🇴 181.129.14.166:999 4086ms CO [EPM Telecomunicaciones S.A. E.S.P.]
+🇧🇷 45.190.249.100:8080 3781ms BR [RK Telecom Provedor Internet LTDA]
+🇸🇬 139.59.249.244:7777 1202ms SG [DigitalOcean, LLC]
+🇵🇰 103.4.94.12:3128 2124ms PK [HEC]
+🇦🇿 81.17.90.219:41890 2878ms AZ [Bakinternet ISP]
+🇸🇬 157.230.34.219:3128 709ms SG [DigitalOcean, LLC]
+🇻🇪 190.205.42.42:999 3525ms VE [CANTV Servicios, Venezuela]
+🇺🇸 20.47.108.204:8888 2172ms US [Microsoft Corporation]
+🇫🇷 82.64.228.168:3128 1711ms FR [Proxad / Free SAS]
+🇮🇩 202.43.190.10:53128 3940ms ID [CEPATNET]
+🇹🇭 180.180.216.90:8080 805ms TH [TOT Public Company Limited]
+🇷🇺 95.143.8.182:57169 3927ms RU [Avelacom Khabarovsk]
+🇮🇩 112.78.170.250:80 1675ms ID [BIZNET]
+🇹🇭 49.0.82.190:8080 1430ms TH [AIS-Fibre]
+🇮🇩 116.254.100.165:46675 7833ms ID [Bangun Abadi Teknologi Indonesia]
+🇹🇭 122.155.165.191:3128 1328ms TH [CAT Telecom Public Company Limited]
