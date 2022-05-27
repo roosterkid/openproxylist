@@ -1,4 +1,4 @@
-HTTP(S) Proxy list updated at 2022-05-27 11:00:02 GMT+7
+HTTP(S) Proxy list updated at 2022-05-27 12:00:01 GMT+7
 Support us:
 BTC: 1GeZeEnrV4SibfS5yDwuzY3w7n94ZE3zMQ
 ETH: 0x6dce795c56d1485213d689ef98277c9fb7e7a6d2
@@ -6,20 +6,23 @@ XMR: 8AGZWnqriYzQjq7hzoTzVWbQNvGeke8AHdk1tVHFqUtfX1oqDY632kwaSnZZqEtFzD4fZN3CUfC
 LTC: MAG1cWWEpgdviZChWvr2oyuxD61JPJ1Q43
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇩🇪 136.243.37.84:9090 446ms DE [Hetzner Online GmbH]
-🇺🇸 44.233.33.179:3128 1242ms US [Amazon.com, Inc.]
-🇮🇹 93.185.123.154:3128 592ms IT [Omegacom S.R.L.S.]
-🇰🇷 121.156.109.108:8080 1265ms KR [Korea Telecom]
-🇰🇭 110.235.250.155:8080 2007ms KH [COGETEL Co]
-🇮🇩 139.255.21.74:8080 4679ms ID [PT. LINKNET]
-🇸🇬 194.233.69.38:443 4690ms SG [Contabo Asia Private Limited]
-🇮🇩 103.76.12.42:80 2274ms ID [MORATELINDO]
-🇷🇺 95.143.8.182:57169 4004ms RU [Avelacom Khabarovsk]
-🇦🇫 180.94.64.114:8080 6280ms AF [Government Communications Network]
-🇮🇩 182.253.108.186:8080 3588ms ID [BIZNET]
-🇮🇩 182.253.191.132:8080 3273ms ID [BIZNET]
-🇹🇭 49.0.82.190:8080 1393ms TH [AIS-Fibre]
-🇧🇬 77.238.79.111:8080 4049ms BG [FIBER1]
-🇬🇳 102.176.160.70:61279 5631ms GN [2nd RO]
-🇹🇭 122.155.165.191:3128 1780ms TH [CAT Telecom Public Company Limited]
-🇸🇬 128.199.214.87:3128 1413ms SG [DigitalOcean LLC]
+🇯🇵 126.109.104.128:3128 1072ms JP [Softbank BB Corp.]
+🇩🇪 136.243.37.84:9090 415ms DE [Hetzner Online GmbH]
+🇺🇸 44.233.33.179:3128 1279ms US [Amazon.com, Inc.]
+🇩🇪 173.212.216.104:3128 2201ms DE [Contabo GmbH]
+🇹🇷 176.88.168.155:8080 4210ms TR [Superonline Iletisim Hizmetleri A.S.]
+🇮🇹 93.185.123.154:3128 841ms IT [Omegacom S.R.L.S.]
+🇯🇵 164.70.122.6:3128 2955ms JP [NTT PC Communications, Inc.]
+🇫🇷 188.165.59.127:3128 2663ms FR [OVH ISP]
+🇻🇪 186.24.4.249:8080 6667ms VE [TELEFONICA VENEZOLANA, C.A.]
+🇺🇦 31.128.71.241:8081 4027ms UA [PRIVATE JOINT STOCK COMPANY "DATAGROUP"]
+🇮🇩 202.43.190.10:53128 2401ms ID [CEPATNET]
+🇹🇭 180.180.216.90:8080 1768ms TH [TOT Public Company Limited]
+🇷🇺 95.143.8.182:57169 6873ms RU [Avelacom Khabarovsk]
+🇮🇩 112.78.170.251:8080 7728ms ID [BIZNET]
+🇦🇫 180.94.64.114:8080 4756ms AF [Government Communications Network]
+🇹🇭 49.0.82.190:8080 1419ms TH [AIS-Fibre]
+🇧🇬 77.238.79.111:8080 4825ms BG [FIBER1]
+🇮🇩 116.254.100.165:46675 3586ms ID [Bangun Abadi Teknologi Indonesia]
+🇹🇭 122.155.165.191:3128 1779ms TH [CAT Telecom Public Company Limited]
+🇸🇬 128.199.214.87:3128 1286ms SG [DigitalOcean LLC]
