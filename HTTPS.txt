@@ -1,4 +1,4 @@
-HTTP(S) Proxy list updated at 2022-05-27 16:00:02 GMT+7
+HTTP(S) Proxy list updated at 2022-05-27 17:00:01 GMT+7
 Support us:
 BTC: 1GeZeEnrV4SibfS5yDwuzY3w7n94ZE3zMQ
 ETH: 0x6dce795c56d1485213d689ef98277c9fb7e7a6d2
@@ -6,20 +6,13 @@ XMR: 8AGZWnqriYzQjq7hzoTzVWbQNvGeke8AHdk1tVHFqUtfX1oqDY632kwaSnZZqEtFzD4fZN3CUfC
 LTC: MAG1cWWEpgdviZChWvr2oyuxD61JPJ1Q43
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇺🇸 18.218.45.35:3128 2992ms US [Amazon.com, Inc.]
-🇩🇪 136.243.37.84:9090 2524ms DE [Hetzner Online GmbH]
-🇺🇸 44.233.33.179:3128 1099ms US [Amazon.com, Inc.]
-🇩🇪 173.212.216.104:3128 1733ms DE [Contabo GmbH]
-🇯🇵 140.227.61.156:23456 2711ms JP [NTT PC Communications, Inc.]
-🇮🇹 93.185.123.154:3128 2021ms IT [Omegacom S.R.L.S.]
-🇳🇱 209.250.253.162:59394 2267ms NL [The Constant Company]
-🇳🇱 51.15.42.134:8118 1640ms NL [Online SAS NL]
-🇰🇭 110.235.250.155:8080 4074ms KH [COGETEL Co]
-🇫🇷 188.165.59.127:3128 527ms FR [OVH ISP]
-🇲🇽 201.77.108.130:999 4988ms MX [Nidix Networks S.a. De C.V.]
-🇮🇩 103.121.215.34:43520 1003ms ID [PT Parsaoran Global Datatrans]
-🇮🇩 103.36.11.17:8181 2771ms ID [PT Awinet Global Mandiri]
-🇨🇱 190.107.224.150:3128 2514ms CL [WOM S.A.]
-🇦🇫 180.94.64.114:8080 4044ms AF [Government Communications Network]
-🇹🇭 49.0.82.190:8080 1760ms TH [AIS-Fibre]
-🇹🇭 183.88.219.206:41564 3921ms TH [Triple T Internet Company Limited]
+🇯🇵 126.109.104.128:3128 1959ms JP [Softbank BB Corp.]
+🇩🇪 136.243.37.84:9090 546ms DE [Hetzner Online GmbH]
+🇺🇸 44.233.33.179:3128 1192ms US [Amazon.com, Inc.]
+🇮🇹 93.185.123.154:3128 1579ms IT [Omegacom S.R.L.S.]
+🇳🇱 209.250.253.162:59394 1111ms NL [The Constant Company]
+🇷🇺 95.143.8.182:57169 7183ms RU [Avelacom Khabarovsk]
+🇦🇫 180.94.64.114:8080 4830ms AF [Government Communications Network]
+🇹🇭 49.0.82.190:8080 1644ms TH [AIS-Fibre]
+🇧🇬 77.238.79.111:8080 6697ms BG [FIBER1]
+🇹🇭 122.155.165.191:3128 2911ms TH [CAT Telecom Public Company Limited]
