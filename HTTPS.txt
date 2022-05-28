@@ -1,4 +1,4 @@
-HTTP(S) Proxy list updated at 2022-05-28 08:00:01 GMT+7
+HTTP(S) Proxy list updated at 2022-05-28 09:00:01 GMT+7
 Support us:
 BTC: 1GeZeEnrV4SibfS5yDwuzY3w7n94ZE3zMQ
 ETH: 0x6dce795c56d1485213d689ef98277c9fb7e7a6d2
@@ -6,24 +6,14 @@ XMR: 8AGZWnqriYzQjq7hzoTzVWbQNvGeke8AHdk1tVHFqUtfX1oqDY632kwaSnZZqEtFzD4fZN3CUfC
 LTC: MAG1cWWEpgdviZChWvr2oyuxD61JPJ1Q43
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇩🇪 138.201.108.13:3389 2747ms DE [Hetzner Online GmbH]
-🇬🇧 141.147.95.36:3128 2258ms GB [Oracle Corporation]
-🇻🇳 103.214.9.13:3128 2549ms VN [MEGACORE]
-🇸🇬 51.79.152.70:80 2105ms SG [OVH SAS]
-🇲🇽 201.120.27.15:53281 2797ms MX [Uninet S.A. de C.V]
-🇸🇬 157.230.34.219:3128 2614ms SG [DigitalOcean, LLC]
-🇮🇩 103.145.130.150:8080 790ms ID [PT. Indonesia Comnets Plus]
-🇮🇩 139.255.21.74:8080 2481ms ID [PT. LINKNET]
-🇮🇩 103.122.32.10:8080 1593ms ID [PT. Mora Telematika Indonesia]
-🇨🇦 167.114.96.27:9300 1916ms CA [OVH SAS]
-🇫🇷 82.64.228.168:3128 1473ms FR [Proxad / Free SAS]
-🇹🇭 180.180.216.90:8080 7922ms TH [TOT Public Company Limited]
-🇮🇳 150.129.207.84:30093 1314ms IN [GTPL Vidarbha telelink pvt ltd]
-🇺🇦 93.171.224.48:8080 3995ms UA [PE TV and Radio Company Kentavr-TV]
-🇮🇩 103.76.12.42:80 2124ms ID [MORATELINDO]
-🇷🇺 95.143.8.182:57169 3753ms RU [Avelacom Khabarovsk]
-🇨🇭 178.209.51.218:9999 185ms CH [Nine Internet Solutions AG]
-🇮🇩 112.78.170.251:8080 444ms ID [BIZNET]
-🇮🇩 118.97.164.19:8080 2949ms ID [PT. TELKOM INDONESIA]
-🇹🇭 49.0.82.190:8080 1418ms TH [AIS-Fibre]
-🇸🇬 128.199.214.87:3128 1243ms SG [DigitalOcean LLC]
+🇳🇱 185.62.58.73:3128 2268ms NL [Snel.com B.V.]
+🇺🇸 44.233.33.179:3128 1475ms US [Amazon.com, Inc.]
+🇩🇪 173.212.216.104:3128 2766ms DE [Contabo GmbH]
+🇸🇬 139.59.249.244:7777 1362ms SG [DigitalOcean, LLC]
+🇮🇹 93.185.123.154:3128 1508ms IT [Omegacom S.R.L.S.]
+🇸🇬 157.230.34.219:3128 1920ms SG [DigitalOcean, LLC]
+🇨🇱 190.107.224.150:3128 1984ms CL [WOM S.A.]
+🇨🇦 167.114.96.27:9300 1663ms CA [OVH SAS]
+🇮🇩 103.76.12.42:80 2627ms ID [MORATELINDO]
+🇹🇭 49.0.82.190:8080 1417ms TH [AIS-Fibre]
+🇸🇬 128.199.214.87:3128 1455ms SG [DigitalOcean LLC]
