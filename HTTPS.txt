@@ -1,4 +1,4 @@
-HTTP(S) Proxy list updated at 2022-05-29 00:00:01 GMT+7
+HTTP(S) Proxy list updated at 2022-05-29 01:00:01 GMT+7
 Support us:
 BTC: 1GeZeEnrV4SibfS5yDwuzY3w7n94ZE3zMQ
 ETH: 0x6dce795c56d1485213d689ef98277c9fb7e7a6d2
@@ -6,17 +6,19 @@ XMR: 8AGZWnqriYzQjq7hzoTzVWbQNvGeke8AHdk1tVHFqUtfX1oqDY632kwaSnZZqEtFzD4fZN3CUfC
 LTC: MAG1cWWEpgdviZChWvr2oyuxD61JPJ1Q43
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇺🇸 47.252.4.64:8888 3114ms US [Alibaba.com LLC]
-🇺🇸 18.218.45.35:3128 4928ms US [Amazon.com, Inc.]
-🇺🇸 44.233.33.179:3128 1113ms US [Amazon.com, Inc.]
-🇩🇪 173.212.216.104:3128 2531ms DE [Contabo GmbH]
-🇻🇳 103.214.9.13:3128 1863ms VN [MEGACORE]
-🇧🇷 45.190.249.100:8080 3489ms BR [RK Telecom Provedor Internet LTDA]
-🇸🇬 139.59.249.244:7777 1271ms SG [DigitalOcean, LLC]
-🇮🇩 114.4.104.254:3128 1304ms ID [PT. INDOSAT Tbk]
-🇵🇰 103.4.94.12:3128 2428ms PK [HEC]
-🇳🇱 209.250.253.162:59394 1387ms NL [The Constant Company]
-🇨🇴 138.117.84.240:999 2846ms CO [Sinergy Soluciones Integrales]
-🇩🇪 85.195.104.71:80 2306ms DE [Host Europe GmbH]
-🇮🇩 117.54.238.62:8080 4516ms ID [PT IndoInternet]
-🇺🇿 213.230.97.10:3128 4096ms UZ [Uzbektelecom JSC]
+🇺🇸 47.252.4.64:8888 4647ms US [Alibaba.com LLC]
+🇺🇸 18.218.45.35:3128 1311ms US [Amazon.com, Inc.]
+🇺🇸 3.128.120.252:80 1777ms US [Amazon.com, Inc.]
+🇺🇸 162.150.62.95:443 4559ms US [Comcast Cable Communications, LLC]
+🇺🇸 44.233.33.179:3128 1374ms US [Amazon.com, Inc.]
+🇮🇹 93.185.123.154:3128 2528ms IT [Omegacom S.R.L.S.]
+🇳🇱 209.250.253.162:59394 2468ms NL [The Constant Company]
+🇮🇩 103.145.128.179:8088 2696ms ID [PT. Indonesia Comnets Plus]
+🇺🇸 159.65.189.145:8080 1796ms US [DigitalOcean, LLC]
+🇮🇩 103.124.138.131:8085 1186ms ID [Global Media Data Prima]
+🇮🇩 103.153.35.73:8181 7850ms ID [JMExpress]
+🏳 103.135.227.193:8181 4880ms  []
+🇮🇩 118.97.164.19:8080 3654ms ID [PT. TELKOM INDONESIA]
+🇸🇬 68.183.180.222:3128 3321ms SG [DigitalOcean, LLC]
+🇮🇳 103.15.60.23:8080 967ms IN [Apollo Online Services Pvt ltd]
+🇰🇭 49.156.42.210:8080 1628ms KH [WiCAM Corporation Ltd]
