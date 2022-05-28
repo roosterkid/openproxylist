@@ -1,4 +1,4 @@
-HTTP(S) Proxy list updated at 2022-05-28 19:00:01 GMT+7
+HTTP(S) Proxy list updated at 2022-05-28 20:00:01 GMT+7
 Support us:
 BTC: 1GeZeEnrV4SibfS5yDwuzY3w7n94ZE3zMQ
 ETH: 0x6dce795c56d1485213d689ef98277c9fb7e7a6d2
@@ -6,22 +6,20 @@ XMR: 8AGZWnqriYzQjq7hzoTzVWbQNvGeke8AHdk1tVHFqUtfX1oqDY632kwaSnZZqEtFzD4fZN3CUfC
 LTC: MAG1cWWEpgdviZChWvr2oyuxD61JPJ1Q43
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇮🇳 103.65.193.185:9812 1585ms IN [N R DATA SERVICE PVT LTD]
-🇿🇦 13.245.172.162:3128 3047ms ZA [Amazon Technologies Inc.]
-🇺🇸 44.233.33.179:3128 1162ms US [Amazon.com, Inc.]
-🇨🇴 181.129.14.166:999 3119ms CO [EPM Telecomunicaciones S.A. E.S.P.]
-🇩🇪 148.251.66.8:3128 1863ms DE [Hetzner Online GmbH]
-🇵🇰 103.4.94.12:3128 2867ms PK [HEC]
-🇳🇱 209.250.253.162:59394 835ms NL [The Constant Company]
-🇸🇬 159.65.133.175:31280 1874ms SG [DigitalOcean, LLC]
-🏳 158.140.170.183:8085 4252ms  []
-🇰🇭 110.235.250.155:8080 4030ms KH [COGETEL Co]
-🇹🇷 88.255.64.83:1976 4271ms TR [Turk Telekomunikasyon Anonim Sirketi]
-🇿🇦 165.0.50.110:8080 4214ms ZA [RSAWEB (PTY) LTD]
-🇮🇩 103.124.138.131:8085 4503ms ID [Global Media Data Prima]
-🇮🇳 150.129.207.84:30093 2395ms IN [GTPL Vidarbha telelink pvt ltd]
-🇷🇺 79.143.30.163:8080 3557ms RU [OOO "Network of data-centers "Selectel"]
-🇮🇩 124.158.168.22:8080 5748ms ID [ICON+]
-🇹🇭 49.0.82.190:8080 1415ms TH [AIS-Fibre]
-🇮🇩 116.254.100.165:46675 1342ms ID [Bangun Abadi Teknologi Indonesia]
-🇹🇭 122.155.165.191:3128 1900ms TH [CAT Telecom Public Company Limited]
+🇺🇸 47.252.4.64:8888 3795ms US [Alibaba.com LLC]
+🇸🇬 47.241.165.133:443 1902ms SG [Alibaba.com LLC]
+🇺🇸 44.233.33.179:3128 1462ms US [Amazon.com, Inc.]
+🇻🇳 103.214.9.13:3128 2460ms VN [MEGACORE]
+🇨🇴 181.129.14.166:999 4281ms CO [EPM Telecomunicaciones S.A. E.S.P.]
+🇮🇹 93.185.123.154:3128 951ms IT [Omegacom S.R.L.S.]
+🇳🇱 209.250.253.162:59394 1905ms NL [The Constant Company]
+🇹🇷 88.255.64.83:1976 6397ms TR [Turk Telekomunikasyon Anonim Sirketi]
+🇨🇱 190.107.224.150:3128 2482ms CL [WOM S.A.]
+🇨🇦 167.114.96.27:9300 1872ms CA [OVH SAS]
+🇨🇦 158.69.71.245:9300 2031ms CA [OVH SAS]
+🏳 20.81.62.32:3128 4802ms  []
+🇫🇷 213.32.75.88:9300 1100ms FR [OVH SAS]
+🇺🇦 93.171.224.46:8080 6054ms UA [PE TV and Radio Company Kentavr-TV]
+🇮🇩 182.253.191.132:8080 4610ms ID [BIZNET]
+🇹🇭 49.0.82.190:8080 1417ms TH [AIS-Fibre]
+🇹🇭 183.88.219.206:41564 7967ms TH [Triple T Internet Company Limited]
