@@ -1,4 +1,4 @@
-HTTP(S) Proxy list updated at 2022-05-28 20:00:01 GMT+7
+HTTP(S) Proxy list updated at 2022-05-28 21:00:01 GMT+7
 Support us:
 BTC: 1GeZeEnrV4SibfS5yDwuzY3w7n94ZE3zMQ
 ETH: 0x6dce795c56d1485213d689ef98277c9fb7e7a6d2
@@ -6,20 +6,13 @@ XMR: 8AGZWnqriYzQjq7hzoTzVWbQNvGeke8AHdk1tVHFqUtfX1oqDY632kwaSnZZqEtFzD4fZN3CUfC
 LTC: MAG1cWWEpgdviZChWvr2oyuxD61JPJ1Q43
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇺🇸 47.252.4.64:8888 3795ms US [Alibaba.com LLC]
-🇸🇬 47.241.165.133:443 1902ms SG [Alibaba.com LLC]
-🇺🇸 44.233.33.179:3128 1462ms US [Amazon.com, Inc.]
-🇻🇳 103.214.9.13:3128 2460ms VN [MEGACORE]
-🇨🇴 181.129.14.166:999 4281ms CO [EPM Telecomunicaciones S.A. E.S.P.]
-🇮🇹 93.185.123.154:3128 951ms IT [Omegacom S.R.L.S.]
-🇳🇱 209.250.253.162:59394 1905ms NL [The Constant Company]
-🇹🇷 88.255.64.83:1976 6397ms TR [Turk Telekomunikasyon Anonim Sirketi]
-🇨🇱 190.107.224.150:3128 2482ms CL [WOM S.A.]
-🇨🇦 167.114.96.27:9300 1872ms CA [OVH SAS]
-🇨🇦 158.69.71.245:9300 2031ms CA [OVH SAS]
-🏳 20.81.62.32:3128 4802ms  []
-🇫🇷 213.32.75.88:9300 1100ms FR [OVH SAS]
-🇺🇦 93.171.224.46:8080 6054ms UA [PE TV and Radio Company Kentavr-TV]
-🇮🇩 182.253.191.132:8080 4610ms ID [BIZNET]
-🇹🇭 49.0.82.190:8080 1417ms TH [AIS-Fibre]
-🇹🇭 183.88.219.206:41564 7967ms TH [Triple T Internet Company Limited]
+🇺🇸 47.252.4.64:8888 4570ms US [Alibaba.com LLC]
+🇺🇸 18.218.45.35:3128 2022ms US [Amazon.com, Inc.]
+🇺🇸 44.233.33.179:3128 1087ms US [Amazon.com, Inc.]
+🇸🇬 159.65.133.175:31280 460ms SG [DigitalOcean, LLC]
+🇹🇷 95.0.219.234:8080 2395ms TR [TurkTelecom]
+🇨🇦 51.79.50.46:9300 2363ms CA [OVH SAS]
+🇮🇳 103.207.3.6:83 4827ms IN [Sri Vari Network Private Limited]
+🇯🇵 133.242.146.103:8000 4462ms JP [SAKURA Internet Inc.]
+🇹🇭 49.0.82.190:8080 1396ms TH [AIS-Fibre]
+🇹🇭 122.155.165.191:3128 1473ms TH [CAT Telecom Public Company Limited]
