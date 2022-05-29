@@ -1,4 +1,4 @@
-HTTP(S) Proxy list updated at 2022-05-29 11:00:01 GMT+7
+HTTP(S) Proxy list updated at 2022-05-29 12:00:01 GMT+7
 Support us:
 BTC: 1GeZeEnrV4SibfS5yDwuzY3w7n94ZE3zMQ
 ETH: 0x6dce795c56d1485213d689ef98277c9fb7e7a6d2
@@ -6,20 +6,24 @@ XMR: 8AGZWnqriYzQjq7hzoTzVWbQNvGeke8AHdk1tVHFqUtfX1oqDY632kwaSnZZqEtFzD4fZN3CUfC
 LTC: MAG1cWWEpgdviZChWvr2oyuxD61JPJ1Q43
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇫🇷 51.77.246.212:3128 853ms FR [OVH SAS]
-🇧🇷 18.231.133.109:3128 1693ms BR [Amazon Technologies Inc.]
-🇺🇸 47.252.4.64:8888 4305ms US [Alibaba.com LLC]
-🇺🇸 44.233.33.179:3128 1217ms US [Amazon.com, Inc.]
-🇸🇬 51.79.152.70:80 2513ms SG [OVH SAS]
-🇯🇵 140.227.61.156:23456 2914ms JP [NTT PC Communications, Inc.]
-🇳🇱 209.250.253.162:59394 1005ms NL [The Constant Company]
-🇮🇩 103.156.249.66:8080 4702ms ID [Trans Media Telekomunikasi]
-🇮🇩 103.145.130.150:8080 7798ms ID [PT. Indonesia Comnets Plus]
-🇧🇩 45.125.222.97:36110 4329ms BD [SSD-TECH]
-🇮🇩 103.153.35.73:8181 664ms ID [JMExpress]
-🇸🇬 194.233.73.104:443 2222ms SG [Contabo Asia Private Limited]
-🇸🇬 194.233.69.126:443 2772ms SG [Contabo Asia Private Limited]
-🇮🇩 116.254.100.165:46675 1795ms ID [Bangun Abadi Teknologi Indonesia]
-🇮🇩 36.89.229.97:59707 1028ms ID [PT. Telekomunikasi Indonesia]
-🇮🇳 103.6.184.222:39241 1905ms IN [websurf Broadband]
-🇹🇭 122.155.165.191:3128 820ms TH [CAT Telecom Public Company Limited]
+🇫🇷 51.77.246.212:3128 700ms FR [OVH SAS]
+🇰🇷 118.67.150.13:3128 1928ms KR [NBP]
+🇺🇸 47.252.4.64:8888 4104ms US [Alibaba.com LLC]
+🇺🇸 18.218.45.35:3128 2716ms US [Amazon.com, Inc.]
+🇿🇦 13.245.172.162:3128 2553ms ZA [Amazon Technologies Inc.]
+🇺🇸 44.233.33.179:3128 1263ms US [Amazon.com, Inc.]
+🇹🇷 176.88.168.155:8080 3216ms TR [Superonline Iletisim Hizmetleri A.S.]
+🇫🇷 91.121.42.14:1081 7577ms FR [OVH SAS]
+🇳🇱 209.250.253.162:59394 1707ms NL [The Constant Company]
+🇦🇷 170.239.180.51:999 3785ms AR [Escobar Arnez Marcelino]
+🇰🇭 110.235.250.155:8080 4000ms KH [COGETEL Co]
+🇬🇧 172.107.97.51:443 1726ms GB [Psychz Networks]
+🇸🇬 194.233.73.104:443 2454ms SG [Contabo Asia Private Limited]
+🇮🇩 36.95.142.26:8080 7734ms ID [PT. Telekomunikasi Indonesia]
+🇸🇬 194.233.69.90:443 2116ms SG [Contabo Asia Private Limited]
+🇫🇷 213.32.75.88:9300 1332ms FR [OVH SAS]
+🇮🇩 112.78.170.251:8080 7695ms ID [BIZNET]
+🇹🇭 49.0.82.190:8080 1331ms TH [AIS-Fibre]
+🇮🇩 36.89.229.97:59707 1849ms ID [PT. Telekomunikasi Indonesia]
+🇮🇩 103.116.203.244:43520 784ms ID [PT Parsaoran Global Datatrans]
+🇹🇭 122.155.165.191:3128 1412ms TH [CAT Telecom Public Company Limited]
