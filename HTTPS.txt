@@ -1,4 +1,4 @@
-HTTP(S) Proxy list updated at 2022-05-29 15:00:01 GMT+7
+HTTP(S) Proxy list updated at 2022-05-29 16:00:01 GMT+7
 Support us:
 BTC: 1GeZeEnrV4SibfS5yDwuzY3w7n94ZE3zMQ
 ETH: 0x6dce795c56d1485213d689ef98277c9fb7e7a6d2
@@ -6,22 +6,20 @@ XMR: 8AGZWnqriYzQjq7hzoTzVWbQNvGeke8AHdk1tVHFqUtfX1oqDY632kwaSnZZqEtFzD4fZN3CUfC
 LTC: MAG1cWWEpgdviZChWvr2oyuxD61JPJ1Q43
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇧🇷 18.231.133.109:3128 1945ms BR [Amazon Technologies Inc.]
-🇰🇷 118.67.150.13:3128 2125ms KR [NBP]
-🇳🇱 185.62.58.73:3128 1635ms NL [Snel.com B.V.]
-🇸🇬 43.156.70.173:8001 2062ms SG [Shenzhen Tencent Computer Systems Company Limited]
-🇺🇸 44.233.33.179:3128 1063ms US [Amazon.com, Inc.]
-🇩🇪 173.212.216.104:3128 579ms DE [Contabo GmbH]
-🇻🇳 103.214.9.13:3128 1849ms VN [MEGACORE]
-🇨🇴 181.129.14.166:999 4563ms CO [EPM Telecomunicaciones S.A. E.S.P.]
-🇹🇷 176.88.168.155:8080 4488ms TR [Superonline Iletisim Hizmetleri A.S.]
-🇮🇩 146.196.107.142:63123 4108ms ID [PT Maxindo Mitra Solusi]
-🇧🇩 103.23.206.170:8080 2211ms BD [Mizanur Rahman t/a Maya Cyber World]
-🇦🇲 91.103.31.147:81 4216ms AM [MTS Armenia CJSC]
-🇰🇭 110.235.250.155:8080 4245ms KH [COGETEL Co]
-🇮🇩 103.153.35.73:8181 4005ms ID [JMExpress]
-🇸🇬 194.233.69.90:443 2625ms SG [Contabo Asia Private Limited]
-🇹🇭 49.0.82.190:8080 1352ms TH [AIS-Fibre]
-🇮🇩 116.254.100.165:46675 795ms ID [Bangun Abadi Teknologi Indonesia]
-🇮🇩 36.89.229.97:59707 5760ms ID [PT. Telekomunikasi Indonesia]
-🇹🇭 122.155.165.191:3128 2476ms TH [CAT Telecom Public Company Limited]
+🇸🇬 18.140.155.45:4000 1559ms SG [Amazon.com, Inc.]
+🇺🇸 208.85.20.119:1987 618ms US [The Constant Company]
+🇺🇸 18.218.45.35:3128 1260ms US [Amazon.com, Inc.]
+🇺🇸 44.233.33.179:3128 1395ms US [Amazon.com, Inc.]
+🇩🇪 173.212.216.104:3128 656ms DE [Contabo GmbH]
+🇨🇴 181.129.14.166:999 4832ms CO [EPM Telecomunicaciones S.A. E.S.P.]
+🇰🇭 110.235.250.155:8080 3574ms KH [COGETEL Co]
+🇮🇹 149.154.157.17:5678 2725ms IT [ONE ON CDLAN SRL]
+🇨🇴 45.167.126.129:999 3617ms CO [Sepcom Comunicaciones SAS]
+🇮🇳 43.224.10.8:6666 6894ms IN [gtpl hariom world vision]
+🇮🇩 103.153.35.73:8181 3778ms ID [JMExpress]
+🇫🇷 213.32.75.88:9300 861ms FR [OVH SAS]
+🇺🇦 93.171.224.49:8080 3046ms UA [PE TV and Radio Company Kentavr-TV]
+🇷🇺 79.143.30.163:8080 4669ms RU [OOO "Network of data-centers "Selectel"]
+🇹🇭 49.0.82.190:8080 1374ms TH [AIS-Fibre]
+🇮🇩 116.254.100.165:46675 1828ms ID [Bangun Abadi Teknologi Indonesia]
+🇹🇭 122.155.165.191:3128 1760ms TH [CAT Telecom Public Company Limited]
