@@ -1,4 +1,4 @@
-HTTP(S) Proxy list updated at 2022-05-29 18:00:01 GMT+7
+HTTP(S) Proxy list updated at 2022-05-29 19:00:01 GMT+7
 Support us:
 BTC: 1GeZeEnrV4SibfS5yDwuzY3w7n94ZE3zMQ
 ETH: 0x6dce795c56d1485213d689ef98277c9fb7e7a6d2
@@ -6,17 +6,17 @@ XMR: 8AGZWnqriYzQjq7hzoTzVWbQNvGeke8AHdk1tVHFqUtfX1oqDY632kwaSnZZqEtFzD4fZN3CUfC
 LTC: MAG1cWWEpgdviZChWvr2oyuxD61JPJ1Q43
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇸🇬 18.140.155.45:4000 1209ms SG [Amazon.com, Inc.]
-🇺🇸 208.85.20.119:1987 1816ms US [The Constant Company]
-🇨🇴 45.167.125.209:9992 2430ms CO [Sepcom Comunicaciones SAS]
-🇧🇷 18.231.133.109:3128 1498ms BR [Amazon Technologies Inc.]
-🇰🇷 118.67.150.13:3128 2907ms KR [NBP]
-🇳🇱 185.62.58.73:3128 3289ms NL [Snel.com B.V.]
-🇺🇸 44.233.33.179:3128 1813ms US [Amazon.com, Inc.]
-🇻🇳 103.214.9.13:3128 1842ms VN [MEGACORE]
-🇨🇴 181.129.14.166:999 3202ms CO [EPM Telecomunicaciones S.A. E.S.P.]
-🇯🇵 140.227.61.156:23456 2985ms JP [NTT PC Communications, Inc.]
-🇮🇹 93.185.123.154:3128 697ms IT [Omegacom S.R.L.S.]
-🇮🇩 118.97.164.19:8080 1456ms ID [PT. TELKOM INDONESIA]
-🇹🇭 49.0.82.190:8080 1351ms TH [AIS-Fibre]
-🇹🇭 122.155.165.191:3128 1811ms TH [CAT Telecom Public Company Limited]
+🇸🇬 18.140.155.45:4000 1416ms SG [Amazon.com, Inc.]
+🇳🇱 185.62.58.65:3128 1304ms NL [Snel.com B.V.]
+🇨🇴 45.167.125.209:9992 2381ms CO [Sepcom Comunicaciones SAS]
+🇰🇷 118.67.150.13:3128 2847ms KR [NBP]
+🇩🇪 173.212.216.104:3128 2667ms DE [Contabo GmbH]
+🇯🇵 140.227.61.156:23456 2637ms JP [NTT PC Communications, Inc.]
+🇮🇩 202.138.239.120:8888 581ms ID [PT Melvar Lintasnusa]
+🇨🇱 190.107.224.150:3128 1983ms CL [WOM S.A.]
+🇲🇽 187.189.175.136:999 4943ms MX [Total Play Telecomunicaciones SA De CV]
+🇫🇷 213.32.75.88:9300 1138ms FR [OVH SAS]
+🇦🇫 180.94.64.114:8080 5860ms AF [Government Communications Network]
+🇹🇭 49.0.82.190:8080 1403ms TH [AIS-Fibre]
+🇮🇩 116.254.100.165:46675 1723ms ID [Bangun Abadi Teknologi Indonesia]
+🇹🇭 122.155.165.191:3128 1838ms TH [CAT Telecom Public Company Limited]
