@@ -1,4 +1,4 @@
-HTTP(S) Proxy list updated at 2022-05-29 22:00:01 GMT+7
+HTTP(S) Proxy list updated at 2022-05-29 23:00:01 GMT+7
 Support us:
 BTC: 1GeZeEnrV4SibfS5yDwuzY3w7n94ZE3zMQ
 ETH: 0x6dce795c56d1485213d689ef98277c9fb7e7a6d2
@@ -6,20 +6,21 @@ XMR: 8AGZWnqriYzQjq7hzoTzVWbQNvGeke8AHdk1tVHFqUtfX1oqDY632kwaSnZZqEtFzD4fZN3CUfC
 LTC: MAG1cWWEpgdviZChWvr2oyuxD61JPJ1Q43
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇪🇨 157.100.12.138:999 2613ms EC [Telconet S.A]
-🇸🇬 18.140.155.45:4000 2468ms SG [Amazon.com, Inc.]
-🇺🇸 208.85.20.119:1987 1080ms US [The Constant Company]
-🇨🇴 45.167.125.209:9992 2509ms CO [Sepcom Comunicaciones SAS]
-🇰🇷 118.67.150.13:3128 2364ms KR [NBP]
-🇸🇬 43.156.70.173:8001 1895ms SG [Shenzhen Tencent Computer Systems Company Limited]
-🇩🇪 173.212.216.104:3128 1612ms DE [Contabo GmbH]
-🇨🇴 181.129.14.166:999 2939ms CO [EPM Telecomunicaciones S.A. E.S.P.]
-🇮🇹 93.185.123.154:3128 753ms IT [Omegacom S.R.L.S.]
-🇳🇱 209.250.253.162:59394 2245ms NL [The Constant Company]
-🇳🇱 80.69.77.115:8007 471ms NL [TransIP B.V. Amsterdam network]
-🇰🇭 110.235.250.155:8080 1848ms KH [COGETEL Co]
-🇹🇭 49.0.82.190:8080 1355ms TH [AIS-Fibre]
-🇮🇩 116.254.100.165:46675 2053ms ID [Bangun Abadi Teknologi Indonesia]
-🇮🇩 36.89.229.97:59707 4579ms ID [PT. Telekomunikasi Indonesia]
-🇹🇭 122.155.165.191:3128 1923ms TH [CAT Telecom Public Company Limited]
-🇮🇳 182.72.150.242:8080 1199ms IN [Bharti Airtel Ltd.]
+🇪🇨 157.100.12.138:999 2504ms EC [Telconet S.A]
+🇸🇬 18.140.155.45:4000 1182ms SG [Amazon.com, Inc.]
+🇳🇱 185.62.58.65:3128 2524ms NL [Snel.com B.V.]
+🇺🇸 208.85.20.119:1987 1458ms US [The Constant Company]
+🇨🇴 45.167.125.209:9992 2288ms CO [Sepcom Comunicaciones SAS]
+🇧🇷 18.231.133.109:3128 4220ms BR [Amazon Technologies Inc.]
+🇰🇷 118.67.150.13:3128 2388ms KR [NBP]
+🇯🇵 20.222.136.61:8000 1313ms JP [Microsoft Corporation]
+🇩🇪 173.212.216.104:3128 1176ms DE [Contabo GmbH]
+🇳🇱 209.250.253.162:59394 556ms NL [The Constant Company]
+🇸🇬 159.65.133.175:31280 1413ms SG [DigitalOcean, LLC]
+🇸🇬 47.74.226.8:5001 475ms SG [Alibaba Cloud (Singapore) Private Limited]
+🇨🇦 167.114.96.27:9300 2018ms CA [OVH SAS]
+🏳 103.135.227.193:8181 4173ms  []
+🇦🇫 180.94.64.114:8080 6162ms AF [Government Communications Network]
+🇹🇭 49.0.82.190:8080 1458ms TH [AIS-Fibre]
+🇮🇩 116.254.100.165:46675 498ms ID [Bangun Abadi Teknologi Indonesia]
+🇹🇭 122.155.165.191:3128 1896ms TH [CAT Telecom Public Company Limited]
