@@ -1,4 +1,4 @@
-HTTP(S) Proxy list updated at 2022-05-29 16:00:01 GMT+7
+HTTP(S) Proxy list updated at 2022-05-29 17:00:01 GMT+7
 Support us:
 BTC: 1GeZeEnrV4SibfS5yDwuzY3w7n94ZE3zMQ
 ETH: 0x6dce795c56d1485213d689ef98277c9fb7e7a6d2
@@ -6,20 +6,21 @@ XMR: 8AGZWnqriYzQjq7hzoTzVWbQNvGeke8AHdk1tVHFqUtfX1oqDY632kwaSnZZqEtFzD4fZN3CUfC
 LTC: MAG1cWWEpgdviZChWvr2oyuxD61JPJ1Q43
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇸🇬 18.140.155.45:4000 1559ms SG [Amazon.com, Inc.]
-🇺🇸 208.85.20.119:1987 618ms US [The Constant Company]
-🇺🇸 18.218.45.35:3128 1260ms US [Amazon.com, Inc.]
-🇺🇸 44.233.33.179:3128 1395ms US [Amazon.com, Inc.]
-🇩🇪 173.212.216.104:3128 656ms DE [Contabo GmbH]
-🇨🇴 181.129.14.166:999 4832ms CO [EPM Telecomunicaciones S.A. E.S.P.]
-🇰🇭 110.235.250.155:8080 3574ms KH [COGETEL Co]
-🇮🇹 149.154.157.17:5678 2725ms IT [ONE ON CDLAN SRL]
-🇨🇴 45.167.126.129:999 3617ms CO [Sepcom Comunicaciones SAS]
-🇮🇳 43.224.10.8:6666 6894ms IN [gtpl hariom world vision]
-🇮🇩 103.153.35.73:8181 3778ms ID [JMExpress]
-🇫🇷 213.32.75.88:9300 861ms FR [OVH SAS]
-🇺🇦 93.171.224.49:8080 3046ms UA [PE TV and Radio Company Kentavr-TV]
-🇷🇺 79.143.30.163:8080 4669ms RU [OOO "Network of data-centers "Selectel"]
-🇹🇭 49.0.82.190:8080 1374ms TH [AIS-Fibre]
-🇮🇩 116.254.100.165:46675 1828ms ID [Bangun Abadi Teknologi Indonesia]
-🇹🇭 122.155.165.191:3128 1760ms TH [CAT Telecom Public Company Limited]
+🇸🇬 18.140.155.45:4000 2732ms SG [Amazon.com, Inc.]
+🇳🇱 185.62.58.65:3128 4305ms NL [Snel.com B.V.]
+🇺🇸 208.85.20.119:1987 686ms US [The Constant Company]
+🇨🇴 45.167.125.209:9992 2340ms CO [Sepcom Comunicaciones SAS]
+🇰🇷 118.67.150.13:3128 2526ms KR [NBP]
+🇺🇸 47.252.4.64:8888 4926ms US [Alibaba.com LLC]
+🇺🇸 18.218.45.35:3128 2566ms US [Amazon.com, Inc.]
+🇺🇸 44.233.33.179:3128 2079ms US [Amazon.com, Inc.]
+🇩🇪 173.212.216.104:3128 1495ms DE [Contabo GmbH]
+🇨🇴 181.129.14.166:999 4913ms CO [EPM Telecomunicaciones S.A. E.S.P.]
+🇮🇹 93.185.123.154:3128 769ms IT [Omegacom S.R.L.S.]
+🇻🇪 186.24.9.114:999 4782ms VE [TELEFONICA VENEZOLANA, C.A.]
+🇳🇱 209.250.253.162:59394 1166ms NL [The Constant Company]
+🇫🇷 51.178.182.23:3128 623ms FR [OVH SAS]
+🇳🇱 80.69.77.115:8007 4494ms NL [TransIP B.V. Amsterdam network]
+🇰🇭 110.235.250.155:8080 2257ms KH [COGETEL Co]
+🇹🇭 49.0.82.190:8080 1473ms TH [AIS-Fibre]
+🇹🇭 122.155.165.191:3128 2508ms TH [CAT Telecom Public Company Limited]
