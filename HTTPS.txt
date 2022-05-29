@@ -1,4 +1,4 @@
-HTTP(S) Proxy list updated at 2022-05-29 12:00:01 GMT+7
+HTTP(S) Proxy list updated at 2022-05-29 13:00:02 GMT+7
 Support us:
 BTC: 1GeZeEnrV4SibfS5yDwuzY3w7n94ZE3zMQ
 ETH: 0x6dce795c56d1485213d689ef98277c9fb7e7a6d2
@@ -6,24 +6,16 @@ XMR: 8AGZWnqriYzQjq7hzoTzVWbQNvGeke8AHdk1tVHFqUtfX1oqDY632kwaSnZZqEtFzD4fZN3CUfC
 LTC: MAG1cWWEpgdviZChWvr2oyuxD61JPJ1Q43
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇫🇷 51.77.246.212:3128 700ms FR [OVH SAS]
-🇰🇷 118.67.150.13:3128 1928ms KR [NBP]
-🇺🇸 47.252.4.64:8888 4104ms US [Alibaba.com LLC]
-🇺🇸 18.218.45.35:3128 2716ms US [Amazon.com, Inc.]
-🇿🇦 13.245.172.162:3128 2553ms ZA [Amazon Technologies Inc.]
-🇺🇸 44.233.33.179:3128 1263ms US [Amazon.com, Inc.]
-🇹🇷 176.88.168.155:8080 3216ms TR [Superonline Iletisim Hizmetleri A.S.]
-🇫🇷 91.121.42.14:1081 7577ms FR [OVH SAS]
-🇳🇱 209.250.253.162:59394 1707ms NL [The Constant Company]
-🇦🇷 170.239.180.51:999 3785ms AR [Escobar Arnez Marcelino]
-🇰🇭 110.235.250.155:8080 4000ms KH [COGETEL Co]
-🇬🇧 172.107.97.51:443 1726ms GB [Psychz Networks]
-🇸🇬 194.233.73.104:443 2454ms SG [Contabo Asia Private Limited]
-🇮🇩 36.95.142.26:8080 7734ms ID [PT. Telekomunikasi Indonesia]
-🇸🇬 194.233.69.90:443 2116ms SG [Contabo Asia Private Limited]
-🇫🇷 213.32.75.88:9300 1332ms FR [OVH SAS]
-🇮🇩 112.78.170.251:8080 7695ms ID [BIZNET]
-🇹🇭 49.0.82.190:8080 1331ms TH [AIS-Fibre]
-🇮🇩 36.89.229.97:59707 1849ms ID [PT. Telekomunikasi Indonesia]
-🇮🇩 103.116.203.244:43520 784ms ID [PT Parsaoran Global Datatrans]
-🇹🇭 122.155.165.191:3128 1412ms TH [CAT Telecom Public Company Limited]
+🇫🇷 51.77.246.212:3128 537ms FR [OVH SAS]
+🇰🇷 118.67.150.13:3128 3773ms KR [NBP]
+🇺🇸 44.233.33.179:3128 1141ms US [Amazon.com, Inc.]
+🇩🇪 173.212.216.104:3128 624ms DE [Contabo GmbH]
+🇨🇴 181.129.14.166:999 2990ms CO [EPM Telecomunicaciones S.A. E.S.P.]
+🇦🇲 91.103.31.147:81 4206ms AM [MTS Armenia CJSC]
+🇰🇭 110.235.250.155:8080 2218ms KH [COGETEL Co]
+🇯🇵 133.242.146.103:8000 4516ms JP [SAKURA Internet Inc.]
+🇮🇩 118.97.164.19:8080 4650ms ID [PT. TELKOM INDONESIA]
+🇹🇭 49.0.82.190:8080 1353ms TH [AIS-Fibre]
+🇧🇬 77.238.79.111:8080 6614ms BG [FIBER1]
+🇮🇩 36.89.229.97:59707 2100ms ID [PT. Telekomunikasi Indonesia]
+🇹🇭 122.155.165.191:3128 1775ms TH [CAT Telecom Public Company Limited]
