@@ -1,4 +1,4 @@
-HTTP(S) Proxy list updated at 2022-05-30 18:00:01 GMT+7
+HTTP(S) Proxy list updated at 2022-05-30 19:00:01 GMT+7
 Support us:
 BTC: 1GeZeEnrV4SibfS5yDwuzY3w7n94ZE3zMQ
 ETH: 0x6dce795c56d1485213d689ef98277c9fb7e7a6d2
@@ -6,17 +6,15 @@ XMR: 8AGZWnqriYzQjq7hzoTzVWbQNvGeke8AHdk1tVHFqUtfX1oqDY632kwaSnZZqEtFzD4fZN3CUfC
 LTC: MAG1cWWEpgdviZChWvr2oyuxD61JPJ1Q43
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇳🇱 185.62.58.65:3128 2231ms NL [Snel.com B.V.]
-🇫🇷 51.77.246.212:3128 2106ms FR [OVH SAS]
-🇨🇴 45.167.125.209:9992 2458ms CO [Sepcom Comunicaciones SAS]
-🇲🇽 201.120.27.15:53281 5741ms MX [Uninet S.A. de C.V]
-🇦🇲 91.103.31.147:81 3511ms AM [MTS Armenia CJSC]
-🇰🇭 110.235.250.155:8080 1015ms KH [COGETEL Co]
-🇲🇽 187.251.138.81:3128 2763ms MX [Total Play Telecomunicaciones SA De CV]
-🇹🇷 95.0.206.19:8080 6950ms TR [Turk Telekomunikasyon Anonim Sirketi]
-🇦🇫 180.94.64.114:8080 6212ms AF [Government Communications Network]
-🇮🇳 202.62.67.209:53281 4633ms IN [CityOnline Services]
-🇹🇭 49.0.82.190:8080 1486ms TH [AIS-Fibre]
-🇮🇩 103.11.106.8:8181 4559ms ID [PT. Pascal Indonesia]
-🇹🇭 122.155.165.191:3128 2311ms TH [CAT Telecom Public Company Limited]
-🇮🇳 182.72.150.242:8080 1593ms IN [Bharti Airtel Ltd.]
+🇪🇨 157.100.12.138:999 2369ms EC [Telconet S.A]
+🇫🇷 51.77.246.212:3128 1859ms FR [OVH SAS]
+🇨🇴 45.167.125.209:9992 2489ms CO [Sepcom Comunicaciones SAS]
+🇹🇷 176.88.168.155:8080 3304ms TR [Superonline Iletisim Hizmetleri A.S.]
+🇯🇵 140.227.61.156:23456 2987ms JP [NTT PC Communications, Inc.]
+🇮🇹 93.185.123.154:3128 668ms IT [Omegacom S.R.L.S.]
+🇧🇩 103.23.206.170:8080 2136ms BD [Mizanur Rahman t/a Maya Cyber World]
+🇮🇩 36.67.152.213:11111 4097ms ID [PT. Telekomunikasi Indonesia]
+🇦🇫 180.94.64.114:8080 3165ms AF [Government Communications Network]
+🇹🇭 49.0.82.190:8080 1360ms TH [AIS-Fibre]
+🇮🇩 36.89.229.97:59707 5414ms ID [PT. Telekomunikasi Indonesia]
+🇹🇭 122.155.165.191:3128 1883ms TH [CAT Telecom Public Company Limited]
