@@ -1,4 +1,4 @@
-HTTP(S) Proxy list updated at 2022-05-30 14:00:01 GMT+7
+HTTP(S) Proxy list updated at 2022-05-30 15:00:01 GMT+7
 Support us:
 BTC: 1GeZeEnrV4SibfS5yDwuzY3w7n94ZE3zMQ
 ETH: 0x6dce795c56d1485213d689ef98277c9fb7e7a6d2
@@ -6,17 +6,23 @@ XMR: 8AGZWnqriYzQjq7hzoTzVWbQNvGeke8AHdk1tVHFqUtfX1oqDY632kwaSnZZqEtFzD4fZN3CUfC
 LTC: MAG1cWWEpgdviZChWvr2oyuxD61JPJ1Q43
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇸🇬 51.79.157.110:8080 2545ms SG [OVH SAS]
-🇳🇱 185.62.58.65:3128 2593ms NL [Snel.com B.V.]
-🇨🇴 45.167.125.209:9992 2353ms CO [Sepcom Comunicaciones SAS]
-🇳🇱 185.62.58.73:3128 2457ms NL [Snel.com B.V.]
-🇩🇪 173.212.216.104:3128 1598ms DE [Contabo GmbH]
-🇨🇴 181.129.14.166:999 4146ms CO [EPM Telecomunicaciones S.A. E.S.P.]
-🇳🇱 5.39.189.39:3128 1341ms NL [ColoCenter b.v.]
-🇮🇹 93.185.123.154:3128 1256ms IT [Omegacom S.R.L.S.]
-🇨🇴 190.14.224.244:999 3369ms CO [Media Commerce Partners S.A]
-🇧🇷 177.6.235.74:8080 2899ms BR [Brasil Telecom S/A - Filial Distrito Federal]
-🇸🇬 47.74.226.8:5001 851ms SG [Alibaba Cloud (Singapore) Private Limited]
-🇷🇺 95.143.8.182:57169 4095ms RU [Avelacom Khabarovsk]
+🇸🇬 51.79.157.110:8080 2393ms SG [OVH SAS]
+🇯🇵 168.138.203.206:8080 2118ms JP [Oracle Corporation]
+🇳🇱 185.62.58.65:3128 1516ms NL [Snel.com B.V.]
+🇫🇷 51.77.246.212:3128 2916ms FR [OVH SAS]
+🇨🇴 45.167.125.209:9992 2523ms CO [Sepcom Comunicaciones SAS]
+🇰🇷 118.67.150.13:3128 2629ms KR [NBP]
+🇩🇪 173.212.216.104:3128 2066ms DE [Contabo GmbH]
+🇩🇪 176.57.188.32:443 1750ms DE [Contabo GmbH]
+🇳🇱 5.39.189.39:3128 544ms NL [ColoCenter b.v.]
+🇮🇹 93.185.123.154:3128 2191ms IT [Omegacom S.R.L.S.]
+🇹🇭 119.59.125.189:3128 2954ms TH [Metrabyte Co., Ltd]
+🇩🇪 85.195.104.71:80 4715ms DE [Host Europe GmbH]
+🇨🇱 190.107.224.150:3128 2386ms CL [WOM S.A.]
+🇫🇷 82.64.228.168:3128 2036ms FR [Proxad / Free SAS]
+🇮🇳 150.129.207.84:30093 2622ms IN [GTPL Vidarbha telelink pvt ltd]
+🇮🇳 43.227.129.65:83 2688ms IN [Apple Broadband Services Pvt.ltd]
+🇷🇺 79.143.30.163:8080 3614ms RU [OOO "Network of data-centers "Selectel"]
+🇦🇫 180.94.64.114:8080 4619ms AF [Government Communications Network]
 🇹🇭 49.0.82.190:8080 1401ms TH [AIS-Fibre]
-🇹🇭 122.155.165.191:3128 2423ms TH [CAT Telecom Public Company Limited]
+🇹🇭 122.155.165.191:3128 2831ms TH [CAT Telecom Public Company Limited]
