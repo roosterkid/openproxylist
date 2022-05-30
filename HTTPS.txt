@@ -1,4 +1,4 @@
-HTTP(S) Proxy list updated at 2022-05-30 21:00:01 GMT+7
+HTTP(S) Proxy list updated at 2022-05-30 22:00:01 GMT+7
 Support us:
 BTC: 1GeZeEnrV4SibfS5yDwuzY3w7n94ZE3zMQ
 ETH: 0x6dce795c56d1485213d689ef98277c9fb7e7a6d2
@@ -6,20 +6,21 @@ XMR: 8AGZWnqriYzQjq7hzoTzVWbQNvGeke8AHdk1tVHFqUtfX1oqDY632kwaSnZZqEtFzD4fZN3CUfC
 LTC: MAG1cWWEpgdviZChWvr2oyuxD61JPJ1Q43
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇪🇨 157.100.12.138:999 2515ms EC [Telconet S.A]
-🇳🇱 185.62.58.65:3128 2872ms NL [Snel.com B.V.]
-🇫🇷 51.77.246.212:3128 918ms FR [OVH SAS]
-🇨🇴 45.167.125.209:9992 2632ms CO [Sepcom Comunicaciones SAS]
-🇧🇷 18.231.133.109:3128 2204ms BR [Amazon Technologies Inc.]
-🇰🇷 118.67.150.13:3128 4517ms KR [NBP]
-🇸🇬 47.241.165.133:443 1534ms SG [Alibaba.com LLC]
-🇩🇪 173.212.216.104:3128 2532ms DE [Contabo GmbH]
-🇮🇹 93.185.123.154:3128 1646ms IT [Omegacom S.R.L.S.]
-🇳🇱 209.250.253.162:59394 1686ms NL [The Constant Company]
-🇰🇭 110.235.250.155:8080 4404ms KH [COGETEL Co]
-🇮🇩 103.122.32.10:8080 3081ms ID [PT. Mora Telematika Indonesia]
-🇧🇷 131.161.44.146:8083 3681ms BR [Teranet comunicacoes multimidia ltda]
-🇧🇷 200.137.134.131:3128 4611ms BR [AssociaÔÔo Rede Nacional de Ensino e Pesquisa]
-🇮🇩 36.67.152.213:11111 4931ms ID [PT. Telekomunikasi Indonesia]
-🇹🇭 49.0.82.190:8080 1376ms TH [AIS-Fibre]
-🇹🇭 122.155.165.191:3128 2018ms TH [CAT Telecom Public Company Limited]
+🇫🇮 65.108.136.229:9090 1734ms FI [Hetzner Online GmbH]
+🇪🇨 157.100.12.138:999 2432ms EC [Telconet S.A]
+🇫🇷 51.77.246.212:3128 805ms FR [OVH SAS]
+🇨🇴 45.167.125.209:9992 2943ms CO [Sepcom Comunicaciones SAS]
+🇩🇪 173.212.216.104:3128 2037ms DE [Contabo GmbH]
+🇮🇹 93.185.123.154:3128 1512ms IT [Omegacom S.R.L.S.]
+🇸🇬 159.65.133.175:31280 516ms SG [DigitalOcean, LLC]
+🇧🇩 103.23.206.170:8080 1098ms BD [Mizanur Rahman t/a Maya Cyber World]
+🇰🇭 110.235.250.155:8080 4300ms KH [COGETEL Co]
+🇸🇬 47.74.226.8:5001 478ms SG [Alibaba Cloud (Singapore) Private Limited]
+🇩🇪 85.195.104.71:80 4299ms DE [Host Europe GmbH]
+🇨🇱 190.107.224.150:3128 2012ms CL [WOM S.A.]
+🇧🇷 131.161.44.146:8083 4502ms BR [Teranet comunicacoes multimidia ltda]
+🇸🇬 194.233.73.106:443 2900ms SG [Contabo Asia Private Limited]
+🇹🇭 49.0.82.190:8080 1382ms TH [AIS-Fibre]
+🇮🇩 103.11.106.8:8181 3936ms ID [PT. Pascal Indonesia]
+🇮🇩 36.89.229.97:59707 3664ms ID [PT. Telekomunikasi Indonesia]
+🇹🇭 122.155.165.191:3128 678ms TH [CAT Telecom Public Company Limited]
