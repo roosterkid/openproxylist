@@ -1,4 +1,4 @@
-HTTP(S) Proxy list updated at 2022-06-01 13:00:01 GMT+7
+HTTP(S) Proxy list updated at 2022-06-01 14:00:01 GMT+7
 Support us:
 BTC: 1GeZeEnrV4SibfS5yDwuzY3w7n94ZE3zMQ
 ETH: 0x6dce795c56d1485213d689ef98277c9fb7e7a6d2
@@ -6,21 +6,18 @@ XMR: 8AGZWnqriYzQjq7hzoTzVWbQNvGeke8AHdk1tVHFqUtfX1oqDY632kwaSnZZqEtFzD4fZN3CUfC
 LTC: MAG1cWWEpgdviZChWvr2oyuxD61JPJ1Q43
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇫🇮 65.108.136.229:9090 822ms FI [Hetzner Online GmbH]
-🇦🇺 139.99.131.126:3128 3830ms AU [OVH SAS]
-🇪🇨 157.100.12.138:999 2413ms EC [Telconet S.A]
-🇨🇴 45.167.125.209:9992 2174ms CO [Sepcom Comunicaciones SAS]
-🇮🇩 146.196.107.142:63123 4773ms ID [PT Maxindo Mitra Solusi]
-🇲🇽 201.120.27.15:53281 2627ms MX [Uninet S.A. de C.V]
-🇧🇷 177.6.235.74:8080 3150ms BR [Brasil Telecom S/A - Filial Distrito Federal]
-🇹🇷 88.255.64.83:1976 4153ms TR [Turk Telekomunikasyon Anonim Sirketi]
-🇪🇨 177.234.212.69:999 4802ms EC [Nedetel S.A.]
-🇨🇱 190.107.224.150:3128 2997ms CL [WOM S.A.]
-🇸🇬 194.233.73.109:443 2699ms SG [Contabo Asia Private Limited]
-🇸🇬 194.233.73.104:443 2726ms SG [Contabo Asia Private Limited]
-🇷🇺 95.143.8.182:57169 4863ms RU [Avelacom Khabarovsk]
-🇮🇩 112.78.170.251:8080 602ms ID [BIZNET]
-🇹🇭 49.0.82.190:8080 1407ms TH [AIS-Fibre]
-🇮🇩 36.89.229.97:59707 4369ms ID [PT. Telekomunikasi Indonesia]
-🇹🇭 122.155.165.191:3128 1863ms TH [CAT Telecom Public Company Limited]
-🇷🇴 37.120.192.154:8080 582ms RO [Secure Data Systems SRL]
+🇫🇮 65.108.136.229:9090 1729ms FI [Hetzner Online GmbH]
+🇪🇨 157.100.12.138:999 2650ms EC [Telconet S.A]
+🇨🇴 45.167.125.209:9992 2254ms CO [Sepcom Comunicaciones SAS]
+🇩🇪 144.76.60.58:8118 1254ms DE [Hetzner Online GmbH]
+🇧🇷 177.128.44.126:6006 3911ms BR [FLY & LVT]
+🇺🇸 54.193.249.144:8080 1260ms US [Amazon.com, Inc.]
+🇧🇷 177.6.235.74:8080 4481ms BR [Brasil Telecom S/A - Filial Distrito Federal]
+🇹🇷 88.255.64.83:1976 5971ms TR [Turk Telekomunikasyon Anonim Sirketi]
+🇫🇷 188.165.59.127:3128 467ms FR [OVH ISP]
+🇷🇺 95.143.8.182:57169 5071ms RU [Avelacom Khabarovsk]
+🇮🇩 112.78.170.251:8080 1694ms ID [BIZNET]
+🇹🇭 49.0.82.190:8080 1394ms TH [AIS-Fibre]
+🇰🇭 49.156.42.188:8080 2200ms KH [WiCAM Corporation Ltd]
+🇮🇩 36.89.229.97:59707 2558ms ID [PT. Telekomunikasi Indonesia]
+🇮🇳 103.6.184.222:39241 966ms IN [websurf Broadband]
