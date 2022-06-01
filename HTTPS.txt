@@ -1,4 +1,4 @@
-HTTP(S) Proxy list updated at 2022-06-01 16:00:01 GMT+7
+HTTP(S) Proxy list updated at 2022-06-01 17:00:01 GMT+7
 Support us:
 BTC: 1GeZeEnrV4SibfS5yDwuzY3w7n94ZE3zMQ
 ETH: 0x6dce795c56d1485213d689ef98277c9fb7e7a6d2
@@ -6,19 +6,25 @@ XMR: 8AGZWnqriYzQjq7hzoTzVWbQNvGeke8AHdk1tVHFqUtfX1oqDY632kwaSnZZqEtFzD4fZN3CUfC
 LTC: MAG1cWWEpgdviZChWvr2oyuxD61JPJ1Q43
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇫🇮 65.108.136.229:9090 774ms FI [Hetzner Online GmbH]
-🇪🇨 157.100.12.138:999 2776ms EC [Telconet S.A]
-🇨🇴 45.167.125.209:9992 2653ms CO [Sepcom Comunicaciones SAS]
-🇯🇵 20.222.136.61:8000 781ms JP [Microsoft Corporation]
-🇻🇳 103.214.9.13:3128 2212ms VN [MEGACORE]
-🇧🇩 103.23.206.170:8080 2621ms BD [Mizanur Rahman t/a Maya Cyber World]
-🇺🇸 54.193.249.144:8080 1173ms US [Amazon.com, Inc.]
-🇹🇷 88.255.64.83:1976 2975ms TR [Turk Telekomunikasyon Anonim Sirketi]
-🇮🇩 36.95.142.26:8080 2423ms ID [PT. Telekomunikasi Indonesia]
-🇮🇩 112.78.170.251:8080 565ms ID [BIZNET]
-🇦🇫 180.94.64.114:8080 3255ms AF [Government Communications Network]
-🇹🇭 49.0.82.190:8080 1336ms TH [AIS-Fibre]
-🇰🇭 49.156.42.188:8080 2005ms KH [WiCAM Corporation Ltd]
-🇮🇩 36.89.229.97:59707 1314ms ID [PT. Telekomunikasi Indonesia]
-🇹🇭 122.155.165.191:3128 1562ms TH [CAT Telecom Public Company Limited]
-🇸🇬 128.199.214.87:3128 1237ms SG [DigitalOcean LLC]
+🇫🇮 65.108.136.229:9090 2328ms FI [Hetzner Online GmbH]
+🇪🇨 157.100.12.138:999 2981ms EC [Telconet S.A]
+🇨🇴 45.167.125.209:9992 2352ms CO [Sepcom Comunicaciones SAS]
+🇯🇵 20.222.136.61:8000 834ms JP [Microsoft Corporation]
+🇩🇪 195.4.165.41:8080 2717ms DE [WORTMANN AG]
+🇯🇵 74.82.50.155:3128 2655ms JP [Hurricane Electric]
+🇫🇷 147.135.134.57:5566 2141ms FR [OVH SAS]
+🇯🇵 164.70.122.6:3128 2988ms JP [NTT PC Communications, Inc.]
+🇺🇸 54.193.249.144:8080 1280ms US [Amazon.com, Inc.]
+🇮🇩 139.255.21.74:8080 4526ms ID [PT. LINKNET]
+🇺🇸 20.47.108.204:8888 1824ms US [Microsoft Corporation]
+🇨🇱 190.107.224.150:3128 1381ms CL [WOM S.A.]
+🇮🇳 103.38.5.226:82 3800ms IN [Max tech media and communications pvt ltd]
+🇮🇩 36.67.152.213:11111 2317ms ID [PT. Telekomunikasi Indonesia]
+🇹🇷 95.0.206.51:8080 7200ms TR [Turk Telekomunikasyon Anonim Sirketi]
+🇮🇩 112.78.170.251:8080 7789ms ID [BIZNET]
+🇦🇫 180.94.64.114:8080 4619ms AF [Government Communications Network]
+🇹🇭 49.0.82.190:8080 1433ms TH [AIS-Fibre]
+🇮🇩 116.254.100.165:46675 3612ms ID [Bangun Abadi Teknologi Indonesia]
+🇹🇭 122.155.165.191:3128 1715ms TH [CAT Telecom Public Company Limited]
+🇮🇳 182.72.150.242:8080 2787ms IN [Bharti Airtel Ltd.]
+🇸🇬 128.199.214.87:3128 1409ms SG [DigitalOcean LLC]
