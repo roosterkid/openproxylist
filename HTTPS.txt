@@ -1,4 +1,4 @@
-HTTP(S) Proxy list updated at 2022-06-02 18:00:01 GMT+7
+HTTP(S) Proxy list updated at 2022-06-02 19:00:01 GMT+7
 Support us:
 BTC: 1GeZeEnrV4SibfS5yDwuzY3w7n94ZE3zMQ
 ETH: 0x6dce795c56d1485213d689ef98277c9fb7e7a6d2
@@ -6,27 +6,18 @@ XMR: 8AGZWnqriYzQjq7hzoTzVWbQNvGeke8AHdk1tVHFqUtfX1oqDY632kwaSnZZqEtFzD4fZN3CUfC
 LTC: MAG1cWWEpgdviZChWvr2oyuxD61JPJ1Q43
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇹🇷 185.93.69.200:9999 909ms TR [ibrahim tufek]
-🇨🇦 138.197.146.58:31028 2035ms CA [DigitalOcean, LLC]
-🇺🇸 47.89.185.178:8888 3810ms US [Alibaba.com LLC]
-🇫🇮 65.108.136.229:9090 2610ms FI [Hetzner Online GmbH]
-🇪🇨 157.100.12.138:999 2784ms EC [Telconet S.A]
-🇨🇴 45.167.125.209:9992 2325ms CO [Sepcom Comunicaciones SAS]
-🇸🇬 47.241.165.133:443 3028ms SG [Alibaba.com LLC]
-🇩🇪 138.201.125.229:8118 530ms DE [Hetzner Online GmbH]
-🇮🇩 114.4.104.254:3128 4601ms ID [PT. INDOSAT Tbk]
-🇵🇰 103.4.94.12:3128 2663ms PK [HEC]
-🇳🇱 5.39.189.39:3128 669ms NL [ColoCenter b.v.]
-🇹🇭 119.59.125.189:3128 2288ms TH [Metrabyte Co., Ltd]
-🇰🇭 110.235.250.155:8080 4239ms KH [COGETEL Co]
-🇺🇸 54.193.249.144:8080 1378ms US [Amazon.com, Inc.]
-🇮🇩 139.255.21.74:8080 2672ms ID [PT. LINKNET]
-🇫🇷 188.165.59.127:3128 405ms FR [OVH ISP]
-🇹🇷 95.0.219.234:8080 4908ms TR [TurkTelecom]
-🇺🇸 20.47.108.204:8888 1830ms US [Microsoft Corporation]
-🇨🇦 167.114.96.27:9300 1985ms CA [OVH SAS]
-🇧🇴 190.181.16.206:999 4489ms BO [AXS Bolivia S. A.]
-🇨🇦 158.69.52.218:9300 2427ms CA [OVH SAS]
-🇹🇭 49.0.82.190:8080 1397ms TH [AIS-Fibre]
-🇮🇩 182.23.107.210:3128 4872ms ID [PT Aplikanusa Lintasarta]
-🇮🇳 182.72.150.242:8080 1327ms IN [Bharti Airtel Ltd.]
+🇹🇷 185.93.69.200:9999 1041ms TR [ibrahim tufek]
+🇪🇨 157.100.12.138:999 3327ms EC [Telconet S.A]
+🇳🇱 185.62.58.65:3128 1805ms NL [Snel.com B.V.]
+🇨🇴 45.167.125.209:9992 2520ms CO [Sepcom Comunicaciones SAS]
+🇮🇩 114.4.104.254:3128 4467ms ID [PT. INDOSAT Tbk]
+🇵🇰 103.4.94.12:3128 2295ms PK [HEC]
+🇳🇱 5.39.189.39:3128 1323ms NL [ColoCenter b.v.]
+🇰🇭 110.235.250.155:8080 1054ms KH [COGETEL Co]
+🇯🇵 140.227.211.47:8080 2955ms JP [NTT PC Communications, Inc.]
+🇺🇦 93.171.224.48:8080 5922ms UA [PE TV and Radio Company Kentavr-TV]
+🇦🇫 180.94.64.114:8080 2906ms AF [Government Communications Network]
+🇮🇩 118.97.164.19:8080 3848ms ID [PT. TELKOM INDONESIA]
+🇹🇭 49.0.82.190:8080 1380ms TH [AIS-Fibre]
+🇮🇩 116.254.100.165:46675 1644ms ID [Bangun Abadi Teknologi Indonesia]
+🇹🇭 122.155.165.191:3128 2317ms TH [CAT Telecom Public Company Limited]
