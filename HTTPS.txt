@@ -1,4 +1,4 @@
-HTTP(S) Proxy list updated at 2022-06-02 13:00:01 GMT+7
+HTTP(S) Proxy list updated at 2022-06-02 14:00:01 GMT+7
 Support us:
 BTC: 1GeZeEnrV4SibfS5yDwuzY3w7n94ZE3zMQ
 ETH: 0x6dce795c56d1485213d689ef98277c9fb7e7a6d2
@@ -6,21 +6,24 @@ XMR: 8AGZWnqriYzQjq7hzoTzVWbQNvGeke8AHdk1tVHFqUtfX1oqDY632kwaSnZZqEtFzD4fZN3CUfC
 LTC: MAG1cWWEpgdviZChWvr2oyuxD61JPJ1Q43
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇺🇸 47.89.185.178:8888 2890ms US [Alibaba.com LLC]
-🇫🇮 65.108.136.229:9090 2197ms FI [Hetzner Online GmbH]
-🇨🇴 45.167.125.209:9992 2454ms CO [Sepcom Comunicaciones SAS]
-🇵🇱 80.252.5.34:7001 4480ms PL [GWNET Autonomus System]
-🇺🇸 3.128.120.252:80 1869ms US [Amazon.com, Inc.]
-🇺🇸 3.19.179.179:8000 4727ms US [Amazon.com, Inc.]
-🇮🇩 103.145.142.54:80 4271ms ID [PT. Indonesia Comnets Plus]
-🇯🇵 74.82.50.155:3128 2074ms JP [Hurricane Electric]
-🇨🇴 190.14.224.244:999 2999ms CO [Media Commerce Partners S.A]
-🇧🇷 177.53.221.89:39310 7179ms BR [Sergipeweb Provedores De Internet Ltda]
-🇺🇸 54.193.249.144:8080 1143ms US [Amazon.com, Inc.]
-🇩🇪 3.126.242.11:3128 473ms DE [Amazon Technologies Inc.]
-🇮🇩 202.138.249.241:8000 1944ms ID [PT Melvar Lintasnusa]
-🇦🇫 180.94.64.114:8080 3944ms AF [Government Communications Network]
-🇮🇩 182.253.108.186:8080 2452ms ID [BIZNET]
-🇹🇭 49.0.82.190:8080 1400ms TH [AIS-Fibre]
-🇧🇬 77.238.79.111:8080 6456ms BG [FIBER1]
-🇹🇭 122.155.165.191:3128 2699ms TH [CAT Telecom Public Company Limited]
+🇹🇷 185.93.69.200:9999 971ms TR [ibrahim tufek]
+🇭🇰 129.226.182.140:8888 1591ms HK [Tencent Cloud Computing (Beijing) Co]
+🇺🇸 47.89.185.178:8888 2569ms US [Alibaba.com LLC]
+🇺🇸 193.233.202.222:3128 2088ms US [Alexhost SRL]
+🇫🇮 65.108.136.229:9090 2506ms FI [Hetzner Online GmbH]
+🇪🇨 157.100.12.138:999 2671ms EC [Telconet S.A]
+🇨🇴 45.167.125.209:9992 2508ms CO [Sepcom Comunicaciones SAS]
+🇺🇸 47.252.4.64:8888 2732ms US [Alibaba.com LLC]
+🇯🇵 20.222.136.61:8000 1854ms JP [Microsoft Corporation]
+🇵🇰 103.4.94.12:3128 2712ms PK [HEC]
+🇳🇱 5.39.189.39:3128 557ms NL [ColoCenter b.v.]
+🇨🇴 190.14.224.244:999 3192ms CO [Media Commerce Partners S.A]
+🇺🇸 54.193.249.144:8080 1395ms US [Amazon.com, Inc.]
+🇫🇷 188.165.59.127:3128 603ms FR [OVH ISP]
+🇮🇩 103.36.11.17:8181 4077ms ID [PT Awinet Global Mandiri]
+🇦🇷 190.220.1.173:56974 4918ms AR [AMX Argentina S.A.]
+🇮🇩 36.67.152.213:11111 2637ms ID [PT. Telekomunikasi Indonesia]
+🇩🇪 3.126.242.11:3128 1354ms DE [Amazon Technologies Inc.]
+🇮🇩 103.76.12.42:80 4765ms ID [MORATELINDO]
+🇮🇩 118.97.164.19:8080 4040ms ID [PT. TELKOM INDONESIA]
+🇮🇩 116.254.100.165:46675 594ms ID [Bangun Abadi Teknologi Indonesia]
