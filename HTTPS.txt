@@ -1,4 +1,4 @@
-HTTP(S) Proxy list updated at 2022-06-02 16:00:02 GMT+7
+HTTP(S) Proxy list updated at 2022-06-02 17:00:02 GMT+7
 Support us:
 BTC: 1GeZeEnrV4SibfS5yDwuzY3w7n94ZE3zMQ
 ETH: 0x6dce795c56d1485213d689ef98277c9fb7e7a6d2
@@ -6,19 +6,21 @@ XMR: 8AGZWnqriYzQjq7hzoTzVWbQNvGeke8AHdk1tVHFqUtfX1oqDY632kwaSnZZqEtFzD4fZN3CUfC
 LTC: MAG1cWWEpgdviZChWvr2oyuxD61JPJ1Q43
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇹🇷 185.93.69.200:9999 3349ms TR [ibrahim tufek]
-🇺🇸 47.89.185.178:8888 2280ms US [Alibaba.com LLC]
-🇪🇨 157.100.12.138:999 3098ms EC [Telconet S.A]
-🇨🇴 45.167.125.209:9992 2544ms CO [Sepcom Comunicaciones SAS]
-🇵🇰 103.4.94.12:3128 1879ms PK [HEC]
-🇯🇵 74.82.50.155:3128 1779ms JP [Hurricane Electric]
-🇳🇱 5.39.189.39:3128 1239ms NL [ColoCenter b.v.]
-🇰🇭 110.235.250.155:8080 990ms KH [COGETEL Co]
-🇺🇸 54.193.249.144:8080 2283ms US [Amazon.com, Inc.]
-🇫🇷 188.165.59.127:3128 761ms FR [OVH ISP]
-🇩🇪 3.126.242.11:3128 651ms DE [Amazon Technologies Inc.]
-🇦🇫 180.94.64.114:8080 6351ms AF [Government Communications Network]
-🇮🇩 182.253.108.186:8080 3209ms ID [BIZNET]
-🇹🇭 49.0.82.190:8080 1417ms TH [AIS-Fibre]
-🇰🇭 49.156.42.188:8080 2888ms KH [WiCAM Corporation Ltd]
-🇹🇭 122.155.165.191:3128 1676ms TH [CAT Telecom Public Company Limited]
+🇹🇷 185.93.69.200:9999 2620ms TR [ibrahim tufek]
+🇨🇦 138.197.146.58:31028 1968ms CA [DigitalOcean, LLC]
+🇺🇸 193.233.202.222:3128 2858ms US [Alexhost SRL]
+🇫🇮 65.108.136.229:9090 1428ms FI [Hetzner Online GmbH]
+🇪🇨 157.100.12.138:999 2610ms EC [Telconet S.A]
+🇨🇴 45.167.125.209:9992 2348ms CO [Sepcom Comunicaciones SAS]
+🇵🇰 103.4.94.12:3128 2228ms PK [HEC]
+🇳🇱 5.39.189.39:3128 417ms NL [ColoCenter b.v.]
+🇮🇹 93.185.123.154:3128 2477ms IT [Omegacom S.R.L.S.]
+🇺🇸 54.193.249.144:8080 1350ms US [Amazon.com, Inc.]
+🇹🇷 88.255.64.83:1976 4156ms TR [Turk Telekomunikasyon Anonim Sirketi]
+🇮🇩 139.255.21.74:8080 1437ms ID [PT. LINKNET]
+🇮🇩 36.67.152.213:11111 3247ms ID [PT. Telekomunikasi Indonesia]
+🇩🇪 3.126.242.11:3128 1491ms DE [Amazon Technologies Inc.]
+🇦🇫 180.94.64.114:8080 4009ms AF [Government Communications Network]
+🇹🇭 49.0.82.190:8080 1396ms TH [AIS-Fibre]
+🇧🇬 77.238.79.111:8080 3462ms BG [FIBER1]
+🇮🇩 182.23.107.210:3128 2242ms ID [PT Aplikanusa Lintasarta]
