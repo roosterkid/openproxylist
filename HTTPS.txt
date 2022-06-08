@@ -1,4 +1,4 @@
-HTTP(S) Proxy list updated at 2022-06-08 15:00:01 GMT+7
+HTTP(S) Proxy list updated at 2022-06-08 16:00:01 GMT+7
 Support us:
 BTC: 1GeZeEnrV4SibfS5yDwuzY3w7n94ZE3zMQ
 ETH: 0x6dce795c56d1485213d689ef98277c9fb7e7a6d2
@@ -6,21 +6,19 @@ XMR: 8AGZWnqriYzQjq7hzoTzVWbQNvGeke8AHdk1tVHFqUtfX1oqDY632kwaSnZZqEtFzD4fZN3CUfC
 LTC: MAG1cWWEpgdviZChWvr2oyuxD61JPJ1Q43
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇸🇬 159.223.90.238:3129 1490ms SG [DigitalOcean, LLC]
-🇫🇮 95.217.72.253:3128 917ms FI [Hetzner Online GmbH]
-🇧🇬 94.155.221.220:3128 3968ms BG ["Cooolbox" AD]
-🇫🇷 94.23.241.200:3128 2696ms FR [OVH SAS]
-🇪🇨 157.100.12.138:999 2582ms EC [Telconet S.A]
-🇩🇪 173.212.216.104:3128 2324ms DE [Contabo GmbH]
-🇩🇪 144.91.78.202:5566 2669ms DE [Contabo GmbH]
-🇳🇱 5.39.189.39:3128 1056ms NL [ColoCenter b.v.]
-🇸🇬 159.65.133.175:31280 500ms SG [DigitalOcean, LLC]
-🇮🇹 149.154.157.17:5678 344ms IT [ONE ON CDLAN SRL]
-🇫🇷 188.165.59.127:3128 1465ms FR [OVH ISP]
-🇨🇱 190.107.224.150:3128 1869ms CL [WOM S.A.]
-🇮🇩 202.62.10.51:8080 3975ms ID [Client Jakarta Iconpln]
-🇰🇷 117.20.216.218:8080 995ms KR [HYUNDAI COMMUNICATIONS & NETWORK]
-🇷🇺 109.195.23.223:34031 3806ms RU [CJSC "ER-Telecom Holding" Saratov branch]
-🇧🇬 77.238.79.111:8080 3507ms BG [FIBER1]
-🇹🇭 122.155.165.191:3128 1426ms TH [CAT Telecom Public Company Limited]
-🇮🇳 182.72.150.242:8080 2535ms IN [Bharti Airtel Ltd.]
+🇫🇮 95.217.72.253:3128 890ms FI [Hetzner Online GmbH]
+🇧🇬 94.155.221.220:3128 2101ms BG ["Cooolbox" AD]
+🇫🇷 94.23.241.200:3128 879ms FR [OVH SAS]
+🇹🇷 185.93.69.200:9999 1775ms TR [ibrahim tufek]
+🇪🇨 157.100.12.138:999 2567ms EC [Telconet S.A]
+🇩🇪 173.212.216.104:3128 2195ms DE [Contabo GmbH]
+🇳🇱 5.39.189.39:3128 652ms NL [ColoCenter b.v.]
+🇨🇴 190.14.224.244:999 3157ms CO [Media Commerce Partners S.A]
+🇮🇶 65.20.191.201:41890 4812ms IQ [EarthLink Ltd. Communications&Internet Services]
+🇮🇹 149.154.157.17:5678 1878ms IT [ONE ON CDLAN SRL]
+🇮🇩 103.122.32.10:8080 3418ms ID [PT. Mora Telematika Indonesia]
+🇲🇽 189.220.227.6:999 6625ms MX [Cablemas Telecomunicaciones SA de CV]
+🇷🇺 95.143.8.182:57169 3810ms RU [Avelacom Khabarovsk]
+🇮🇩 118.97.164.19:8080 2648ms ID [PT. TELKOM INDONESIA]
+🇧🇬 77.238.79.111:8080 6579ms BG [FIBER1]
+🇹🇭 122.155.165.191:3128 1472ms TH [CAT Telecom Public Company Limited]
