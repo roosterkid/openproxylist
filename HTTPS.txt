@@ -1,4 +1,4 @@
-HTTP(S) Proxy list updated at 2022-06-08 13:00:01 GMT+7
+HTTP(S) Proxy list updated at 2022-06-08 14:00:01 GMT+7
 Support us:
 BTC: 1GeZeEnrV4SibfS5yDwuzY3w7n94ZE3zMQ
 ETH: 0x6dce795c56d1485213d689ef98277c9fb7e7a6d2
@@ -6,17 +6,21 @@ XMR: 8AGZWnqriYzQjq7hzoTzVWbQNvGeke8AHdk1tVHFqUtfX1oqDY632kwaSnZZqEtFzD4fZN3CUfC
 LTC: MAG1cWWEpgdviZChWvr2oyuxD61JPJ1Q43
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇫🇮 95.217.72.253:3128 1500ms FI [Hetzner Online GmbH]
-🇫🇷 94.23.241.200:3128 730ms FR [OVH SAS]
-🇰🇷 183.111.25.253:8080 1043ms KR [Korea Telecom]
-🇪🇨 157.100.12.138:999 2530ms EC [Telconet S.A]
-🇰🇭 119.15.86.130:8080 3882ms KH [WiCAM Corporation Ltd]
-🇬🇧 141.147.95.36:3128 604ms GB [Oracle Corporation]
-🇫🇷 51.178.182.23:3128 2463ms FR [OVH SAS]
-🇸🇬 157.230.34.219:3128 2014ms SG [DigitalOcean, LLC]
-🇸🇬 47.74.226.8:5001 530ms SG [Alibaba Cloud (Singapore) Private Limited]
-🇮🇩 112.78.170.250:80 3757ms ID [BIZNET]
-🇦🇫 180.94.64.114:8080 3386ms AF [Government Communications Network]
-🇧🇬 77.238.79.111:8080 4369ms BG [FIBER1]
-🇮🇩 202.152.51.44:8080 3871ms ID [Network Access Provider and Internet Service Provider]
-🇹🇭 122.155.165.191:3128 1543ms TH [CAT Telecom Public Company Limited]
+🇫🇮 95.217.72.253:3128 836ms FI [Hetzner Online GmbH]
+🇳🇱 103.194.169.109:8080 1595ms NL [HostPalace Web Solution PVT LTD]
+🇫🇷 94.23.241.200:3128 2954ms FR [OVH SAS]
+🇰🇷 183.111.25.253:8080 1228ms KR [Korea Telecom]
+🇪🇨 157.100.12.138:999 2603ms EC [Telconet S.A]
+🇮🇳 115.96.208.124:8080 1127ms IN [Hathway IP over Cable Internet Access]
+🇩🇪 173.212.216.104:3128 1297ms DE [Contabo GmbH]
+🇬🇧 141.147.95.36:3128 2428ms GB [Oracle Corporation]
+🇩🇪 176.57.188.32:443 3552ms DE [Contabo GmbH]
+🇳🇱 5.39.189.39:3128 643ms NL [ColoCenter b.v.]
+🇻🇪 186.24.9.114:999 6499ms VE [TELEFONICA VENEZOLANA, C.A.]
+🇸🇬 194.233.73.105:443 1281ms SG [Contabo Asia Private Limited]
+🇨🇦 144.217.7.157:9300 2739ms CA [OVH SAS]
+🇸🇬 194.233.73.109:443 1739ms SG [Contabo Asia Private Limited]
+🇸🇬 194.233.73.106:443 3445ms SG [Contabo Asia Private Limited]
+🇮🇩 118.99.103.229:8080 1523ms ID [Biznet Networks]
+🇲🇽 189.220.227.6:999 2713ms MX [Cablemas Telecomunicaciones SA de CV]
+🇹🇭 122.155.165.191:3128 1662ms TH [CAT Telecom Public Company Limited]
