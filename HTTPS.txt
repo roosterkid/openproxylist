@@ -1,4 +1,4 @@
-HTTP(S) Proxy list updated at 2022-06-13 00:00:01 GMT+7
+HTTP(S) Proxy list updated at 2022-06-13 01:00:01 GMT+7
 Support us:
 BTC: 1GeZeEnrV4SibfS5yDwuzY3w7n94ZE3zMQ
 ETH: 0x6dce795c56d1485213d689ef98277c9fb7e7a6d2
@@ -6,17 +6,19 @@ XMR: 8AGZWnqriYzQjq7hzoTzVWbQNvGeke8AHdk1tVHFqUtfX1oqDY632kwaSnZZqEtFzD4fZN3CUfC
 LTC: MAG1cWWEpgdviZChWvr2oyuxD61JPJ1Q43
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇺🇸 159.197.250.134:3128 865ms US [Sprint]
-🇺🇸 12.202.136.44:80 4298ms US [AT&T Services, Inc.]
-🇪🇨 157.100.12.138:999 2769ms EC [Telconet S.A]
-🇬🇧 141.147.95.36:3128 2025ms GB [Oracle Corporation]
-🇩🇪 176.9.162.107:443 533ms DE [Hetzner Online GmbH]
-🇺🇸 45.42.177.51:3128 927ms US [PeaceWeb]
-🇺🇸 149.19.224.38:3128 1043ms US [Oculus Networks Inc]
-🇧🇷 177.6.235.74:8080 3966ms BR [Brasil Telecom S/A - Filial Distrito Federal]
-🇺🇸 20.47.108.204:8888 1853ms US [Microsoft Corporation]
-🇲🇽 189.220.227.6:999 5878ms MX [Cablemas Telecomunicaciones SA de CV]
-🇷🇺 91.194.239.122:8080 4732ms RU [TOV NEO-TELECOM]
-🇹🇭 49.0.82.190:8080 1441ms TH [AIS-Fibre]
-🇮🇩 182.23.107.210:3128 4521ms ID [PT Aplikanusa Lintasarta]
-🇷🇴 37.120.192.154:8080 2905ms RO [Secure Data Systems SRL]
+🇺🇸 159.197.250.134:3128 969ms US [Sprint]
+🇪🇨 157.100.12.138:999 2681ms EC [Telconet S.A]
+🇩🇪 176.9.162.107:443 594ms DE [Hetzner Online GmbH]
+🇯🇵 74.82.50.155:3128 2451ms JP [Hurricane Electric]
+🇺🇸 45.42.177.51:3128 1122ms US [PeaceWeb]
+🇺🇸 149.19.224.38:3128 1030ms US [Oculus Networks Inc]
+🇧🇷 177.6.235.74:8080 3167ms BR [Brasil Telecom S/A - Filial Distrito Federal]
+🇮🇩 103.122.32.10:8080 1667ms ID [PT. Mora Telematika Indonesia]
+🇻🇳 112.137.142.8:3128 2408ms VN [VietNam National University]
+🇮🇩 103.18.77.237:8080 4272ms ID [PT Usaha Adi Sanggoro]
+🇨🇦 158.69.64.142:9300 2975ms CA [OVH SAS]
+🇮🇩 222.165.205.204:8080 2992ms ID [PT NettoCyber Indonesia]
+🇹🇭 49.0.82.190:8080 1388ms TH [AIS-Fibre]
+🇮🇩 182.23.107.210:3128 3003ms ID [PT Aplikanusa Lintasarta]
+🇮🇩 36.89.229.97:59707 1348ms ID [PT. Telekomunikasi Indonesia]
+🇷🇴 37.120.192.154:8080 529ms RO [Secure Data Systems SRL]
