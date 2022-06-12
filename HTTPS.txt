@@ -1,4 +1,4 @@
-HTTP(S) Proxy list updated at 2022-06-12 22:00:01 GMT+7
+HTTP(S) Proxy list updated at 2022-06-12 23:00:01 GMT+7
 Support us:
 BTC: 1GeZeEnrV4SibfS5yDwuzY3w7n94ZE3zMQ
 ETH: 0x6dce795c56d1485213d689ef98277c9fb7e7a6d2
@@ -6,19 +6,15 @@ XMR: 8AGZWnqriYzQjq7hzoTzVWbQNvGeke8AHdk1tVHFqUtfX1oqDY632kwaSnZZqEtFzD4fZN3CUfC
 LTC: MAG1cWWEpgdviZChWvr2oyuxD61JPJ1Q43
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇺🇸 159.197.250.134:3128 1044ms US [Sprint]
-🇦🇺 58.162.157.236:3128 2296ms AU [Telstra Corporation Limited]
-🇫🇷 94.23.241.200:3128 1795ms FR [OVH SAS]
-🇪🇨 157.100.12.138:999 2552ms EC [Telconet S.A]
-🇩🇪 173.212.216.104:3128 2321ms DE [Contabo GmbH]
-🇩🇪 176.9.162.107:443 665ms DE [Hetzner Online GmbH]
-🇺🇸 45.42.177.51:3128 1022ms US [PeaceWeb]
-🇧🇷 177.6.235.74:8080 2955ms BR [Brasil Telecom S/A - Filial Distrito Federal]
-🇨🇦 66.70.178.214:9300 2936ms CA [OVH SAS]
-🇮🇳 125.99.114.105:40390 2825ms IN [Hathway IP over Cable Internet Access]
-🇧🇩 45.125.222.97:36110 4391ms BD [SSD-TECH]
-🇸🇬 194.233.69.126:443 2617ms SG [Contabo Asia Private Limited]
-🇹🇭 49.0.82.190:8080 1979ms TH [AIS-Fibre]
-🇮🇩 103.11.106.8:8181 3194ms ID [PT. Pascal Indonesia]
-🇹🇭 122.155.165.191:3128 1625ms TH [CAT Telecom Public Company Limited]
-🇮🇳 182.72.150.242:8080 2216ms IN [Bharti Airtel Ltd.]
+🇺🇸 159.197.250.134:3128 930ms US [Sprint]
+🇪🇨 157.100.12.138:999 3000ms EC [Telconet S.A]
+🇩🇪 176.9.162.107:443 607ms DE [Hetzner Online GmbH]
+🇺🇸 45.42.177.51:3128 905ms US [PeaceWeb]
+🇺🇸 149.19.224.38:3128 924ms US [Oculus Networks Inc]
+🇧🇷 177.6.235.74:8080 2863ms BR [Brasil Telecom S/A - Filial Distrito Federal]
+🇻🇳 112.137.142.8:3128 2600ms VN [VietNam National University]
+🇺🇸 20.47.108.204:8888 1886ms US [Microsoft Corporation]
+🇹🇭 49.0.82.190:8080 2063ms TH [AIS-Fibre]
+🇮🇩 36.89.229.97:59707 4060ms ID [PT. Telekomunikasi Indonesia]
+🇹🇭 122.155.165.191:3128 820ms TH [CAT Telecom Public Company Limited]
+🇷🇴 37.120.192.154:8080 1711ms RO [Secure Data Systems SRL]
