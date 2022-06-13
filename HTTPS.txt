@@ -1,4 +1,4 @@
-HTTP(S) Proxy list updated at 2022-06-13 11:00:01 GMT+7
+HTTP(S) Proxy list updated at 2022-06-13 12:00:02 GMT+7
 Support us:
 BTC: 1GeZeEnrV4SibfS5yDwuzY3w7n94ZE3zMQ
 ETH: 0x6dce795c56d1485213d689ef98277c9fb7e7a6d2
@@ -6,17 +6,13 @@ XMR: 8AGZWnqriYzQjq7hzoTzVWbQNvGeke8AHdk1tVHFqUtfX1oqDY632kwaSnZZqEtFzD4fZN3CUfC
 LTC: MAG1cWWEpgdviZChWvr2oyuxD61JPJ1Q43
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇺🇸 159.197.250.134:3128 1063ms US [Sprint]
-🇯🇵 47.74.0.7:80 3486ms JP [Alibaba.com LLC]
-🇪🇨 157.100.12.138:999 2376ms EC [Telconet S.A]
-🇯🇵 133.242.237.138:3128 1978ms JP [SAKURA Internet Inc.]
-🇩🇪 176.9.162.107:443 1716ms DE [Hetzner Online GmbH]
-🇺🇸 3.19.179.179:8000 7277ms US [Amazon.com, Inc.]
-🇸🇬 159.65.133.175:31280 2492ms SG [DigitalOcean, LLC]
-🇺🇸 45.42.177.51:3128 928ms US [PeaceWeb]
-🇺🇸 149.19.224.38:3128 962ms US [Oculus Networks Inc]
-🇳🇱 151.236.14.178:5678 2629ms NL [EDIS]
-🇹🇼 59.124.224.205:3128 1412ms TW [Chunghwa Telecom Co., Ltd.]
-🇩🇪 85.195.104.71:80 3777ms DE [Host Europe GmbH]
-🇮🇩 118.97.164.19:8080 3626ms ID [PT. TELKOM INDONESIA]
-🇷🇺 109.195.23.223:34031 3460ms RU [CJSC "ER-Telecom Holding" Saratov branch]
+🇺🇸 159.197.250.134:3128 986ms US [Sprint]
+🇺🇸 12.202.136.44:80 3702ms US [AT&T Services, Inc.]
+🇪🇨 157.100.12.138:999 2557ms EC [Telconet S.A]
+🇯🇵 133.242.237.138:3128 1552ms JP [SAKURA Internet Inc.]
+🇩🇪 176.9.162.107:443 548ms DE [Hetzner Online GmbH]
+🇫🇷 91.121.42.14:1081 5670ms FR [OVH SAS]
+🇰🇭 49.156.34.190:41890 1829ms KH [WiCAM Corporation Ltd.]
+🇺🇸 45.42.177.51:3128 892ms US [PeaceWeb]
+🇺🇸 149.19.224.38:3128 1007ms US [Oculus Networks Inc]
+🇹🇭 180.180.216.90:8080 1941ms TH [TOT Public Company Limited]
