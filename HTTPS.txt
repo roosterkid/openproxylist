@@ -1,4 +1,4 @@
-HTTP(S) Proxy list updated at 2022-06-13 22:00:01 GMT+7
+HTTP(S) Proxy list updated at 2022-06-13 23:00:02 GMT+7
 Support us:
 BTC: 1GeZeEnrV4SibfS5yDwuzY3w7n94ZE3zMQ
 ETH: 0x6dce795c56d1485213d689ef98277c9fb7e7a6d2
@@ -6,26 +6,19 @@ XMR: 8AGZWnqriYzQjq7hzoTzVWbQNvGeke8AHdk1tVHFqUtfX1oqDY632kwaSnZZqEtFzD4fZN3CUfC
 LTC: MAG1cWWEpgdviZChWvr2oyuxD61JPJ1Q43
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇩🇪 207.154.206.91:3128 634ms DE [DigitalOcean, LLC]
-🇫🇮 95.217.72.253:3128 717ms FI [Hetzner Online GmbH]
-🇰🇷 106.249.44.10:3128 1324ms KR [LG DACOM Corporation]
-🇪🇨 157.100.12.138:999 2471ms EC [Telconet S.A]
-🇫🇷 91.121.42.14:1081 5512ms FR [OVH SAS]
-🇰🇭 49.156.34.190:41890 1871ms KH [WiCAM Corporation Ltd.]
-🇯🇵 74.82.50.155:3128 2012ms JP [Hurricane Electric]
-🇳🇱 5.39.189.39:3128 472ms NL [ColoCenter b.v.]
-🇺🇸 199.195.254.168:8118 1046ms US [FranTech Solutions]
-🇺🇸 149.19.224.31:3128 1041ms US [Oculus Networks Inc]
-🇺🇸 66.94.97.238:443 2909ms US [Contabo Inc.]
-🇹🇷 88.255.64.83:1976 4128ms TR [Turk Telekomunikasyon Anonim Sirketi]
-🇫🇷 188.165.59.127:3128 1432ms FR [OVH ISP]
-🇮🇩 103.135.220.91:80 4626ms ID [PT Mora Telematika Indonesia]
-🇹🇼 59.124.224.205:3128 2722ms TW [Chunghwa Telecom Co., Ltd.]
-🇹🇭 110.78.152.70:8080 814ms TH [CAT-BB]
-🇪🇨 186.47.75.174:8080 4920ms EC [Corporacion Nacional De Telecomunicaciones - CNT EP]
-🇻🇳 112.137.142.8:3128 2873ms VN [VietNam National University]
-🇸🇬 194.233.69.90:443 1429ms SG [Contabo Asia Private Limited]
-🇮🇩 116.254.100.165:46675 1819ms ID [Bangun Abadi Teknologi Indonesia]
-🇮🇩 36.89.229.97:59707 7781ms ID [PT. Telekomunikasi Indonesia]
-🇹🇭 122.155.165.191:3128 2183ms TH [CAT Telecom Public Company Limited]
-🇷🇴 37.120.192.154:8080 1565ms RO [Secure Data Systems SRL]
+🇩🇪 207.154.206.91:3128 641ms DE [DigitalOcean, LLC]
+🇫🇮 95.217.72.253:3128 1627ms FI [Hetzner Online GmbH]
+🇪🇨 157.100.12.138:999 2599ms EC [Telconet S.A]
+🇷🇺 213.241.205.1:8080 1375ms RU [RTCOMM-YUG]
+🇰🇭 49.156.34.190:41890 894ms KH [WiCAM Corporation Ltd.]
+🇯🇵 74.82.50.155:3128 2953ms JP [Hurricane Electric]
+🇳🇱 5.39.189.39:3128 1017ms NL [ColoCenter b.v.]
+🇺🇸 149.19.224.31:3128 922ms US [Oculus Networks Inc]
+🇧🇷 177.6.235.74:8080 3947ms BR [Brasil Telecom S/A - Filial Distrito Federal]
+🇸🇬 47.74.226.8:5001 478ms SG [Alibaba Cloud (Singapore) Private Limited]
+🇹🇼 59.124.224.205:3128 1126ms TW [Chunghwa Telecom Co., Ltd.]
+🇹🇭 110.78.152.70:8080 762ms TH [CAT-BB]
+🇸🇬 194.233.73.109:443 2226ms SG [Contabo Asia Private Limited]
+🇸🇬 194.233.69.90:443 2189ms SG [Contabo Asia Private Limited]
+🇮🇩 182.23.107.210:3128 1017ms ID [PT Aplikanusa Lintasarta]
+🇹🇭 122.155.165.191:3128 2503ms TH [CAT Telecom Public Company Limited]
