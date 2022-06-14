@@ -1,4 +1,4 @@
-HTTP(S) Proxy list updated at 2022-06-14 23:00:01 GMT+7
+HTTP(S) Proxy list updated at 2022-06-15 00:00:01 GMT+7
 Support us:
 BTC: 1GeZeEnrV4SibfS5yDwuzY3w7n94ZE3zMQ
 ETH: 0x6dce795c56d1485213d689ef98277c9fb7e7a6d2
@@ -6,17 +6,13 @@ XMR: 8AGZWnqriYzQjq7hzoTzVWbQNvGeke8AHdk1tVHFqUtfX1oqDY632kwaSnZZqEtFzD4fZN3CUfC
 LTC: MAG1cWWEpgdviZChWvr2oyuxD61JPJ1Q43
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇺🇸 159.197.250.134:3128 849ms US [Sprint]
-🇹🇭 110.170.126.13:3128 3088ms TH [True Internet Corporation CO. Ltd.]
-🇰🇷 183.111.25.253:8080 1295ms KR [Korea Telecom]
-🇪🇨 157.100.12.138:999 2700ms EC [Telconet S.A]
-🇩🇪 173.212.216.104:3128 2609ms DE [Contabo GmbH]
-🇮🇩 114.4.104.254:3128 4428ms ID [PT. INDOSAT Tbk]
-🇺🇸 45.42.177.51:3128 951ms US [PeaceWeb]
-🇹🇷 95.0.168.47:1976 2129ms TR [Turk Telekomunikasyon Anonim Sirketi]
-🇧🇷 177.6.235.74:8080 2956ms BR [Brasil Telecom S/A - Filial Distrito Federal]
-🇻🇳 112.137.142.8:3128 2239ms VN [VietNam National University]
-🇷🇸 185.190.38.150:8080 2837ms RS [Kadri Haxhiaj trading as "B.I."]
-🇷🇺 91.194.239.122:8080 6639ms RU [TOV NEO-TELECOM]
-🇮🇩 116.254.100.165:46675 3546ms ID [Bangun Abadi Teknologi Indonesia]
-🇷🇴 37.120.192.154:8080 2950ms RO [Secure Data Systems SRL]
+🇵🇪 177.53.153.168:999 3997ms PE [Moreno Yanoc Nemias Bernardo]
+🇰🇷 183.111.25.253:8080 1313ms KR [Korea Telecom]
+🇪🇨 157.100.12.138:999 2671ms EC [Telconet S.A]
+🇩🇪 173.212.216.104:3128 1898ms DE [Contabo GmbH]
+🇮🇩 114.4.104.254:3128 1532ms ID [PT. INDOSAT Tbk]
+🇰🇭 49.156.34.190:41890 7910ms KH [WiCAM Corporation Ltd.]
+🇹🇷 95.0.168.47:1976 2483ms TR [Turk Telekomunikasyon Anonim Sirketi]
+🇧🇷 177.6.235.74:8080 3844ms BR [Brasil Telecom S/A - Filial Distrito Federal]
+🇮🇳 103.6.184.222:39241 2144ms IN [websurf Broadband]
+🇷🇴 37.120.192.154:8080 750ms RO [Secure Data Systems SRL]
