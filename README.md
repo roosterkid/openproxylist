@@ -1,3 +1,7 @@
+# Update March 19, 2024
+* Improved checker logic
+* Added V2Ray Public List
+  
 # Update July 15, 2021
 * Improved server 
 * New checker logic
