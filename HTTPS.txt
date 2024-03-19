@@ -1,4 +1,4 @@
-HTTP(S) Proxy list updated at 2024-03-19 12:15:04 GMT+7
+HTTP(S) Proxy list updated at 2024-03-19 12:16:17 GMT+7
 Support us:
 BTC: 1GeZeEnrV4SibfS5yDwuzY3w7n94ZE3zMQ
 ETH: 0x6dce795c56d1485213d689ef98277c9fb7e7a6d2
@@ -14,7 +14,7 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 🇵🇭 61.9.32.62:65535 4796ms PH [Sky Cable Corporation]
 🇺🇿 213.230.124.13:8080 2388ms UZ ["Uzbektelekom" Joint Stock Company]
 🇵🇭 222.127.75.23:8085 3272ms PH [INNOVE]
-🇨🇦 72.10.164.178:3001 2787ms CA [GloboTech Communications]
+🇨🇦 72.10.164.178:3001 3683ms CA [GloboTech Communications]
 🇺🇸 74.62.179.122:8080 2547ms US [Charter Communications Inc]
 🇷🇺 92.253.235.170:8082 4676ms RU [Best Line Ltd.]
 🇲🇹 84.255.35.210:9898 2009ms MT [Melita plc]
@@ -25,7 +25,7 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 🇮🇩 139.255.33.242:8080 523ms ID [PT. LINKNET]
 🇮🇩 103.28.112.126:8080 1660ms ID [PT Lintas Data Prima]
 🇨🇦 67.43.236.20:5103 3991ms CA [GloboTech Communications]
-🇨🇦 67.43.228.253:3767 4405ms CA [GloboTech Communications]
+🇨🇦 67.43.228.253:3767 2176ms CA [GloboTech Communications]
 🇭🇰 47.90.82.199:3128 616ms HK [Alibaba.com LLC]
 🇹🇭 159.192.102.249:8080 2392ms TH [CAT-BB]
 🇮🇩 103.102.15.41:80 4540ms ID [PT Cloud Teknologi Nusantara]
@@ -97,7 +97,9 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 🇺🇸 104.236.78.102:3128 2011ms US [DigitalOcean, LLC]
 🇯🇵 147.75.92.248:80 1285ms JP [Packet Host, Inc.]
 🇮🇳 103.146.170.193:82 3840ms IN [Thrishul Broadband Private Ltd]
+🏳 103.105.68.9:8080 3077ms  []
 🇹🇭 1.2.252.65:8080 1586ms TH [TOT Public Company Limited]
+🇹🇭 110.78.81.107:8080 2863ms TH [CAT Telecom Public Company Limited]
 🇰🇭 103.17.213.98:8080 1047ms KH [WiCAM Corporation Ltd]
 🇮🇩 103.70.79.3:8080 510ms ID [Diskominfo Kabupaten Sukoharjo]
 🇧🇬 77.238.79.111:8080 2989ms BG [FIBER1]
