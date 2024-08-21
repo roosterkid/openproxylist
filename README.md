@@ -1,3 +1,7 @@
+# Update August 21, 2024
+* Improved checker logic for V2Ray
+* Solved update problem
+  
 # Update March 19, 2024
 * Improved checker logic
 * Added V2Ray Public List
