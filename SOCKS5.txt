@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2024-08-26 21:00:01 GMT+7
+SOCKS5 Proxy list updated at 2024-08-26 22:00:02 GMT+7
 Website=https://openproxylist.com
 Support us:
 BTC: 1GeZeEnrV4SibfS5yDwuzY3w7n94ZE3zMQ
@@ -7,25 +7,22 @@ XMR: 8AGZWnqriYzQjq7hzoTzVWbQNvGeke8AHdk1tVHFqUtfX1oqDY632kwaSnZZqEtFzD4fZN3CUfC
 LTC: MAG1cWWEpgdviZChWvr2oyuxD61JPJ1Q43
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇺🇸 67.213.210.175:43205 3293ms US [Hosting Services, Inc.]
 🇺🇸 67.213.212.39:52740 4181ms US [Hosting Services, Inc.]
 🇫🇷 37.187.73.7:15229 3267ms FR [OVH SAS]
-🇵🇱 178.255.44.60:58968 5951ms PL [Artnet Sp. z o.o.]
+🇻🇳 116.97.240.147:4996 3401ms VN [Viettel Corporation]
 🇺🇸 147.124.212.31:48870 5497ms US [Majestic Hosting Solutions, LLC]
-🇩🇪 173.249.2.58:5964 7036ms DE [Contabo GmbH]
+🇩🇪 173.249.2.58:5964 4952ms DE [Contabo GmbH]
 🇮🇩 103.174.178.132:1020 594ms ID [PT Gasatek Bintang Nusantara]
-🇮🇩 103.174.178.133:1020 3887ms ID [PT Gasatek Bintang Nusantara]
-🇸🇬 128.199.183.41:41266 4614ms SG [DigitalOcean, LLC]
-🇨🇦 159.203.5.54:54972 4940ms CA [DigitalOcean, LLC]
-🇫🇮 95.216.78.251:59166 4248ms FI [Hetzner Online GmbH]
+🇸🇬 128.199.183.41:41266 6061ms SG [DigitalOcean, LLC]
 🇫🇮 95.216.78.205:59166 3158ms FI [Hetzner Online GmbH]
 🇨🇦 134.122.43.203:56442 5201ms CA [DigitalOcean, LLC]
-🇺🇸 67.205.177.122:56826 4118ms US [DigitalOcean, LLC]
 🇻🇳 202.92.5.136:17434 6081ms VN [INET]
-🇨🇳 117.74.65.207:5441 7770ms CN [CNC Group CHINA169 Hebei Province Network]
-🇸🇪 130.255.160.60:18946 5902ms SE [Internet Vikings]
+🇨🇳 117.74.65.207:5441 5761ms CN [CNC Group CHINA169 Hebei Province Network]
+🇸🇪 130.255.160.60:18946 5744ms SE [Internet Vikings]
+🇫🇷 51.83.116.5:18543 4757ms FR [OVH SAS]
 🇺🇸 66.29.128.244:47900 3986ms US [Namecheap, Inc.]
 🇺🇸 66.29.128.242:49385 4444ms US [Namecheap, Inc.]
+🇺🇸 162.0.220.219:60521 3212ms US [Namecheap, Inc.]
 🇺🇸 209.159.153.20:26688 3420ms US [Interserver, Inc]
 🇫🇷 212.83.143.211:63905 3481ms FR [Online S.A.S.]
 🇺🇸 68.183.132.69:7497 2618ms US [DigitalOcean, LLC]
