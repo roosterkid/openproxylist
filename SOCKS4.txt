@@ -1,4 +1,4 @@
-SOCKS4 Proxy list updated at 2024-09-07 01:00:01 GMT+7
+SOCKS4 Proxy list updated at 2024-09-07 01:02:12 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -30,7 +30,7 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 🇷🇸 178.220.148.82:10801 350ms RS [TELEKOM SRBIJA a.d.]
 🇳🇮 200.85.169.221:1080 583ms NI [IBW Communications]
 🇵🇱 83.0.244.106:5678 339ms PL [Orange Polska Spolka Akcyjna]
-🇰🇭 110.74.195.2:4153 378ms KH [EZECOM limited]
+🇰🇭 110.74.195.2:4153 176ms KH [EZECOM limited]
 🇦🇷 190.2.110.7:4153 336ms AR [Teledifusora S.A.]
 🇵🇰 103.146.137.5:1081 350ms PK [Galaxy Broadband (pvt.) Ltd.]
 🇦🇱 79.106.170.126:4145 323ms AL [ONE ALBANIA SH.A.]
@@ -93,7 +93,7 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 🇺🇸 72.195.114.184:4145 434ms US [Cox Communications Inc.]
 🇧🇪 213.249.123.18:1080 199ms BE [Level 3 Communications]
 🇰🇷 8.213.137.155:8080 449ms KR [Alibaba (US) Technology Co., Ltd.]
-🇺🇦 37.52.13.164:5678 676ms UA [UKRTELECOM]
+🇺🇦 37.52.13.164:5678 569ms UA [UKRTELECOM]
 🇹🇭 49.229.36.172:4153 791ms TH [Advanced Wireless Network Company Limited]
 🇺🇸 184.181.217.194:4145 372ms US [Cox Communications Inc.]
 🇺🇸 104.37.135.145:4145 554ms US [Performive LLC]
