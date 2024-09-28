@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2024-09-29 05:00:01 GMT+7
+SOCKS5 Proxy list updated at 2024-09-29 06:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -12,18 +12,15 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
 🇺🇸 67.213.212.39:52740 615ms US [Hosting Services, Inc.]
 🇮🇩 103.174.178.138:1080 183ms ID [PT Gasatek Bintang Nusantara]
-🇫🇷 212.83.138.192:63504 289ms FR [Online S.A.S.]
 🇵🇱 178.255.44.60:58968 680ms PL [Artnet Sp. z o.o.]
 🇺🇸 147.124.212.31:48870 731ms US [Majestic Hosting Solutions, LLC]
-🇮🇩 103.174.178.133:1020 782ms ID [PT Gasatek Bintang Nusantara]
-🇬🇧 51.89.21.99:62311 516ms GB [OVH SAS]
-🇺🇸 167.172.159.43:35290 329ms US [DigitalOcean, LLC]
+🇮🇩 103.174.178.133:1020 158ms ID [PT Gasatek Bintang Nusantara]
+🇬🇧 51.89.21.99:62311 482ms GB [OVH SAS]
+🇺🇸 167.172.159.43:35290 506ms US [DigitalOcean, LLC]
 🇨🇦 159.203.5.54:54972 799ms CA [DigitalOcean, LLC]
-🇫🇷 37.59.56.111:59166 398ms FR [OVH SAS]
-🇺🇸 67.205.177.122:56826 408ms US [DigitalOcean, LLC]
-🇻🇳 202.92.6.70:54580 364ms VN [INET]
-🇳🇱 165.22.204.32:7497 596ms NL [DigitalOcean, LLC]
-🇫🇷 212.83.137.142:41918 347ms FR [Online S.A.S.]
+🇲🇩 5.56.124.176:8192 454ms MD [JSC "Moldtelecom" S.A]
+🇺🇸 67.205.177.122:56826 535ms US [DigitalOcean, LLC]
+🇻🇳 202.92.5.136:17434 331ms VN [INET]
 🇫🇷 162.19.7.59:61043 785ms FR [OVH SAS]
 🇫🇷 37.44.238.2:63617 742ms FR [Harmony Hosting SARL]
 🇺🇸 209.159.153.19:53322 353ms US [Interserver, Inc]
@@ -34,7 +31,6 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 🇫🇷 212.83.142.149:45413 455ms FR [Online S.A.S.]
 🇩🇪 173.212.206.86:59710 621ms DE [Contabo GmbH]
 🇺🇸 66.29.129.52:35630 253ms US [Namecheap, Inc.]
-🇺🇸 209.159.153.20:26688 360ms US [Interserver, Inc]
 🇺🇸 174.138.176.76:34147 363ms US [Interserver, Inc]
 🇺🇸 66.29.128.245:23251 499ms US [Namecheap, Inc.]
 🇺🇸 66.29.129.56:38557 287ms US [Namecheap, Inc.]
