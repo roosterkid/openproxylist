@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2024-10-02 03:00:02 GMT+7
+SOCKS5 Proxy list updated at 2024-10-02 04:00:02 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -10,19 +10,20 @@ https://buymeacoffee.com/roosterkid
 
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇺🇸 67.213.210.175:43205 266ms US [Hosting Services, Inc.]
 🇺🇸 67.213.212.39:52740 496ms US [Hosting Services, Inc.]
 🇫🇷 212.83.138.192:63504 350ms FR [Online S.A.S.]
 🇵🇱 178.255.44.60:58968 380ms PL [Artnet Sp. z o.o.]
-🇺🇸 147.124.212.31:48870 702ms US [Majestic Hosting Solutions, LLC]
+🇺🇸 147.124.212.31:48870 578ms US [Majestic Hosting Solutions, LLC]
 🇮🇩 103.174.178.133:1020 367ms ID [PT Gasatek Bintang Nusantara]
-🇬🇧 51.89.21.99:62311 748ms GB [OVH SAS]
-🇺🇸 167.172.159.43:35290 336ms US [DigitalOcean, LLC]
+🇬🇧 51.89.21.99:62311 788ms GB [OVH SAS]
+🇺🇸 167.172.159.43:35290 542ms US [DigitalOcean, LLC]
 🇷🇺 185.112.224.151:1080 699ms RU [Orion Telecom LLC]
 🇵🇸 93.184.4.254:1080 411ms PS [BCI Telecommunication & Advanced Technology Company]
-🇫🇷 37.59.56.111:59166 419ms FR [OVH SAS]
+🇫🇷 37.59.56.111:59166 660ms FR [OVH SAS]
+🇫🇷 51.83.116.3:60290 390ms FR [OVH SAS]
 🇺🇸 209.159.153.21:31286 341ms US [Interserver, Inc]
-🇺🇸 66.29.129.54:14181 284ms US [Namecheap, Inc.]
+🇫🇷 212.83.137.150:41166 408ms FR [Online S.A.S.]
+🇺🇸 66.29.128.244:47900 365ms US [Namecheap, Inc.]
 🇺🇸 38.91.106.252:61625 265ms US [GTHost]
 🇺🇸 174.138.176.78:35730 364ms US [Interserver, Inc]
 🇺🇸 66.23.233.210:23899 755ms US [Interserver, Inc]
@@ -30,9 +31,7 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 🇩🇪 173.212.206.86:59710 747ms DE [Contabo GmbH]
 🇺🇸 209.159.153.20:26688 329ms US [Interserver, Inc]
 🇺🇸 174.138.176.75:58822 295ms US [Interserver, Inc]
-🇺🇸 174.138.176.76:34147 519ms US [Interserver, Inc]
-🇺🇸 66.29.128.245:23251 341ms US [Namecheap, Inc.]
+🇺🇸 66.29.128.245:23251 321ms US [Namecheap, Inc.]
 🇺🇸 66.29.129.56:38557 237ms US [Namecheap, Inc.]
 🇿🇦 102.36.127.249:1080 568ms ZA [Clear Access (Pty) Ltd]
 🇹🇷 185.87.121.35:8975 427ms TR [Ideal Hosting Teknoloji]
-🇹🇷 185.87.121.5:8975 507ms TR [Ideal Hosting Teknoloji A.S.]
