@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2024-10-02 22:00:01 GMT+7
+SOCKS5 Proxy list updated at 2024-10-02 23:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -10,28 +10,30 @@ https://buymeacoffee.com/roosterkid
 
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
+🇵🇱 178.255.44.60:58968 598ms PL [Artnet Sp. z o.o.]
 🏳 91.218.102.187:1080 392ms  []
 🇺🇸 162.240.235.155:48680 406ms US [Unified Layer]
-🇮🇩 103.174.178.133:1020 783ms ID [PT Gasatek Bintang Nusantara]
+🇮🇩 103.174.178.133:1020 176ms ID [PT Gasatek Bintang Nusantara]
 🇬🇧 51.89.21.99:62311 316ms GB [OVH SAS]
 🇺🇸 167.172.159.43:35290 636ms US [DigitalOcean, LLC]
-🇫🇷 37.59.56.111:59166 521ms FR [OVH SAS]
-🇺🇸 67.205.177.122:56826 643ms US [DigitalOcean, LLC]
-🇨🇳 117.74.65.207:5441 468ms CN [CNC Group CHINA169 Hebei Province Network]
+🇷🇺 94.73.251.19:1080 398ms RU [Orion Telecom LLC]
+🇫🇷 51.255.80.151:36217 346ms FR [OVH SAS]
+🇫🇷 37.59.56.111:59166 482ms FR [OVH SAS]
+🇺🇸 67.205.177.122:56826 683ms US [DigitalOcean, LLC]
+🇨🇳 117.74.65.207:5441 466ms CN [CNC Group CHINA169 Hebei Province Network]
 🇳🇱 165.22.204.32:7497 251ms NL [DigitalOcean, LLC]
-🇫🇷 51.83.116.5:18543 446ms FR [OVH SAS]
+🇺🇸 209.159.153.21:31286 399ms US [Interserver, Inc]
+🇫🇷 212.83.137.142:41918 297ms FR [Online S.A.S.]
+🇫🇷 141.94.238.246:60315 739ms FR [OVH SAS]
 🇺🇸 174.138.176.78:35730 296ms US [Interserver, Inc]
 🇺🇸 162.0.220.161:34826 241ms US [Namecheap, Inc.]
-🇺🇸 162.0.220.220:46911 322ms US [Namecheap, Inc.]
 🇺🇸 162.0.220.215:23313 358ms US [Namecheap, Inc.]
 🇺🇸 66.23.233.210:23899 327ms US [Interserver, Inc]
 🇺🇸 38.91.107.220:14827 254ms US [GTHost]
 🇺🇸 66.29.128.241:14954 236ms US [Namecheap, Inc.]
-🇺🇸 66.29.128.242:49385 259ms US [Namecheap, Inc.]
 🇺🇸 209.159.153.20:26688 344ms US [Interserver, Inc]
 🇺🇸 174.138.176.76:34147 257ms US [Interserver, Inc]
 🇺🇸 66.29.128.245:23251 407ms US [Namecheap, Inc.]
-🇸🇬 165.22.98.229:32855 151ms SG [DigitalOcean, LLC]
 🇺🇸 50.63.13.3:42099 679ms US [GoDaddy.com, LLC]
 🇹🇷 185.87.121.5:8975 621ms TR [Ideal Hosting Teknoloji A.S.]
 🇹🇷 185.86.5.162:8975 436ms TR [Ideal Hosting Teknoloji]
