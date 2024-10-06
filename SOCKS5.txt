@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2024-10-06 17:00:01 GMT+7
+SOCKS5 Proxy list updated at 2024-10-06 18:00:02 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -10,24 +10,23 @@ https://buymeacoffee.com/roosterkid
 
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇮🇩 103.174.178.138:1080 794ms ID [PT Gasatek Bintang Nusantara]
 🇮🇩 103.174.178.133:1020 68ms ID [PT Gasatek Bintang Nusantara]
-🇬🇧 51.89.21.99:62311 749ms GB [OVH SAS]
+🇱🇺 104.244.75.78:31534 600ms LU [FranTech Solutions]
 🇺🇸 167.172.159.43:35290 266ms US [DigitalOcean, LLC]
-🇷🇺 212.33.248.45:1080 651ms RU [JSC "ER-Telecom Holding"]
-🇨🇳 117.74.65.207:5441 660ms CN [CNC Group CHINA169 Hebei Province Network]
-🇫🇷 212.83.137.142:41918 268ms FR [Online S.A.S.]
+🇫🇷 37.59.56.111:59166 646ms FR [OVH SAS]
+🇨🇳 117.74.65.207:5441 465ms CN [CNC Group CHINA169 Hebei Province Network]
+🇳🇱 165.22.204.32:7497 271ms NL [DigitalOcean, LLC]
+🇫🇷 212.83.137.142:41918 256ms FR [Online S.A.S.]
 🇫🇷 212.83.137.94:15860 289ms FR [Online S.A.S.]
 🇫🇷 212.83.137.165:53565 434ms FR [Online S.A.S.]
-🇫🇷 212.83.143.49:24535 314ms FR [Online S.A.S.]
 🇺🇸 38.91.107.229:28184 215ms US [GTHost]
-🇺🇸 162.0.220.161:34826 318ms US [Namecheap, Inc.]
-🇺🇸 66.23.233.210:23899 291ms US [Interserver, Inc]
-🇦🇺 185.139.155.155:1976 457ms AU [Internet Vikings International AB]
+🇺🇸 162.0.220.161:34826 300ms US [Namecheap, Inc.]
+🇺🇸 66.23.233.210:23899 344ms US [Interserver, Inc]
 🇫🇷 212.83.143.147:43681 184ms FR [Online S.A.S.]
-🇺🇸 162.0.220.219:60521 388ms US [Namecheap, Inc.]
 🇫🇷 212.83.143.159:23198 251ms FR [Online S.A.S.]
 🇺🇸 66.29.128.245:23251 343ms US [Namecheap, Inc.]
+🇫🇷 212.83.143.211:63905 390ms FR [Online S.A.S.]
+🇸🇬 188.166.230.38:64768 292ms SG [DigitalOcean, LLC]
 🇹🇷 185.87.121.35:8975 662ms TR [Ideal Hosting Teknoloji]
 🇹🇷 185.87.121.5:8975 597ms TR [Ideal Hosting Teknoloji A.S.]
 🇹🇷 185.86.5.162:8975 781ms TR [Ideal Hosting Teknoloji]
