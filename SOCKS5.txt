@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2024-10-10 23:00:01 GMT+7
+SOCKS5 Proxy list updated at 2024-10-11 00:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -10,29 +10,28 @@ https://buymeacoffee.com/roosterkid
 
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇺🇸 67.213.210.175:43205 248ms US [Hosting Services, Inc.]
+🇺🇸 67.213.210.175:43205 272ms US [Hosting Services, Inc.]
 🇩🇪 138.201.21.218:16014 185ms DE [Hetzner Online GmbH]
 🇺🇸 67.213.212.39:52740 309ms US [Hosting Services, Inc.]
 🇻🇳 116.97.240.147:4996 269ms VN [Viettel Corporation]
 🇵🇱 178.255.44.60:58968 585ms PL [Artnet Sp. z o.o.]
 🇮🇩 103.174.178.131:1020 294ms ID [PT Gasatek Bintang Nusantara]
-🇮🇩 103.174.178.133:1020 73ms ID [PT Gasatek Bintang Nusantara]
+🇮🇩 103.174.178.133:1020 81ms ID [PT Gasatek Bintang Nusantara]
 🇬🇧 51.89.21.99:62311 472ms GB [OVH SAS]
-🇺🇸 167.172.159.43:35290 712ms US [DigitalOcean, LLC]
+🇺🇸 167.172.159.43:35290 398ms US [DigitalOcean, LLC]
 🇲🇩 5.56.124.176:8192 342ms MD [JSC "Moldtelecom" S.A]
-🇺🇦 194.44.208.62:80 310ms UA [UARNET-LL]
-🇷🇺 5.141.121.142:1080 598ms RU [Rostelecom networks]
 🇿🇦 102.36.127.53:1080 471ms ZA [Clear Access (Pty) Ltd]
 🇺🇸 67.205.177.122:56826 613ms US [DigitalOcean, LLC]
-🇨🇳 117.74.65.207:5441 534ms CN [CNC Group CHINA169 Hebei Province Network]
+🇨🇳 117.74.65.207:5441 768ms CN [CNC Group CHINA169 Hebei Province Network]
 🇳🇱 165.22.204.32:7497 304ms NL [DigitalOcean, LLC]
-🇺🇸 174.138.176.78:35730 265ms US [Interserver, Inc]
-🇺🇸 162.0.220.220:46911 216ms US [Namecheap, Inc.]
+🇺🇸 162.0.220.220:46911 230ms US [Namecheap, Inc.]
 🇺🇸 66.23.233.210:23899 446ms US [Interserver, Inc]
-🇺🇸 38.91.107.220:14827 274ms US [GTHost]
+🇺🇸 38.91.107.220:14827 393ms US [GTHost]
 🇦🇺 185.139.155.155:1976 644ms AU [Internet Vikings International AB]
+🇺🇸 174.138.176.75:58822 359ms US [Interserver, Inc]
 🇺🇸 66.29.128.245:23251 245ms US [Namecheap, Inc.]
 🇸🇬 188.166.230.38:64768 402ms SG [DigitalOcean, LLC]
+🇻🇳 113.176.118.150:1080 411ms VN [VNPT]
 🇺🇸 50.63.13.3:42099 493ms US [GoDaddy.com, LLC]
 🇹🇷 185.87.121.35:8975 570ms TR [Ideal Hosting Teknoloji]
 🇹🇷 185.87.121.5:8975 649ms TR [Ideal Hosting Teknoloji A.S.]
