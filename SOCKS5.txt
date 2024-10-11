@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2024-10-11 14:00:01 GMT+7
+SOCKS5 Proxy list updated at 2024-10-11 15:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -10,26 +10,29 @@ https://buymeacoffee.com/roosterkid
 
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
+🇻🇳 116.97.240.147:4996 90ms VN [Viettel Corporation]
 🇵🇱 178.255.44.60:58968 451ms PL [Artnet Sp. z o.o.]
 🇮🇩 103.174.178.133:1020 779ms ID [PT Gasatek Bintang Nusantara]
-🇬🇧 51.89.21.99:62311 661ms GB [OVH SAS]
+🇬🇧 51.89.21.99:62311 755ms GB [OVH SAS]
 🇺🇸 167.172.159.43:35290 597ms US [DigitalOcean, LLC]
 🇷🇺 95.156.83.139:1080 648ms RU [PJSC Rostelecom]
-🇨🇦 51.222.241.8:52882 583ms CA [OVH SAS]
 🇷🇺 212.33.248.45:1080 360ms RU [JSC "ER-Telecom Holding"]
 🇺🇸 67.205.177.122:56826 448ms US [DigitalOcean, LLC]
-🇨🇳 117.74.65.207:5441 464ms CN [CNC Group CHINA169 Hebei Province Network]
+🇨🇳 117.74.65.207:5441 468ms CN [CNC Group CHINA169 Hebei Province Network]
 🇸🇪 130.255.160.60:18946 526ms SE [Internet Vikings]
 🇫🇷 212.83.143.97:17347 274ms FR [Online S.A.S.]
-🇫🇷 212.83.137.150:41166 386ms FR [Online S.A.S.]
+🇺🇸 209.159.153.19:53322 329ms US [Interserver, Inc]
 🇺🇸 66.29.128.244:47900 554ms US [Namecheap, Inc.]
 🇺🇸 174.138.176.78:35730 307ms US [Interserver, Inc]
 🇫🇷 212.83.143.147:43681 492ms FR [Online S.A.S.]
 🇫🇷 212.83.142.145:38020 317ms FR [Online S.A.S.]
 🇺🇸 162.0.220.216:24891 333ms US [Namecheap, Inc.]
+🇺🇸 174.138.176.76:34147 278ms US [Interserver, Inc]
+🇫🇷 212.83.143.191:61245 312ms FR [Online S.A.S.]
+🇸🇬 188.166.230.38:64768 284ms SG [DigitalOcean, LLC]
 🇺🇦 91.200.115.49:1080 360ms UA [Joint Ukrainian American Enterprise "Telecommunications Resource Center" ltd]
+🇿🇦 102.36.127.249:1080 576ms ZA [Clear Access (Pty) Ltd]
 🇺🇸 199.204.248.155:33922 654ms US [Jumpline Inc]
+🇺🇸 50.63.13.3:42099 744ms US [GoDaddy.com, LLC]
 🇫🇷 79.137.34.146:42884 627ms FR [OVH SAS]
-🇹🇷 185.87.121.5:8975 627ms TR [Ideal Hosting Teknoloji A.S.]
 🇹🇷 185.86.5.162:8975 501ms TR [Ideal Hosting Teknoloji]
-🇫🇷 51.83.190.248:19050 468ms FR [OVH SAS]
