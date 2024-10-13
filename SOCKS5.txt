@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2024-10-13 13:00:01 GMT+7
+SOCKS5 Proxy list updated at 2024-10-13 14:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -10,21 +10,27 @@ https://buymeacoffee.com/roosterkid
 
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇺🇸 67.213.210.175:43205 246ms US [Hosting Services, Inc.]
+🇺🇸 67.213.210.175:43205 224ms US [Hosting Services, Inc.]
 🇺🇸 67.213.212.53:45556 353ms US [Hosting Services, Inc.]
-🇻🇳 116.97.240.147:4996 201ms VN [Viettel Corporation]
+🇺🇸 67.213.212.39:52740 254ms US [Hosting Services, Inc.]
 🇮🇩 103.174.178.131:1020 379ms ID [PT Gasatek Bintang Nusantara]
 🇺🇸 167.172.159.43:35290 509ms US [DigitalOcean, LLC]
-🇷🇺 95.156.83.139:1080 382ms RU [PJSC Rostelecom]
+🇷🇺 95.156.83.139:1080 471ms RU [PJSC Rostelecom]
 🇨🇦 51.222.241.8:52882 399ms CA [OVH SAS]
-🇨🇳 117.74.65.207:5441 471ms CN [CNC Group CHINA169 Hebei Province Network]
-🇫🇷 212.83.138.186:52793 405ms FR [Online S.A.S.]
-🇺🇸 66.29.128.244:47900 237ms US [Namecheap, Inc.]
+🇨🇳 117.74.65.207:5441 468ms CN [CNC Group CHINA169 Hebei Province Network]
+🇫🇷 212.83.138.186:52793 170ms FR [Online S.A.S.]
+🇺🇸 66.29.129.54:14181 242ms US [Namecheap, Inc.]
+🇺🇸 66.29.128.244:47900 283ms US [Namecheap, Inc.]
 🇫🇷 212.83.143.49:24535 363ms FR [Online S.A.S.]
-🇺🇸 174.138.176.78:35730 294ms US [Interserver, Inc]
-🇺🇸 66.29.128.241:14954 245ms US [Namecheap, Inc.]
-🇺🇸 162.0.220.219:60521 273ms US [Namecheap, Inc.]
-🇺🇸 162.0.220.216:24891 257ms US [Namecheap, Inc.]
-🇺🇸 174.138.176.75:58822 221ms US [Interserver, Inc]
+🇺🇸 174.138.176.78:35730 341ms US [Interserver, Inc]
+🇺🇸 66.23.233.210:23899 255ms US [Interserver, Inc]
+🇺🇸 66.29.128.241:14954 224ms US [Namecheap, Inc.]
+🇺🇸 66.29.128.242:49385 260ms US [Namecheap, Inc.]
+🇺🇸 66.29.129.52:35630 364ms US [Namecheap, Inc.]
+🇺🇸 162.0.220.219:60521 211ms US [Namecheap, Inc.]
+🇺🇸 162.0.220.216:24891 222ms US [Namecheap, Inc.]
+🇺🇸 174.138.176.75:58822 249ms US [Interserver, Inc]
+🇺🇸 174.138.176.76:34147 352ms US [Interserver, Inc]
+🇺🇸 66.29.128.245:23251 280ms US [Namecheap, Inc.]
 🇺🇦 176.37.21.46:5678 401ms UA [Lanet Network]
 🇺🇸 199.204.248.155:33922 640ms US [Jumpline Inc]
