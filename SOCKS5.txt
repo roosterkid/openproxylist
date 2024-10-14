@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2024-10-14 09:00:01 GMT+7
+SOCKS5 Proxy list updated at 2024-10-14 10:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -13,18 +13,17 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 🇺🇸 67.213.210.175:43205 225ms US [Hosting Services, Inc.]
 🇻🇳 116.97.240.147:4996 496ms VN [Viettel Corporation]
 🇮🇩 103.174.178.131:1020 66ms ID [PT Gasatek Bintang Nusantara]
-🇧🇬 31.211.142.115:8192 730ms BG [5KOM]
-🇬🇧 51.89.21.99:62311 496ms GB [OVH SAS]
+🇬🇧 51.89.21.99:62311 533ms GB [OVH SAS]
 🇺🇸 167.172.159.43:35290 558ms US [DigitalOcean, LLC]
-🇲🇩 5.56.124.176:8192 383ms MD [JSC "Moldtelecom" S.A]
+🇷🇺 95.156.83.139:1080 361ms RU [PJSC Rostelecom]
 🇫🇷 51.255.80.151:36217 789ms FR [OVH SAS]
-🇨🇳 117.74.65.207:5441 471ms CN [CNC Group CHINA169 Hebei Province Network]
+🇨🇳 117.74.65.207:5441 777ms CN [CNC Group CHINA169 Hebei Province Network]
 🇺🇸 66.29.129.54:14181 285ms US [Namecheap, Inc.]
 🇺🇸 209.159.153.19:53322 323ms US [Interserver, Inc]
-🇨🇦 184.95.235.194:1080 597ms CA [Fibrenoire Inc]
-🇺🇸 38.91.107.229:28184 263ms US [GTHost]
-🇺🇸 38.91.107.220:14827 245ms US [GTHost]
-🇺🇸 66.29.129.52:35630 316ms US [Namecheap, Inc.]
-🇺🇸 162.0.220.216:24891 365ms US [Namecheap, Inc.]
-🇺🇸 174.138.176.76:34147 358ms US [Interserver, Inc]
+🇺🇸 38.91.107.229:28184 265ms US [GTHost]
+🇺🇸 38.91.107.220:14827 280ms US [GTHost]
+🇺🇸 66.29.129.52:35630 277ms US [Namecheap, Inc.]
+🇺🇸 162.0.220.216:24891 312ms US [Namecheap, Inc.]
+🇺🇸 174.138.176.75:58822 252ms US [Interserver, Inc]
+🇺🇸 174.138.176.76:34147 316ms US [Interserver, Inc]
 🇸🇬 188.166.230.38:64768 317ms SG [DigitalOcean, LLC]
