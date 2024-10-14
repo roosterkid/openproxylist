@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2024-10-14 17:00:02 GMT+7
+SOCKS5 Proxy list updated at 2024-10-14 18:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -10,21 +10,25 @@ https://buymeacoffee.com/roosterkid
 
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇺🇸 67.213.210.175:43205 348ms US [Hosting Services, Inc.]
+🇺🇸 67.213.210.175:43205 426ms US [Hosting Services, Inc.]
 🇵🇱 178.255.44.60:58968 416ms PL [Artnet Sp. z o.o.]
-🇮🇩 103.174.178.131:1020 65ms ID [PT Gasatek Bintang Nusantara]
-🇬🇧 51.89.21.99:62311 729ms GB [OVH SAS]
-🇺🇸 167.172.159.43:35290 506ms US [DigitalOcean, LLC]
-🇨🇳 117.74.65.207:5441 467ms CN [CNC Group CHINA169 Hebei Province Network]
-🇺🇸 38.91.107.229:28184 301ms US [GTHost]
+🇮🇩 103.174.178.131:1020 72ms ID [PT Gasatek Bintang Nusantara]
+🇬🇧 51.89.21.99:62311 697ms GB [OVH SAS]
+🇺🇸 167.172.159.43:35290 405ms US [DigitalOcean, LLC]
+🇷🇺 185.112.224.151:1080 646ms RU [Orion Telecom LLC]
+🇨🇳 117.74.65.207:5441 771ms CN [CNC Group CHINA169 Hebei Province Network]
+🇺🇸 38.91.107.229:28184 380ms US [GTHost]
 🇺🇸 66.23.233.210:23899 300ms US [Interserver, Inc]
-🇺🇸 38.91.107.220:14827 231ms US [GTHost]
+🇺🇸 38.91.107.220:14827 391ms US [GTHost]
 🇩🇪 173.212.206.86:59710 561ms DE [Contabo GmbH]
 🇺🇸 66.29.128.242:49385 335ms US [Namecheap, Inc.]
 🇺🇸 66.29.129.52:35630 226ms US [Namecheap, Inc.]
+🇺🇸 162.0.220.216:24891 375ms US [Namecheap, Inc.]
 🇺🇸 174.138.176.75:58822 247ms US [Interserver, Inc]
-🇺🇸 174.138.176.76:34147 267ms US [Interserver, Inc]
-🇺🇸 66.29.129.56:38557 261ms US [Namecheap, Inc.]
+🇺🇸 174.138.176.76:34147 495ms US [Interserver, Inc]
+🇺🇸 66.29.129.56:38557 392ms US [Namecheap, Inc.]
+🇷🇺 212.103.125.48:1080 367ms RU [CJSC "ER-Telecom Holding" Bryansk branch]
 🇺🇸 199.204.248.155:33922 754ms US [Jumpline Inc]
+🇹🇷 185.87.121.5:8975 663ms TR [Ideal Hosting Teknoloji A.S.]
 🇹🇷 185.86.5.162:8975 592ms TR [Ideal Hosting Teknoloji]
 🇻🇳 113.160.188.21:1080 123ms VN [VietNam Post and Telecom Corporation]
