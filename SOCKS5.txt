@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2024-10-15 14:00:01 GMT+7
+SOCKS5 Proxy list updated at 2024-10-15 15:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -13,11 +13,16 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 🇺🇸 67.213.210.175:43205 303ms US [Hosting Services, Inc.]
 🇺🇸 67.213.212.53:45556 323ms US [Hosting Services, Inc.]
 🇧🇩 103.180.203.133:8085 417ms BD [Md Ariful Haq]
-🇧🇬 31.211.142.115:8192 385ms BG [5KOM]
+🇮🇩 103.174.178.131:1020 61ms ID [PT Gasatek Bintang Nusantara]
+🇧🇬 31.211.142.115:8192 381ms BG [5KOM]
+🇷🇺 85.143.254.38:1080 636ms RU [Comfortel Ltd.]
 🇷🇺 95.156.83.139:1080 683ms RU [PJSC Rostelecom]
+🇵🇸 93.184.4.254:1080 298ms PS [BCI Telecommunication & Advanced Technology Company]
+🇺🇦 195.66.156.196:1080 361ms UA [PP Info-Center]
 🇺🇸 67.205.177.122:56826 318ms US [DigitalOcean, LLC]
-🇻🇳 202.92.6.70:54580 177ms VN [INET]
-🇨🇳 117.74.65.207:5441 470ms CN [CNC Group CHINA169 Hebei Province Network]
+🇷🇺 194.190.169.197:3701 566ms RU [Webmaster Agency Ltd]
+🇻🇳 202.92.6.70:54580 406ms VN [INET]
+🇨🇳 117.74.65.207:5441 768ms CN [CNC Group CHINA169 Hebei Province Network]
 🇸🇪 130.255.160.60:18946 692ms SE [Internet Vikings]
 🇺🇸 66.29.128.244:47900 321ms US [Namecheap, Inc.]
 🇺🇸 174.138.176.78:35730 236ms US [Interserver, Inc]
@@ -32,5 +37,4 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 🇷🇺 31.43.203.100:1080 510ms RU [Sotrudnik LTD]
 🇮🇳 139.59.93.221:27247 212ms IN [DIGITALOCEAN]
 🇺🇸 199.204.248.155:33922 488ms US [Jumpline Inc]
-🇹🇷 185.87.121.35:8975 446ms TR [Ideal Hosting Teknoloji]
 🇹🇷 185.86.5.162:8975 494ms TR [Ideal Hosting Teknoloji]
