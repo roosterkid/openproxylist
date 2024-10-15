@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2024-10-15 09:00:01 GMT+7
+SOCKS5 Proxy list updated at 2024-10-15 10:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -12,15 +12,14 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
 🇺🇸 67.213.210.175:43205 271ms US [Hosting Services, Inc.]
 🇵🇱 178.255.44.60:58968 369ms PL [Artnet Sp. z o.o.]
-🇺🇸 162.240.235.155:48680 723ms US [Unified Layer]
 🇮🇩 103.174.178.131:1020 160ms ID [PT Gasatek Bintang Nusantara]
-🇧🇬 31.211.142.115:8192 455ms BG [5KOM]
+🇧🇬 31.211.142.115:8192 471ms BG [5KOM]
 🇬🇧 51.89.21.99:62311 571ms GB [OVH SAS]
 🇺🇸 167.172.159.43:35290 536ms US [DigitalOcean, LLC]
-🇨🇦 159.203.5.54:54972 581ms CA [DigitalOcean, LLC]
+🇷🇺 95.156.83.139:1080 446ms RU [PJSC Rostelecom]
 🇺🇦 194.44.208.62:80 366ms UA [UARNET-LL]
-🇻🇳 202.92.6.70:54580 330ms VN [INET]
-🇨🇳 117.74.65.207:5441 771ms CN [CNC Group CHINA169 Hebei Province Network]
+🇻🇳 202.92.6.70:54580 177ms VN [INET]
+🇨🇳 117.74.65.207:5441 496ms CN [CNC Group CHINA169 Hebei Province Network]
 🇫🇷 212.83.137.94:15860 254ms FR [Online S.A.S.]
 🇫🇷 212.83.137.150:41166 312ms FR [Online S.A.S.]
 🇺🇸 38.91.106.252:61625 270ms US [GTHost]
@@ -31,9 +30,10 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 🇩🇪 173.212.206.86:59710 596ms DE [Contabo GmbH]
 🇺🇸 66.29.128.242:49385 324ms US [Namecheap, Inc.]
 🇺🇸 162.0.220.216:24891 224ms US [Namecheap, Inc.]
-🇸🇬 188.166.230.38:64768 167ms SG [DigitalOcean, LLC]
+🇸🇬 188.166.230.38:64768 171ms SG [DigitalOcean, LLC]
 🇺🇦 91.200.115.49:1080 361ms UA [Joint Ukrainian American Enterprise "Telecommunications Resource Center" ltd]
-🇹🇷 185.87.121.35:8975 674ms TR [Ideal Hosting Teknoloji]
+🇺🇸 199.204.248.155:33922 538ms US [Jumpline Inc]
+🇹🇷 185.87.121.35:8975 446ms TR [Ideal Hosting Teknoloji]
 🇹🇷 185.87.121.5:8975 356ms TR [Ideal Hosting Teknoloji A.S.]
 🇹🇷 185.86.5.162:8975 574ms TR [Ideal Hosting Teknoloji]
 🇺🇸 198.199.64.196:61877 703ms US [DigitalOcean, LLC]
