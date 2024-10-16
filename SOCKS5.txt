@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2024-10-17 05:00:01 GMT+7
+SOCKS5 Proxy list updated at 2024-10-17 06:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -16,12 +16,13 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 🇺🇸 162.210.197.91:17732 308ms US [Leaseweb USA, Inc.]
 🇫🇷 212.83.138.192:63504 329ms FR [Online S.A.S.]
 🇵🇱 178.255.44.60:58968 490ms PL [Artnet Sp. z o.o.]
-🇬🇧 51.89.21.99:62311 633ms GB [OVH SAS]
-🇺🇸 167.172.159.43:35290 429ms US [DigitalOcean, LLC]
+🇮🇩 103.174.178.131:1020 71ms ID [PT Gasatek Bintang Nusantara]
+🇬🇧 51.89.21.99:62311 645ms GB [OVH SAS]
+🇺🇸 167.172.159.43:35290 352ms US [DigitalOcean, LLC]
 🇷🇺 94.73.251.19:1080 442ms RU [Orion Telecom LLC]
 🇫🇷 212.83.142.158:47036 257ms FR [Online S.A.S.]
 🇺🇦 195.66.156.196:1080 360ms UA [PP Info-Center]
-🇺🇸 67.205.177.122:56826 616ms US [DigitalOcean, LLC]
+🇺🇸 67.205.177.122:56826 466ms US [DigitalOcean, LLC]
 🇻🇳 202.92.6.70:54580 395ms VN [INET]
 🇨🇳 117.74.65.207:5441 770ms CN [CNC Group CHINA169 Hebei Province Network]
 🇫🇷 51.83.116.3:60290 440ms FR [OVH SAS]
@@ -52,6 +53,6 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 🇺🇸 66.29.128.245:23251 311ms US [Namecheap, Inc.]
 🇫🇷 212.83.143.211:63905 306ms FR [Online S.A.S.]
 🇫🇷 212.83.143.191:61245 370ms FR [Online S.A.S.]
-🇸🇬 165.22.98.229:32855 484ms SG [DigitalOcean, LLC]
+🇸🇬 165.22.98.229:32855 372ms SG [DigitalOcean, LLC]
 🇸🇬 167.71.220.29:7497 26ms SG [DigitalOcean, LLC]
 🇺🇸 199.204.248.155:33922 720ms US [Jumpline Inc]
