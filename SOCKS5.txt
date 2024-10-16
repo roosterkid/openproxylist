@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2024-10-16 19:00:01 GMT+7
+SOCKS5 Proxy list updated at 2024-10-16 20:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -12,11 +12,12 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
 🇺🇸 67.213.210.175:43205 437ms US [Hosting Services, Inc.]
 🇻🇳 116.97.240.147:4996 324ms VN [Viettel Corporation]
+🇵🇱 178.255.44.60:58968 550ms PL [Artnet Sp. z o.o.]
 🇮🇩 103.174.178.131:1020 201ms ID [PT Gasatek Bintang Nusantara]
-🇬🇧 51.89.21.99:62311 789ms GB [OVH SAS]
-🇺🇸 167.172.159.43:35290 323ms US [DigitalOcean, LLC]
+🇬🇧 51.89.21.99:62311 732ms GB [OVH SAS]
+🇺🇸 167.172.159.43:35290 400ms US [DigitalOcean, LLC]
 🇷🇺 94.73.251.19:1080 722ms RU [Orion Telecom LLC]
-🇨🇦 159.203.5.54:54972 299ms CA [DigitalOcean, LLC]
+🇨🇦 159.203.5.54:54972 697ms CA [DigitalOcean, LLC]
 🇨🇦 51.222.241.8:52882 403ms CA [OVH SAS]
 🇺🇦 194.44.208.62:80 694ms UA [UARNET-LL]
 🇺🇸 67.205.177.122:56826 269ms US [DigitalOcean, LLC]
@@ -24,13 +25,13 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 🇨🇳 117.74.65.207:5441 468ms CN [CNC Group CHINA169 Hebei Province Network]
 🇺🇸 162.0.220.215:23313 355ms US [Namecheap, Inc.]
 🇫🇷 195.154.43.189:49315 319ms FR [Online S.A.S.]
+🇦🇺 185.139.155.155:1976 368ms AU [Internet Vikings International AB]
 🇺🇸 162.0.220.214:33155 379ms US [Namecheap, Inc.]
-🇩🇪 173.212.206.86:59710 540ms DE [Contabo GmbH]
 🇺🇸 66.29.129.52:35630 403ms US [Namecheap, Inc.]
 🇫🇷 212.83.143.159:23198 308ms FR [Online S.A.S.]
 🇫🇷 212.83.143.151:22748 290ms FR [Online S.A.S.]
 🇫🇷 212.83.143.191:61245 390ms FR [Online S.A.S.]
 🇷🇺 46.241.57.29:1080 347ms RU [ZSTTK]
 🇸🇬 188.166.230.38:64768 115ms SG [DigitalOcean, LLC]
-🇷🇺 212.103.125.48:1080 372ms RU [CJSC "ER-Telecom Holding" Bryansk branch]
+🇷🇺 31.43.203.100:1080 736ms RU [Sotrudnik LTD]
 🇺🇸 199.204.248.155:33922 503ms US [Jumpline Inc]
