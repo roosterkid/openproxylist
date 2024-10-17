@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2024-10-17 16:00:02 GMT+7
+SOCKS5 Proxy list updated at 2024-10-17 17:00:02 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -11,8 +11,7 @@ https://buymeacoffee.com/roosterkid
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
 🇩🇪 138.201.21.218:16014 562ms DE [Hetzner Online GmbH]
-🇻🇳 116.97.240.147:4996 355ms VN [Viettel Corporation]
-🇵🇱 178.255.44.60:58968 794ms PL [Artnet Sp. z o.o.]
+🇵🇱 178.255.44.60:58968 342ms PL [Artnet Sp. z o.o.]
 🇮🇩 103.174.178.131:1020 378ms ID [PT Gasatek Bintang Nusantara]
 🇬🇧 51.89.21.99:62311 626ms GB [OVH SAS]
 🇺🇸 167.172.159.43:35290 723ms US [DigitalOcean, LLC]
@@ -22,8 +21,8 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 🇨🇦 51.222.241.8:52882 380ms CA [OVH SAS]
 🇫🇷 51.255.80.151:36217 428ms FR [OVH SAS]
 🇷🇺 46.0.203.140:4890 784ms RU [JSC "ER-Telecom Holding"]
-🇨🇳 117.74.65.207:5441 771ms CN [CNC Group CHINA169 Hebei Province Network]
-🇺🇸 66.29.129.54:14181 452ms US [Namecheap, Inc.]
+🇨🇳 117.74.65.207:5441 770ms CN [CNC Group CHINA169 Hebei Province Network]
+🇺🇸 66.29.129.54:14181 347ms US [Namecheap, Inc.]
 🇺🇸 38.91.107.220:14827 388ms US [GTHost]
 🇩🇪 173.212.206.86:59710 485ms DE [Contabo GmbH]
 🇺🇸 66.29.129.52:35630 322ms US [Namecheap, Inc.]
@@ -32,5 +31,4 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 🇸🇬 165.22.98.229:32855 416ms SG [DigitalOcean, LLC]
 🇸🇬 188.166.230.38:64768 279ms SG [DigitalOcean, LLC]
 🇷🇺 212.103.125.48:1080 503ms RU [CJSC "ER-Telecom Holding" Bryansk branch]
-🇺🇸 199.204.248.155:33922 355ms US [Jumpline Inc]
 🇺🇸 198.199.64.196:61877 534ms US [DigitalOcean, LLC]
