@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2024-10-17 08:00:01 GMT+7
+SOCKS5 Proxy list updated at 2024-10-17 09:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -10,21 +10,18 @@ https://buymeacoffee.com/roosterkid
 
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇩🇪 138.201.21.228:28706 323ms DE [Hetzner Online GmbH]
 🇺🇸 67.213.212.38:24650 316ms US [Hosting Services, Inc.]
 🇵🇱 178.255.44.60:58968 490ms PL [Artnet Sp. z o.o.]
 🇮🇩 103.174.178.131:1020 71ms ID [PT Gasatek Bintang Nusantara]
-🇬🇧 51.89.21.99:62311 796ms GB [OVH SAS]
-🇺🇸 167.172.159.43:35290 438ms US [DigitalOcean, LLC]
+🇬🇧 51.89.21.99:62311 594ms GB [OVH SAS]
+🇺🇸 167.172.159.43:35290 419ms US [DigitalOcean, LLC]
 🇷🇺 94.73.251.19:1080 790ms RU [Orion Telecom LLC]
 🇨🇦 51.222.241.8:52882 745ms CA [OVH SAS]
 🇫🇷 51.255.80.151:36217 501ms FR [OVH SAS]
 🇺🇸 67.205.177.122:56826 466ms US [DigitalOcean, LLC]
 🇻🇳 202.92.6.70:54580 286ms VN [INET]
-🇨🇳 117.74.65.207:5441 468ms CN [CNC Group CHINA169 Hebei Province Network]
-🇫🇷 212.83.137.142:41918 481ms FR [Online S.A.S.]
+🇨🇳 117.74.65.207:5441 469ms CN [CNC Group CHINA169 Hebei Province Network]
 🇫🇷 51.83.116.5:18543 527ms FR [OVH SAS]
-🇫🇷 212.83.138.186:52793 286ms FR [Online S.A.S.]
 🇫🇷 212.83.137.94:15860 330ms FR [Online S.A.S.]
 🇫🇷 212.83.137.150:41166 289ms FR [Online S.A.S.]
 🇫🇷 212.83.143.118:30820 413ms FR [Online S.A.S.]
@@ -32,13 +29,11 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 🇺🇸 162.0.220.220:46911 374ms US [Namecheap, Inc.]
 🇺🇸 162.0.220.215:23313 334ms US [Namecheap, Inc.]
 🇦🇺 185.139.155.155:1976 718ms AU [Internet Vikings International AB]
-🇫🇷 212.83.143.204:49939 423ms FR [Online S.A.S.]
 🇺🇸 162.0.220.214:33155 386ms US [Namecheap, Inc.]
 🇩🇪 173.212.206.86:59710 534ms DE [Contabo GmbH]
 🇺🇸 66.29.128.242:49385 333ms US [Namecheap, Inc.]
 🇺🇸 174.138.176.75:58822 520ms US [Interserver, Inc]
 🇫🇷 212.83.143.151:22748 400ms FR [Online S.A.S.]
 🇸🇬 165.22.98.229:32855 372ms SG [DigitalOcean, LLC]
-🇸🇬 167.71.220.29:7497 26ms SG [DigitalOcean, LLC]
 🇸🇬 188.166.230.38:64768 424ms SG [DigitalOcean, LLC]
 🇮🇳 139.59.93.221:27247 369ms IN [DIGITALOCEAN]
