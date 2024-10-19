@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2024-10-19 12:00:01 GMT+7
+SOCKS5 Proxy list updated at 2024-10-19 13:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -10,25 +10,29 @@ https://buymeacoffee.com/roosterkid
 
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇺🇸 67.213.210.175:43205 375ms US [Hosting Services, Inc.]
+🇺🇸 67.213.210.175:43205 341ms US [Hosting Services, Inc.]
+🇫🇷 212.83.138.192:63504 409ms FR [Online S.A.S.]
 🇵🇱 178.255.44.60:58968 428ms PL [Artnet Sp. z o.o.]
-🇮🇩 103.174.178.131:1020 162ms ID [PT Gasatek Bintang Nusantara]
+🇮🇩 103.174.178.131:1020 77ms ID [PT Gasatek Bintang Nusantara]
 🇧🇬 31.211.142.115:8192 688ms BG [5KOM]
-🇬🇧 51.89.21.99:62311 514ms GB [OVH SAS]
-🇺🇸 167.172.159.43:35290 315ms US [DigitalOcean, LLC]
-🇺🇸 67.205.177.122:56826 581ms US [DigitalOcean, LLC]
+🇬🇧 51.89.21.99:62311 798ms GB [OVH SAS]
+🇺🇸 167.172.159.43:35290 394ms US [DigitalOcean, LLC]
+🇺🇦 194.44.208.62:80 328ms UA [UARNET-LL]
+🇵🇸 93.184.4.254:1080 484ms PS [BCI Telecommunication & Advanced Technology Company]
+🇺🇦 195.66.156.196:1080 549ms UA [PP Info-Center]
+🇺🇸 67.205.177.122:56826 616ms US [DigitalOcean, LLC]
 🇻🇳 202.92.6.70:54580 540ms VN [INET]
 🇨🇳 117.74.65.207:5441 468ms CN [CNC Group CHINA169 Hebei Province Network]
-🇺🇸 38.91.106.252:61625 681ms US [GTHost]
+🇺🇸 38.91.106.252:61625 317ms US [GTHost]
 🇺🇸 174.138.176.78:35730 756ms US [Interserver, Inc]
-🇺🇸 162.0.220.161:34826 530ms US [Namecheap, Inc.]
-🇺🇸 162.0.220.215:23313 807ms US [Namecheap, Inc.]
+🇺🇸 162.0.220.215:23313 590ms US [Namecheap, Inc.]
 🇺🇸 38.91.107.220:14827 517ms US [GTHost]
-🇺🇸 66.29.128.241:14954 322ms US [Namecheap, Inc.]
-🇺🇸 162.0.220.219:60521 258ms US [Namecheap, Inc.]
+🇺🇸 66.29.128.242:49385 306ms US [Namecheap, Inc.]
+🇺🇸 162.0.220.219:60521 277ms US [Namecheap, Inc.]
 🇺🇸 174.138.176.75:58822 690ms US [Interserver, Inc]
 🇺🇸 174.138.176.76:34147 354ms US [Interserver, Inc]
-🇫🇷 212.83.143.191:61245 420ms FR [Online S.A.S.]
-🇸🇬 188.166.230.38:64768 145ms SG [DigitalOcean, LLC]
+🇺🇸 66.29.128.245:23251 316ms US [Namecheap, Inc.]
+🇺🇸 66.29.129.56:38557 414ms US [Namecheap, Inc.]
+🇸🇬 188.166.230.38:64768 95ms SG [DigitalOcean, LLC]
 🇹🇷 185.87.121.35:8975 658ms TR [Ideal Hosting Teknoloji]
-🇹🇷 185.87.121.5:8975 456ms TR [Ideal Hosting Teknoloji A.S.]
+🇹🇷 185.87.121.5:8975 444ms TR [Ideal Hosting Teknoloji A.S.]
