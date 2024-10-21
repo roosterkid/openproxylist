@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2024-10-22 00:00:01 GMT+7
+SOCKS5 Proxy list updated at 2024-10-22 01:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -10,26 +10,30 @@ https://buymeacoffee.com/roosterkid
 
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇧🇩 103.180.203.133:8085 415ms BD [Md Ariful Haq]
-🇵🇱 178.255.44.60:58968 409ms PL [Artnet Sp. z o.o.]
-🏳 91.218.102.187:1080 398ms  []
+🇧🇩 103.180.203.133:8085 401ms BD [Md Ariful Haq]
 🇮🇩 103.174.178.131:1020 72ms ID [PT Gasatek Bintang Nusantara]
-🇬🇧 51.89.21.99:62311 519ms GB [OVH SAS]
+🇬🇧 51.89.21.99:62311 616ms GB [OVH SAS]
 🇷🇺 94.73.251.19:1080 440ms RU [Orion Telecom LLC]
 🇷🇺 85.143.254.38:1080 743ms RU [Comfortel Ltd.]
 🇨🇦 51.222.241.8:52882 790ms CA [OVH SAS]
 🇺🇦 194.44.208.62:80 509ms UA [UARNET-LL]
 🇫🇷 51.255.80.151:36217 721ms FR [OVH SAS]
-🇷🇺 46.0.203.140:4890 505ms RU [JSC "ER-Telecom Holding"]
-🇨🇳 117.74.65.207:5441 466ms CN [CNC Group CHINA169 Hebei Province Network]
+🇨🇳 117.74.65.207:5441 470ms CN [CNC Group CHINA169 Hebei Province Network]
 🇳🇱 165.22.204.32:7497 267ms NL [DigitalOcean, LLC]
 🇺🇸 209.159.153.21:31286 280ms US [Interserver, Inc]
 🇫🇷 51.83.116.5:18543 408ms FR [OVH SAS]
 🇺🇸 209.159.153.19:53322 416ms US [Interserver, Inc]
 🇫🇷 212.83.137.165:53565 310ms FR [Online S.A.S.]
+🇺🇸 38.91.106.252:61625 288ms US [GTHost]
 🇺🇸 209.159.153.22:24452 370ms US [Interserver, Inc]
+🇺🇸 162.0.220.161:34826 234ms US [Namecheap, Inc.]
+🇺🇸 162.0.220.215:23313 296ms US [Namecheap, Inc.]
 🇦🇺 185.139.155.155:1976 441ms AU [Internet Vikings International AB]
-🇫🇷 212.83.143.147:43681 169ms FR [Online S.A.S.]
+🇫🇷 212.83.143.147:43681 294ms FR [Online S.A.S.]
 🇩🇪 173.212.206.86:59710 421ms DE [Contabo GmbH]
+🇺🇸 174.138.176.75:58822 263ms US [Interserver, Inc]
+🇺🇸 66.29.129.56:38557 294ms US [Namecheap, Inc.]
 🇸🇬 165.22.98.229:32855 60ms SG [DigitalOcean, LLC]
-🇸🇬 188.166.230.38:64768 285ms SG [DigitalOcean, LLC]
+🇸🇬 188.166.230.38:64768 593ms SG [DigitalOcean, LLC]
+🇻🇳 113.176.118.150:1080 202ms VN [VNPT]
+🇺🇸 198.199.64.196:61877 615ms US [DigitalOcean, LLC]
