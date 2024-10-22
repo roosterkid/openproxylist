@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2024-10-23 05:00:01 GMT+7
+SOCKS5 Proxy list updated at 2024-10-23 06:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -11,21 +11,18 @@ https://buymeacoffee.com/roosterkid
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
 🇵🇱 178.255.44.60:58968 631ms PL [Artnet Sp. z o.o.]
-🇬🇧 51.89.21.99:62311 392ms GB [OVH SAS]
-🇨🇦 159.203.5.54:54972 263ms CA [DigitalOcean, LLC]
+🇬🇧 51.89.21.99:62311 512ms GB [OVH SAS]
+🇨🇦 159.203.5.54:54972 471ms CA [DigitalOcean, LLC]
 🇫🇷 51.255.80.151:36217 750ms FR [OVH SAS]
 🇺🇸 67.205.177.122:56826 446ms US [DigitalOcean, LLC]
-🇨🇳 117.74.65.207:5441 467ms CN [CNC Group CHINA169 Hebei Province Network]
+🇨🇳 117.74.65.207:5441 466ms CN [CNC Group CHINA169 Hebei Province Network]
 🇫🇷 212.83.138.186:52793 312ms FR [Online S.A.S.]
 🇺🇸 66.29.129.54:14181 197ms US [Namecheap, Inc.]
 🇫🇷 37.44.238.2:63617 724ms FR [Harmony Hosting SARL]
-🇺🇸 174.138.176.78:35730 251ms US [Interserver, Inc]
-🇩🇪 173.212.206.86:59710 240ms DE [Contabo GmbH]
-🇺🇸 174.138.176.75:58822 284ms US [Interserver, Inc]
-🇫🇷 212.83.143.191:61245 283ms FR [Online S.A.S.]
-🇸🇬 165.22.98.229:32855 52ms SG [DigitalOcean, LLC]
-🇸🇬 188.166.230.38:64768 234ms SG [DigitalOcean, LLC]
+🇨🇦 184.95.235.194:1080 331ms CA [Fibrenoire Inc]
+🇩🇪 173.212.206.86:59710 597ms DE [Contabo GmbH]
+🇸🇬 165.22.98.229:32855 58ms SG [DigitalOcean, LLC]
 🇺🇸 199.204.248.155:33922 466ms US [Jumpline Inc]
 🇹🇷 185.87.121.35:8975 538ms TR [Ideal Hosting Teknoloji]
-🇹🇷 185.87.121.5:8975 545ms TR [Ideal Hosting Teknoloji A.S.]
-🇺🇸 198.199.64.196:61877 694ms US [DigitalOcean, LLC]
+🇹🇷 185.87.121.5:8975 523ms TR [Ideal Hosting Teknoloji A.S.]
+🇺🇸 198.199.64.196:61877 527ms US [DigitalOcean, LLC]
