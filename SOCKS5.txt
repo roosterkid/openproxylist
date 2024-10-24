@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2024-10-24 21:00:01 GMT+7
+SOCKS5 Proxy list updated at 2024-10-24 22:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -10,28 +10,21 @@ https://buymeacoffee.com/roosterkid
 
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇺🇸 67.213.210.175:43205 320ms US [Hosting Services, Inc.]
-🇩🇪 138.201.21.218:16014 351ms DE [Hetzner Online GmbH]
-🇺🇸 162.210.197.91:17732 328ms US [Leaseweb USA, Inc.]
-🇮🇩 103.174.178.131:1020 189ms ID [PT Gasatek Bintang Nusantara]
-🇬🇧 51.89.21.99:62311 591ms GB [OVH SAS]
+🇺🇸 67.213.210.175:43205 385ms US [Hosting Services, Inc.]
+🇵🇱 178.255.44.60:58968 780ms PL [Artnet Sp. z o.o.]
+🇮🇩 103.174.178.131:1020 89ms ID [PT Gasatek Bintang Nusantara]
+🇬🇧 51.89.21.99:62311 546ms GB [OVH SAS]
 🇷🇺 94.73.251.19:1080 769ms RU [Orion Telecom LLC]
+🇨🇦 159.203.5.54:54972 497ms CA [DigitalOcean, LLC]
 🇨🇦 51.222.241.8:52882 590ms CA [OVH SAS]
 🇨🇳 117.74.65.207:5441 493ms CN [CNC Group CHINA169 Hebei Province Network]
-🇺🇸 66.29.128.244:47900 307ms US [Namecheap, Inc.]
-🇺🇸 38.91.107.229:28184 309ms US [GTHost]
+🇺🇸 38.91.107.229:28184 585ms US [GTHost]
 🇺🇸 66.23.233.210:23899 438ms US [Interserver, Inc]
-🇫🇷 51.83.116.7:53614 558ms FR [OVH SAS]
-🇫🇷 195.154.43.86:45124 290ms FR [Online S.A.S.]
-🇩🇪 173.212.206.86:59710 208ms DE [Contabo GmbH]
-🇺🇸 162.0.220.219:60521 410ms US [Namecheap, Inc.]
+🇺🇸 162.0.220.219:60521 262ms US [Namecheap, Inc.]
 🇺🇸 162.0.220.216:24891 275ms US [Namecheap, Inc.]
-🇺🇸 174.138.176.75:58822 296ms US [Interserver, Inc]
-🇫🇷 212.83.143.151:22748 305ms FR [Online S.A.S.]
+🇺🇸 174.138.176.75:58822 320ms US [Interserver, Inc]
 🇺🇸 66.29.128.245:23251 284ms US [Namecheap, Inc.]
-🇫🇷 212.83.143.191:61245 313ms FR [Online S.A.S.]
-🇷🇺 46.241.57.29:1080 339ms RU [ZSTTK]
-🇸🇬 165.22.98.229:32855 346ms SG [DigitalOcean, LLC]
-🇺🇦 91.200.115.49:1080 256ms UA [Joint Ukrainian American Enterprise "Telecommunications Resource Center" ltd]
+🇸🇬 165.22.98.229:32855 87ms SG [DigitalOcean, LLC]
+🇸🇬 188.166.230.38:64768 686ms SG [DigitalOcean, LLC]
 🇷🇺 31.43.203.100:1080 663ms RU [Sotrudnik LTD]
 🇺🇸 199.204.248.155:33922 457ms US [Jumpline Inc]
