@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2024-10-25 01:00:01 GMT+7
+SOCKS5 Proxy list updated at 2024-10-25 02:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -10,23 +10,29 @@ https://buymeacoffee.com/roosterkid
 
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇺🇸 67.213.210.175:43205 385ms US [Hosting Services, Inc.]
-🇵🇱 178.255.44.60:58968 780ms PL [Artnet Sp. z o.o.]
+🇺🇸 67.213.210.175:43205 328ms US [Hosting Services, Inc.]
+🇩🇪 138.201.21.228:28706 306ms DE [Hetzner Online GmbH]
+🇺🇸 67.213.212.38:24650 380ms US [Hosting Services, Inc.]
+🇵🇱 178.255.44.60:58968 424ms PL [Artnet Sp. z o.o.]
 🇮🇩 103.174.178.131:1020 101ms ID [PT Gasatek Bintang Nusantara]
-🇬🇧 51.89.21.99:62311 603ms GB [OVH SAS]
-🇷🇺 94.73.251.19:1080 769ms RU [Orion Telecom LLC]
+🇬🇧 51.89.21.99:62311 440ms GB [OVH SAS]
 🇨🇦 159.203.5.54:54972 497ms CA [DigitalOcean, LLC]
 🇻🇳 202.92.6.70:54580 758ms VN [INET]
-🇨🇳 117.74.65.207:5441 464ms CN [CNC Group CHINA169 Hebei Province Network]
+🇨🇳 117.74.65.207:5441 468ms CN [CNC Group CHINA169 Hebei Province Network]
+🇫🇷 212.83.142.114:11241 286ms FR [Online S.A.S.]
 🇫🇷 212.83.143.97:17347 381ms FR [Online S.A.S.]
-🇺🇸 38.91.107.229:28184 585ms US [GTHost]
-🇺🇸 174.138.176.78:35730 698ms US [Interserver, Inc]
-🇺🇸 162.0.220.215:23313 239ms US [Namecheap, Inc.]
-🇺🇸 162.0.220.219:60521 262ms US [Namecheap, Inc.]
-🇺🇸 162.0.220.216:24891 270ms US [Namecheap, Inc.]
-🇺🇸 174.138.176.75:58822 278ms US [Interserver, Inc]
+🇺🇸 66.29.129.54:14181 213ms US [Namecheap, Inc.]
+🇫🇷 212.83.143.49:24535 325ms FR [Online S.A.S.]
+🇺🇸 38.91.107.229:28184 362ms US [GTHost]
+🇺🇸 174.138.176.78:35730 337ms US [Interserver, Inc]
+🇺🇸 162.0.220.161:34826 234ms US [Namecheap, Inc.]
+🇺🇸 162.0.220.215:23313 237ms US [Namecheap, Inc.]
+🇺🇸 162.0.220.219:60521 206ms US [Namecheap, Inc.]
+🇺🇸 162.0.220.216:24891 218ms US [Namecheap, Inc.]
+🇫🇷 212.83.138.132:23475 442ms FR [Online S.A.S.]
+🇺🇸 174.138.176.75:58822 263ms US [Interserver, Inc]
+🇺🇸 174.138.176.76:34147 367ms US [Interserver, Inc]
 🇫🇷 212.83.143.159:23198 360ms FR [Online S.A.S.]
-🇺🇸 66.29.128.245:23251 284ms US [Namecheap, Inc.]
 🇸🇬 165.22.98.229:32855 38ms SG [DigitalOcean, LLC]
 🇸🇬 167.71.220.29:7497 41ms SG [DigitalOcean, LLC]
 🇸🇬 188.166.230.38:64768 686ms SG [DigitalOcean, LLC]
