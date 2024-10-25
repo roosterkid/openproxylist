@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2024-10-25 22:00:01 GMT+7
+SOCKS5 Proxy list updated at 2024-10-25 23:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -10,24 +10,30 @@ https://buymeacoffee.com/roosterkid
 
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
+🇩🇪 138.201.21.232:24252 508ms DE [Hetzner Online GmbH]
+🇧🇩 103.180.203.133:8085 200ms BD [Md Ariful Haq]
 🇫🇷 212.83.138.192:63504 391ms FR [Online S.A.S.]
 🇵🇱 178.255.44.60:58968 379ms PL [Artnet Sp. z o.o.]
-🇮🇩 103.174.178.131:1020 177ms ID [PT Gasatek Bintang Nusantara]
-🇬🇧 51.89.21.99:62311 433ms GB [OVH SAS]
+🇮🇩 103.174.178.131:1020 84ms ID [PT Gasatek Bintang Nusantara]
+🇬🇧 51.89.21.99:62311 466ms GB [OVH SAS]
 🇨🇦 159.203.5.54:54972 774ms CA [DigitalOcean, LLC]
-🇨🇦 51.222.241.8:52882 766ms CA [OVH SAS]
 🇫🇷 51.255.80.151:36217 545ms FR [OVH SAS]
 🇺🇸 67.205.177.122:56826 330ms US [DigitalOcean, LLC]
 🇻🇳 202.92.6.70:54580 407ms VN [INET]
-🇨🇳 117.74.65.207:5441 643ms CN [CNC Group CHINA169 Hebei Province Network]
-🇫🇷 37.44.238.2:63617 690ms FR [Harmony Hosting SARL]
+🇨🇳 117.74.65.207:5441 632ms CN [CNC Group CHINA169 Hebei Province Network]
 🇺🇸 209.159.153.22:24452 460ms US [Interserver, Inc]
+🇺🇸 162.0.220.220:46911 208ms US [Namecheap, Inc.]
+🇺🇸 38.91.107.220:14827 300ms US [GTHost]
 🇦🇺 185.139.155.155:1976 503ms AU [Internet Vikings International AB]
-🇫🇷 212.83.142.149:45413 363ms FR [Online S.A.S.]
-🇸🇬 165.22.98.229:32855 53ms SG [DigitalOcean, LLC]
+🇺🇸 66.29.129.52:35630 268ms US [Namecheap, Inc.]
+🇺🇸 162.0.220.219:60521 269ms US [Namecheap, Inc.]
+🇺🇸 162.0.220.216:24891 219ms US [Namecheap, Inc.]
+🇺🇸 66.29.129.56:38557 229ms US [Namecheap, Inc.]
+🇸🇬 165.22.98.229:32855 69ms SG [DigitalOcean, LLC]
 🇸🇬 188.166.230.38:64768 760ms SG [DigitalOcean, LLC]
 🇷🇺 212.103.125.48:1080 337ms RU [CJSC "ER-Telecom Holding" Bryansk branch]
 🇺🇸 199.204.248.155:33922 662ms US [Jumpline Inc]
 🇹🇷 185.87.121.5:8975 494ms TR [Ideal Hosting Teknoloji A.S.]
+🇺🇸 198.199.64.196:61877 491ms US [DigitalOcean, LLC]
 🇳🇱 31.220.43.141:16181 674ms NL [HostHatch]
 🇻🇳 113.160.188.21:1080 114ms VN [VietNam Post and Telecom Corporation]
