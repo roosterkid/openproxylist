@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2024-10-26 02:00:02 GMT+7
+SOCKS5 Proxy list updated at 2024-10-26 03:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -10,20 +10,20 @@ https://buymeacoffee.com/roosterkid
 
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇺🇸 67.213.210.175:43205 246ms US [Hosting Services, Inc.]
+🇺🇸 67.213.210.175:43205 221ms US [Hosting Services, Inc.]
 🇩🇪 138.201.21.232:24252 508ms DE [Hetzner Online GmbH]
 🇧🇩 103.180.203.133:8085 413ms BD [Md Ariful Haq]
 🇫🇷 212.83.138.192:63504 367ms FR [Online S.A.S.]
-🇵🇱 178.255.44.60:58968 360ms PL [Artnet Sp. z o.o.]
-🇮🇩 103.174.178.131:1020 797ms ID [PT Gasatek Bintang Nusantara]
-🇬🇧 51.89.21.99:62311 521ms GB [OVH SAS]
-🇨🇦 159.203.5.54:54972 774ms CA [DigitalOcean, LLC]
+🇵🇱 178.255.44.60:58968 445ms PL [Artnet Sp. z o.o.]
+🇮🇩 103.174.178.131:1020 373ms ID [PT Gasatek Bintang Nusantara]
+🇬🇧 51.89.21.99:62311 448ms GB [OVH SAS]
 🇨🇦 51.222.241.8:52882 573ms CA [OVH SAS]
 🇫🇷 51.255.80.151:36217 708ms FR [OVH SAS]
 🇻🇳 202.92.6.70:54580 408ms VN [INET]
-🇨🇳 117.74.65.207:5441 768ms CN [CNC Group CHINA169 Hebei Province Network]
+🇨🇳 117.74.65.207:5441 467ms CN [CNC Group CHINA169 Hebei Province Network]
 🇳🇱 165.22.204.32:7497 317ms NL [DigitalOcean, LLC]
 🇫🇷 212.83.137.150:41166 287ms FR [Online S.A.S.]
+🇺🇸 66.29.128.244:47900 447ms US [Namecheap, Inc.]
 🇺🇸 38.91.106.252:61625 259ms US [GTHost]
 🇺🇸 174.138.176.78:35730 396ms US [Interserver, Inc]
 🇺🇸 162.0.220.220:46911 285ms US [Namecheap, Inc.]
@@ -33,11 +33,10 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 🇺🇸 66.29.129.52:35630 223ms US [Namecheap, Inc.]
 🇺🇸 162.0.220.219:60521 234ms US [Namecheap, Inc.]
 🇺🇸 162.0.220.216:24891 219ms US [Namecheap, Inc.]
-🇺🇸 66.29.129.56:38557 221ms US [Namecheap, Inc.]
+🇺🇸 66.29.129.56:38557 406ms US [Namecheap, Inc.]
 🇫🇷 212.83.143.191:61245 200ms FR [Online S.A.S.]
 🇸🇬 165.22.98.229:32855 69ms SG [DigitalOcean, LLC]
 🇸🇬 188.166.230.38:64768 510ms SG [DigitalOcean, LLC]
 🇺🇦 91.200.115.49:1080 321ms UA [Joint Ukrainian American Enterprise "Telecommunications Resource Center" ltd]
-🇺🇸 199.204.248.155:33922 455ms US [Jumpline Inc]
+🇺🇸 199.204.248.155:33922 408ms US [Jumpline Inc]
 🇺🇸 198.199.64.196:61877 491ms US [DigitalOcean, LLC]
-🇻🇳 113.160.188.21:1080 114ms VN [VietNam Post and Telecom Corporation]
