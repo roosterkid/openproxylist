@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2024-10-25 07:00:02 GMT+7
+SOCKS5 Proxy list updated at 2024-10-25 08:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -10,25 +10,24 @@ https://buymeacoffee.com/roosterkid
 
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇺🇸 67.213.212.53:45556 458ms US [Hosting Services, Inc.]
-🇺🇸 67.213.212.38:24650 345ms US [Hosting Services, Inc.]
-🇵🇱 178.255.44.60:58968 367ms PL [Artnet Sp. z o.o.]
-🇮🇩 103.174.178.131:1020 197ms ID [PT Gasatek Bintang Nusantara]
+🇺🇸 67.213.212.53:45556 407ms US [Hosting Services, Inc.]
+🇵🇱 178.255.44.60:58968 724ms PL [Artnet Sp. z o.o.]
+🇧🇬 31.211.142.115:8192 388ms BG [5KOM]
 🇱🇺 104.244.75.78:31534 290ms LU [FranTech Solutions]
-🇬🇧 51.89.21.99:62311 427ms GB [OVH SAS]
-🇷🇺 94.73.251.19:1080 445ms RU [Orion Telecom LLC]
+🇬🇧 51.89.21.99:62311 658ms GB [OVH SAS]
+🇷🇺 94.73.251.19:1080 457ms RU [Orion Telecom LLC]
 🇫🇷 212.83.142.158:47036 386ms FR [Online S.A.S.]
 🇺🇸 67.205.177.122:56826 400ms US [DigitalOcean, LLC]
-🇻🇳 202.92.6.70:54580 466ms VN [INET]
-🇨🇳 117.74.65.207:5441 468ms CN [CNC Group CHINA169 Hebei Province Network]
-🇫🇷 212.83.142.114:11241 307ms FR [Online S.A.S.]
+🇻🇳 202.92.6.70:54580 777ms VN [INET]
+🇨🇳 117.74.65.207:5441 467ms CN [CNC Group CHINA169 Hebei Province Network]
+🇫🇷 212.83.142.114:11241 367ms FR [Online S.A.S.]
 🇺🇸 66.29.129.54:14181 327ms US [Namecheap, Inc.]
-🇫🇷 212.83.137.150:41166 287ms FR [Online S.A.S.]
-🇺🇸 38.91.107.229:28184 337ms US [GTHost]
-🇺🇸 162.0.220.161:34826 395ms US [Namecheap, Inc.]
+🇫🇷 212.83.137.150:41166 303ms FR [Online S.A.S.]
+🇺🇸 38.91.107.229:28184 350ms US [GTHost]
+🇫🇷 51.83.116.7:53614 424ms FR [OVH SAS]
 🇺🇸 38.91.107.220:14827 502ms US [GTHost]
-🇦🇺 185.139.155.155:1976 795ms AU [Internet Vikings International AB]
 🇩🇪 173.212.206.86:59710 264ms DE [Contabo GmbH]
-🇫🇷 212.83.138.132:23475 359ms FR [Online S.A.S.]
+🇺🇸 66.29.128.242:49385 341ms US [Namecheap, Inc.]
 🇺🇸 66.29.129.56:38557 449ms US [Namecheap, Inc.]
-🇸🇬 165.22.98.229:32855 42ms SG [DigitalOcean, LLC]
+🇫🇷 212.83.143.211:63905 284ms FR [Online S.A.S.]
+🇻🇳 113.176.118.150:1080 96ms VN [VNPT]
