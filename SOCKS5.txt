@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2024-10-27 08:00:01 GMT+7
+SOCKS5 Proxy list updated at 2024-10-27 09:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -12,11 +12,12 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
 🇵🇱 178.255.44.60:58968 277ms PL [Artnet Sp. z o.o.]
 🇺🇸 162.240.235.155:48680 560ms US [Unified Layer]
-🇮🇩 103.174.178.131:1020 187ms ID [PT Gasatek Bintang Nusantara]
+🇮🇩 103.174.178.131:1020 788ms ID [PT Gasatek Bintang Nusantara]
 🇬🇧 51.89.21.99:62311 569ms GB [OVH SAS]
-🇫🇷 51.255.80.151:36217 373ms FR [OVH SAS]
-🇺🇸 67.205.177.122:56826 449ms US [DigitalOcean, LLC]
-🇨🇳 117.74.65.207:5441 469ms CN [CNC Group CHINA169 Hebei Province Network]
+🇫🇷 51.255.80.151:36217 630ms FR [OVH SAS]
+🇺🇸 67.205.177.122:56826 696ms US [DigitalOcean, LLC]
+🇷🇺 194.190.169.197:3701 439ms RU [Webmaster Agency Ltd]
+🇨🇳 117.74.65.207:5441 765ms CN [CNC Group CHINA169 Hebei Province Network]
 🇺🇸 209.159.153.21:31286 384ms US [Interserver, Inc]
 🇫🇷 212.83.137.142:41918 425ms FR [Online S.A.S.]
 🇺🇸 66.29.128.244:47900 214ms US [Namecheap, Inc.]
@@ -29,11 +30,8 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 🇩🇪 173.212.206.86:59710 672ms DE [Contabo GmbH]
 🇺🇸 174.138.176.75:58822 231ms US [Interserver, Inc]
 🇺🇸 174.138.176.76:34147 388ms US [Interserver, Inc]
-🇫🇷 212.83.143.159:23198 143ms FR [Online S.A.S.]
 🇫🇷 212.83.143.191:61245 421ms FR [Online S.A.S.]
-🇸🇬 165.22.98.229:32855 218ms SG [DigitalOcean, LLC]
+🇸🇬 165.22.98.229:32855 50ms SG [DigitalOcean, LLC]
 🇸🇬 188.166.230.38:64768 480ms SG [DigitalOcean, LLC]
-🇻🇳 113.176.118.150:1080 402ms VN [VNPT]
-🇮🇳 139.59.93.221:27247 493ms IN [DIGITALOCEAN]
-🇹🇷 185.87.121.5:8975 512ms TR [Ideal Hosting Teknoloji A.S.]
+🇮🇳 139.59.93.221:27247 306ms IN [DIGITALOCEAN]
 🇹🇷 185.86.5.162:8975 482ms TR [Ideal Hosting Teknoloji]
