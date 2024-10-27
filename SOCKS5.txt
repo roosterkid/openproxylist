@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2024-10-27 11:00:01 GMT+7
+SOCKS5 Proxy list updated at 2024-10-27 12:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -10,25 +10,29 @@ https://buymeacoffee.com/roosterkid
 
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇺🇸 162.240.235.155:48680 560ms US [Unified Layer]
-🇮🇩 103.174.178.131:1020 84ms ID [PT Gasatek Bintang Nusantara]
-🇬🇧 51.89.21.99:62311 465ms GB [OVH SAS]
-🇫🇷 51.255.80.151:36217 642ms FR [OVH SAS]
-🇺🇸 67.205.177.122:56826 722ms US [DigitalOcean, LLC]
+🇩🇪 138.201.21.218:16014 349ms DE [Hetzner Online GmbH]
+🇵🇱 178.255.44.60:58968 303ms PL [Artnet Sp. z o.o.]
+🇺🇸 162.240.235.155:48680 436ms US [Unified Layer]
+🇮🇩 103.174.178.131:1020 795ms ID [PT Gasatek Bintang Nusantara]
+🇬🇧 51.89.21.99:62311 366ms GB [OVH SAS]
+🇫🇷 51.255.80.151:36217 664ms FR [OVH SAS]
+🇺🇸 67.205.177.122:56826 706ms US [DigitalOcean, LLC]
 🇷🇺 194.190.169.197:3701 439ms RU [Webmaster Agency Ltd]
-🇻🇳 202.92.6.70:54580 159ms VN [INET]
-🇨🇳 117.74.65.207:5441 469ms CN [CNC Group CHINA169 Hebei Province Network]
+🇻🇳 202.92.6.70:54580 322ms VN [INET]
+🇨🇳 117.74.65.207:5441 464ms CN [CNC Group CHINA169 Hebei Province Network]
 🇫🇷 212.83.137.142:41918 425ms FR [Online S.A.S.]
+🇫🇷 212.83.143.97:17347 427ms FR [Online S.A.S.]
 🇺🇸 66.29.129.54:14181 282ms US [Namecheap, Inc.]
-🇺🇸 66.29.128.244:47900 214ms US [Namecheap, Inc.]
+🇫🇷 212.83.137.150:41166 261ms FR [Online S.A.S.]
 🇺🇸 162.0.220.220:46911 224ms US [Namecheap, Inc.]
 🇺🇸 66.23.233.210:23899 259ms US [Interserver, Inc]
+🇫🇷 51.83.116.7:53614 469ms FR [OVH SAS]
 🇺🇸 38.91.107.220:14827 266ms US [GTHost]
 🇫🇷 212.83.142.149:45413 394ms FR [Online S.A.S.]
 🇩🇪 173.212.206.86:59710 672ms DE [Contabo GmbH]
-🇺🇸 174.138.176.75:58822 231ms US [Interserver, Inc]
+🇺🇸 174.138.176.75:58822 227ms US [Interserver, Inc]
 🇺🇸 174.138.176.76:34147 388ms US [Interserver, Inc]
 🇺🇸 66.29.129.56:38557 242ms US [Namecheap, Inc.]
-🇸🇬 165.22.98.229:32855 468ms SG [DigitalOcean, LLC]
+🇸🇬 165.22.98.229:32855 182ms SG [DigitalOcean, LLC]
 🇺🇦 91.200.115.49:1080 292ms UA [Joint Ukrainian American Enterprise "Telecommunications Resource Center" ltd]
 🇮🇳 139.59.93.221:27247 306ms IN [DIGITALOCEAN]
