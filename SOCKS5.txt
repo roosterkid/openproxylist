@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2024-10-30 16:00:01 GMT+7
+SOCKS5 Proxy list updated at 2024-10-30 17:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -11,7 +11,7 @@ https://buymeacoffee.com/roosterkid
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
 🇺🇸 67.213.210.175:43205 364ms US [Hosting Services, Inc.]
-🇺🇸 162.210.197.91:17732 353ms US [Leaseweb USA, Inc.]
+🇺🇸 162.210.197.91:17732 259ms US [Leaseweb USA, Inc.]
 🇻🇳 116.97.240.147:4996 402ms VN [Viettel Corporation]
 🇧🇷 187.63.9.62:63253 429ms BR [Gigalink de Nova Friburgo Soluções em Rede Multimi]
 🇵🇱 178.255.44.60:58968 384ms PL [Artnet Sp. z o.o.]
@@ -21,10 +21,10 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 🇫🇷 51.255.80.151:36217 721ms FR [OVH SAS]
 🇺🇦 195.66.156.196:1080 470ms UA [PP Info-Center]
 🇺🇸 67.205.177.122:56826 543ms US [DigitalOcean, LLC]
-🇨🇳 117.74.65.207:5441 465ms CN [CNC Group CHINA169 Hebei Province Network]
+🇨🇳 117.74.65.207:5441 617ms CN [CNC Group CHINA169 Hebei Province Network]
 🇫🇷 212.83.137.142:41918 311ms FR [Online S.A.S.]
 🇫🇷 212.83.138.186:52793 255ms FR [Online S.A.S.]
-🇫🇷 212.83.137.150:41166 284ms FR [Online S.A.S.]
+🇺🇸 209.159.153.19:53322 236ms US [Interserver, Inc]
 🇺🇸 66.29.128.244:47900 305ms US [Namecheap, Inc.]
 🇨🇦 184.95.235.194:1080 343ms CA [Fibrenoire Inc]
 🇺🇸 38.91.106.252:61625 476ms US [GTHost]
@@ -38,9 +38,8 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 🇺🇸 209.159.153.20:26688 595ms US [Interserver, Inc]
 🇫🇷 212.83.143.159:23198 337ms FR [Online S.A.S.]
 🇫🇷 212.83.143.191:61245 346ms FR [Online S.A.S.]
-🇸🇬 188.166.230.38:64768 234ms SG [DigitalOcean, LLC]
-🇺🇦 91.200.115.49:1080 274ms UA [Joint Ukrainian American Enterprise "Telecommunications Resource Center" ltd]
+🇸🇬 188.166.230.38:64768 510ms SG [DigitalOcean, LLC]
 🇩🇪 167.71.39.152:38343 578ms DE [DigitalOcean, LLC]
 🇻🇳 113.176.118.150:1080 390ms VN [VNPT]
-🇺🇸 199.204.248.155:33922 406ms US [Jumpline Inc]
+🇺🇸 199.204.248.155:33922 482ms US [Jumpline Inc]
 🇹🇷 185.87.121.5:8975 533ms TR [Ideal Hosting Teknoloji A.S.]
