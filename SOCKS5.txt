@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2024-10-31 09:00:01 GMT+7
+SOCKS5 Proxy list updated at 2024-10-31 10:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -10,30 +10,28 @@ https://buymeacoffee.com/roosterkid
 
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇺🇸 67.213.210.175:43205 440ms US [Hosting Services, Inc.]
-🇩🇪 138.201.21.218:16014 622ms DE [Hetzner Online GmbH]
+🇺🇸 67.213.210.175:43205 256ms US [Hosting Services, Inc.]
 🇧🇩 115.127.81.114:1088 109ms BD [BRACNet Limited]
 🇧🇩 103.234.27.221:1080 117ms BD [BTS Communications (BD) Ltd]
 🇧🇩 103.180.203.133:8085 203ms BD [Md Ariful Haq]
 🇻🇳 116.97.240.147:4996 342ms VN [Viettel Corporation]
 🇵🇱 178.255.44.60:58968 396ms PL [Artnet Sp. z o.o.]
 🇮🇩 103.174.178.131:1020 373ms ID [PT Gasatek Bintang Nusantara]
-🇺🇸 167.172.159.43:35290 670ms US [DigitalOcean, LLC]
-🇨🇦 51.222.241.8:52882 713ms CA [OVH SAS]
+🇺🇸 167.172.159.43:35290 326ms US [DigitalOcean, LLC]
+🇫🇷 51.255.80.151:36217 763ms FR [OVH SAS]
 🇷🇺 178.47.140.26:1080 390ms RU [PJSC Rostelecom]
 🇺🇸 67.205.177.122:56826 373ms US [DigitalOcean, LLC]
-🇨🇳 117.74.65.207:5441 767ms CN [CNC Group CHINA169 Hebei Province Network]
+🇬🇧 80.169.243.234:1080 333ms GB [Colt Technology Services]
+🇨🇳 117.74.65.207:5441 466ms CN [CNC Group CHINA169 Hebei Province Network]
 🇳🇱 165.22.204.32:7497 277ms NL [DigitalOcean, LLC]
-🇫🇷 212.83.137.142:41918 124ms FR [Online S.A.S.]
-🇺🇸 66.29.129.54:14181 415ms US [Namecheap, Inc.]
+🇺🇸 66.29.129.54:14181 277ms US [Namecheap, Inc.]
 🇨🇦 184.95.235.194:1080 310ms CA [Fibrenoire Inc]
-🇺🇸 38.91.107.229:28184 413ms US [GTHost]
+🇺🇸 38.91.107.229:28184 261ms US [GTHost]
 🇺🇸 174.138.176.78:35730 462ms US [Interserver, Inc]
-🇦🇺 185.139.155.155:1976 480ms AU [Internet Vikings International AB]
-🇺🇸 174.138.176.75:58822 514ms US [Interserver, Inc]
+🇺🇸 174.138.176.75:58822 365ms US [Interserver, Inc]
 🇺🇸 174.138.176.76:34147 598ms US [Interserver, Inc]
 🇺🇸 66.29.128.245:23251 444ms US [Namecheap, Inc.]
 🇺🇦 91.200.115.49:1080 363ms UA [Joint Ukrainian American Enterprise "Telecommunications Resource Center" ltd]
 🇺🇸 199.204.248.155:33922 607ms US [Jumpline Inc]
-🇹🇷 185.87.121.35:8975 782ms TR [Ideal Hosting Teknoloji]
+🇹🇷 185.87.121.35:8975 471ms TR [Ideal Hosting Teknoloji]
 🇹🇷 185.86.5.162:8975 462ms TR [Ideal Hosting Teknoloji]
