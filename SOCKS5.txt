@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2024-11-04 06:00:01 GMT+7
+SOCKS5 Proxy list updated at 2024-11-04 07:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -10,16 +10,14 @@ https://buymeacoffee.com/roosterkid
 
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇧🇩 115.127.81.114:1088 189ms BD [BRACNet Limited]
-🇵🇱 178.255.44.60:58968 635ms PL [Artnet Sp. z o.o.]
-🇮🇩 103.174.178.131:1020 774ms ID [PT Gasatek Bintang Nusantara]
-🇬🇧 51.89.21.99:62311 397ms GB [OVH SAS]
-🇺🇸 167.172.159.43:35290 668ms US [DigitalOcean, LLC]
+🇧🇩 115.127.81.114:1088 209ms BD [BRACNet Limited]
+🇵🇱 178.255.44.60:58968 647ms PL [Artnet Sp. z o.o.]
+🇺🇸 167.172.159.43:35290 344ms US [DigitalOcean, LLC]
 🇷🇺 185.112.224.151:1080 664ms RU [Orion Telecom LLC]
-🇨🇦 51.222.241.8:52882 365ms CA [OVH SAS]
-🇺🇦 194.44.208.62:80 352ms UA [UARNET-LL]
-🇫🇷 51.255.80.151:36217 574ms FR [OVH SAS]
-🇨🇳 117.74.65.207:5441 465ms CN [CNC Group CHINA169 Hebei Province Network]
+🇨🇦 51.222.241.8:52882 486ms CA [OVH SAS]
+🇺🇦 194.44.208.62:80 597ms UA [UARNET-LL]
+🇫🇷 51.255.80.151:36217 648ms FR [OVH SAS]
+🇨🇳 117.74.65.207:5441 764ms CN [CNC Group CHINA169 Hebei Province Network]
 🇫🇷 212.83.138.186:52793 369ms FR [Online S.A.S.]
 🇺🇸 66.29.129.54:14181 229ms US [Namecheap, Inc.]
 🇺🇸 209.159.153.22:24452 419ms US [Interserver, Inc]
@@ -33,9 +31,9 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 🇺🇸 162.0.220.216:24891 236ms US [Namecheap, Inc.]
 🇺🇸 174.138.176.76:34147 321ms US [Interserver, Inc]
 🇺🇸 66.29.129.56:38557 238ms US [Namecheap, Inc.]
-🇸🇬 188.166.230.38:64768 500ms SG [DigitalOcean, LLC]
-🇺🇦 91.200.115.49:1080 317ms UA [Joint Ukrainian American Enterprise "Telecommunications Resource Center" ltd]
+🇸🇬 188.166.230.38:64768 153ms SG [DigitalOcean, LLC]
+🇺🇦 91.200.115.49:1080 271ms UA [Joint Ukrainian American Enterprise "Telecommunications Resource Center" ltd]
 🇺🇸 199.204.248.155:33922 639ms US [Jumpline Inc]
 🇹🇷 185.87.121.35:8975 534ms TR [Ideal Hosting Teknoloji]
 🇹🇷 185.87.121.5:8975 636ms TR [Ideal Hosting Teknoloji A.S.]
-🇺🇸 147.135.112.67:3081 290ms US [OVH US LLC]
+🇺🇸 147.135.112.67:3081 303ms US [OVH US LLC]
