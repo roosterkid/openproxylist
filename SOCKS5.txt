@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2024-11-06 03:00:01 GMT+7
+SOCKS5 Proxy list updated at 2024-11-06 04:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -12,16 +12,16 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
 🇧🇩 115.127.81.114:1088 115ms BD [BRACNet Limited]
 🇧🇩 103.180.203.133:8085 94ms BD [Md Ariful Haq]
-🇵🇱 178.255.44.60:58968 623ms PL [Artnet Sp. z o.o.]
+🇻🇳 116.97.240.147:4996 318ms VN [Viettel Corporation]
+🇵🇱 178.255.44.60:58968 648ms PL [Artnet Sp. z o.o.]
 🇮🇩 103.174.178.131:1020 781ms ID [PT Gasatek Bintang Nusantara]
-🇬🇧 51.89.21.99:62311 672ms GB [OVH SAS]
+🇬🇧 51.89.21.99:62311 438ms GB [OVH SAS]
 🇺🇸 167.172.159.43:35290 270ms US [DigitalOcean, LLC]
 🇵🇸 93.184.4.254:1080 457ms PS [BCI Telecommunication & Advanced Technology Company]
 🇺🇸 67.205.177.122:56826 549ms US [DigitalOcean, LLC]
 🇷🇺 194.190.169.197:3701 489ms RU [Webmaster Agency Ltd]
 🇻🇳 202.92.6.70:54580 403ms VN [INET]
-🇨🇳 117.74.65.207:5441 770ms CN [CNC Group CHINA169 Hebei Province Network]
-🇨🇦 184.95.235.194:1080 641ms CA [Fibrenoire Inc]
+🇨🇳 117.74.65.207:5441 469ms CN [CNC Group CHINA169 Hebei Province Network]
 🇺🇸 162.0.220.161:34826 289ms US [Namecheap, Inc.]
 🇦🇺 185.139.155.155:1976 662ms AU [Internet Vikings International AB]
 🇺🇸 162.0.220.214:33155 247ms US [Namecheap, Inc.]
@@ -30,6 +30,6 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 🇸🇬 188.166.230.38:64768 515ms SG [DigitalOcean, LLC]
 🇺🇦 91.200.115.49:1080 404ms UA [Joint Ukrainian American Enterprise "Telecommunications Resource Center" ltd]
 🇩🇪 167.71.39.152:38343 476ms DE [DigitalOcean, LLC]
-🇺🇸 199.204.248.155:33922 701ms US [Jumpline Inc]
-🇹🇷 185.87.121.35:8975 536ms TR [Ideal Hosting Teknoloji]
+🇺🇸 199.204.248.155:33922 400ms US [Jumpline Inc]
+🇹🇷 185.87.121.35:8975 664ms TR [Ideal Hosting Teknoloji]
 🇺🇸 198.199.64.196:61877 335ms US [DigitalOcean, LLC]
