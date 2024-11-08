@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2024-11-09 03:00:01 GMT+7
+SOCKS5 Proxy list updated at 2024-11-09 04:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -10,30 +10,27 @@ https://buymeacoffee.com/roosterkid
 
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇵🇱 178.255.44.60:58968 710ms PL [Artnet Sp. z o.o.]
-🇮🇩 103.174.178.131:1020 69ms ID [PT Gasatek Bintang Nusantara]
+🇵🇱 178.255.44.60:58968 411ms PL [Artnet Sp. z o.o.]
+🇮🇩 103.174.178.131:1020 68ms ID [PT Gasatek Bintang Nusantara]
 🇨🇳 210.75.240.151:4781 244ms CN [Computer Network Information Center]
+🇱🇺 104.244.75.78:31534 354ms LU [FranTech Solutions]
 🇬🇧 51.89.21.99:62311 693ms GB [OVH SAS]
 🇺🇸 167.172.159.43:35290 412ms US [DigitalOcean, LLC]
-🇫🇷 51.255.80.151:36217 500ms FR [OVH SAS]
-🇨🇦 184.95.220.42:1080 622ms CA [Fibrenoire Inc.]
-🇨🇳 117.74.65.207:5441 468ms CN [CNC Group CHINA169 Hebei Province Network]
-🇺🇸 66.29.129.54:14181 281ms US [Namecheap, Inc.]
+🇫🇷 51.255.80.151:36217 595ms FR [OVH SAS]
+🇨🇳 117.74.65.207:5441 469ms CN [CNC Group CHINA169 Hebei Province Network]
 🇺🇸 66.29.128.244:47900 267ms US [Namecheap, Inc.]
-🇺🇸 38.91.106.252:61625 435ms US [GTHost]
 🇺🇸 38.91.107.229:28184 322ms US [GTHost]
 🇺🇸 162.0.220.161:34826 375ms US [Namecheap, Inc.]
 🇺🇸 162.0.220.220:46911 399ms US [Namecheap, Inc.]
 🇫🇷 195.154.43.86:45124 367ms FR [Online S.A.S.]
 🇺🇸 162.0.220.214:33155 749ms US [Namecheap, Inc.]
+🇺🇸 66.29.128.242:49385 420ms US [Namecheap, Inc.]
 🇺🇸 162.0.220.216:24891 685ms US [Namecheap, Inc.]
-🇺🇸 174.138.176.76:34147 420ms US [Interserver, Inc]
-🇺🇸 66.29.129.56:38557 272ms US [Namecheap, Inc.]
-🇸🇬 165.22.98.229:32855 29ms SG [DigitalOcean, LLC]
+🇺🇸 174.138.176.76:34147 376ms US [Interserver, Inc]
+🇺🇸 66.29.129.56:38557 484ms US [Namecheap, Inc.]
+🇸🇬 165.22.98.229:32855 348ms SG [DigitalOcean, LLC]
 🇸🇬 188.166.230.38:64768 307ms SG [DigitalOcean, LLC]
 🇩🇪 167.71.39.152:38343 390ms DE [DigitalOcean, LLC]
 🇻🇳 113.176.118.150:1080 94ms VN [VNPT]
-🇺🇸 199.204.248.155:33922 364ms US [Jumpline Inc]
 🇹🇷 185.87.121.5:8975 752ms TR [Ideal Hosting Teknoloji A.S.]
-🇹🇷 185.86.5.162:8975 667ms TR [Ideal Hosting Teknoloji]
 🇺🇸 198.199.64.196:61877 297ms US [DigitalOcean, LLC]
