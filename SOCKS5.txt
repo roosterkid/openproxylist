@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2024-11-08 21:00:02 GMT+7
+SOCKS5 Proxy list updated at 2024-11-08 22:00:02 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -10,23 +10,28 @@ https://buymeacoffee.com/roosterkid
 
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇵🇱 178.255.44.60:58968 579ms PL [Artnet Sp. z o.o.]
-🇨🇳 210.75.240.151:4781 564ms CN [Computer Network Information Center]
-🇬🇧 51.89.21.99:62311 355ms GB [OVH SAS]
+🇵🇱 178.255.44.60:58968 757ms PL [Artnet Sp. z o.o.]
+🇬🇧 51.89.21.99:62311 495ms GB [OVH SAS]
 🇺🇸 167.172.159.43:35290 424ms US [DigitalOcean, LLC]
-🇫🇷 51.255.80.151:36217 453ms FR [OVH SAS]
+🇨🇦 184.95.220.42:1080 336ms CA [Fibrenoire Inc.]
 🇷🇺 79.104.34.214:1080 715ms RU [EDN SOVINTEL]
 🇨🇳 117.74.65.207:5441 545ms CN [CNC Group CHINA169 Hebei Province Network]
 🇸🇪 130.255.160.60:18946 715ms SE [Internet Vikings]
-🇫🇷 51.83.116.5:18543 580ms FR [OVH SAS]
+🇺🇸 38.91.107.229:28184 369ms US [GTHost]
+🇺🇸 162.0.220.161:34826 354ms US [Namecheap, Inc.]
 🇺🇸 162.0.220.220:46911 493ms US [Namecheap, Inc.]
 🇦🇺 185.139.155.155:1976 561ms AU [Internet Vikings International AB]
-🇺🇸 66.29.129.52:35630 455ms US [Namecheap, Inc.]
+🇺🇸 162.0.220.214:33155 558ms US [Namecheap, Inc.]
+🇺🇸 66.29.129.52:35630 390ms US [Namecheap, Inc.]
+🇺🇸 162.0.220.219:60521 454ms US [Namecheap, Inc.]
+🇺🇸 209.159.153.20:26688 396ms US [Interserver, Inc]
 🇫🇷 212.83.143.159:23198 290ms FR [Online S.A.S.]
 🇫🇷 212.83.143.151:22748 128ms FR [Online S.A.S.]
-🇸🇬 165.22.98.229:32855 41ms SG [DigitalOcean, LLC]
+🇺🇸 66.29.129.56:38557 258ms US [Namecheap, Inc.]
+🇸🇬 165.22.98.229:32855 54ms SG [DigitalOcean, LLC]
 🇸🇬 188.166.230.38:64768 198ms SG [DigitalOcean, LLC]
 🇺🇦 91.200.115.49:1080 347ms UA [Joint Ukrainian American Enterprise "Telecommunications Resource Center" ltd]
 🇷🇺 31.43.203.100:1080 785ms RU [Sotrudnik LTD]
+🇺🇸 199.204.248.155:33922 431ms US [Jumpline Inc]
 🇹🇷 185.87.121.5:8975 773ms TR [Ideal Hosting Teknoloji A.S.]
-🇺🇸 198.199.64.196:61877 422ms US [DigitalOcean, LLC]
+🇺🇸 198.199.64.196:61877 664ms US [DigitalOcean, LLC]
