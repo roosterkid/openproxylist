@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2024-11-13 23:00:01 GMT+7
+SOCKS5 Proxy list updated at 2024-11-14 00:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -10,27 +10,25 @@ https://buymeacoffee.com/roosterkid
 
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇵🇱 178.255.44.60:58968 676ms PL [Artnet Sp. z o.o.]
+🇺🇸 67.213.212.53:45556 681ms US [Hosting Services, Inc.]
+🇵🇱 178.255.44.60:58968 708ms PL [Artnet Sp. z o.o.]
 🇬🇧 178.79.165.164:40324 700ms GB [Linode]
-🇨🇦 143.198.41.48:61820 595ms CA [DigitalOcean, LLC]
-🇮🇩 103.174.178.131:1020 86ms ID [PT Gasatek Bintang Nusantara]
-🇬🇧 51.89.21.99:62311 646ms GB [OVH SAS]
+🇮🇩 103.174.178.131:1020 784ms ID [PT Gasatek Bintang Nusantara]
+🇬🇧 51.89.21.99:62311 601ms GB [OVH SAS]
 🇷🇺 185.112.224.151:1080 412ms RU [Orion Telecom LLC]
-🇫🇷 51.255.80.151:36217 355ms FR [OVH SAS]
+🇫🇷 51.255.80.151:36217 323ms FR [OVH SAS]
 🇫🇷 212.83.142.158:47036 358ms FR [Online S.A.S.]
 🇺🇸 67.205.177.122:56826 507ms US [DigitalOcean, LLC]
-🇨🇳 117.74.65.207:5441 470ms CN [CNC Group CHINA169 Hebei Province Network]
+🇨🇳 117.74.65.207:5441 465ms CN [CNC Group CHINA169 Hebei Province Network]
 🇳🇱 165.22.204.32:7497 502ms NL [DigitalOcean, LLC]
-🇫🇷 212.83.138.186:52793 431ms FR [Online S.A.S.]
 🇫🇷 141.94.238.246:60315 686ms FR [OVH SAS]
-🇺🇸 209.159.153.19:53322 281ms US [Interserver, Inc]
-🇺🇸 66.29.128.244:47900 661ms US [Namecheap, Inc.]
-🇺🇸 174.138.176.78:35730 474ms US [Interserver, Inc]
+🇺🇸 66.29.128.244:47900 581ms US [Namecheap, Inc.]
+🇺🇸 174.138.176.78:35730 563ms US [Interserver, Inc]
 🇺🇸 162.0.220.220:46911 690ms US [Namecheap, Inc.]
+🇦🇺 185.139.155.155:1976 559ms AU [Internet Vikings International AB]
 🇫🇷 195.154.43.86:45124 348ms FR [Online S.A.S.]
 🇩🇪 173.212.206.86:59710 561ms DE [Contabo GmbH]
 🇺🇸 162.0.220.216:24891 334ms US [Namecheap, Inc.]
-🇺🇸 66.29.129.56:38557 325ms US [Namecheap, Inc.]
 🇸🇬 188.166.230.38:64768 176ms SG [DigitalOcean, LLC]
 🇹🇷 185.87.121.5:8975 640ms TR [Ideal Hosting Teknoloji A.S.]
 🇳🇱 31.220.43.141:16181 761ms NL [HostHatch]
