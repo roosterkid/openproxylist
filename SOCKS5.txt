@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2024-11-14 22:00:01 GMT+7
+SOCKS5 Proxy list updated at 2024-11-14 23:00:02 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -12,16 +12,17 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
 🇵🇱 178.255.44.60:58968 380ms PL [Artnet Sp. z o.o.]
 🇮🇩 103.174.178.131:1020 543ms ID [PT Gasatek Bintang Nusantara]
-🇬🇧 51.89.21.99:62311 712ms GB [OVH SAS]
-🇫🇷 51.255.80.151:36217 454ms FR [OVH SAS]
+🇬🇧 51.89.21.99:62311 663ms GB [OVH SAS]
+🇫🇷 51.255.80.151:36217 532ms FR [OVH SAS]
 🇺🇸 67.205.177.122:56826 659ms US [DigitalOcean, LLC]
-🇨🇳 117.74.65.207:5441 773ms CN [CNC Group CHINA169 Hebei Province Network]
-🇫🇷 212.83.137.142:41918 166ms FR [Online S.A.S.]
+🇨🇳 117.74.65.207:5441 481ms CN [CNC Group CHINA169 Hebei Province Network]
 🇺🇸 38.91.106.252:61625 471ms US [GTHost]
+🇺🇸 38.91.107.229:28184 545ms US [GTHost]
 🇺🇸 162.0.220.161:34826 383ms US [Namecheap, Inc.]
-🇦🇺 185.139.155.155:1976 784ms AU [Internet Vikings International AB]
+🇦🇺 185.139.155.155:1976 489ms AU [Internet Vikings International AB]
+🇫🇷 212.83.142.149:45413 320ms FR [Online S.A.S.]
 🇺🇸 162.0.220.214:33155 571ms US [Namecheap, Inc.]
 🇺🇸 66.29.129.52:35630 235ms US [Namecheap, Inc.]
 🇺🇸 174.138.176.75:58822 327ms US [Interserver, Inc]
-🇸🇬 188.166.230.38:64768 174ms SG [DigitalOcean, LLC]
-🇬🇧 188.241.45.142:2021 432ms GB [Talk Straight Ltd.]
+🇺🇦 91.200.115.49:1080 264ms UA [Joint Ukrainian American Enterprise "Telecommunications Resource Center" ltd]
+🇹🇷 185.86.5.162:8975 573ms TR [Ideal Hosting Teknoloji]
