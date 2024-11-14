@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2024-11-14 17:00:01 GMT+7
+SOCKS5 Proxy list updated at 2024-11-14 18:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -14,18 +14,15 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 🇬🇧 178.79.165.164:40324 435ms GB [Linode]
 🇨🇦 143.198.41.48:61820 402ms CA [DigitalOcean, LLC]
 🇮🇩 103.174.178.131:1020 386ms ID [PT Gasatek Bintang Nusantara]
-🇬🇧 51.89.21.99:62311 530ms GB [OVH SAS]
+🇬🇧 51.89.21.99:62311 557ms GB [OVH SAS]
 🇫🇷 51.255.80.151:36217 363ms FR [OVH SAS]
-🇵🇸 93.184.4.254:1080 607ms PS [BCI Telecommunication & Advanced Technology Company]
 🇷🇺 89.148.195.249:1080 711ms RU [MTS PJSC]
 🇺🇸 67.205.177.122:56826 753ms US [DigitalOcean, LLC]
 🇷🇺 79.104.34.214:1080 406ms RU [EDN SOVINTEL]
 🇨🇳 117.74.65.207:5441 470ms CN [CNC Group CHINA169 Hebei Province Network]
-🇺🇸 66.29.129.54:14181 268ms US [Namecheap, Inc.]
+🇫🇷 212.83.137.142:41918 166ms FR [Online S.A.S.]
 🇺🇸 38.91.107.229:28184 444ms US [GTHost]
-🇺🇸 209.159.153.22:24452 583ms US [Interserver, Inc]
-🇺🇸 66.29.129.52:35630 236ms US [Namecheap, Inc.]
-🇺🇸 174.138.176.75:58822 469ms US [Interserver, Inc]
-🇸🇬 188.166.230.38:64768 166ms SG [DigitalOcean, LLC]
+🇸🇬 188.166.230.38:64768 174ms SG [DigitalOcean, LLC]
 🇺🇸 199.204.248.155:33922 362ms US [Jumpline Inc]
+🇬🇧 188.241.45.142:2021 432ms GB [Talk Straight Ltd.]
 🇻🇳 113.160.188.21:1080 89ms VN [VietNam Post and Telecom Corporation]
