@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2024-11-16 07:00:01 GMT+7
+SOCKS5 Proxy list updated at 2024-11-16 08:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -12,16 +12,17 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
 🇧🇩 115.127.81.114:1088 211ms BD [BRACNet Limited]
 🇻🇳 116.97.240.147:4996 495ms VN [Viettel Corporation]
-🇵🇱 178.255.44.60:58968 705ms PL [Artnet Sp. z o.o.]
-🇬🇧 178.79.165.164:40324 638ms GB [Linode]
+🇵🇱 178.255.44.60:58968 768ms PL [Artnet Sp. z o.o.]
 🇮🇩 103.174.178.131:1020 55ms ID [PT Gasatek Bintang Nusantara]
-🇬🇧 51.89.21.99:62311 744ms GB [OVH SAS]
-🇫🇷 51.255.80.151:36217 525ms FR [OVH SAS]
+🇬🇧 51.89.21.99:62311 589ms GB [OVH SAS]
+🇫🇷 51.255.80.151:36217 580ms FR [OVH SAS]
+🇵🇸 93.184.4.254:1080 378ms PS [BCI Telecommunication & Advanced Technology Company]
 🇨🇳 117.74.65.207:5441 468ms CN [CNC Group CHINA169 Hebei Province Network]
-🇰🇷 183.111.180.80:80 166ms KR [Korea Telecom]
-🇦🇺 185.139.155.155:1976 478ms AU [Internet Vikings International AB]
-🇺🇸 162.0.220.214:33155 325ms US [Namecheap, Inc.]
-🇺🇸 66.29.129.56:38557 291ms US [Namecheap, Inc.]
-🇸🇬 188.166.230.38:64768 630ms SG [DigitalOcean, LLC]
+🇰🇷 183.111.180.80:80 183ms KR [Korea Telecom]
+🇦🇺 185.139.155.155:1976 684ms AU [Internet Vikings International AB]
+🇺🇸 162.0.220.214:33155 298ms US [Namecheap, Inc.]
+🇺🇸 66.29.129.56:38557 277ms US [Namecheap, Inc.]
+🇺🇦 91.200.115.49:1080 555ms UA [Joint Ukrainian American Enterprise "Telecommunications Resource Center" ltd]
 🇩🇪 167.71.39.152:38343 546ms DE [DigitalOcean, LLC]
 🇺🇸 199.204.248.155:33922 482ms US [Jumpline Inc]
+🇺🇸 198.199.64.196:61877 244ms US [DigitalOcean, LLC]
