@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2024-11-16 23:00:01 GMT+7
+SOCKS5 Proxy list updated at 2024-11-17 00:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -13,11 +13,12 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 🇺🇸 198.23.143.24:6969 434ms US [ColoCrossing]
 🇻🇳 116.97.240.147:4996 292ms VN [Viettel Corporation]
 🇧🇷 187.63.9.62:63253 614ms BR [Gigalink de Nova Friburgo Soluções em Rede Multimi]
-🇵🇱 178.255.44.60:58968 383ms PL [Artnet Sp. z o.o.]
-🇬🇧 51.89.21.99:62311 589ms GB [OVH SAS]
-🇫🇷 51.255.80.151:36217 645ms FR [OVH SAS]
-🇨🇳 117.74.65.207:5441 473ms CN [CNC Group CHINA169 Hebei Province Network]
-🇰🇷 183.111.180.80:80 289ms KR [Korea Telecom]
-🇫🇷 212.83.143.97:17347 340ms FR [Online S.A.S.]
+🇵🇱 178.255.44.60:58968 604ms PL [Artnet Sp. z o.o.]
+🇬🇧 51.89.21.99:62311 511ms GB [OVH SAS]
+🇫🇷 51.255.80.151:36217 560ms FR [OVH SAS]
+🇨🇳 117.74.65.207:5441 468ms CN [CNC Group CHINA169 Hebei Province Network]
+🇰🇷 183.111.180.80:80 193ms KR [Korea Telecom]
+🇫🇷 212.83.143.97:17347 241ms FR [Online S.A.S.]
 🇫🇷 212.83.143.147:43681 646ms FR [Online S.A.S.]
 🇺🇸 199.204.248.155:33922 427ms US [Jumpline Inc]
+🇺🇸 147.135.112.67:3081 276ms US [OVH US LLC]
