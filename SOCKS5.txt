@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2024-11-17 09:00:01 GMT+7
+SOCKS5 Proxy list updated at 2024-11-17 10:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -12,17 +12,18 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
 🇧🇩 103.234.27.221:1080 120ms BD [BTS Communications (BD) Ltd]
 🇮🇩 103.174.178.131:1020 782ms ID [PT Gasatek Bintang Nusantara]
-🇬🇧 51.89.21.99:62311 603ms GB [OVH SAS]
+🇬🇧 51.89.21.99:62311 700ms GB [OVH SAS]
 🇺🇦 194.44.208.62:80 298ms UA [UARNET-LL]
-🇫🇷 51.255.80.151:36217 404ms FR [OVH SAS]
-🇨🇦 184.95.220.42:1080 375ms CA [Fibrenoire Inc.]
+🇫🇷 51.255.80.151:36217 481ms FR [OVH SAS]
+🇨🇦 184.95.220.42:1080 370ms CA [Fibrenoire Inc.]
 🇺🇸 149.248.32.107:10810 586ms US [The Constant Company]
 🇵🇸 93.184.4.254:1080 609ms PS [BCI Telecommunication & Advanced Technology Company]
-🇨🇳 117.74.65.207:5441 766ms CN [CNC Group CHINA169 Hebei Province Network]
-🇰🇷 183.111.180.80:80 172ms KR [Korea Telecom]
+🇨🇳 117.74.65.207:5441 768ms CN [CNC Group CHINA169 Hebei Province Network]
+🇰🇷 183.111.180.80:80 161ms KR [Korea Telecom]
+🇦🇺 185.139.155.155:1976 702ms AU [Internet Vikings International AB]
 🇸🇬 167.71.220.29:7497 27ms SG [DigitalOcean, LLC]
 🇺🇸 192.154.246.96:9000 439ms US [Vivid-hosting LLC]
-🇺🇸 199.204.248.155:33922 596ms US [Jumpline Inc]
+🇺🇸 199.204.248.155:33922 685ms US [Jumpline Inc]
 🇹🇷 185.86.5.162:8975 606ms TR [Ideal Hosting Teknoloji]
 🇺🇸 198.199.64.196:61877 586ms US [DigitalOcean, LLC]
-🇺🇸 147.135.112.67:3081 367ms US [OVH US LLC]
+🇺🇸 147.135.112.67:3081 383ms US [OVH US LLC]
