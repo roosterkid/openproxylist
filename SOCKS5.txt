@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2024-11-17 19:00:01 GMT+7
+SOCKS5 Proxy list updated at 2024-11-17 20:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -10,28 +10,25 @@ https://buymeacoffee.com/roosterkid
 
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇧🇩 103.234.27.221:1080 409ms BD [BTS Communications (BD) Ltd]
 🇻🇳 116.97.240.147:4996 402ms VN [Viettel Corporation]
 🇵🇱 178.255.44.60:58968 600ms PL [Artnet Sp. z o.o.]
-🇬🇧 51.89.21.99:62311 475ms GB [OVH SAS]
+🇮🇩 103.174.178.131:1020 170ms ID [PT Gasatek Bintang Nusantara]
+🇬🇧 51.89.21.99:62311 791ms GB [OVH SAS]
 🇫🇷 51.255.80.151:36217 404ms FR [OVH SAS]
 🇨🇦 184.95.220.42:1080 413ms CA [Fibrenoire Inc.]
 🇷🇺 178.47.140.26:1080 380ms RU [PJSC Rostelecom]
 🇺🇸 67.205.177.122:56826 357ms US [DigitalOcean, LLC]
-🇨🇳 117.74.65.207:5441 469ms CN [CNC Group CHINA169 Hebei Province Network]
-🇰🇷 183.111.180.80:80 174ms KR [Korea Telecom]
+🇨🇳 117.74.65.207:5441 531ms CN [CNC Group CHINA169 Hebei Province Network]
+🇰🇷 183.111.180.80:80 182ms KR [Korea Telecom]
 🇺🇸 209.159.153.21:31286 549ms US [Interserver, Inc]
-🇺🇸 38.91.107.229:28184 247ms US [GTHost]
 🇺🇸 174.138.176.78:35730 312ms US [Interserver, Inc]
 🇺🇸 66.23.233.210:23899 496ms US [Interserver, Inc]
-🇺🇸 38.91.107.220:14827 539ms US [GTHost]
-🇦🇺 185.139.155.155:1976 598ms AU [Internet Vikings International AB]
-🇺🇸 66.29.128.241:14954 343ms US [Namecheap, Inc.]
-🇺🇸 66.29.129.52:35630 223ms US [Namecheap, Inc.]
-🇺🇸 174.138.176.75:58822 403ms US [Interserver, Inc]
+🇦🇺 185.139.155.155:1976 458ms AU [Internet Vikings International AB]
+🇺🇸 66.29.128.241:14954 358ms US [Namecheap, Inc.]
+🇺🇸 174.138.176.75:58822 424ms US [Interserver, Inc]
 🇺🇸 66.29.129.56:38557 328ms US [Namecheap, Inc.]
 🇺🇦 91.200.115.49:1080 246ms UA [Joint Ukrainian American Enterprise "Telecommunications Resource Center" ltd]
 🇺🇸 199.204.248.155:33922 655ms US [Jumpline Inc]
 🇹🇷 185.87.121.35:8975 740ms TR [Ideal Hosting Teknoloji]
 🇹🇷 185.87.121.5:8975 774ms TR [Ideal Hosting Teknoloji A.S.]
-🇺🇸 147.135.112.67:3081 290ms US [OVH US LLC]
+🇺🇸 147.135.112.67:3081 408ms US [OVH US LLC]
