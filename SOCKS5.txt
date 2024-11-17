@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2024-11-17 16:00:02 GMT+7
+SOCKS5 Proxy list updated at 2024-11-17 17:00:02 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -12,12 +12,11 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
 🇧🇩 103.234.27.221:1080 409ms BD [BTS Communications (BD) Ltd]
 🇵🇱 178.255.44.60:58968 777ms PL [Artnet Sp. z o.o.]
-🇬🇧 51.89.21.99:62311 516ms GB [OVH SAS]
-🇷🇺 185.112.224.151:1080 391ms RU [Orion Telecom LLC]
-🇫🇷 51.255.80.151:36217 720ms FR [OVH SAS]
+🇬🇧 51.89.21.99:62311 633ms GB [OVH SAS]
+🇫🇷 51.255.80.151:36217 404ms FR [OVH SAS]
 🇺🇸 67.205.177.122:56826 534ms US [DigitalOcean, LLC]
-🇨🇳 117.74.65.207:5441 784ms CN [CNC Group CHINA169 Hebei Province Network]
-🇰🇷 183.111.180.80:80 180ms KR [Korea Telecom]
+🇨🇳 117.74.65.207:5441 768ms CN [CNC Group CHINA169 Hebei Province Network]
+🇰🇷 183.111.180.80:80 170ms KR [Korea Telecom]
 🇺🇸 66.29.129.54:14181 256ms US [Namecheap, Inc.]
 🇺🇸 38.91.107.229:28184 247ms US [GTHost]
 🇺🇸 174.138.176.78:35730 233ms US [Interserver, Inc]
@@ -28,7 +27,8 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 🇺🇸 66.29.129.56:38557 234ms US [Namecheap, Inc.]
 🇸🇬 167.71.220.29:7497 30ms SG [DigitalOcean, LLC]
 🇸🇬 188.166.230.38:64768 231ms SG [DigitalOcean, LLC]
-🇻🇳 113.176.118.150:1080 92ms VN [VNPT]
-🇺🇸 199.204.248.155:33922 589ms US [Jumpline Inc]
-🇹🇷 185.87.121.35:8975 470ms TR [Ideal Hosting Teknoloji]
-🇺🇸 147.135.112.67:3081 320ms US [OVH US LLC]
+🇺🇦 91.200.115.49:1080 246ms UA [Joint Ukrainian American Enterprise "Telecommunications Resource Center" ltd]
+🇺🇸 199.204.248.155:33922 405ms US [Jumpline Inc]
+🇹🇷 185.87.121.35:8975 740ms TR [Ideal Hosting Teknoloji]
+🇹🇷 185.87.121.5:8975 774ms TR [Ideal Hosting Teknoloji A.S.]
+🇺🇸 147.135.112.67:3081 262ms US [OVH US LLC]
