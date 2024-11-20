@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2024-11-20 07:00:01 GMT+7
+SOCKS5 Proxy list updated at 2024-11-20 08:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -10,24 +10,29 @@ https://buymeacoffee.com/roosterkid
 
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇧🇩 115.127.81.114:1088 253ms BD [BRACNet Limited]
 🇧🇩 103.234.27.221:1080 429ms BD [BTS Communications (BD) Ltd]
 🇻🇳 116.97.240.147:4996 339ms VN [Viettel Corporation]
-🇵🇱 178.255.44.60:58968 447ms PL [Artnet Sp. z o.o.]
-🇬🇧 51.89.21.99:62311 778ms GB [OVH SAS]
-🇫🇷 51.255.80.151:36217 555ms FR [OVH SAS]
+🇵🇱 178.255.44.60:58968 358ms PL [Artnet Sp. z o.o.]
+🇬🇧 51.89.21.99:62311 634ms GB [OVH SAS]
+🇫🇷 51.255.80.151:36217 744ms FR [OVH SAS]
 🇿🇦 102.36.127.53:1080 683ms ZA [Clear Access (Pty) Ltd]
-🇨🇳 117.74.65.207:5441 766ms CN [CNC Group CHINA169 Hebei Province Network]
-🇰🇷 183.111.180.80:80 177ms KR [Korea Telecom]
-🇺🇸 66.29.129.54:14181 331ms US [Namecheap, Inc.]
+🇨🇳 117.74.65.207:5441 768ms CN [CNC Group CHINA169 Hebei Province Network]
+🇰🇷 183.111.180.80:80 176ms KR [Korea Telecom]
+🇺🇸 66.29.129.54:14181 255ms US [Namecheap, Inc.]
 🇳🇱 185.45.194.176:39287 321ms NL [HostSailor]
+🇺🇸 162.0.220.161:34826 226ms US [Namecheap, Inc.]
+🇺🇸 162.0.220.220:46911 228ms US [Namecheap, Inc.]
 🇦🇺 185.139.155.155:1976 363ms AU [Internet Vikings International AB]
 🇫🇷 212.83.143.204:49939 273ms FR [Online S.A.S.]
+🇺🇸 162.0.220.214:33155 212ms US [Namecheap, Inc.]
+🇺🇸 66.29.129.52:35630 229ms US [Namecheap, Inc.]
+🇺🇸 162.0.220.219:60521 276ms US [Namecheap, Inc.]
+🇺🇸 162.0.220.216:24891 616ms US [Namecheap, Inc.]
+🇺🇸 66.29.129.56:38557 227ms US [Namecheap, Inc.]
 🇫🇷 212.83.143.211:63905 364ms FR [Online S.A.S.]
 🇸🇬 165.22.98.229:32855 72ms SG [DigitalOcean, LLC]
 🇸🇬 188.166.230.38:64768 574ms SG [DigitalOcean, LLC]
 🇩🇪 167.71.39.152:38343 338ms DE [DigitalOcean, LLC]
 🇿🇦 102.36.127.249:1080 746ms ZA [Clear Access (Pty) Ltd]
-🇺🇸 199.204.248.155:33922 653ms US [Jumpline Inc]
-🇹🇷 185.87.121.5:8975 611ms TR [Ideal Hosting Teknoloji A.S.]
+🇺🇸 199.204.248.155:33922 661ms US [Jumpline Inc]
 🇻🇳 113.160.188.21:1080 407ms VN [VietNam Post and Telecom Corporation]
