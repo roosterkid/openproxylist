@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2024-11-20 22:00:01 GMT+7
+SOCKS5 Proxy list updated at 2024-11-20 23:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -11,13 +11,13 @@ https://buymeacoffee.com/roosterkid
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
 🇧🇩 115.127.81.114:1088 258ms BD [BRACNet Limited]
-🇵🇱 178.255.44.60:58968 719ms PL [Artnet Sp. z o.o.]
-🇬🇧 51.89.21.99:62311 581ms GB [OVH SAS]
+🇵🇱 178.255.44.60:58968 514ms PL [Artnet Sp. z o.o.]
+🇬🇧 51.89.21.99:62311 650ms GB [OVH SAS]
 🇺🇦 194.44.208.62:80 441ms UA [UARNET-LL]
-🇫🇷 51.255.80.151:36217 521ms FR [OVH SAS]
+🇫🇷 51.255.80.151:36217 530ms FR [OVH SAS]
 🇨🇦 134.122.43.203:56442 524ms CA [DigitalOcean, LLC]
 🇷🇺 194.190.169.197:3701 738ms RU [Webmaster Agency Ltd]
-🇨🇳 117.74.65.207:5441 668ms CN [CNC Group CHINA169 Hebei Province Network]
+🇨🇳 117.74.65.207:5441 788ms CN [CNC Group CHINA169 Hebei Province Network]
 🇸🇪 130.255.160.60:18946 643ms SE [Internet Vikings]
 🇰🇷 183.111.180.80:80 616ms KR [Korea Telecom]
 🇺🇸 66.29.129.54:14181 671ms US [Namecheap, Inc.]
@@ -32,5 +32,6 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 🇺🇸 162.0.220.216:24891 477ms US [Namecheap, Inc.]
 🇸🇬 167.71.220.29:7497 36ms SG [DigitalOcean, LLC]
 🇻🇳 113.176.118.150:1080 85ms VN [VNPT]
-🇺🇸 199.204.248.155:33922 372ms US [Jumpline Inc]
+🇺🇸 199.204.248.155:33922 707ms US [Jumpline Inc]
+🇹🇷 185.87.121.5:8975 530ms TR [Ideal Hosting Teknoloji A.S.]
 🇹🇷 185.86.5.162:8975 581ms TR [Ideal Hosting Teknoloji]
