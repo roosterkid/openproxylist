@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2024-11-21 11:00:01 GMT+7
+SOCKS5 Proxy list updated at 2024-11-21 12:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -10,29 +10,22 @@ https://buymeacoffee.com/roosterkid
 
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇺🇸 67.213.212.53:45556 550ms US [Hosting Services, Inc.]
-🇧🇩 103.234.27.221:1080 242ms BD [BTS Communications (BD) Ltd]
 🇧🇩 103.180.203.133:8085 94ms BD [Md Ariful Haq]
 🇻🇳 116.97.240.147:4996 224ms VN [Viettel Corporation]
 🇵🇱 178.255.44.60:58968 775ms PL [Artnet Sp. z o.o.]
 🇬🇧 178.79.165.164:40324 459ms GB [Linode]
-🇮🇩 103.174.178.131:1020 73ms ID [PT Gasatek Bintang Nusantara]
+🇮🇩 103.174.178.131:1020 790ms ID [PT Gasatek Bintang Nusantara]
 🇱🇺 104.244.75.78:31534 731ms LU [FranTech Solutions]
-🇬🇧 51.89.21.99:62311 726ms GB [OVH SAS]
-🇫🇷 51.255.80.151:36217 553ms FR [OVH SAS]
-🇷🇺 194.190.169.197:3701 668ms RU [Webmaster Agency Ltd]
-🇨🇳 117.74.65.207:5441 460ms CN [CNC Group CHINA169 Hebei Province Network]
+🇬🇧 51.89.21.99:62311 604ms GB [OVH SAS]
+🇫🇷 51.255.80.151:36217 565ms FR [OVH SAS]
+🇨🇳 117.74.65.207:5441 518ms CN [CNC Group CHINA169 Hebei Province Network]
 🇸🇪 130.255.160.60:18946 619ms SE [Internet Vikings]
-🇰🇷 183.111.180.80:80 138ms KR [Korea Telecom]
-🇺🇸 66.29.128.244:47900 280ms US [Namecheap, Inc.]
-🇺🇸 38.91.107.229:28184 431ms US [GTHost]
-🇺🇸 162.0.220.215:23313 373ms US [Namecheap, Inc.]
-🇦🇺 185.139.155.155:1976 460ms AU [Internet Vikings International AB]
+🇰🇷 183.111.180.80:80 291ms KR [Korea Telecom]
+🇺🇸 162.0.220.215:23313 512ms US [Namecheap, Inc.]
+🇦🇺 185.139.155.155:1976 727ms AU [Internet Vikings International AB]
 🇺🇸 162.0.220.219:60521 342ms US [Namecheap, Inc.]
-🇺🇸 66.29.128.245:23251 279ms US [Namecheap, Inc.]
-🇺🇸 66.29.129.56:38557 344ms US [Namecheap, Inc.]
+🇺🇸 66.29.129.56:38557 406ms US [Namecheap, Inc.]
 🇸🇬 188.166.230.38:64768 380ms SG [DigitalOcean, LLC]
 🇺🇦 91.200.115.49:1080 370ms UA [Joint Ukrainian American Enterprise "Telecommunications Resource Center" ltd]
 🇩🇪 167.71.39.152:38343 408ms DE [DigitalOcean, LLC]
-🇺🇸 199.204.248.155:33922 648ms US [Jumpline Inc]
-🇹🇷 185.87.121.5:8975 706ms TR [Ideal Hosting Teknoloji A.S.]
+🇺🇸 199.204.248.155:33922 332ms US [Jumpline Inc]
