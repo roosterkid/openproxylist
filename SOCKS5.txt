@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2024-11-22 08:00:01 GMT+7
+SOCKS5 Proxy list updated at 2024-11-22 09:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -16,16 +16,19 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 🇵🇱 178.255.44.60:58968 726ms PL [Artnet Sp. z o.o.]
 🇬🇧 178.79.165.164:40324 426ms GB [Linode]
 🇮🇩 103.174.178.131:1020 786ms ID [PT Gasatek Bintang Nusantara]
-🇬🇧 51.89.21.99:62311 786ms GB [OVH SAS]
+🇬🇧 51.89.21.99:62311 760ms GB [OVH SAS]
 🇷🇺 194.190.169.197:3701 496ms RU [Webmaster Agency Ltd]
-🇨🇳 117.74.65.207:5441 467ms CN [CNC Group CHINA169 Hebei Province Network]
+🇨🇳 117.74.65.207:5441 768ms CN [CNC Group CHINA169 Hebei Province Network]
 🇳🇱 165.22.204.32:7497 269ms NL [DigitalOcean, LLC]
-🇰🇷 183.111.180.80:80 177ms KR [Korea Telecom]
+🇰🇷 183.111.180.80:80 172ms KR [Korea Telecom]
 🇫🇷 212.83.142.114:11241 374ms FR [Online S.A.S.]
 🇦🇺 185.139.155.155:1976 691ms AU [Internet Vikings International AB]
-🇺🇸 66.29.129.52:35630 365ms US [Namecheap, Inc.]
-🇸🇬 165.22.98.229:32855 104ms SG [DigitalOcean, LLC]
+🇺🇸 66.29.128.241:14954 219ms US [Namecheap, Inc.]
+🇺🇸 162.0.220.214:33155 217ms US [Namecheap, Inc.]
+🇺🇸 66.29.129.52:35630 208ms US [Namecheap, Inc.]
+🇺🇸 162.0.220.219:60521 221ms US [Namecheap, Inc.]
+🇺🇸 162.0.220.216:24891 249ms US [Namecheap, Inc.]
+🇸🇬 165.22.98.229:32855 30ms SG [DigitalOcean, LLC]
 🇺🇦 91.200.115.49:1080 556ms UA [Joint Ukrainian American Enterprise "Telecommunications Resource Center" ltd]
 🇻🇳 113.176.118.150:1080 188ms VN [VNPT]
-🇻🇳 113.160.188.21:1080 191ms VN [VietNam Post and Telecom Corporation]
 🇩🇪 188.68.52.220:9050 349ms DE [netcup GmbH]
