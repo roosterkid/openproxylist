@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2024-11-23 11:00:01 GMT+7
+SOCKS5 Proxy list updated at 2024-11-23 12:00:02 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -12,21 +12,18 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
 🇧🇩 115.127.81.114:1088 388ms BD [BRACNet Limited]
 🇧🇷 187.63.9.62:63253 382ms BR [Gigalink de Nova Friburgo Soluções em Rede Multimi]
-🇵🇸 93.184.4.254:1080 321ms PS [BCI Telecommunication & Advanced Technology Company]
 🇸🇬 188.166.234.144:14605 299ms SG [DigitalOcean, LLC]
-🇨🇳 117.74.65.207:5441 786ms CN [CNC Group CHINA169 Hebei Province Network]
-🇰🇷 183.111.180.80:80 189ms KR [Korea Telecom]
+🇨🇳 117.74.65.207:5441 470ms CN [CNC Group CHINA169 Hebei Province Network]
+🇰🇷 183.111.180.80:80 209ms KR [Korea Telecom]
 🇺🇸 66.29.129.54:14181 245ms US [Namecheap, Inc.]
 🇫🇷 37.44.238.2:63617 754ms FR [Harmony Hosting SARL]
 🇺🇸 162.0.220.161:34826 220ms US [Namecheap, Inc.]
 🇺🇸 162.0.220.220:46911 228ms US [Namecheap, Inc.]
-🇺🇸 66.23.233.210:23899 250ms US [Interserver, Inc]
 🇦🇺 185.139.155.155:1976 566ms AU [Internet Vikings International AB]
-🇺🇸 66.29.128.242:49385 260ms US [Namecheap, Inc.]
 🇺🇸 66.29.129.52:35630 224ms US [Namecheap, Inc.]
 🇺🇸 66.29.129.56:38557 219ms US [Namecheap, Inc.]
-🇸🇬 165.22.98.229:32855 341ms SG [DigitalOcean, LLC]
-🇸🇬 188.166.230.38:64768 125ms SG [DigitalOcean, LLC]
-🇩🇪 167.71.39.152:38343 471ms DE [DigitalOcean, LLC]
+🇸🇬 165.22.98.229:32855 25ms SG [DigitalOcean, LLC]
+🇸🇬 188.166.230.38:64768 353ms SG [DigitalOcean, LLC]
+🇩🇪 167.71.39.152:38343 753ms DE [DigitalOcean, LLC]
 🇹🇷 185.87.121.5:8975 628ms TR [Ideal Hosting Teknoloji A.S.]
 🇻🇳 113.160.188.21:1080 401ms VN [VietNam Post and Telecom Corporation]
