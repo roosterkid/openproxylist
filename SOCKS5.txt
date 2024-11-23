@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2024-11-23 14:00:01 GMT+7
+SOCKS5 Proxy list updated at 2024-11-23 15:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -12,18 +12,17 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
 🇺🇸 67.213.212.39:52740 248ms US [Hosting Services, Inc.]
 🇺🇸 67.213.212.38:24650 287ms US [Hosting Services, Inc.]
-🇧🇩 115.127.81.114:1088 388ms BD [BRACNet Limited]
-🇮🇩 103.174.178.131:1020 75ms ID [PT Gasatek Bintang Nusantara]
+🇬🇧 178.79.165.164:40324 536ms GB [Linode]
+🇮🇩 103.174.178.131:1020 65ms ID [PT Gasatek Bintang Nusantara]
 🇺🇦 194.44.208.62:80 391ms UA [UARNET-LL]
 🇸🇬 188.166.234.144:14605 175ms SG [DigitalOcean, LLC]
-🇨🇳 117.74.65.207:5441 473ms CN [CNC Group CHINA169 Hebei Province Network]
+🇨🇳 117.74.65.207:5441 469ms CN [CNC Group CHINA169 Hebei Province Network]
 🇸🇪 130.255.160.60:18946 763ms SE [Internet Vikings]
-🇰🇷 183.111.180.80:80 229ms KR [Korea Telecom]
-🇫🇷 37.44.238.2:63617 793ms FR [Harmony Hosting SARL]
-🇦🇺 185.139.155.155:1976 566ms AU [Internet Vikings International AB]
+🇰🇷 183.111.180.80:80 203ms KR [Korea Telecom]
+🇫🇷 37.44.238.2:63617 587ms FR [Harmony Hosting SARL]
 🇺🇸 66.29.128.241:14954 317ms US [Namecheap, Inc.]
 🇸🇬 165.22.98.229:32855 50ms SG [DigitalOcean, LLC]
-🇸🇬 188.166.230.38:64768 353ms SG [DigitalOcean, LLC]
+🇸🇬 188.166.230.38:64768 441ms SG [DigitalOcean, LLC]
 🇺🇦 91.200.115.49:1080 257ms UA [Joint Ukrainian American Enterprise "Telecommunications Resource Center" ltd]
 🇩🇪 167.71.39.152:38343 753ms DE [DigitalOcean, LLC]
 🇹🇷 185.87.121.5:8975 700ms TR [Ideal Hosting Teknoloji A.S.]
