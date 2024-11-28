@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2024-11-28 12:00:01 GMT+7
+SOCKS5 Proxy list updated at 2024-11-28 13:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -10,25 +10,27 @@ https://buymeacoffee.com/roosterkid
 
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇸🇬 51.79.177.70:25435 546ms SG [OVH SAS]
+🇸🇬 51.79.177.70:25435 202ms SG [OVH SAS]
+🇺🇸 45.79.189.110:28224 513ms US [Akamai Technologies, Inc.]
 🇺🇸 67.213.212.39:52740 218ms US [Hosting Services, Inc.]
 🇧🇩 103.234.27.221:1080 403ms BD [BTS Communications (BD) Ltd]
 🇻🇳 116.97.240.147:4996 328ms VN [Viettel Corporation]
 🇵🇱 178.255.44.60:58968 515ms PL [Artnet Sp. z o.o.]
-🇬🇧 178.79.165.164:40324 450ms GB [Linode]
+🇬🇧 178.79.165.164:40324 627ms GB [Linode]
 🇮🇩 103.174.178.131:1020 370ms ID [PT Gasatek Bintang Nusantara]
 🇺🇸 68.183.118.66:28548 597ms US [DigitalOcean, LLC]
-🇬🇧 51.89.21.99:62311 355ms GB [OVH SAS]
+🇬🇧 51.89.21.99:62311 735ms GB [OVH SAS]
 🇺🇦 194.44.208.62:80 302ms UA [UARNET-LL]
+🇷🇺 89.148.195.249:1080 784ms RU [MTS PJSC]
 🇻🇳 202.92.6.70:54580 554ms VN [INET]
-🇨🇳 117.74.65.207:5441 469ms CN [CNC Group CHINA169 Hebei Province Network]
-🇰🇷 183.111.180.80:80 180ms KR [Korea Telecom]
+🇨🇳 117.74.65.207:5441 467ms CN [CNC Group CHINA169 Hebei Province Network]
+🇰🇷 183.111.180.80:80 163ms KR [Korea Telecom]
+🇫🇷 37.44.238.2:63617 784ms FR [Harmony Hosting SARL]
 🇸🇬 51.79.248.208:14720 368ms SG [OVH SAS]
 🇺🇸 66.29.129.52:35630 209ms US [Namecheap, Inc.]
-🇳🇱 178.159.42.76:14300 391ms NL [Zomro B.V.]
-🇸🇬 165.22.98.229:32855 50ms SG [DigitalOcean, LLC]
-🇸🇬 167.71.220.29:7497 31ms SG [DigitalOcean, LLC]
+🇳🇱 178.159.42.76:14300 520ms NL [Zomro B.V.]
+🇸🇬 165.22.98.229:32855 157ms SG [DigitalOcean, LLC]
 🇸🇬 188.166.230.38:64768 558ms SG [DigitalOcean, LLC]
-🇺🇸 199.204.248.155:33922 440ms US [Jumpline Inc]
+🇺🇸 199.204.248.155:33922 605ms US [Jumpline Inc]
 🇹🇷 185.86.5.162:8975 715ms TR [Ideal Hosting Teknoloji]
-🇫🇷 51.83.190.248:19050 538ms FR [OVH SAS]
+🇻🇳 113.160.188.21:1080 418ms VN [VietNam Post and Telecom Corporation]
