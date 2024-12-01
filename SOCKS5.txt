@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2024-12-01 20:00:01 GMT+7
+SOCKS5 Proxy list updated at 2024-12-01 21:00:02 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -10,27 +10,27 @@ https://buymeacoffee.com/roosterkid
 
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇸🇬 51.79.177.70:25435 321ms SG [OVH SAS]
-🇺🇸 45.79.189.110:28224 492ms US [Akamai Technologies, Inc.]
-🇫🇷 37.187.73.7:15229 401ms FR [OVH SAS]
+🇸🇬 51.79.177.70:25435 263ms SG [OVH SAS]
+🇺🇸 45.79.189.110:28224 518ms US [Akamai Technologies, Inc.]
+🇫🇷 37.187.73.7:15229 588ms FR [OVH SAS]
 🇺🇸 69.164.206.8:1747 212ms US [Akamai Technologies, Inc.]
 🇵🇱 178.255.44.60:58968 336ms PL [Artnet Sp. z o.o.]
 🇬🇧 178.79.165.164:40324 531ms GB [Linode]
-🇮🇩 103.174.178.131:1020 174ms ID [PT Gasatek Bintang Nusantara]
+🇮🇩 103.174.178.131:1020 75ms ID [PT Gasatek Bintang Nusantara]
 🇺🇸 68.183.118.66:28548 777ms US [DigitalOcean, LLC]
+🇱🇺 104.244.75.78:31534 398ms LU [FranTech Solutions]
 🇬🇧 51.89.21.99:62311 635ms GB [OVH SAS]
 🇨🇦 142.93.150.134:43093 396ms CA [DigitalOcean, LLC]
-🇺🇸 64.202.184.129:5951 310ms US [GoDaddy.com, LLC]
-🇸🇬 188.166.234.144:14605 126ms SG [DigitalOcean, LLC]
-🇺🇸 67.205.177.122:56826 628ms US [DigitalOcean, LLC]
-🇨🇳 117.74.65.207:5441 775ms CN [CNC Group CHINA169 Hebei Province Network]
-🇸🇪 130.255.160.60:18946 785ms SE [Internet Vikings]
-🇰🇷 183.111.180.80:80 196ms KR [Korea Telecom]
+🇸🇬 188.166.234.144:14605 400ms SG [DigitalOcean, LLC]
+🇺🇸 67.205.177.122:56826 247ms US [DigitalOcean, LLC]
+🇨🇳 117.74.65.207:5441 477ms CN [CNC Group CHINA169 Hebei Province Network]
+🇰🇷 183.111.180.80:80 162ms KR [Korea Telecom]
 🇫🇷 37.44.238.2:63617 610ms FR [Harmony Hosting SARL]
-🇸🇬 51.79.248.208:14720 138ms SG [OVH SAS]
+🇸🇬 51.79.248.208:14720 281ms SG [OVH SAS]
 🇺🇦 185.25.119.98:43725 474ms UA [Hosting Ukraine LTD]
-🇳🇱 178.159.42.76:14300 276ms NL [Zomro B.V.]
+🇳🇱 178.159.42.76:14300 277ms NL [Zomro B.V.]
 🇸🇬 188.166.230.38:64768 492ms SG [DigitalOcean, LLC]
-🇿🇦 102.36.127.249:1080 450ms ZA [Clear Access (Pty) Ltd]
+🇿🇦 102.36.127.249:1080 483ms ZA [Clear Access (Pty) Ltd]
 🇺🇸 199.204.248.155:33922 345ms US [Jumpline Inc]
+🇬🇧 81.143.236.200:443 512ms GB [BT Public Internet Service]
 🇯🇵 47.245.56.108:18181 584ms JP [Alibaba.com LLC]
