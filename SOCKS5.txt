@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2024-12-01 14:00:01 GMT+7
+SOCKS5 Proxy list updated at 2024-12-01 15:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -11,22 +11,24 @@ https://buymeacoffee.com/roosterkid
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
 🇸🇬 51.79.177.70:25435 124ms SG [OVH SAS]
-🇺🇸 45.79.189.110:28224 263ms US [Akamai Technologies, Inc.]
+🇺🇸 45.79.189.110:28224 274ms US [Akamai Technologies, Inc.]
 🇫🇷 37.187.73.7:15229 377ms FR [OVH SAS]
 🇺🇸 69.164.206.8:1747 323ms US [Akamai Technologies, Inc.]
-🇬🇧 178.79.165.164:40324 321ms GB [Linode]
-🇮🇩 103.174.178.131:1020 54ms ID [PT Gasatek Bintang Nusantara]
-🇬🇧 51.89.21.99:62311 438ms GB [OVH SAS]
+🇵🇱 178.255.44.60:58968 636ms PL [Artnet Sp. z o.o.]
+🇬🇧 51.89.21.99:62311 467ms GB [OVH SAS]
 🇸🇬 188.166.234.144:14605 411ms SG [DigitalOcean, LLC]
-🇺🇸 67.205.177.122:56826 339ms US [DigitalOcean, LLC]
+🇺🇸 67.205.177.122:56826 258ms US [DigitalOcean, LLC]
 🇷🇺 194.190.169.197:3701 431ms RU [Webmaster Agency Ltd]
-🇨🇳 117.74.65.207:5441 467ms CN [CNC Group CHINA169 Hebei Province Network]
+🇨🇳 117.74.65.207:5441 470ms CN [CNC Group CHINA169 Hebei Province Network]
 🇬🇧 51.155.10.0:8000 795ms GB [Zen Internet Ltd]
 🇸🇪 130.255.160.60:18946 404ms SE [Internet Vikings]
 🇳🇱 165.22.204.32:7497 292ms NL [DigitalOcean, LLC]
-🇰🇷 183.111.180.80:80 287ms KR [Korea Telecom]
-🇸🇬 51.79.248.208:14720 376ms SG [OVH SAS]
+🇰🇷 183.111.180.80:80 178ms KR [Korea Telecom]
+🇸🇬 51.79.248.208:14720 38ms SG [OVH SAS]
 🇺🇦 185.25.119.98:43725 452ms UA [Hosting Ukraine LTD]
-🇳🇱 178.159.42.76:14300 256ms NL [Zomro B.V.]
-🇺🇸 199.204.248.155:33922 342ms US [Jumpline Inc]
+🇦🇺 185.139.155.155:1976 428ms AU [Internet Vikings International AB]
+🇳🇱 178.159.42.76:14300 239ms NL [Zomro B.V.]
+🇺🇦 91.200.115.49:1080 377ms UA [Joint Ukrainian American Enterprise "Telecommunications Resource Center" ltd]
+🇺🇸 199.204.248.155:33922 293ms US [Jumpline Inc]
+🇬🇧 81.143.236.200:443 709ms GB [BT Public Internet Service]
 🇯🇵 47.245.56.108:18181 247ms JP [Alibaba.com LLC]
