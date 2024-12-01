@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2024-12-01 17:00:01 GMT+7
+SOCKS5 Proxy list updated at 2024-12-01 18:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -10,26 +10,24 @@ https://buymeacoffee.com/roosterkid
 
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇸🇬 51.79.177.70:25435 170ms SG [OVH SAS]
-🇺🇸 45.79.189.110:28224 410ms US [Akamai Technologies, Inc.]
-🇫🇷 37.187.73.7:15229 377ms FR [OVH SAS]
-🇺🇸 69.164.206.8:1747 390ms US [Akamai Technologies, Inc.]
-🇵🇱 178.255.44.60:58968 283ms PL [Artnet Sp. z o.o.]
+🇸🇬 51.79.177.70:25435 77ms SG [OVH SAS]
+🇺🇸 45.79.189.110:28224 492ms US [Akamai Technologies, Inc.]
+🇺🇸 69.164.206.8:1747 251ms US [Akamai Technologies, Inc.]
+🇵🇱 178.255.44.60:58968 254ms PL [Artnet Sp. z o.o.]
 🇬🇧 178.79.165.164:40324 531ms GB [Linode]
 🇮🇩 103.174.178.131:1020 67ms ID [PT Gasatek Bintang Nusantara]
 🇺🇸 68.183.118.66:28548 777ms US [DigitalOcean, LLC]
-🇬🇧 51.89.21.99:62311 480ms GB [OVH SAS]
+🇬🇧 51.89.21.99:62311 357ms GB [OVH SAS]
 🇨🇦 142.93.150.134:43093 396ms CA [DigitalOcean, LLC]
 🇺🇸 64.202.184.129:5951 310ms US [GoDaddy.com, LLC]
-🇸🇬 188.166.234.144:14605 411ms SG [DigitalOcean, LLC]
-🇺🇸 67.205.177.122:56826 299ms US [DigitalOcean, LLC]
+🇸🇬 188.166.234.144:14605 126ms SG [DigitalOcean, LLC]
+🇺🇸 67.205.177.122:56826 661ms US [DigitalOcean, LLC]
 🇷🇺 194.190.169.197:3701 431ms RU [Webmaster Agency Ltd]
-🇨🇳 117.74.65.207:5441 472ms CN [CNC Group CHINA169 Hebei Province Network]
+🇨🇳 117.74.65.207:5441 765ms CN [CNC Group CHINA169 Hebei Province Network]
 🇬🇧 51.155.10.0:8000 795ms GB [Zen Internet Ltd]
 🇸🇪 130.255.160.60:18946 785ms SE [Internet Vikings]
-🇳🇱 165.22.204.32:7497 292ms NL [DigitalOcean, LLC]
-🇰🇷 183.111.180.80:80 177ms KR [Korea Telecom]
-🇫🇷 37.44.238.2:63617 460ms FR [Harmony Hosting SARL]
+🇰🇷 183.111.180.80:80 181ms KR [Korea Telecom]
+🇫🇷 37.44.238.2:63617 610ms FR [Harmony Hosting SARL]
 🇸🇬 51.79.248.208:14720 494ms SG [OVH SAS]
 🇺🇦 185.25.119.98:43725 474ms UA [Hosting Ukraine LTD]
 🇦🇺 185.139.155.155:1976 428ms AU [Internet Vikings International AB]
