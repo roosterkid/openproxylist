@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2024-12-04 01:00:01 GMT+7
+SOCKS5 Proxy list updated at 2024-12-04 02:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -10,25 +10,25 @@ https://buymeacoffee.com/roosterkid
 
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇸🇬 51.79.177.70:25435 282ms SG [OVH SAS]
+🇸🇬 51.79.177.70:25435 189ms SG [OVH SAS]
 🇺🇸 45.79.189.110:28224 456ms US [Akamai Technologies, Inc.]
-🇫🇷 37.187.73.7:15229 599ms FR [OVH SAS]
-🇺🇸 69.164.206.8:1747 542ms US [Akamai Technologies, Inc.]
-🇮🇩 103.174.178.131:1020 80ms ID [PT Gasatek Bintang Nusantara]
+🇫🇷 37.187.73.7:15229 671ms FR [OVH SAS]
+🇺🇸 69.164.206.8:1747 515ms US [Akamai Technologies, Inc.]
 🇺🇸 68.183.118.66:28548 627ms US [DigitalOcean, LLC]
-🇨🇦 142.93.150.134:43093 354ms CA [DigitalOcean, LLC]
+🇨🇦 142.93.150.134:43093 569ms CA [DigitalOcean, LLC]
 🇸🇬 188.166.234.144:14605 162ms SG [DigitalOcean, LLC]
 🇿🇦 102.36.127.53:1080 615ms ZA [Clear Access (Pty) Ltd]
-🇺🇸 67.205.177.122:56826 446ms US [DigitalOcean, LLC]
-🇻🇳 202.92.6.70:54580 349ms VN [INET]
-🇨🇳 117.74.65.207:5441 545ms CN [CNC Group CHINA169 Hebei Province Network]
-🇳🇱 165.22.204.32:7497 341ms NL [DigitalOcean, LLC]
-🇰🇷 183.111.180.80:80 194ms KR [Korea Telecom]
-🇫🇷 37.44.238.2:63617 523ms FR [Harmony Hosting SARL]
-🇸🇬 51.79.248.208:14720 87ms SG [OVH SAS]
+🇺🇸 67.205.177.122:56826 250ms US [DigitalOcean, LLC]
+🇻🇳 202.92.6.70:54580 350ms VN [INET]
+🇨🇳 117.74.65.207:5441 505ms CN [CNC Group CHINA169 Hebei Province Network]
+🇳🇱 165.22.204.32:7497 343ms NL [DigitalOcean, LLC]
+🇰🇷 183.111.180.80:80 180ms KR [Korea Telecom]
+🇫🇷 37.44.238.2:63617 723ms FR [Harmony Hosting SARL]
+🇸🇬 51.79.248.208:14720 416ms SG [OVH SAS]
 🇺🇦 185.25.119.98:43725 345ms UA [Hosting Ukraine LTD]
 🇨🇦 51.79.51.174:10328 392ms CA [OVH SAS]
+🇸🇬 188.166.230.38:64768 104ms SG [DigitalOcean, LLC]
 🇺🇦 91.200.115.49:1080 301ms UA [Joint Ukrainian American Enterprise "Telecommunications Resource Center" ltd]
 🇮🇳 139.59.93.221:27247 352ms IN [DIGITALOCEAN]
-🇺🇸 199.204.248.155:33922 362ms US [Jumpline Inc]
+🇺🇸 199.204.248.155:33922 595ms US [Jumpline Inc]
 🇹🇷 185.86.5.162:8975 587ms TR [Ideal Hosting Teknoloji]
