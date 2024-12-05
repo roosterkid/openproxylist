@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2024-12-05 07:00:01 GMT+7
+SOCKS5 Proxy list updated at 2024-12-05 08:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -12,22 +12,24 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
 🇸🇬 51.79.177.70:25435 196ms SG [OVH SAS]
 🇫🇷 37.187.73.7:15229 750ms FR [OVH SAS]
-🇵🇱 178.255.44.60:58968 426ms PL [Artnet Sp. z o.o.]
+🇵🇱 178.255.44.60:58968 795ms PL [Artnet Sp. z o.o.]
 🇪🇸 178.33.162.89:59490 719ms ES [OVH ISP]
 🇧🇬 31.211.142.115:8192 416ms BG [5KOM]
 🇺🇸 68.183.118.66:28548 714ms US [DigitalOcean, LLC]
 🇬🇧 51.89.21.99:62311 756ms GB [OVH SAS]
 🇺🇦 194.44.208.62:80 381ms UA [UARNET-LL]
-🇸🇬 188.166.234.144:14605 109ms SG [DigitalOcean, LLC]
+🇸🇬 188.166.234.144:14605 447ms SG [DigitalOcean, LLC]
+🇺🇦 195.66.156.196:1080 442ms UA [PP Info-Center]
 🇺🇸 67.205.177.122:56826 716ms US [DigitalOcean, LLC]
-🇨🇳 117.74.65.207:5441 766ms CN [CNC Group CHINA169 Hebei Province Network]
+🇷🇺 194.190.169.197:3701 432ms RU [Webmaster Agency Ltd]
+🇨🇳 117.74.65.207:5441 774ms CN [CNC Group CHINA169 Hebei Province Network]
 🇸🇪 130.255.160.60:18946 670ms SE [Internet Vikings]
-🇰🇷 183.111.180.80:80 280ms KR [Korea Telecom]
+🇰🇷 183.111.180.80:80 180ms KR [Korea Telecom]
 🇸🇬 51.79.248.208:14720 178ms SG [OVH SAS]
 🇺🇦 185.25.119.98:43725 543ms UA [Hosting Ukraine LTD]
 🇨🇦 51.79.51.174:10328 541ms CA [OVH SAS]
-🇸🇬 188.166.230.38:64768 478ms SG [DigitalOcean, LLC]
-🇺🇦 91.200.115.49:1080 367ms UA [Joint Ukrainian American Enterprise "Telecommunications Resource Center" ltd]
+🇳🇱 178.159.42.76:14300 453ms NL [Zomro B.V.]
+🇸🇬 188.166.230.38:64768 39ms SG [DigitalOcean, LLC]
 🇮🇳 139.59.93.221:27247 372ms IN [DIGITALOCEAN]
 🇺🇸 199.204.248.155:33922 688ms US [Jumpline Inc]
 🇹🇷 185.87.121.5:8975 756ms TR [Ideal Hosting Teknoloji A.S.]
