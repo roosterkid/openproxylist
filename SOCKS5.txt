@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2024-12-06 17:00:01 GMT+7
+SOCKS5 Proxy list updated at 2024-12-06 18:00:02 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -10,28 +10,29 @@ https://buymeacoffee.com/roosterkid
 
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇸🇬 51.79.177.70:25435 83ms SG [OVH SAS]
 🇧🇩 103.234.27.221:1080 130ms BD [BTS Communications (BD) Ltd]
-🇫🇷 37.187.73.7:15229 775ms FR [OVH SAS]
+🇧🇩 103.180.203.133:8085 407ms BD [Md Ariful Haq]
 🇻🇳 116.97.240.147:4996 302ms VN [Viettel Corporation]
 🇧🇷 187.63.9.62:63253 721ms BR [Gigalink de Nova Friburgo Soluções em Rede Multimi]
 🇮🇩 103.174.178.131:1020 259ms ID [PT Gasatek Bintang Nusantara]
 🇺🇸 68.183.118.66:28548 648ms US [DigitalOcean, LLC]
 🇬🇧 51.89.21.99:62311 698ms GB [OVH SAS]
+🇨🇦 142.93.150.134:43093 627ms CA [DigitalOcean, LLC]
+🇺🇦 194.44.208.62:80 455ms UA [UARNET-LL]
 🇨🇦 184.95.220.42:1080 311ms CA [Fibrenoire Inc.]
-🇸🇬 188.166.234.144:14605 440ms SG [DigitalOcean, LLC]
+🇸🇬 188.166.234.144:14605 573ms SG [DigitalOcean, LLC]
 🇺🇸 67.205.177.122:56826 647ms US [DigitalOcean, LLC]
-🇨🇳 117.74.65.207:5441 468ms CN [CNC Group CHINA169 Hebei Province Network]
-🇰🇷 183.111.180.80:80 177ms KR [Korea Telecom]
+🇨🇳 117.74.65.207:5441 467ms CN [CNC Group CHINA169 Hebei Province Network]
+🇰🇷 183.111.180.80:80 172ms KR [Korea Telecom]
 🇫🇷 37.44.238.2:63617 636ms FR [Harmony Hosting SARL]
-🇸🇬 51.79.248.208:14720 363ms SG [OVH SAS]
+🇸🇬 51.79.248.208:14720 250ms SG [OVH SAS]
 🇨🇦 51.79.51.174:10328 746ms CA [OVH SAS]
 🇳🇱 178.159.42.76:14300 720ms NL [Zomro B.V.]
 🇸🇬 188.166.230.38:64768 458ms SG [DigitalOcean, LLC]
 🇺🇦 91.200.115.49:1080 423ms UA [Joint Ukrainian American Enterprise "Telecommunications Resource Center" ltd]
 🇮🇳 139.59.93.221:27247 287ms IN [DIGITALOCEAN]
-🇺🇸 199.204.248.155:33922 416ms US [Jumpline Inc]
+🇺🇸 199.204.248.155:33922 621ms US [Jumpline Inc]
 🇹🇷 185.87.121.5:8975 493ms TR [Ideal Hosting Teknoloji A.S.]
 🇹🇷 185.86.5.162:8975 455ms TR [Ideal Hosting Teknoloji]
-🇺🇸 147.135.112.67:3081 557ms US [OVH US LLC]
+🇺🇸 147.135.112.67:3081 787ms US [OVH US LLC]
 🇫🇷 51.83.190.248:19050 408ms FR [OVH SAS]
