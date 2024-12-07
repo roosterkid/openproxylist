@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2024-12-07 19:00:01 GMT+7
+SOCKS5 Proxy list updated at 2024-12-07 20:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -12,24 +12,19 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
 🇸🇬 51.79.177.70:25435 398ms SG [OVH SAS]
 🇫🇷 37.187.73.7:15229 705ms FR [OVH SAS]
-🇵🇱 178.255.44.60:58968 501ms PL [Artnet Sp. z o.o.]
+🇵🇱 178.255.44.60:58968 681ms PL [Artnet Sp. z o.o.]
 🇪🇸 178.33.162.89:59490 454ms ES [OVH ISP]
 🇮🇩 103.174.178.131:1020 177ms ID [PT Gasatek Bintang Nusantara]
 🇺🇸 68.183.118.66:28548 752ms US [DigitalOcean, LLC]
 🇬🇧 51.89.21.99:62311 590ms GB [OVH SAS]
-🇷🇺 185.112.224.151:1080 439ms RU [Orion Telecom LLC]
-🇨🇦 142.93.150.134:43093 533ms CA [DigitalOcean, LLC]
-🇺🇦 194.44.208.62:80 633ms UA [UARNET-LL]
+🇷🇺 185.112.224.151:1080 365ms RU [Orion Telecom LLC]
 🇺🇸 67.205.177.122:56826 576ms US [DigitalOcean, LLC]
 🇷🇺 194.190.169.197:3701 461ms RU [Webmaster Agency Ltd]
-🇨🇳 117.74.65.207:5441 467ms CN [CNC Group CHINA169 Hebei Province Network]
+🇨🇳 117.74.65.207:5441 485ms CN [CNC Group CHINA169 Hebei Province Network]
 🇸🇪 130.255.160.60:18946 373ms SE [Internet Vikings]
-🇰🇷 183.111.180.80:80 297ms KR [Korea Telecom]
+🇰🇷 183.111.180.80:80 184ms KR [Korea Telecom]
 🇸🇬 51.79.248.208:14720 488ms SG [OVH SAS]
-🇸🇬 188.166.230.38:64768 331ms SG [DigitalOcean, LLC]
-🇺🇸 199.204.248.155:33922 391ms US [Jumpline Inc]
-🇹🇷 185.87.121.5:8975 678ms TR [Ideal Hosting Teknoloji A.S.]
+🇸🇬 188.166.230.38:64768 352ms SG [DigitalOcean, LLC]
+🇺🇸 199.204.248.155:33922 573ms US [Jumpline Inc]
 🇹🇷 185.86.5.162:8975 596ms TR [Ideal Hosting Teknoloji]
 🇯🇵 47.245.56.108:18181 540ms JP [Alibaba.com LLC]
-🇺🇸 147.135.112.67:3081 534ms US [OVH US LLC]
-🇫🇷 51.83.190.248:19050 422ms FR [OVH SAS]
