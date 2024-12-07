@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2024-12-07 22:00:01 GMT+7
+SOCKS5 Proxy list updated at 2024-12-07 23:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -14,14 +14,13 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 🇵🇱 178.255.44.60:58968 681ms PL [Artnet Sp. z o.o.]
 🇪🇸 178.33.162.89:59490 711ms ES [OVH ISP]
 🇺🇸 68.183.118.66:28548 752ms US [DigitalOcean, LLC]
-🇬🇧 51.89.21.99:62311 590ms GB [OVH SAS]
-🇷🇺 185.112.224.151:1080 423ms RU [Orion Telecom LLC]
+🇷🇺 185.112.224.151:1080 413ms RU [Orion Telecom LLC]
 🇨🇦 142.93.150.134:43093 586ms CA [DigitalOcean, LLC]
 🇺🇸 67.205.177.122:56826 707ms US [DigitalOcean, LLC]
-🇨🇳 117.74.65.207:5441 661ms CN [CNC Group CHINA169 Hebei Province Network]
-🇰🇷 183.111.180.80:80 192ms KR [Korea Telecom]
+🇨🇳 117.74.65.207:5441 480ms CN [CNC Group CHINA169 Hebei Province Network]
+🇰🇷 183.111.180.80:80 198ms KR [Korea Telecom]
 🇸🇬 51.79.248.208:14720 286ms SG [OVH SAS]
-🇨🇦 51.79.51.174:10328 549ms CA [OVH SAS]
-🇸🇬 188.166.230.38:64768 497ms SG [DigitalOcean, LLC]
+🇨🇦 51.79.51.174:10328 572ms CA [OVH SAS]
+🇸🇬 188.166.230.38:64768 346ms SG [DigitalOcean, LLC]
 🇺🇸 199.204.248.155:33922 307ms US [Jumpline Inc]
-🇯🇵 47.245.56.108:18181 540ms JP [Alibaba.com LLC]
+🇺🇸 147.135.112.67:3081 282ms US [OVH US LLC]
