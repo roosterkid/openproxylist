@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2024-12-09 22:00:02 GMT+7
+SOCKS5 Proxy list updated at 2024-12-09 23:00:02 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -10,26 +10,30 @@ https://buymeacoffee.com/roosterkid
 
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
+🇩🇪 161.97.129.202:9060 790ms DE [Contabo GmbH]
 🇸🇬 51.79.177.70:25435 109ms SG [OVH SAS]
-🇧🇩 103.180.203.133:8085 416ms BD [Md Ariful Haq]
+🇫🇷 37.187.73.7:15229 394ms FR [OVH SAS]
+🇧🇩 103.180.203.133:8085 150ms BD [Md Ariful Haq]
 🇻🇳 116.97.240.147:4996 374ms VN [Viettel Corporation]
-🇧🇷 187.63.9.62:63253 400ms BR [Gigalink de Nova Friburgo Soluções em Rede Multimi]
+🇵🇱 178.255.44.60:58968 594ms PL [Artnet Sp. z o.o.]
 🇪🇸 178.33.162.89:59490 663ms ES [OVH ISP]
 🇮🇩 103.174.178.131:1020 72ms ID [PT Gasatek Bintang Nusantara]
 🇺🇸 68.183.118.66:28548 555ms US [DigitalOcean, LLC]
-🇨🇳 210.75.240.151:4781 175ms CN [Computer Network Information Center]
-🇬🇧 51.89.21.99:62311 447ms GB [OVH SAS]
+🇨🇳 210.75.240.151:4781 422ms CN [Computer Network Information Center]
+🇬🇧 51.89.21.99:62311 753ms GB [OVH SAS]
 🇨🇦 142.93.150.134:43093 372ms CA [DigitalOcean, LLC]
-🇺🇸 67.205.177.122:56826 519ms US [DigitalOcean, LLC]
-🇨🇳 117.74.65.207:5441 468ms CN [CNC Group CHINA169 Hebei Province Network]
-🇸🇪 130.255.160.60:18946 673ms SE [Internet Vikings]
-🇰🇷 183.111.180.80:80 198ms KR [Korea Telecom]
+🇵🇸 93.184.4.254:1080 658ms PS [BCI Telecommunication & Advanced Technology Company]
+🇺🇸 67.205.177.122:56826 744ms US [DigitalOcean, LLC]
+🇷🇺 194.190.169.197:3701 431ms RU [Webmaster Agency Ltd]
+🇨🇳 117.74.65.207:5441 768ms CN [CNC Group CHINA169 Hebei Province Network]
+🇸🇪 130.255.160.60:18946 529ms SE [Internet Vikings]
+🇰🇷 183.111.180.80:80 151ms KR [Korea Telecom]
 🇫🇷 37.44.238.2:63617 525ms FR [Harmony Hosting SARL]
-🇸🇬 51.79.248.208:14720 466ms SG [OVH SAS]
+🇸🇬 51.79.248.208:14720 177ms SG [OVH SAS]
 🇨🇦 51.79.51.174:10328 431ms CA [OVH SAS]
+🇸🇬 188.166.230.38:64768 238ms SG [DigitalOcean, LLC]
 🇮🇳 139.59.93.221:27247 417ms IN [DIGITALOCEAN]
-🇺🇸 199.204.248.155:33922 429ms US [Jumpline Inc]
-🇹🇷 185.87.121.35:8975 493ms TR [Ideal Hosting Teknoloji]
+🇺🇸 199.204.248.155:33922 465ms US [Jumpline Inc]
 🇹🇷 185.87.121.5:8975 435ms TR [Ideal Hosting Teknoloji A.S.]
-🇺🇸 147.135.112.67:3081 719ms US [OVH US LLC]
+🇺🇸 147.135.112.67:3081 557ms US [OVH US LLC]
 🇻🇳 113.160.188.21:1080 434ms VN [VietNam Post and Telecom Corporation]
