@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2024-12-09 15:00:01 GMT+7
+SOCKS5 Proxy list updated at 2024-12-09 16:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -13,20 +13,19 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 🇸🇬 51.79.177.70:25435 190ms SG [OVH SAS]
 🇫🇷 37.187.73.7:15229 738ms FR [OVH SAS]
 🇻🇳 116.97.240.147:4996 203ms VN [Viettel Corporation]
-🇧🇷 187.63.9.62:63253 642ms BR [Gigalink de Nova Friburgo Soluções em Rede Multimi]
+🇧🇷 187.63.9.62:63253 384ms BR [Gigalink de Nova Friburgo Soluções em Rede Multimi]
 🇵🇱 178.255.44.60:58968 752ms PL [Artnet Sp. z o.o.]
 🇺🇸 68.183.118.66:28548 773ms US [DigitalOcean, LLC]
-🇨🇳 210.75.240.151:4781 414ms CN [Computer Network Information Center]
-🇬🇧 51.89.21.99:62311 660ms GB [OVH SAS]
+🇨🇳 210.75.240.151:4781 582ms CN [Computer Network Information Center]
+🇬🇧 51.89.21.99:62311 459ms GB [OVH SAS]
 🇨🇦 142.93.150.134:43093 796ms CA [DigitalOcean, LLC]
 🇺🇸 67.205.177.122:56826 573ms US [DigitalOcean, LLC]
 🇷🇺 194.190.169.197:3701 782ms RU [Webmaster Agency Ltd]
 🇩🇪 5.189.159.215:7497 342ms DE [Contabo GmbH]
-🇨🇳 117.74.65.207:5441 468ms CN [CNC Group CHINA169 Hebei Province Network]
+🇨🇳 117.74.65.207:5441 469ms CN [CNC Group CHINA169 Hebei Province Network]
 🇸🇪 130.255.160.60:18946 542ms SE [Internet Vikings]
-🇰🇷 183.111.180.80:80 210ms KR [Korea Telecom]
-🇸🇬 51.79.248.208:14720 402ms SG [OVH SAS]
-🇳🇱 178.159.42.76:14300 458ms NL [Zomro B.V.]
+🇰🇷 183.111.180.80:80 285ms KR [Korea Telecom]
+🇸🇬 51.79.248.208:14720 35ms SG [OVH SAS]
 🇮🇳 139.59.93.221:27247 458ms IN [DIGITALOCEAN]
 🇺🇸 199.204.248.155:33922 568ms US [Jumpline Inc]
 🇹🇷 185.86.5.162:8975 563ms TR [Ideal Hosting Teknoloji]
