@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2024-12-11 15:00:02 GMT+7
+SOCKS5 Proxy list updated at 2024-12-11 16:00:02 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -10,29 +10,29 @@ https://buymeacoffee.com/roosterkid
 
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇸🇬 51.79.177.70:25435 140ms SG [OVH SAS]
+🇸🇬 51.79.177.70:25435 356ms SG [OVH SAS]
+🇺🇸 198.23.143.24:6969 420ms US [ColoCrossing]
 🇫🇷 37.187.73.7:15229 653ms FR [OVH SAS]
 🇪🇸 178.33.162.89:59490 774ms ES [OVH ISP]
-🇮🇩 103.174.178.131:1020 184ms ID [PT Gasatek Bintang Nusantara]
-🇺🇸 68.183.118.66:28548 738ms US [DigitalOcean, LLC]
+🇮🇩 103.174.178.131:1020 161ms ID [PT Gasatek Bintang Nusantara]
+🇺🇸 68.183.118.66:28548 613ms US [DigitalOcean, LLC]
 🇱🇺 104.244.75.78:31534 480ms LU [FranTech Solutions]
+🇬🇧 51.89.21.99:62311 762ms GB [OVH SAS]
 🇺🇦 194.44.208.62:80 630ms UA [UARNET-LL]
 🇺🇸 64.202.184.129:5951 418ms US [GoDaddy.com, LLC]
 🇷🇺 194.190.169.197:3701 416ms RU [Webmaster Agency Ltd]
 🇻🇳 202.92.6.70:54580 465ms VN [INET]
-🇨🇳 117.74.65.207:5441 767ms CN [CNC Group CHINA169 Hebei Province Network]
+🇨🇳 117.74.65.207:5441 467ms CN [CNC Group CHINA169 Hebei Province Network]
 🇰🇷 183.111.180.80:80 211ms KR [Korea Telecom]
+🇫🇷 37.44.238.2:63617 658ms FR [Harmony Hosting SARL]
 🇸🇬 51.79.248.208:14720 202ms SG [OVH SAS]
 🇨🇦 51.79.51.174:10328 319ms CA [OVH SAS]
 🇦🇺 185.139.155.155:1976 682ms AU [Internet Vikings International AB]
-🇳🇱 178.159.42.76:14300 752ms NL [Zomro B.V.]
-🇸🇬 167.71.220.29:7497 32ms SG [DigitalOcean, LLC]
-🇸🇬 188.166.230.38:64768 318ms SG [DigitalOcean, LLC]
+🇸🇬 167.71.220.29:7497 37ms SG [DigitalOcean, LLC]
+🇸🇬 188.166.230.38:64768 147ms SG [DigitalOcean, LLC]
 🇻🇳 113.176.118.150:1080 119ms VN [VNPT]
-🇮🇳 139.59.93.221:27247 631ms IN [DIGITALOCEAN]
 🇺🇸 199.204.248.155:33922 585ms US [Jumpline Inc]
 🇹🇷 185.87.121.35:8975 738ms TR [Ideal Hosting Teknoloji]
-🇹🇷 185.87.121.5:8975 675ms TR [Ideal Hosting Teknoloji A.S.]
-🇬🇧 188.241.45.142:2021 547ms GB [Talk Straight Ltd.]
+🇹🇷 185.87.121.5:8975 597ms TR [Ideal Hosting Teknoloji A.S.]
 🇺🇸 147.135.112.67:3081 623ms US [OVH US LLC]
 🇻🇳 113.160.188.21:1080 426ms VN [VietNam Post and Telecom Corporation]
