@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2024-12-14 02:00:02 GMT+7
+SOCKS5 Proxy list updated at 2024-12-14 03:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -10,25 +10,24 @@ https://buymeacoffee.com/roosterkid
 
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇸🇬 51.79.177.70:25435 336ms SG [OVH SAS]
-🇺🇸 45.79.189.110:28224 412ms US [Akamai Technologies, Inc.]
-🇫🇷 37.187.73.7:15229 461ms FR [OVH SAS]
-🇪🇸 178.33.162.89:59490 590ms ES [OVH ISP]
+🇸🇬 51.79.177.70:25435 63ms SG [OVH SAS]
+🇺🇸 45.79.189.110:28224 315ms US [Akamai Technologies, Inc.]
+🇫🇷 37.187.73.7:15229 648ms FR [OVH SAS]
 🇮🇩 103.174.178.131:1020 161ms ID [PT Gasatek Bintang Nusantara]
-🇺🇸 68.183.118.66:28548 721ms US [DigitalOcean, LLC]
+🇧🇬 31.211.142.115:8192 431ms BG [5KOM]
+🇺🇸 68.183.118.66:28548 526ms US [DigitalOcean, LLC]
 🇱🇺 104.244.75.78:31534 400ms LU [FranTech Solutions]
-🇬🇧 51.89.21.99:62311 409ms GB [OVH SAS]
-🇺🇸 64.202.184.129:5951 611ms US [GoDaddy.com, LLC]
-🇸🇬 188.166.234.144:14605 778ms SG [DigitalOcean, LLC]
-🇺🇸 157.230.191.76:6486 647ms US [DigitalOcean, LLC]
-🇨🇳 117.74.65.207:5441 468ms CN [CNC Group CHINA169 Hebei Province Network]
+🇬🇧 51.89.21.99:62311 361ms GB [OVH SAS]
+🇷🇺 185.112.224.151:1080 395ms RU [Orion Telecom LLC]
+🇺🇸 64.202.184.129:5951 205ms US [GoDaddy.com, LLC]
+🇨🇳 117.74.65.207:5441 465ms CN [CNC Group CHINA169 Hebei Province Network]
 🇸🇪 130.255.160.60:18946 409ms SE [Internet Vikings]
-🇰🇷 183.111.180.80:80 188ms KR [Korea Telecom]
+🇰🇷 183.111.180.80:80 179ms KR [Korea Telecom]
+🇨🇦 184.95.235.194:1080 435ms CA [Fibrenoire Inc]
 🇨🇦 51.79.51.174:10328 515ms CA [OVH SAS]
-🇺🇦 91.200.115.49:1080 278ms UA [Joint Ukrainian American Enterprise "Telecommunications Resource Center" ltd]
-🇺🇸 199.204.248.155:33922 355ms US [Jumpline Inc]
+🇺🇦 91.200.115.49:1080 318ms UA [Joint Ukrainian American Enterprise "Telecommunications Resource Center" ltd]
+🇺🇸 199.204.248.155:33922 387ms US [Jumpline Inc]
 🇹🇷 185.87.121.35:8975 503ms TR [Ideal Hosting Teknoloji]
-🇹🇷 185.87.121.5:8975 570ms TR [Ideal Hosting Teknoloji A.S.]
-🇹🇷 185.86.5.162:8975 597ms TR [Ideal Hosting Teknoloji]
-🇺🇸 147.135.112.67:3081 507ms US [OVH US LLC]
-🇫🇷 51.83.190.248:19050 790ms FR [OVH SAS]
+🇹🇷 185.87.121.5:8975 477ms TR [Ideal Hosting Teknoloji A.S.]
+🇹🇷 185.86.5.162:8975 431ms TR [Ideal Hosting Teknoloji]
+🇺🇸 147.135.112.67:3081 735ms US [OVH US LLC]
