@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2024-12-14 05:00:01 GMT+7
+SOCKS5 Proxy list updated at 2024-12-14 06:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -10,22 +10,24 @@ https://buymeacoffee.com/roosterkid
 
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇸🇬 51.79.177.70:25435 192ms SG [OVH SAS]
+🇸🇬 51.79.177.70:25435 74ms SG [OVH SAS]
 🇺🇸 45.79.189.110:28224 409ms US [Akamai Technologies, Inc.]
 🇫🇷 37.187.73.7:15229 374ms FR [OVH SAS]
-🇮🇩 103.174.178.131:1020 165ms ID [PT Gasatek Bintang Nusantara]
+🇮🇩 103.174.178.131:1020 167ms ID [PT Gasatek Bintang Nusantara]
 🇧🇬 31.211.142.115:8192 431ms BG [5KOM]
-🇺🇸 68.183.118.66:28548 526ms US [DigitalOcean, LLC]
+🇺🇸 68.183.118.66:28548 375ms US [DigitalOcean, LLC]
 🇬🇧 51.89.21.99:62311 748ms GB [OVH SAS]
 🇷🇺 185.112.224.151:1080 395ms RU [Orion Telecom LLC]
-🇺🇸 64.202.184.129:5951 245ms US [GoDaddy.com, LLC]
+🇨🇦 142.93.150.134:43093 360ms CA [DigitalOcean, LLC]
+🇺🇸 64.202.184.129:5951 190ms US [GoDaddy.com, LLC]
 🇨🇦 134.122.43.203:56442 627ms CA [DigitalOcean, LLC]
+🇺🇸 157.230.191.76:6486 519ms US [DigitalOcean, LLC]
 🇷🇺 194.190.169.197:3701 329ms RU [Webmaster Agency Ltd]
-🇨🇳 117.74.65.207:5441 468ms CN [CNC Group CHINA169 Hebei Province Network]
-🇰🇷 183.111.180.80:80 279ms KR [Korea Telecom]
-🇸🇬 51.79.248.208:14720 638ms SG [OVH SAS]
+🇨🇳 117.74.65.207:5441 467ms CN [CNC Group CHINA169 Hebei Province Network]
+🇰🇷 183.111.180.80:80 299ms KR [Korea Telecom]
+🇸🇬 51.79.248.208:14720 689ms SG [OVH SAS]
 🇨🇦 184.95.235.194:1080 435ms CA [Fibrenoire Inc]
-🇨🇦 51.79.51.174:10328 767ms CA [OVH SAS]
+🇨🇦 51.79.51.174:10328 555ms CA [OVH SAS]
 🇳🇱 178.159.42.76:14300 567ms NL [Zomro B.V.]
 🇺🇦 91.200.115.49:1080 353ms UA [Joint Ukrainian American Enterprise "Telecommunications Resource Center" ltd]
 🇺🇸 199.204.248.155:33922 387ms US [Jumpline Inc]
