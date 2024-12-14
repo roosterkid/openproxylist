@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2024-12-15 02:00:01 GMT+7
+SOCKS5 Proxy list updated at 2024-12-15 03:00:02 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -13,18 +13,19 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 🇸🇬 51.79.177.70:25435 412ms SG [OVH SAS]
 🇫🇷 37.187.73.7:15229 743ms FR [OVH SAS]
 🇮🇩 103.174.178.131:1020 178ms ID [PT Gasatek Bintang Nusantara]
-🇺🇸 68.183.118.66:28548 509ms US [DigitalOcean, LLC]
-🇺🇸 64.202.184.129:5951 195ms US [GoDaddy.com, LLC]
+🇺🇸 68.183.118.66:28548 646ms US [DigitalOcean, LLC]
 🇸🇬 188.166.234.144:14605 229ms SG [DigitalOcean, LLC]
 🇺🇸 157.230.191.76:6486 477ms US [DigitalOcean, LLC]
-🇺🇸 67.205.177.122:56826 612ms US [DigitalOcean, LLC]
 🇷🇺 194.190.169.197:3701 375ms RU [Webmaster Agency Ltd]
-🇨🇳 117.74.65.207:5441 469ms CN [CNC Group CHINA169 Hebei Province Network]
+🇨🇳 117.74.65.207:5441 465ms CN [CNC Group CHINA169 Hebei Province Network]
 🇳🇱 165.22.204.32:7497 225ms NL [DigitalOcean, LLC]
-🇰🇷 183.111.180.80:80 181ms KR [Korea Telecom]
+🇰🇷 183.111.180.80:80 183ms KR [Korea Telecom]
+🇫🇷 37.44.238.2:63617 531ms FR [Harmony Hosting SARL]
 🇸🇬 51.79.248.208:14720 584ms SG [OVH SAS]
 🇨🇦 51.79.51.174:10328 699ms CA [OVH SAS]
+🇺🇦 31.41.90.142:1080 445ms UA [New Information Systems PP]
 🇺🇦 91.200.115.49:1080 368ms UA [Joint Ukrainian American Enterprise "Telecommunications Resource Center" ltd]
-🇺🇸 199.204.248.155:33922 375ms US [Jumpline Inc]
+🇺🇸 199.204.248.155:33922 712ms US [Jumpline Inc]
 🇹🇷 185.87.121.5:8975 669ms TR [Ideal Hosting Teknoloji A.S.]
 🇹🇷 185.86.5.162:8975 788ms TR [Ideal Hosting Teknoloji]
+🇮🇩 202.6.233.59:7878 581ms ID [PT Padi Internet]
