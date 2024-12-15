@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2024-12-15 08:00:01 GMT+7
+SOCKS5 Proxy list updated at 2024-12-15 09:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -15,15 +15,18 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 🇫🇷 37.187.73.7:15229 447ms FR [OVH SAS]
 🇧🇷 187.63.9.62:63253 721ms BR [Gigalink de Nova Friburgo Soluções em Rede Multimi]
 🇮🇩 103.174.178.131:1020 67ms ID [PT Gasatek Bintang Nusantara]
-🇬🇧 51.89.21.99:62311 710ms GB [OVH SAS]
+🇺🇸 68.183.118.66:28548 674ms US [DigitalOcean, LLC]
+🇬🇧 51.89.21.99:62311 674ms GB [OVH SAS]
 🇸🇬 188.166.234.144:14605 661ms SG [DigitalOcean, LLC]
+🇺🇸 157.230.191.76:6486 443ms US [DigitalOcean, LLC]
 🇺🇸 67.205.177.122:56826 538ms US [DigitalOcean, LLC]
 🇷🇺 194.190.169.197:3701 318ms RU [Webmaster Agency Ltd]
 🇻🇳 202.92.6.70:54580 501ms VN [INET]
-🇨🇳 117.74.65.207:5441 465ms CN [CNC Group CHINA169 Hebei Province Network]
+🇨🇳 117.74.65.207:5441 768ms CN [CNC Group CHINA169 Hebei Province Network]
 🇳🇱 165.22.204.32:7497 246ms NL [DigitalOcean, LLC]
-🇰🇷 183.111.180.80:80 162ms KR [Korea Telecom]
-🇸🇬 51.79.248.208:14720 718ms SG [OVH SAS]
+🇰🇷 183.111.180.80:80 180ms KR [Korea Telecom]
+🇫🇷 37.44.238.2:63617 598ms FR [Harmony Hosting SARL]
+🇸🇬 51.79.248.208:14720 176ms SG [OVH SAS]
 🇨🇦 51.79.51.174:10328 757ms CA [OVH SAS]
 🇦🇺 185.139.155.155:1976 637ms AU [Internet Vikings International AB]
 🇺🇦 91.200.115.49:1080 551ms UA [Joint Ukrainian American Enterprise "Telecommunications Resource Center" ltd]
