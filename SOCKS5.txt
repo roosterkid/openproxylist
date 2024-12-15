@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2024-12-15 11:00:01 GMT+7
+SOCKS5 Proxy list updated at 2024-12-15 12:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -10,27 +10,28 @@ https://buymeacoffee.com/roosterkid
 
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇸🇬 51.79.177.70:25435 116ms SG [OVH SAS]
+🇸🇬 51.79.177.70:25435 130ms SG [OVH SAS]
 🇺🇸 45.79.189.110:28224 689ms US [Akamai Technologies, Inc.]
-🇫🇷 37.187.73.7:15229 447ms FR [OVH SAS]
+🇫🇷 37.187.73.7:15229 631ms FR [OVH SAS]
 🇧🇷 187.63.9.62:63253 721ms BR [Gigalink de Nova Friburgo Soluções em Rede Multimi]
-🇮🇩 103.174.178.131:1020 67ms ID [PT Gasatek Bintang Nusantara]
-🇺🇸 68.183.118.66:28548 276ms US [DigitalOcean, LLC]
+🇺🇸 68.183.118.66:28548 231ms US [DigitalOcean, LLC]
 🇱🇺 104.244.75.78:31534 768ms LU [FranTech Solutions]
-🇬🇧 51.89.21.99:62311 674ms GB [OVH SAS]
+🇬🇧 51.89.21.99:62311 366ms GB [OVH SAS]
 🇷🇺 185.112.224.151:1080 730ms RU [Orion Telecom LLC]
+🇲🇩 5.56.124.176:8192 320ms MD [JSC "Moldtelecom" S.A]
 🇺🇸 64.202.184.129:5951 766ms US [GoDaddy.com, LLC]
+🇸🇬 188.166.234.144:14605 366ms SG [DigitalOcean, LLC]
 🇺🇸 157.230.191.76:6486 443ms US [DigitalOcean, LLC]
-🇺🇸 67.205.177.122:56826 538ms US [DigitalOcean, LLC]
-🇷🇺 194.190.169.197:3701 776ms RU [Webmaster Agency Ltd]
-🇨🇳 117.74.65.207:5441 475ms CN [CNC Group CHINA169 Hebei Province Network]
-🇰🇷 183.111.180.80:80 294ms KR [Korea Telecom]
+🇺🇸 67.205.177.122:56826 460ms US [DigitalOcean, LLC]
+🇷🇺 194.190.169.197:3701 441ms RU [Webmaster Agency Ltd]
+🇻🇳 202.92.6.70:54580 498ms VN [INET]
+🇨🇳 117.74.65.207:5441 776ms CN [CNC Group CHINA169 Hebei Province Network]
+🇳🇱 165.22.204.32:7497 328ms NL [DigitalOcean, LLC]
+🇰🇷 183.111.180.80:80 203ms KR [Korea Telecom]
 🇫🇷 37.44.238.2:63617 598ms FR [Harmony Hosting SARL]
 🇸🇬 51.79.248.208:14720 757ms SG [OVH SAS]
 🇨🇦 51.79.51.174:10328 757ms CA [OVH SAS]
-🇦🇺 185.139.155.155:1976 637ms AU [Internet Vikings International AB]
+🇺🇦 91.200.115.49:1080 567ms UA [Joint Ukrainian American Enterprise "Telecommunications Resource Center" ltd]
 🇺🇦 176.37.21.46:5678 282ms UA [Lanet Network]
 🇺🇸 199.204.248.155:33922 368ms US [Jumpline Inc]
-🇹🇷 185.87.121.35:8975 560ms TR [Ideal Hosting Teknoloji]
 🇹🇷 185.87.121.5:8975 764ms TR [Ideal Hosting Teknoloji A.S.]
-🇹🇷 185.86.5.162:8975 468ms TR [Ideal Hosting Teknoloji]
