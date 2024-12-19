@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2024-12-20 01:00:01 GMT+7
+SOCKS5 Proxy list updated at 2024-12-20 02:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -13,19 +13,17 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 🇸🇬 51.79.177.70:25435 217ms SG [OVH SAS]
 🇺🇸 45.79.189.110:28224 604ms US [Akamai Technologies, Inc.]
 🇧🇩 103.234.27.221:1080 437ms BD [BTS Communications (BD) Ltd]
-🇫🇷 37.187.73.7:15229 609ms FR [OVH SAS]
 🇪🇸 178.33.162.89:59490 721ms ES [OVH ISP]
 🇮🇩 103.174.178.131:1020 797ms ID [PT Gasatek Bintang Nusantara]
-🇺🇦 194.44.208.62:80 459ms UA [UARNET-LL]
+🇺🇦 194.44.208.62:80 594ms UA [UARNET-LL]
 🇨🇦 184.95.220.42:1080 333ms CA [Fibrenoire Inc.]
 🇻🇳 202.92.6.70:54580 313ms VN [INET]
 🇨🇳 117.74.65.207:5441 795ms CN [CNC Group CHINA169 Hebei Province Network]
-🇬🇧 51.155.10.0:8000 471ms GB [Zen Internet Ltd]
-🇰🇷 183.111.180.80:80 186ms KR [Korea Telecom]
-🇸🇬 51.79.248.208:14720 115ms SG [OVH SAS]
-🇨🇦 51.79.51.174:10328 684ms CA [OVH SAS]
-🇸🇬 167.71.220.29:7497 51ms SG [DigitalOcean, LLC]
+🇬🇧 51.155.10.0:8000 473ms GB [Zen Internet Ltd]
+🇰🇷 183.111.180.80:80 173ms KR [Korea Telecom]
+🇸🇬 51.79.248.208:14720 214ms SG [OVH SAS]
+🇨🇦 51.79.51.174:10328 523ms CA [OVH SAS]
+🇸🇬 167.71.220.29:7497 25ms SG [DigitalOcean, LLC]
 🇸🇬 188.166.230.38:64768 669ms SG [DigitalOcean, LLC]
 🇬🇧 81.143.236.200:443 404ms GB [BT Public Internet Service]
-🇹🇷 185.87.121.5:8975 551ms TR [Ideal Hosting Teknoloji A.S.]
 🇻🇳 113.160.188.21:1080 118ms VN [VietNam Post and Telecom Corporation]
