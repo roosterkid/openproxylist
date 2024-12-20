@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2024-12-20 22:00:01 GMT+7
+SOCKS5 Proxy list updated at 2024-12-20 23:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -12,16 +12,10 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
 🇧🇬 213.169.39.234:31098 797ms BG [Spectrum NET]
 🇸🇬 51.79.177.70:25435 191ms SG [OVH SAS]
-🇺🇸 45.79.189.110:28224 561ms US [Akamai Technologies, Inc.]
-🇫🇷 37.187.73.7:15229 398ms FR [OVH SAS]
 🇪🇸 178.33.162.89:59490 363ms ES [OVH ISP]
-🇨🇦 184.95.220.42:1080 368ms CA [Fibrenoire Inc.]
-🇸🇬 188.166.234.144:14605 467ms SG [DigitalOcean, LLC]
-🇻🇳 202.92.6.70:54580 349ms VN [INET]
-🇨🇳 117.74.65.207:5441 511ms CN [CNC Group CHINA169 Hebei Province Network]
-🇰🇷 183.111.180.80:80 194ms KR [Korea Telecom]
-🇸🇬 51.79.248.208:14720 251ms SG [OVH SAS]
+🇸🇬 188.166.234.144:14605 562ms SG [DigitalOcean, LLC]
+🇨🇳 117.74.65.207:5441 501ms CN [CNC Group CHINA169 Hebei Province Network]
+🇰🇷 183.111.180.80:80 177ms KR [Korea Telecom]
+🇸🇬 51.79.248.208:14720 778ms SG [OVH SAS]
 🇨🇦 51.79.51.174:10328 376ms CA [OVH SAS]
-🇺🇦 91.200.115.49:1080 363ms UA [Joint Ukrainian American Enterprise "Telecommunications Resource Center" ltd]
-🇿🇦 102.36.127.249:1080 522ms ZA [Clear Access (Pty) Ltd]
 🇺🇦 176.37.21.46:5678 422ms UA [Lanet Network]
