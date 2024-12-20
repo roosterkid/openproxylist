@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2024-12-20 15:00:02 GMT+7
+SOCKS5 Proxy list updated at 2024-12-20 16:00:02 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -11,7 +11,7 @@ https://buymeacoffee.com/roosterkid
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
 🇸🇬 51.79.177.70:25435 189ms SG [OVH SAS]
-🇺🇸 45.79.189.110:28224 576ms US [Akamai Technologies, Inc.]
+🇺🇸 45.79.189.110:28224 429ms US [Akamai Technologies, Inc.]
 🇫🇷 37.187.73.7:15229 593ms FR [OVH SAS]
 🇧🇩 103.180.203.133:8085 399ms BD [Md Ariful Haq]
 🇪🇸 178.33.162.89:59490 685ms ES [OVH ISP]
@@ -19,17 +19,19 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 🇺🇦 194.44.208.62:80 350ms UA [UARNET-LL]
 🇵🇸 93.184.4.254:1080 438ms PS [BCI Telecommunication & Advanced Technology Company]
 🇨🇦 134.122.43.203:56442 580ms CA [DigitalOcean, LLC]
-🇸🇬 188.166.234.144:14605 255ms SG [DigitalOcean, LLC]
-🇺🇸 67.205.177.122:56826 701ms US [DigitalOcean, LLC]
-🇨🇳 117.74.65.207:5441 609ms CN [CNC Group CHINA169 Hebei Province Network]
+🇸🇬 188.166.234.144:14605 531ms SG [DigitalOcean, LLC]
+🇺🇸 67.205.177.122:56826 516ms US [DigitalOcean, LLC]
+🇨🇳 117.74.65.207:5441 499ms CN [CNC Group CHINA169 Hebei Province Network]
 🇰🇷 193.123.252.70:35973 359ms KR [Oracle Corporation]
 🇸🇪 130.255.160.60:18946 624ms SE [Internet Vikings]
-🇳🇱 165.22.204.32:7497 259ms NL [DigitalOcean, LLC]
-🇰🇷 183.111.180.80:80 173ms KR [Korea Telecom]
+🇳🇱 165.22.204.32:7497 257ms NL [DigitalOcean, LLC]
+🇰🇷 183.111.180.80:80 180ms KR [Korea Telecom]
 🇫🇷 37.44.238.2:63617 379ms FR [Harmony Hosting SARL]
-🇸🇬 51.79.248.208:14720 205ms SG [OVH SAS]
-🇨🇦 51.79.51.174:10328 389ms CA [OVH SAS]
-🇸🇬 188.166.230.38:64768 758ms SG [DigitalOcean, LLC]
+🇸🇬 51.79.248.208:14720 275ms SG [OVH SAS]
+🇨🇦 51.79.51.174:10328 672ms CA [OVH SAS]
+🇸🇬 167.71.220.29:7497 34ms SG [DigitalOcean, LLC]
+🇸🇬 188.166.230.38:64768 593ms SG [DigitalOcean, LLC]
 🇺🇦 91.200.115.49:1080 369ms UA [Joint Ukrainian American Enterprise "Telecommunications Resource Center" ltd]
-🇺🇸 199.204.248.155:33922 455ms US [Jumpline Inc]
+🇿🇦 102.36.127.249:1080 459ms ZA [Clear Access (Pty) Ltd]
+🇺🇸 199.204.248.155:33922 582ms US [Jumpline Inc]
 🇷🇺 176.117.237.132:1080 364ms RU [CJSC "ER-Telecom Holding" Irkutsk branch]
