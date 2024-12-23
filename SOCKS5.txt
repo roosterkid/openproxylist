@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2024-12-23 18:00:01 GMT+7
+SOCKS5 Proxy list updated at 2024-12-23 19:00:02 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -12,15 +12,16 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
 🇸🇬 51.79.177.70:25435 588ms SG [OVH SAS]
 🇫🇷 37.187.73.7:15229 656ms FR [OVH SAS]
-🇧🇩 103.180.203.133:8085 108ms BD [Md Ariful Haq]
 🇻🇳 116.97.240.147:4996 110ms VN [Viettel Corporation]
 🇵🇸 93.184.4.254:1080 484ms PS [BCI Telecommunication & Advanced Technology Company]
 🇸🇬 188.166.234.144:14605 173ms SG [DigitalOcean, LLC]
 🇻🇳 202.92.6.70:54580 442ms VN [INET]
-🇨🇳 117.74.65.207:5441 796ms CN [CNC Group CHINA169 Hebei Province Network]
+🇨🇳 117.74.65.207:5441 467ms CN [CNC Group CHINA169 Hebei Province Network]
 🇳🇱 165.22.204.32:7497 253ms NL [DigitalOcean, LLC]
-🇰🇷 183.111.180.80:80 209ms KR [Korea Telecom]
-🇫🇷 37.44.238.2:63617 748ms FR [Harmony Hosting SARL]
-🇸🇬 51.79.248.208:14720 435ms SG [OVH SAS]
+🇰🇷 183.111.180.80:80 216ms KR [Korea Telecom]
+🇸🇬 51.79.248.208:14720 204ms SG [OVH SAS]
+🇨🇦 184.95.235.194:1080 290ms CA [Fibrenoire Inc]
 🇨🇦 51.79.51.174:10328 422ms CA [OVH SAS]
+🇳🇱 178.159.42.76:14300 502ms NL [Zomro B.V.]
 🇸🇬 188.166.230.38:64768 750ms SG [DigitalOcean, LLC]
+🇺🇦 91.200.115.49:1080 555ms UA [Joint Ukrainian American Enterprise "Telecommunications Resource Center" ltd]
