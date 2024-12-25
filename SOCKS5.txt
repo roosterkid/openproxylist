@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2024-12-25 14:00:01 GMT+7
+SOCKS5 Proxy list updated at 2024-12-25 15:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -20,15 +20,16 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 🇷🇺 94.73.251.19:1080 529ms RU [Orion Telecom LLC]
 🇷🇺 85.143.254.38:1080 333ms RU [Comfortel Ltd.]
 🇷🇺 95.156.83.139:1080 472ms RU [PJSC Rostelecom]
-🇨🇦 134.122.43.203:56442 794ms CA [DigitalOcean, LLC]
+🇨🇦 184.95.220.42:1080 484ms CA [Fibrenoire Inc.]
 🇸🇬 188.166.234.144:14605 286ms SG [DigitalOcean, LLC]
-🇨🇳 117.74.65.207:5441 500ms CN [CNC Group CHINA169 Hebei Province Network]
-🇰🇷 183.111.180.80:80 210ms KR [Korea Telecom]
-🇸🇬 51.79.248.208:14720 185ms SG [OVH SAS]
+🇬🇧 51.195.218.144:22294 575ms GB [OVH SAS]
+🇨🇳 117.74.65.207:5441 789ms CN [CNC Group CHINA169 Hebei Province Network]
+🇰🇷 183.111.180.80:80 174ms KR [Korea Telecom]
+🇸🇬 51.79.248.208:14720 533ms SG [OVH SAS]
 🇺🇸 143.198.229.56:60265 555ms US [DigitalOcean, LLC]
 🇨🇦 184.95.235.194:1080 386ms CA [Fibrenoire Inc]
 🇨🇦 51.79.51.174:10328 516ms CA [OVH SAS]
 🇦🇺 185.139.155.155:1976 488ms AU [Internet Vikings International AB]
 🇳🇱 178.159.42.76:14300 702ms NL [Zomro B.V.]
-🇹🇷 185.87.121.35:8975 561ms TR [Ideal Hosting Teknoloji]
+🇮🇳 139.59.93.221:27247 146ms IN [DIGITALOCEAN]
 🇹🇷 185.87.121.5:8975 599ms TR [Ideal Hosting Teknoloji A.S.]
