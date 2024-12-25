@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2024-12-26 01:00:01 GMT+7
+SOCKS5 Proxy list updated at 2024-12-26 02:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -10,28 +10,31 @@ https://buymeacoffee.com/roosterkid
 
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇸🇬 51.79.177.70:25435 423ms SG [OVH SAS]
-🇧🇩 103.180.203.133:8085 484ms BD [Md Ariful Haq]
+🇷🇺 87.117.11.57:1080 341ms RU [Macroregional South]
+🇸🇬 51.79.177.70:25435 422ms SG [OVH SAS]
 🇺🇸 69.164.206.8:1747 509ms US [Akamai Technologies, Inc.]
 🇻🇳 116.97.240.147:4996 468ms VN [Viettel Corporation]
-🇮🇩 103.174.178.131:1020 786ms ID [PT Gasatek Bintang Nusantara]
+🇪🇸 178.33.162.89:59490 379ms ES [OVH ISP]
+🇮🇩 103.174.178.131:1020 68ms ID [PT Gasatek Bintang Nusantara]
 🇷🇺 94.73.251.19:1080 543ms RU [Orion Telecom LLC]
 🇷🇺 185.23.81.5:1080 414ms RU [OJSC Telecom-Service]
 🇨🇦 184.95.220.42:1080 584ms CA [Fibrenoire Inc.]
 🇨🇦 134.122.43.203:56442 670ms CA [DigitalOcean, LLC]
 🇸🇬 188.166.234.144:14605 526ms SG [DigitalOcean, LLC]
 🇬🇧 51.195.218.144:22294 590ms GB [OVH SAS]
-🇺🇸 142.93.201.183:47381 447ms US [DigitalOcean, LLC]
-🇨🇳 117.74.65.207:5441 570ms CN [CNC Group CHINA169 Hebei Province Network]
+🇺🇸 142.93.201.183:47381 385ms US [DigitalOcean, LLC]
+🇨🇳 117.74.65.207:5441 765ms CN [CNC Group CHINA169 Hebei Province Network]
 🇸🇪 130.255.160.60:18946 716ms SE [Internet Vikings]
-🇰🇷 183.111.180.80:80 202ms KR [Korea Telecom]
-🇫🇷 37.44.238.2:63617 662ms FR [Harmony Hosting SARL]
-🇸🇬 51.79.248.208:14720 325ms SG [OVH SAS]
-🇨🇦 51.79.51.174:10328 503ms CA [OVH SAS]
+🇰🇷 183.111.180.80:80 190ms KR [Korea Telecom]
+🇫🇷 37.44.238.2:63617 374ms FR [Harmony Hosting SARL]
+🇸🇬 51.79.248.208:14720 423ms SG [OVH SAS]
+🇺🇸 143.198.229.56:60265 344ms US [DigitalOcean, LLC]
+🇨🇦 51.79.51.174:10328 405ms CA [OVH SAS]
 🇳🇱 178.159.42.76:14300 369ms NL [Zomro B.V.]
-🇸🇬 188.166.230.38:64768 114ms SG [DigitalOcean, LLC]
+🇸🇬 188.166.230.38:64768 782ms SG [DigitalOcean, LLC]
 🇺🇦 91.200.115.49:1080 250ms UA [Joint Ukrainian American Enterprise "Telecommunications Resource Center" ltd]
 🇮🇳 139.59.93.221:27247 726ms IN [DIGITALOCEAN]
+🇺🇸 185.209.177.12:38404 267ms US [Maxihost LLC]
 🇺🇸 199.204.248.155:33922 492ms US [Jumpline Inc]
 🇹🇷 185.87.121.5:8975 478ms TR [Ideal Hosting Teknoloji A.S.]
-🇹🇷 185.86.5.162:8975 466ms TR [Ideal Hosting Teknoloji]
+🇹🇷 185.86.5.162:8975 428ms TR [Ideal Hosting Teknoloji]
