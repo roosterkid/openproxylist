@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2024-12-26 14:00:01 GMT+7
+SOCKS5 Proxy list updated at 2024-12-26 15:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -11,27 +11,27 @@ https://buymeacoffee.com/roosterkid
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
 🇩🇪 161.97.129.202:9060 612ms DE [Contabo GmbH]
-🇸🇬 51.79.177.70:25435 398ms SG [OVH SAS]
+🇸🇬 51.79.177.70:25435 97ms SG [OVH SAS]
 🇫🇷 37.187.73.7:15229 412ms FR [OVH SAS]
 🇻🇳 116.97.240.147:4996 243ms VN [Viettel Corporation]
 🇮🇩 103.174.178.131:1020 360ms ID [PT Gasatek Bintang Nusantara]
 🇬🇧 51.89.21.99:62311 743ms GB [OVH SAS]
-🇷🇺 94.73.251.19:1080 687ms RU [Orion Telecom LLC]
+🇷🇺 94.73.251.19:1080 554ms RU [Orion Telecom LLC]
 🇷🇺 95.156.83.139:1080 289ms RU [PJSC Rostelecom]
-🇺🇦 194.44.208.62:80 310ms UA [UARNET-LL]
+🇺🇦 194.44.208.62:80 623ms UA [UARNET-LL]
+🇷🇺 185.23.81.5:1080 572ms RU [OJSC Telecom-Service]
 🇵🇸 93.184.4.254:1080 474ms PS [BCI Telecommunication & Advanced Technology Company]
 🇺🇸 64.202.184.129:5951 762ms US [GoDaddy.com, LLC]
 🇸🇬 188.166.234.144:14605 363ms SG [DigitalOcean, LLC]
-🇬🇧 51.195.218.144:22294 749ms GB [OVH SAS]
 🇺🇸 67.205.177.122:56826 364ms US [DigitalOcean, LLC]
 🇻🇳 202.92.6.70:54580 510ms VN [INET]
-🇨🇳 117.74.65.207:5441 692ms CN [CNC Group CHINA169 Hebei Province Network]
+🇨🇳 117.74.65.207:5441 493ms CN [CNC Group CHINA169 Hebei Province Network]
 🇸🇪 130.255.160.60:18946 737ms SE [Internet Vikings]
-🇰🇷 183.111.180.80:80 210ms KR [Korea Telecom]
+🇰🇷 183.111.180.80:80 211ms KR [Korea Telecom]
 🇻🇳 103.153.254.95:32323 268ms VN [VINAHOST-HN]
-🇸🇬 51.79.248.208:14720 504ms SG [OVH SAS]
+🇸🇬 51.79.248.208:14720 256ms SG [OVH SAS]
 🇺🇸 143.198.229.56:60265 230ms US [DigitalOcean, LLC]
 🇸🇬 188.166.230.38:64768 350ms SG [DigitalOcean, LLC]
 🇻🇳 113.176.118.150:1080 252ms VN [VNPT]
-🇺🇸 199.204.248.155:33922 383ms US [Jumpline Inc]
-🇹🇷 185.87.121.5:8975 642ms TR [Ideal Hosting Teknoloji A.S.]
+🇺🇸 199.204.248.155:33922 362ms US [Jumpline Inc]
+🇹🇷 185.87.121.5:8975 460ms TR [Ideal Hosting Teknoloji A.S.]
