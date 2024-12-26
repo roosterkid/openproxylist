@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2024-12-26 18:00:01 GMT+7
+SOCKS5 Proxy list updated at 2024-12-26 19:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -10,18 +10,21 @@ https://buymeacoffee.com/roosterkid
 
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
+🇷🇺 87.117.11.57:1080 444ms RU [Macroregional South]
 🇸🇬 51.79.177.70:25435 240ms SG [OVH SAS]
-🇻🇳 116.97.240.147:4996 243ms VN [Viettel Corporation]
+🇪🇸 178.33.162.89:59490 602ms ES [OVH ISP]
 🇮🇩 103.174.178.131:1020 71ms ID [PT Gasatek Bintang Nusantara]
 🇷🇺 94.73.251.19:1080 557ms RU [Orion Telecom LLC]
 🇺🇦 194.44.208.62:80 623ms UA [UARNET-LL]
 🇷🇺 185.23.81.5:1080 312ms RU [OJSC Telecom-Service]
-🇺🇸 64.202.184.129:5951 762ms US [GoDaddy.com, LLC]
+🇫🇷 37.59.56.111:59166 306ms FR [OVH SAS]
 🇸🇬 188.166.234.144:14605 311ms SG [DigitalOcean, LLC]
 🇺🇸 67.205.177.122:56826 602ms US [DigitalOcean, LLC]
 🇨🇳 117.74.65.207:5441 496ms CN [CNC Group CHINA169 Hebei Province Network]
-🇰🇷 183.111.180.80:80 190ms KR [Korea Telecom]
-🇸🇬 51.79.248.208:14720 470ms SG [OVH SAS]
+🇰🇷 183.111.180.80:80 266ms KR [Korea Telecom]
+🇸🇬 51.79.248.208:14720 578ms SG [OVH SAS]
+🇺🇸 143.198.229.56:60265 374ms US [DigitalOcean, LLC]
 🇺🇦 91.200.115.49:1080 375ms UA [Joint Ukrainian American Enterprise "Telecommunications Resource Center" ltd]
-🇺🇸 199.204.248.155:33922 653ms US [Jumpline Inc]
+🇺🇸 199.204.248.155:33922 321ms US [Jumpline Inc]
 🇹🇷 185.87.121.5:8975 539ms TR [Ideal Hosting Teknoloji A.S.]
+🇹🇷 185.86.5.162:8975 654ms TR [Ideal Hosting Teknoloji]
