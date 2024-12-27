@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2024-12-27 08:00:02 GMT+7
+SOCKS5 Proxy list updated at 2024-12-27 09:00:02 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -19,19 +19,18 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 🇬🇧 51.89.21.99:62311 714ms GB [OVH SAS]
 🇷🇺 85.143.254.38:1080 406ms RU [Comfortel Ltd.]
 🇷🇺 185.23.81.5:1080 422ms RU [OJSC Telecom-Service]
-🇸🇬 139.162.45.175:10000 85ms SG [Akamai Technologies, Inc.]
+🇸🇬 139.162.45.175:10000 70ms SG [Akamai Technologies, Inc.]
 🇺🇸 64.202.184.129:5951 480ms US [GoDaddy.com, LLC]
-🇫🇷 37.59.56.111:59166 344ms FR [OVH SAS]
+🇫🇷 37.59.56.111:59166 304ms FR [OVH SAS]
 🇸🇬 188.166.234.144:14605 375ms SG [DigitalOcean, LLC]
 🇺🇸 157.230.191.76:6486 560ms US [DigitalOcean, LLC]
-🇿🇦 102.36.127.53:1080 614ms ZA [Clear Access (Pty) Ltd]
-🇺🇸 67.205.177.122:56826 596ms US [DigitalOcean, LLC]
+🇺🇸 67.205.177.122:56826 530ms US [DigitalOcean, LLC]
 🇷🇺 194.190.169.197:3701 797ms RU [Webmaster Agency Ltd]
-🇨🇳 117.74.65.207:5441 769ms CN [CNC Group CHINA169 Hebei Province Network]
+🇨🇳 117.74.65.207:5441 514ms CN [CNC Group CHINA169 Hebei Province Network]
 🇸🇪 130.255.160.60:18946 616ms SE [Internet Vikings]
-🇰🇷 183.111.180.80:80 204ms KR [Korea Telecom]
-🇫🇷 37.44.238.2:63617 632ms FR [Harmony Hosting SARL]
-🇸🇬 51.79.248.208:14720 389ms SG [OVH SAS]
+🇰🇷 183.111.180.80:80 296ms KR [Korea Telecom]
+🇫🇷 37.44.238.2:63617 606ms FR [Harmony Hosting SARL]
+🇸🇬 51.79.248.208:14720 552ms SG [OVH SAS]
 🇺🇸 143.198.229.56:60265 427ms US [DigitalOcean, LLC]
 🇺🇦 185.25.119.98:43725 675ms UA [Hosting Ukraine LTD]
 🇨🇦 51.79.51.174:10328 445ms CA [OVH SAS]
