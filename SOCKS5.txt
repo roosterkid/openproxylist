@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2024-12-28 21:00:01 GMT+7
+SOCKS5 Proxy list updated at 2024-12-28 22:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -10,26 +10,28 @@ https://buymeacoffee.com/roosterkid
 
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇸🇬 51.79.177.70:25435 118ms SG [OVH SAS]
+🇸🇬 51.79.177.70:25435 82ms SG [OVH SAS]
+🇧🇩 103.234.27.221:1080 240ms BD [BTS Communications (BD) Ltd]
 🇧🇷 187.63.9.62:63253 739ms BR [Gigalink de Nova Friburgo Soluções em Rede Multimi]
-🇪🇸 178.33.162.89:59490 595ms ES [OVH ISP]
 🇮🇩 103.174.178.131:1020 116ms ID [PT Gasatek Bintang Nusantara]
-🇬🇧 51.89.21.99:62311 725ms GB [OVH SAS]
-🇨🇦 142.93.150.134:43093 669ms CA [DigitalOcean, LLC]
+🇬🇧 51.89.21.99:62311 394ms GB [OVH SAS]
+🇨🇦 142.93.150.134:43093 640ms CA [DigitalOcean, LLC]
 🇺🇦 194.44.208.62:80 616ms UA [UARNET-LL]
 🇨🇦 184.95.220.42:1080 375ms CA [Fibrenoire Inc.]
 🇺🇸 67.205.174.75:10286 413ms US [DigitalOcean, LLC]
 🇺🇸 64.202.184.129:5951 710ms US [GoDaddy.com, LLC]
-🇫🇷 37.59.56.111:59166 331ms FR [OVH SAS]
+🇫🇷 37.59.56.111:59166 300ms FR [OVH SAS]
 🇸🇬 188.166.234.144:14605 533ms SG [DigitalOcean, LLC]
-🇨🇳 117.74.65.207:5441 603ms CN [CNC Group CHINA169 Hebei Province Network]
-🇰🇷 183.111.180.80:80 336ms KR [Korea Telecom]
+🇺🇸 157.230.191.76:6486 709ms US [DigitalOcean, LLC]
+🇺🇸 67.205.177.122:56826 677ms US [DigitalOcean, LLC]
+🇨🇳 117.74.65.207:5441 496ms CN [CNC Group CHINA169 Hebei Province Network]
+🇰🇷 183.111.180.80:80 335ms KR [Korea Telecom]
 🇫🇷 37.44.238.2:63617 719ms FR [Harmony Hosting SARL]
-🇸🇬 51.79.248.208:14720 737ms SG [OVH SAS]
-🇺🇸 143.198.229.56:60265 318ms US [DigitalOcean, LLC]
+🇸🇬 51.79.248.208:14720 177ms SG [OVH SAS]
+🇺🇸 143.198.229.56:60265 463ms US [DigitalOcean, LLC]
 🇨🇦 184.95.235.194:1080 383ms CA [Fibrenoire Inc]
 🇨🇦 51.79.51.174:10328 426ms CA [OVH SAS]
 🇸🇬 188.166.230.38:64768 734ms SG [DigitalOcean, LLC]
 🇮🇳 139.59.93.221:27247 317ms IN [DIGITALOCEAN]
-🇺🇸 199.204.248.155:33922 464ms US [Jumpline Inc]
-🇹🇷 185.87.121.5:8975 654ms TR [Ideal Hosting Teknoloji A.S.]
+🇺🇸 199.204.248.155:33922 381ms US [Jumpline Inc]
+🇹🇷 185.87.121.5:8975 574ms TR [Ideal Hosting Teknoloji A.S.]
