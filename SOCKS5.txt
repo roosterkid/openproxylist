@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2024-12-28 15:00:02 GMT+7
+SOCKS5 Proxy list updated at 2024-12-28 16:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -11,27 +11,26 @@ https://buymeacoffee.com/roosterkid
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
 🇫🇷 37.187.73.7:15229 774ms FR [OVH SAS]
-🇪🇸 178.33.162.89:59490 656ms ES [OVH ISP]
 🇮🇩 103.174.178.131:1020 76ms ID [PT Gasatek Bintang Nusantara]
 🇬🇧 51.89.21.99:62311 793ms GB [OVH SAS]
-🇨🇦 142.93.150.134:43093 718ms CA [DigitalOcean, LLC]
-🇺🇦 194.44.208.62:80 503ms UA [UARNET-LL]
+🇺🇦 194.44.208.62:80 433ms UA [UARNET-LL]
 🇷🇺 185.23.81.5:1080 462ms RU [OJSC Telecom-Service]
-🇸🇬 139.162.45.175:10000 130ms SG [Akamai Technologies, Inc.]
+🇸🇬 139.162.45.175:10000 457ms SG [Akamai Technologies, Inc.]
 🇺🇸 67.205.174.75:10286 468ms US [DigitalOcean, LLC]
-🇫🇷 37.59.56.111:59166 400ms FR [OVH SAS]
+🇫🇷 37.59.56.111:59166 408ms FR [OVH SAS]
 🇸🇬 188.166.234.144:14605 215ms SG [DigitalOcean, LLC]
 🇺🇸 67.205.177.122:56826 473ms US [DigitalOcean, LLC]
 🇺🇸 142.93.201.183:47381 583ms US [DigitalOcean, LLC]
 🇨🇳 117.74.65.207:5441 504ms CN [CNC Group CHINA169 Hebei Province Network]
-🇸🇪 130.255.160.60:18946 631ms SE [Internet Vikings]
 🇳🇱 165.22.204.32:7497 253ms NL [DigitalOcean, LLC]
-🇰🇷 183.111.180.80:80 296ms KR [Korea Telecom]
+🇰🇷 183.111.180.80:80 196ms KR [Korea Telecom]
 🇫🇷 37.44.238.2:63617 698ms FR [Harmony Hosting SARL]
-🇸🇬 51.79.248.208:14720 781ms SG [OVH SAS]
-🇺🇸 143.198.229.56:60265 419ms US [DigitalOcean, LLC]
+🇸🇬 51.79.248.208:14720 283ms SG [OVH SAS]
+🇺🇸 143.198.229.56:60265 363ms US [DigitalOcean, LLC]
 🇺🇦 185.25.119.98:43725 582ms UA [Hosting Ukraine LTD]
+🇨🇦 51.79.51.174:10328 530ms CA [OVH SAS]
 🇸🇬 188.166.230.38:64768 794ms SG [DigitalOcean, LLC]
 🇺🇦 91.200.115.49:1080 354ms UA [Joint Ukrainian American Enterprise "Telecommunications Resource Center" ltd]
-🇺🇸 199.204.248.155:33922 371ms US [Jumpline Inc]
+🇺🇸 199.204.248.155:33922 718ms US [Jumpline Inc]
+🇹🇷 185.87.121.5:8975 564ms TR [Ideal Hosting Teknoloji A.S.]
 🇹🇷 185.86.5.162:8975 528ms TR [Ideal Hosting Teknoloji]
