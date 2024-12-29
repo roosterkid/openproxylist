@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2024-12-30 02:00:01 GMT+7
+SOCKS5 Proxy list updated at 2024-12-30 03:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -10,24 +10,27 @@ https://buymeacoffee.com/roosterkid
 
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇸🇬 51.79.177.70:25435 496ms SG [OVH SAS]
+🇸🇬 51.79.177.70:25435 118ms SG [OVH SAS]
 🇻🇳 116.97.240.147:4996 88ms VN [Viettel Corporation]
-🇮🇩 103.174.178.131:1020 73ms ID [PT Gasatek Bintang Nusantara]
+🇪🇸 178.33.162.89:59490 463ms ES [OVH ISP]
+🇮🇩 103.174.178.131:1020 371ms ID [PT Gasatek Bintang Nusantara]
 🇺🇸 68.183.118.66:28548 653ms US [DigitalOcean, LLC]
 🇬🇧 51.89.21.99:62311 419ms GB [OVH SAS]
 🇨🇦 142.93.150.134:43093 228ms CA [DigitalOcean, LLC]
 🇲🇩 5.56.124.176:8192 398ms MD [JSC "Moldtelecom" S.A]
+🇨🇦 184.95.220.42:1080 435ms CA [Fibrenoire Inc.]
 🇺🇸 64.202.184.129:5951 509ms US [GoDaddy.com, LLC]
 🇸🇬 188.166.234.144:14605 35ms SG [DigitalOcean, LLC]
-🇺🇸 67.205.177.122:56826 551ms US [DigitalOcean, LLC]
+🇺🇸 67.205.177.122:56826 794ms US [DigitalOcean, LLC]
 🇻🇳 202.92.6.70:54580 703ms VN [INET]
-🇨🇳 117.74.65.207:5441 769ms CN [CNC Group CHINA169 Hebei Province Network]
-🇰🇷 183.111.180.80:80 298ms KR [Korea Telecom]
-🇸🇬 51.79.248.208:14720 402ms SG [OVH SAS]
-🇺🇸 143.198.229.56:60265 353ms US [DigitalOcean, LLC]
+🇨🇳 117.74.65.207:5441 766ms CN [CNC Group CHINA169 Hebei Province Network]
+🇰🇷 183.111.180.80:80 278ms KR [Korea Telecom]
+🇸🇬 51.79.248.208:14720 382ms SG [OVH SAS]
+🇺🇸 143.198.229.56:60265 334ms US [DigitalOcean, LLC]
 🇨🇦 51.79.51.174:10328 637ms CA [OVH SAS]
+🇸🇬 167.71.220.29:7497 25ms SG [DigitalOcean, LLC]
 🇸🇬 188.166.230.38:64768 194ms SG [DigitalOcean, LLC]
-🇺🇸 199.204.248.155:33922 481ms US [Jumpline Inc]
-🇹🇷 185.87.121.5:8975 506ms TR [Ideal Hosting Teknoloji A.S.]
-🇹🇷 185.86.5.162:8975 761ms TR [Ideal Hosting Teknoloji]
+🇺🇦 91.200.115.49:1080 254ms UA [Joint Ukrainian American Enterprise "Telecommunications Resource Center" ltd]
+🇺🇸 199.204.248.155:33922 539ms US [Jumpline Inc]
+🇹🇷 185.86.5.162:8975 452ms TR [Ideal Hosting Teknoloji]
 🇻🇳 113.160.188.21:1080 208ms VN [VietNam Post and Telecom Corporation]
