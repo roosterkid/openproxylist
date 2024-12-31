@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2024-12-31 06:00:01 GMT+7
+SOCKS5 Proxy list updated at 2024-12-31 07:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -12,8 +12,9 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
 🇸🇬 51.79.177.70:25435 116ms SG [OVH SAS]
 🇺🇸 198.23.143.24:6969 765ms US [ColoCrossing]
-🇫🇷 37.187.73.7:15229 661ms FR [OVH SAS]
+🇫🇷 37.187.73.7:15229 668ms FR [OVH SAS]
 🇧🇩 103.180.203.133:8085 204ms BD [Md Ariful Haq]
+🇻🇳 116.97.240.147:4996 237ms VN [Viettel Corporation]
 🇮🇩 103.174.178.131:1020 367ms ID [PT Gasatek Bintang Nusantara]
 🇺🇦 194.44.208.62:80 467ms UA [UARNET-LL]
 🇺🇸 67.205.174.75:10286 797ms US [DigitalOcean, LLC]
@@ -22,14 +23,14 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 🇺🇸 67.205.177.122:56826 465ms US [DigitalOcean, LLC]
 🇷🇺 194.190.169.197:3701 671ms RU [Webmaster Agency Ltd]
 🇻🇳 202.92.6.70:54580 580ms VN [INET]
-🇨🇳 117.74.65.207:5441 469ms CN [CNC Group CHINA169 Hebei Province Network]
+🇨🇳 117.74.65.207:5441 476ms CN [CNC Group CHINA169 Hebei Province Network]
 🇸🇪 130.255.160.60:18946 516ms SE [Internet Vikings]
-🇫🇷 37.44.238.2:63617 712ms FR [Harmony Hosting SARL]
-🇸🇬 51.79.248.208:14720 244ms SG [OVH SAS]
+🇫🇷 37.44.238.2:63617 602ms FR [Harmony Hosting SARL]
+🇸🇬 51.79.248.208:14720 427ms SG [OVH SAS]
 🇺🇸 143.198.229.56:60265 550ms US [DigitalOcean, LLC]
 🇨🇦 51.79.51.174:10328 559ms CA [OVH SAS]
 🇸🇬 188.166.230.38:64768 594ms SG [DigitalOcean, LLC]
-🇮🇳 139.59.93.221:27247 552ms IN [DIGITALOCEAN]
+🇮🇳 139.59.93.221:27247 244ms IN [DIGITALOCEAN]
 🇺🇸 199.204.248.155:33922 482ms US [Jumpline Inc]
 🇬🇧 81.143.236.200:443 684ms GB [BT Public Internet Service]
 🇹🇷 185.87.121.5:8975 554ms TR [Ideal Hosting Teknoloji A.S.]
