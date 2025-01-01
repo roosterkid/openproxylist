@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2025-01-01 21:00:01 GMT+7
+SOCKS5 Proxy list updated at 2025-01-01 22:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -10,24 +10,19 @@ https://buymeacoffee.com/roosterkid
 
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇷🇺 87.117.11.57:1080 530ms RU [Macroregional South]
 🇸🇬 51.79.177.70:25435 541ms SG [OVH SAS]
 🇧🇩 103.234.27.221:1080 161ms BD [BTS Communications (BD) Ltd]
 🇫🇷 37.187.73.7:15229 508ms FR [OVH SAS]
 🇻🇳 116.97.240.147:4996 354ms VN [Viettel Corporation]
-🇺🇸 67.205.174.75:10286 307ms US [DigitalOcean, LLC]
-🇺🇸 64.202.184.129:5951 283ms US [GoDaddy.com, LLC]
+🇺🇸 64.202.184.129:5951 207ms US [GoDaddy.com, LLC]
 🇸🇬 188.166.234.144:14605 289ms SG [DigitalOcean, LLC]
-🇨🇳 117.74.65.207:5441 795ms CN [CNC Group CHINA169 Hebei Province Network]
+🇨🇳 117.74.65.207:5441 509ms CN [CNC Group CHINA169 Hebei Province Network]
 🇸🇪 130.255.160.60:18946 625ms SE [Internet Vikings]
 🇫🇷 37.44.238.2:63617 509ms FR [Harmony Hosting SARL]
-🇸🇬 51.79.248.208:14720 66ms SG [OVH SAS]
+🇸🇬 51.79.248.208:14720 144ms SG [OVH SAS]
 🇺🇸 143.198.229.56:60265 685ms US [DigitalOcean, LLC]
 🇨🇦 184.95.235.194:1080 355ms CA [Fibrenoire Inc]
 🇨🇦 51.79.51.174:10328 609ms CA [OVH SAS]
-🇳🇱 178.159.42.76:14300 506ms NL [Zomro B.V.]
-🇻🇳 113.176.118.150:1080 122ms VN [VNPT]
-🇺🇸 199.204.248.155:33922 378ms US [Jumpline Inc]
+🇺🇦 176.37.21.46:5678 463ms UA [Lanet Network]
 🇹🇷 185.86.5.162:8975 519ms TR [Ideal Hosting Teknoloji]
 🇬🇧 188.241.45.142:2021 243ms GB [Talk Straight Ltd.]
-🇫🇷 51.83.190.248:19050 711ms FR [OVH SAS]
