@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2025-01-01 16:00:01 GMT+7
+SOCKS5 Proxy list updated at 2025-01-01 17:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -10,22 +10,22 @@ https://buymeacoffee.com/roosterkid
 
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇸🇬 51.79.177.70:25435 223ms SG [OVH SAS]
+🇷🇺 87.117.11.57:1080 530ms RU [Macroregional South]
+🇸🇬 51.79.177.70:25435 489ms SG [OVH SAS]
 🇮🇩 103.174.178.131:1020 791ms ID [PT Gasatek Bintang Nusantara]
 🇺🇸 68.183.118.66:28548 588ms US [DigitalOcean, LLC]
-🇺🇸 67.205.174.75:10286 644ms US [DigitalOcean, LLC]
+🇺🇸 67.205.174.75:10286 307ms US [DigitalOcean, LLC]
 🇸🇬 188.166.234.144:14605 399ms SG [DigitalOcean, LLC]
 🇺🇸 157.230.191.76:6486 695ms US [DigitalOcean, LLC]
 🇨🇳 117.74.65.207:5441 524ms CN [CNC Group CHINA169 Hebei Province Network]
 🇷🇺 89.19.177.197:1080 334ms RU [OJSC Comcor]
-🇸🇬 51.79.248.208:14720 389ms SG [OVH SAS]
-🇺🇸 143.198.229.56:60265 259ms US [DigitalOcean, LLC]
+🇸🇬 51.79.248.208:14720 178ms SG [OVH SAS]
 🇨🇦 51.79.51.174:10328 460ms CA [OVH SAS]
-🇳🇱 178.159.42.76:14300 754ms NL [Zomro B.V.]
+🇳🇱 178.159.42.76:14300 506ms NL [Zomro B.V.]
 🇸🇬 188.166.230.38:64768 315ms SG [DigitalOcean, LLC]
-🇻🇳 113.176.118.150:1080 219ms VN [VNPT]
-🇺🇸 199.204.248.155:33922 311ms US [Jumpline Inc]
+🇻🇳 113.176.118.150:1080 122ms VN [VNPT]
+🇺🇸 199.204.248.155:33922 378ms US [Jumpline Inc]
 🇹🇷 185.87.121.35:8975 534ms TR [Ideal Hosting Teknoloji]
 🇹🇷 185.87.121.5:8975 551ms TR [Ideal Hosting Teknoloji A.S.]
-🇫🇷 51.83.190.248:19050 679ms FR [OVH SAS]
+🇫🇷 51.83.190.248:19050 711ms FR [OVH SAS]
 🇻🇳 113.160.188.21:1080 422ms VN [VietNam Post and Telecom Corporation]
