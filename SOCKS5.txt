@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2025-01-02 18:00:01 GMT+7
+SOCKS5 Proxy list updated at 2025-01-02 19:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -13,16 +13,15 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 🇸🇬 51.79.177.70:25435 294ms SG [OVH SAS]
 🇫🇷 37.187.73.7:15229 630ms FR [OVH SAS]
 🇻🇳 116.97.240.147:4996 429ms VN [Viettel Corporation]
-🇮🇩 103.174.178.131:1020 74ms ID [PT Gasatek Bintang Nusantara]
-🇺🇸 67.205.174.75:10286 701ms US [DigitalOcean, LLC]
+🇺🇦 194.44.208.62:80 371ms UA [UARNET-LL]
 🇺🇸 64.202.184.129:5951 299ms US [GoDaddy.com, LLC]
-🇸🇬 188.166.234.144:14605 453ms SG [DigitalOcean, LLC]
+🇸🇬 188.166.234.144:14605 457ms SG [DigitalOcean, LLC]
 🇻🇳 202.92.6.70:54580 190ms VN [INET]
 🇨🇳 117.74.65.207:5441 785ms CN [CNC Group CHINA169 Hebei Province Network]
-🇸🇪 130.255.160.60:18946 491ms SE [Internet Vikings]
-🇸🇬 51.79.248.208:14720 141ms SG [OVH SAS]
-🇨🇦 184.95.235.194:1080 705ms CA [Fibrenoire Inc]
-🇨🇦 51.79.51.174:10328 611ms CA [OVH SAS]
+🇸🇬 51.79.248.208:14720 270ms SG [OVH SAS]
+🇺🇸 143.198.229.56:60265 502ms US [DigitalOcean, LLC]
+🇨🇦 184.95.235.194:1080 439ms CA [Fibrenoire Inc]
+🇨🇦 51.79.51.174:10328 512ms CA [OVH SAS]
 🇦🇺 185.139.155.155:1976 702ms AU [Internet Vikings International AB]
 🇸🇬 188.166.230.38:64768 623ms SG [DigitalOcean, LLC]
 🇺🇸 199.204.248.155:33922 527ms US [Jumpline Inc]
@@ -30,3 +29,4 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 🇬🇧 81.143.236.200:443 719ms GB [BT Public Internet Service]
 🇹🇷 185.87.121.5:8975 514ms TR [Ideal Hosting Teknoloji A.S.]
 🇹🇷 185.86.5.162:8975 552ms TR [Ideal Hosting Teknoloji]
+🏳 67.205.145.40:10581 483ms  []
