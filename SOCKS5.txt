@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2025-01-04 14:00:01 GMT+7
+SOCKS5 Proxy list updated at 2025-01-04 15:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -10,13 +10,13 @@ https://buymeacoffee.com/roosterkid
 
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇫🇷 37.187.73.7:15229 786ms FR [OVH SAS]
+🇫🇷 37.187.73.7:15229 765ms FR [OVH SAS]
 🇮🇩 103.174.178.131:1020 75ms ID [PT Gasatek Bintang Nusantara]
-🇺🇸 68.183.118.66:28548 669ms US [DigitalOcean, LLC]
-🇷🇺 185.23.81.5:1080 797ms RU [OJSC Telecom-Service]
-🇨🇳 117.74.65.207:5441 611ms CN [CNC Group CHINA169 Hebei Province Network]
+🇨🇳 117.74.65.207:5441 486ms CN [CNC Group CHINA169 Hebei Province Network]
 🇸🇪 130.255.160.60:18946 523ms SE [Internet Vikings]
-🇸🇬 51.79.248.208:14720 424ms SG [OVH SAS]
+🇸🇬 51.79.248.208:14720 350ms SG [OVH SAS]
+🇯🇵 13.208.252.33:5000 71ms JP [Amazon Technologies Inc.]
 🇬🇧 81.143.236.200:443 633ms GB [BT Public Internet Service]
 🇹🇷 185.87.121.5:8975 739ms TR [Ideal Hosting Teknoloji A.S.]
+🇹🇷 185.86.5.162:8975 482ms TR [Ideal Hosting Teknoloji]
 🇫🇷 51.83.190.248:19050 452ms FR [OVH SAS]
