@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2025-01-09 23:00:01 GMT+7
+SOCKS5 Proxy list updated at 2025-01-10 00:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -12,14 +12,18 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
 🇩🇪 161.97.129.202:9060 438ms DE [Contabo GmbH]
 🇧🇩 103.234.27.221:1080 439ms BD [BTS Communications (BD) Ltd]
-🇫🇷 37.187.73.7:15229 664ms FR [OVH SAS]
+🇩🇪 46.101.163.117:27424 715ms DE [DigitalOcean, LLC]
 🇨🇦 142.93.150.134:43093 793ms CA [DigitalOcean, LLC]
-🇺🇸 64.202.184.129:5951 782ms US [GoDaddy.com, LLC]
-🇨🇳 117.74.65.207:5441 510ms CN [CNC Group CHINA169 Hebei Province Network]
+🇺🇦 194.44.208.62:80 678ms UA [UARNET-LL]
+🇺🇸 64.202.184.129:5951 796ms US [GoDaddy.com, LLC]
+🇨🇳 117.74.65.207:5441 506ms CN [CNC Group CHINA169 Hebei Province Network]
 🇸🇪 130.255.160.60:18946 508ms SE [Internet Vikings]
-🇸🇬 51.79.248.208:14720 217ms SG [OVH SAS]
-🇨🇦 51.79.51.174:10328 424ms CA [OVH SAS]
+🇸🇬 51.79.248.208:14720 496ms SG [OVH SAS]
+🇨🇦 51.79.51.174:10328 562ms CA [OVH SAS]
 🇳🇱 178.159.42.76:14300 261ms NL [Zomro B.V.]
+🇺🇦 91.200.115.49:1080 579ms UA [Joint Ukrainian American Enterprise "Telecommunications Resource Center" ltd]
+🇻🇳 113.176.118.150:1080 412ms VN [VNPT]
 🇮🇳 139.59.93.221:27247 404ms IN [DIGITALOCEAN]
 🇺🇸 199.204.248.155:33922 337ms US [Jumpline Inc]
 🇹🇷 185.87.121.5:8975 644ms TR [Ideal Hosting Teknoloji A.S.]
+🇻🇳 113.160.188.21:1080 399ms VN [VietNam Post and Telecom Corporation]
