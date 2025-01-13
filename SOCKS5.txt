@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2025-01-13 08:00:01 GMT+7
+SOCKS5 Proxy list updated at 2025-01-13 09:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -12,20 +12,20 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
 🇧🇬 213.169.39.234:31098 300ms BG [Spectrum NET]
 🇸🇬 51.79.177.70:25435 214ms SG [OVH SAS]
+🇧🇷 187.63.9.62:63253 531ms BR [Gigalink de Nova Friburgo Soluções em Rede Multimi]
 🇮🇩 103.174.178.131:1020 162ms ID [PT Gasatek Bintang Nusantara]
-🇬🇧 51.89.21.99:62311 745ms GB [OVH SAS]
-🇨🇦 142.93.150.134:43093 501ms CA [DigitalOcean, LLC]
+🇬🇧 51.89.21.99:62311 414ms GB [OVH SAS]
+🇨🇦 142.93.150.134:43093 270ms CA [DigitalOcean, LLC]
+🇷🇺 95.156.83.139:1080 304ms RU [PJSC Rostelecom]
 🇺🇦 194.44.208.62:80 606ms UA [UARNET-LL]
 🇺🇸 184.170.245.139:49829 605ms US [Performive LLC]
-🇺🇸 67.205.174.75:10286 749ms US [DigitalOcean, LLC]
-🇺🇸 64.202.184.129:5951 385ms US [GoDaddy.com, LLC]
+🇺🇸 67.205.174.75:10286 437ms US [DigitalOcean, LLC]
+🇺🇸 64.202.184.129:5951 201ms US [GoDaddy.com, LLC]
 🇺🇸 67.205.177.122:56826 783ms US [DigitalOcean, LLC]
 🇷🇺 194.190.169.197:3701 478ms RU [Webmaster Agency Ltd]
 🇨🇳 117.74.65.207:5441 467ms CN [CNC Group CHINA169 Hebei Province Network]
-🇳🇱 165.22.204.32:7497 246ms NL [DigitalOcean, LLC]
+🇳🇱 165.22.204.32:7497 265ms NL [DigitalOcean, LLC]
 🇸🇬 51.79.248.208:14720 570ms SG [OVH SAS]
-🇨🇦 51.79.51.174:10328 483ms CA [OVH SAS]
-🇺🇸 199.204.248.155:33922 634ms US [Jumpline Inc]
+🇺🇸 199.204.248.155:33922 432ms US [Jumpline Inc]
 🇹🇷 185.87.121.35:8975 484ms TR [Ideal Hosting Teknoloji]
-🇹🇷 185.87.121.5:8975 518ms TR [Ideal Hosting Teknoloji A.S.]
 🇹🇷 185.86.5.162:8975 449ms TR [Ideal Hosting Teknoloji]
