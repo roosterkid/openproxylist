@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2025-01-15 19:00:01 GMT+7
+SOCKS5 Proxy list updated at 2025-01-15 20:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -13,13 +13,16 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 🇸🇬 51.79.177.70:25435 144ms SG [OVH SAS]
 🇧🇷 187.63.9.62:63253 547ms BR [Gigalink de Nova Friburgo Soluções em Rede Multimi]
 🇪🇸 178.33.162.89:59490 473ms ES [OVH ISP]
-🇮🇩 103.174.178.131:1020 153ms ID [PT Gasatek Bintang Nusantara]
 🇷🇺 85.143.254.38:1080 393ms RU [Comfortel Ltd.]
+🇷🇺 83.221.194.199:1080 458ms RU [RTK]
 🇺🇦 194.44.208.62:80 321ms UA [UARNET-LL]
-🇨🇳 117.74.65.207:5441 502ms CN [CNC Group CHINA169 Hebei Province Network]
+🇨🇦 184.95.220.42:1080 295ms CA [Fibrenoire Inc.]
+🇨🇦 172.105.3.174:28029 368ms CA [Linode, LLC]
+🇨🇳 117.74.65.207:5441 590ms CN [CNC Group CHINA169 Hebei Province Network]
+🇨🇦 172.105.14.39:35992 742ms CA [Linode, LLC]
 🇸🇪 130.255.160.60:18946 459ms SE [Internet Vikings]
-🇫🇷 37.44.238.2:63617 430ms FR [Harmony Hosting SARL]
-🇸🇬 51.79.248.208:14720 668ms SG [OVH SAS]
+🇫🇷 37.44.238.2:63617 799ms FR [Harmony Hosting SARL]
+🇸🇬 51.79.248.208:14720 429ms SG [OVH SAS]
 🇨🇦 51.79.51.174:10328 750ms CA [OVH SAS]
 🇮🇳 139.59.93.221:27247 331ms IN [DIGITALOCEAN]
 🇺🇸 199.204.248.155:33922 447ms US [Jumpline Inc]
