@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2025-01-17 11:00:01 GMT+7
+SOCKS5 Proxy list updated at 2025-01-17 12:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -12,19 +12,18 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
 🇧🇬 213.169.39.234:31098 538ms BG [Spectrum NET]
 🇸🇬 51.79.177.70:25435 227ms SG [OVH SAS]
-🇺🇸 69.164.206.8:1747 612ms US [Akamai Technologies, Inc.]
 🇪🇸 178.33.162.89:59490 534ms ES [OVH ISP]
 🇮🇩 103.174.178.131:1020 765ms ID [PT Gasatek Bintang Nusantara]
 🇬🇧 51.89.21.99:62311 488ms GB [OVH SAS]
 🇩🇪 46.101.163.117:27424 736ms DE [DigitalOcean, LLC]
-🇺🇸 67.205.174.75:10286 277ms US [DigitalOcean, LLC]
+🇺🇸 67.205.174.75:10286 455ms US [DigitalOcean, LLC]
 🇺🇸 64.202.184.129:5951 502ms US [GoDaddy.com, LLC]
 🇻🇳 202.92.6.70:54580 497ms VN [INET]
 🇨🇳 117.74.65.207:5441 764ms CN [CNC Group CHINA169 Hebei Province Network]
 🇸🇪 130.255.160.60:18946 663ms SE [Internet Vikings]
 🇸🇬 51.79.248.208:14720 508ms SG [OVH SAS]
 🇨🇦 51.79.51.174:10328 487ms CA [OVH SAS]
-🇳🇱 178.159.42.76:14300 273ms NL [Zomro B.V.]
+🇳🇱 178.159.42.76:14300 574ms NL [Zomro B.V.]
 🇺🇦 91.200.115.49:1080 577ms UA [Joint Ukrainian American Enterprise "Telecommunications Resource Center" ltd]
 🇮🇳 139.59.93.221:27247 332ms IN [DIGITALOCEAN]
 🇺🇸 199.204.248.155:33922 710ms US [Jumpline Inc]
