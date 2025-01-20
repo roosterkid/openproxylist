@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2025-01-21 02:00:01 GMT+7
+SOCKS5 Proxy list updated at 2025-01-21 03:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -12,17 +12,18 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
 🇸🇬 51.79.177.70:25435 384ms SG [OVH SAS]
 🇸🇬 159.223.76.234:49807 476ms SG [DigitalOcean, LLC]
-🇪🇸 178.33.162.89:59490 489ms ES [OVH ISP]
-🇬🇧 51.89.21.99:62311 413ms GB [OVH SAS]
-🇬🇧 138.68.145.36:49518 577ms GB [DigitalOcean, LLC]
+🇪🇸 178.33.162.89:59490 508ms ES [OVH ISP]
+🇮🇩 103.174.178.131:1020 354ms ID [PT Gasatek Bintang Nusantara]
+🇬🇧 51.89.21.99:62311 386ms GB [OVH SAS]
+🇩🇪 46.101.163.117:27424 516ms DE [DigitalOcean, LLC]
+🇷🇺 85.143.254.38:1080 640ms RU [Comfortel Ltd.]
+🇺🇦 195.66.156.196:1080 542ms UA [PP Info-Center]
 🇷🇺 194.190.169.197:3701 739ms RU [Webmaster Agency Ltd]
-🇨🇳 117.74.65.207:5441 467ms CN [CNC Group CHINA169 Hebei Province Network]
-🇸🇪 130.255.160.60:18946 553ms SE [Internet Vikings]
-🇫🇷 37.44.238.2:63617 522ms FR [Harmony Hosting SARL]
+🇨🇳 117.74.65.207:5441 468ms CN [CNC Group CHINA169 Hebei Province Network]
+🇸🇪 130.255.160.60:18946 463ms SE [Internet Vikings]
+🇫🇷 37.44.238.2:63617 694ms FR [Harmony Hosting SARL]
 🇨🇦 51.79.51.174:10328 656ms CA [OVH SAS]
-🇦🇺 185.139.155.155:1976 759ms AU [Internet Vikings International AB]
 🇺🇦 91.200.115.49:1080 268ms UA [Joint Ukrainian American Enterprise "Telecommunications Resource Center" ltd]
-🇿🇦 102.36.127.249:1080 726ms ZA [Clear Access (Pty) Ltd]
 🇮🇳 139.59.93.221:27247 508ms IN [DIGITALOCEAN]
 🇹🇷 185.87.121.5:8975 684ms TR [Ideal Hosting Teknoloji A.S.]
 🇹🇷 185.86.5.162:8975 754ms TR [Ideal Hosting Teknoloji]
