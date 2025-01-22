@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2025-01-22 16:00:01 GMT+7
+SOCKS5 Proxy list updated at 2025-01-22 17:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -12,16 +12,14 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
 🇸🇬 51.79.177.70:25435 401ms SG [OVH SAS]
 🇫🇷 37.187.73.7:15229 569ms FR [OVH SAS]
-🇪🇸 178.33.162.89:59490 738ms ES [OVH ISP]
-🇬🇧 51.89.21.99:62311 632ms GB [OVH SAS]
-🇷🇺 85.143.254.38:1080 319ms RU [Comfortel Ltd.]
-🇨🇦 142.93.150.134:43093 777ms CA [DigitalOcean, LLC]
+🇷🇺 85.143.254.38:1080 746ms RU [Comfortel Ltd.]
+🇨🇦 142.93.150.134:43093 521ms CA [DigitalOcean, LLC]
 🇩🇪 144.91.113.229:20064 488ms DE [Contabo GmbH]
 🇷🇺 212.33.248.45:1080 455ms RU [JSC "ER-Telecom Holding"]
-🇺🇸 67.205.174.75:10286 747ms US [DigitalOcean, LLC]
+🇺🇸 67.205.174.75:10286 582ms US [DigitalOcean, LLC]
 🇨🇦 134.122.43.203:56442 789ms CA [DigitalOcean, LLC]
 🇨🇦 172.105.3.174:28029 621ms CA [Linode, LLC]
-🇨🇳 117.74.65.207:5441 603ms CN [CNC Group CHINA169 Hebei Province Network]
+🇨🇳 117.74.65.207:5441 770ms CN [CNC Group CHINA169 Hebei Province Network]
 🇫🇷 37.44.238.2:63617 642ms FR [Harmony Hosting SARL]
 🇸🇬 51.79.248.208:14720 312ms SG [OVH SAS]
 🇨🇦 51.79.51.174:10328 753ms CA [OVH SAS]
