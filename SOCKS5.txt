@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2025-01-23 21:00:02 GMT+7
+SOCKS5 Proxy list updated at 2025-01-23 22:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -15,15 +15,18 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 🇮🇩 103.174.178.131:1020 181ms ID [PT Gasatek Bintang Nusantara]
 🇩🇪 46.101.163.117:27424 440ms DE [DigitalOcean, LLC]
 🇷🇺 83.221.194.199:1080 366ms RU [RTK]
-🇱🇹 213.252.245.221:8015 655ms LT [BACLOUD-BITE]
-🇸🇬 188.166.234.144:14605 408ms SG [DigitalOcean, LLC]
+🇺🇸 67.205.174.75:10286 314ms US [DigitalOcean, LLC]
+🇸🇬 188.166.234.144:14605 494ms SG [DigitalOcean, LLC]
 🇿🇦 102.36.127.53:1080 393ms ZA [Clear Access (Pty) Ltd]
+🇺🇦 195.66.156.196:1080 383ms UA [PP Info-Center]
 🇷🇺 79.104.34.214:1080 321ms RU [EDN SOVINTEL]
 🇮🇳 68.183.91.154:43628 118ms IN [DigitalOcean, LLC]
-🇨🇳 117.74.65.207:5441 494ms CN [CNC Group CHINA169 Hebei Province Network]
+🇻🇳 202.92.6.70:54580 520ms VN [INET]
+🇨🇳 117.74.65.207:5441 470ms CN [CNC Group CHINA169 Hebei Province Network]
 🇸🇪 130.255.160.60:18946 396ms SE [Internet Vikings]
 🇫🇷 37.44.238.2:63617 596ms FR [Harmony Hosting SARL]
 🇸🇬 51.79.248.208:14720 367ms SG [OVH SAS]
-🇨🇦 51.79.51.174:10328 685ms CA [OVH SAS]
-🇳🇱 178.159.42.76:14300 390ms NL [Zomro B.V.]
+🇨🇦 51.79.51.174:10328 788ms CA [OVH SAS]
+🇳🇱 178.159.42.76:14300 700ms NL [Zomro B.V.]
 🇹🇷 185.87.121.35:8975 451ms TR [Ideal Hosting Teknoloji]
+🇹🇷 185.87.121.5:8975 499ms TR [Ideal Hosting Teknoloji A.S.]
