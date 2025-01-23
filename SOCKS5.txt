@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2025-01-23 15:00:01 GMT+7
+SOCKS5 Proxy list updated at 2025-01-23 16:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -12,24 +12,22 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
 🇷🇺 87.117.11.57:1080 770ms RU [Macroregional South]
 🇧🇩 103.234.27.221:1080 143ms BD [BTS Communications (BD) Ltd]
-🇫🇷 37.187.73.7:15229 482ms FR [OVH SAS]
+🇫🇷 37.187.73.7:15229 740ms FR [OVH SAS]
 🇻🇳 116.97.240.147:4996 121ms VN [Viettel Corporation]
 🇧🇷 187.63.9.62:63253 540ms BR [Gigalink de Nova Friburgo Soluções em Rede Multimi]
 🇮🇩 103.174.178.131:1020 353ms ID [PT Gasatek Bintang Nusantara]
-🇬🇧 51.89.21.99:62311 679ms GB [OVH SAS]
-🇩🇪 46.101.163.117:27424 474ms DE [DigitalOcean, LLC]
-🇷🇺 85.143.254.38:1080 625ms RU [Comfortel Ltd.]
+🇬🇧 51.89.21.99:62311 760ms GB [OVH SAS]
 🇨🇦 142.93.150.134:43093 360ms CA [DigitalOcean, LLC]
 🇩🇪 144.91.113.229:20064 439ms DE [Contabo GmbH]
 🇷🇺 212.33.248.45:1080 597ms RU [JSC "ER-Telecom Holding"]
-🇷🇺 31.25.24.67:1080 475ms RU [LLC Cifrovie Seti Urala]
+🇷🇺 31.25.24.67:1080 363ms RU [LLC Cifrovie Seti Urala]
 🇺🇸 67.205.174.75:10286 520ms US [DigitalOcean, LLC]
 🇨🇦 172.105.3.174:28029 290ms CA [Linode, LLC]
-🇺🇸 67.205.177.122:56826 514ms US [DigitalOcean, LLC]
-🇨🇳 117.74.65.207:5441 572ms CN [CNC Group CHINA169 Hebei Province Network]
+🇮🇳 68.183.91.154:43628 286ms IN [DigitalOcean, LLC]
+🇨🇳 117.74.65.207:5441 548ms CN [CNC Group CHINA169 Hebei Province Network]
 🇨🇦 172.105.14.39:35992 701ms CA [Linode, LLC]
-🇨🇦 51.79.51.174:10328 620ms CA [OVH SAS]
-🇺🇦 91.200.115.49:1080 266ms UA [Joint Ukrainian American Enterprise "Telecommunications Resource Center" ltd]
+🇸🇬 51.79.248.208:14720 261ms SG [OVH SAS]
+🇨🇦 51.79.51.174:10328 535ms CA [OVH SAS]
 🇻🇳 113.176.118.150:1080 151ms VN [VNPT]
 🇮🇳 139.59.93.221:27247 294ms IN [DIGITALOCEAN]
 🇹🇷 185.87.121.5:8975 537ms TR [Ideal Hosting Teknoloji A.S.]
