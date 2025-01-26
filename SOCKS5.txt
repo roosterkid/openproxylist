@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2025-01-27 01:00:01 GMT+7
+SOCKS5 Proxy list updated at 2025-01-27 02:00:02 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -10,22 +10,23 @@ https://buymeacoffee.com/roosterkid
 
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇷🇺 87.117.11.57:1080 790ms RU [Macroregional South]
+🇷🇺 87.117.11.57:1080 657ms RU [Macroregional South]
 🇧🇩 103.234.27.221:1080 447ms BD [BTS Communications (BD) Ltd]
 🇫🇷 37.187.73.7:15229 569ms FR [OVH SAS]
 🇻🇳 116.97.240.147:4996 213ms VN [Viettel Corporation]
 🇬🇧 51.89.21.99:62311 463ms GB [OVH SAS]
 🇷🇺 185.112.224.151:1080 377ms RU [Orion Telecom LLC]
-🇺🇦 194.44.208.62:80 341ms UA [UARNET-LL]
-🇺🇸 67.205.174.75:10286 484ms US [DigitalOcean, LLC]
+🇺🇸 67.205.174.75:10286 518ms US [DigitalOcean, LLC]
+🇨🇦 172.105.3.174:28029 418ms CA [Linode, LLC]
 🇸🇬 188.166.234.144:14605 194ms SG [DigitalOcean, LLC]
-🇨🇳 117.74.65.207:5441 664ms CN [CNC Group CHINA169 Hebei Province Network]
+🇨🇳 117.74.65.207:5441 476ms CN [CNC Group CHINA169 Hebei Province Network]
 🇫🇷 37.44.238.2:63617 585ms FR [Harmony Hosting SARL]
-🇸🇬 51.79.248.208:14720 572ms SG [OVH SAS]
-🇨🇦 51.79.51.174:10328 642ms CA [OVH SAS]
+🇸🇬 51.79.248.208:14720 703ms SG [OVH SAS]
+🇨🇦 51.79.51.174:10328 653ms CA [OVH SAS]
 🇳🇱 178.159.42.76:14300 527ms NL [Zomro B.V.]
 🇻🇳 113.176.118.150:1080 792ms VN [VNPT]
 🇿🇦 102.36.127.249:1080 772ms ZA [Clear Access (Pty) Ltd]
+🇮🇳 139.59.93.221:27247 383ms IN [DIGITALOCEAN]
 🇹🇷 185.87.121.35:8975 623ms TR [Ideal Hosting Teknoloji]
 🇹🇷 185.87.121.5:8975 538ms TR [Ideal Hosting Teknoloji A.S.]
-🇻🇳 113.160.188.21:1080 267ms VN [VietNam Post and Telecom Corporation]
+🇻🇳 113.160.188.21:1080 273ms VN [VietNam Post and Telecom Corporation]
