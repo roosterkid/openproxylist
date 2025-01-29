@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2025-01-29 11:00:01 GMT+7
+SOCKS5 Proxy list updated at 2025-01-29 12:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -12,19 +12,21 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
 🇷🇺 87.117.11.57:1080 513ms RU [Macroregional South]
 🇫🇷 37.187.73.7:15229 742ms FR [OVH SAS]
-🇺🇸 69.164.206.8:1747 466ms US [Akamai Technologies, Inc.]
-🇮🇩 103.174.178.131:1020 798ms ID [PT Gasatek Bintang Nusantara]
-🇬🇧 51.89.21.99:62311 789ms GB [OVH SAS]
-🇩🇪 46.101.163.117:27424 463ms DE [DigitalOcean, LLC]
+🇺🇸 69.164.206.8:1747 339ms US [Akamai Technologies, Inc.]
+🇮🇩 103.174.178.131:1020 99ms ID [PT Gasatek Bintang Nusantara]
+🇬🇧 51.89.21.99:62311 461ms GB [OVH SAS]
+🇩🇪 46.101.163.117:27424 753ms DE [DigitalOcean, LLC]
 🇷🇺 85.143.254.38:1080 572ms RU [Comfortel Ltd.]
 🇷🇺 95.156.83.139:1080 337ms RU [PJSC Rostelecom]
-🇷🇺 185.23.81.5:1080 528ms RU [OJSC Telecom-Service]
-🇺🇸 67.205.174.75:10286 640ms US [DigitalOcean, LLC]
+🇷🇺 185.23.81.5:1080 480ms RU [OJSC Telecom-Service]
+🇺🇸 184.170.245.139:49829 410ms US [Performive LLC]
+🇺🇸 67.205.174.75:10286 453ms US [DigitalOcean, LLC]
 🇺🇸 64.202.184.129:5951 653ms US [GoDaddy.com, LLC]
 🇸🇬 188.166.234.144:14605 38ms SG [DigitalOcean, LLC]
 🇺🇸 67.205.177.122:56826 651ms US [DigitalOcean, LLC]
+🇮🇳 68.183.91.154:43628 241ms IN [DigitalOcean, LLC]
 🇻🇳 202.92.6.70:54580 356ms VN [INET]
-🇨🇳 117.74.65.207:5441 766ms CN [CNC Group CHINA169 Hebei Province Network]
+🇨🇳 117.74.65.207:5441 469ms CN [CNC Group CHINA169 Hebei Province Network]
 🇸🇬 51.79.248.208:14720 382ms SG [OVH SAS]
 🇨🇦 51.79.51.174:10328 598ms CA [OVH SAS]
 🇦🇺 185.139.155.155:1976 602ms AU [Internet Vikings International AB]
