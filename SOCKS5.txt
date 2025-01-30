@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2025-01-31 02:00:01 GMT+7
+SOCKS5 Proxy list updated at 2025-01-31 03:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -12,14 +12,13 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
 🇷🇺 87.117.11.57:1080 716ms RU [Macroregional South]
 🇫🇷 37.187.73.7:15229 597ms FR [OVH SAS]
-🇮🇩 103.174.178.131:1020 355ms ID [PT Gasatek Bintang Nusantara]
-🇬🇧 51.89.21.99:62311 476ms GB [OVH SAS]
+🇮🇩 103.174.178.131:1020 366ms ID [PT Gasatek Bintang Nusantara]
 🇦🇺 194.195.123.125:22355 341ms AU [Akamai Technologies, Inc.]
-🇫🇮 95.216.78.251:59166 282ms FI [Hetzner Online GmbH]
-🇷🇺 185.23.81.5:1080 438ms RU [OJSC Telecom-Service]
+🇫🇮 95.216.78.251:59166 187ms FI [Hetzner Online GmbH]
 🇺🇸 67.205.174.75:10286 789ms US [DigitalOcean, LLC]
 🇨🇦 172.105.3.174:28029 462ms CA [Linode, LLC]
 🇸🇬 188.166.234.144:14605 276ms SG [DigitalOcean, LLC]
+🇺🇸 67.205.177.122:56826 254ms US [DigitalOcean, LLC]
 🇻🇳 202.92.6.70:54580 94ms VN [INET]
 🇨🇳 117.74.65.207:5441 465ms CN [CNC Group CHINA169 Hebei Province Network]
 🇸🇪 130.255.160.60:18946 442ms SE [Internet Vikings]
@@ -27,7 +26,6 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 🇸🇬 51.79.248.208:14720 222ms SG [OVH SAS]
 🇨🇦 51.79.51.174:10328 724ms CA [OVH SAS]
 🇺🇦 91.200.115.49:1080 417ms UA [Joint Ukrainian American Enterprise "Telecommunications Resource Center" ltd]
-🇹🇷 185.87.121.35:8975 501ms TR [Ideal Hosting Teknoloji]
+🇹🇷 185.87.121.35:8975 380ms TR [Ideal Hosting Teknoloji]
 🇹🇷 185.87.121.5:8975 475ms TR [Ideal Hosting Teknoloji A.S.]
-🇺🇸 173.166.191.6:3820 547ms US [Comcast Cable Communications]
 🇹🇷 185.86.5.162:8975 505ms TR [Ideal Hosting Teknoloji]
