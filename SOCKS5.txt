@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2025-01-31 17:00:01 GMT+7
+SOCKS5 Proxy list updated at 2025-01-31 18:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -12,20 +12,19 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
 🇩🇪 161.97.129.202:9060 598ms DE [Contabo GmbH]
 🇧🇩 103.234.27.221:1080 225ms BD [BTS Communications (BD) Ltd]
-🇫🇷 37.187.73.7:15229 653ms FR [OVH SAS]
-🇱🇺 104.244.75.78:31534 217ms LU [FranTech Solutions]
+🇬🇧 51.89.21.99:62311 686ms GB [OVH SAS]
 🇩🇪 46.101.163.117:27424 668ms DE [DigitalOcean, LLC]
 🇷🇺 95.156.83.139:1080 770ms RU [PJSC Rostelecom]
 🇫🇮 95.216.78.251:59166 124ms FI [Hetzner Online GmbH]
 🇺🇦 194.44.208.62:80 606ms UA [UARNET-LL]
-🇺🇸 184.170.245.139:49829 720ms US [Performive LLC]
 🇺🇸 67.205.174.75:10286 535ms US [DigitalOcean, LLC]
 🇨🇦 134.122.43.203:56442 624ms CA [DigitalOcean, LLC]
 🇻🇳 202.92.6.70:54580 321ms VN [INET]
 🇨🇳 117.74.65.207:5441 769ms CN [CNC Group CHINA169 Hebei Province Network]
 🇫🇷 37.44.238.2:63617 368ms FR [Harmony Hosting SARL]
-🇸🇬 51.79.248.208:14720 589ms SG [OVH SAS]
-🇨🇦 51.79.51.174:10328 474ms CA [OVH SAS]
+🇸🇬 51.79.248.208:14720 711ms SG [OVH SAS]
+🇨🇦 51.79.51.174:10328 469ms CA [OVH SAS]
 🇬🇪 85.117.56.174:25668 688ms GE [Caucasus Online Ltd.]
 🇹🇷 185.87.121.35:8975 723ms TR [Ideal Hosting Teknoloji]
-🇹🇷 185.87.121.5:8975 797ms TR [Ideal Hosting Teknoloji A.S.]
+🇷🇺 5.128.73.5:1080 340ms RU [Novotelecom Ltd.]
+🇻🇳 113.160.188.21:1080 265ms VN [VietNam Post and Telecom Corporation]
