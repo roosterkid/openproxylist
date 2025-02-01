@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2025-02-02 00:00:02 GMT+7
+SOCKS5 Proxy list updated at 2025-02-02 01:00:02 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -10,25 +10,28 @@ https://buymeacoffee.com/roosterkid
 
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
+🇧🇬 213.169.39.234:31098 776ms BG [Spectrum NET]
 🇺🇸 45.79.189.110:28224 721ms US [Akamai Technologies, Inc.]
 🇧🇩 103.234.27.221:1080 122ms BD [BTS Communications (BD) Ltd]
 🇫🇷 37.187.73.7:15229 510ms FR [OVH SAS]
-🇮🇩 103.174.178.131:1020 169ms ID [PT Gasatek Bintang Nusantara]
-🇬🇧 51.89.21.99:62311 647ms GB [OVH SAS]
-🇩🇪 46.101.163.117:27424 428ms DE [DigitalOcean, LLC]
+🇪🇸 178.33.162.89:59490 558ms ES [OVH ISP]
+🇮🇩 103.174.178.131:1020 786ms ID [PT Gasatek Bintang Nusantara]
+🇬🇧 51.89.21.99:62311 617ms GB [OVH SAS]
+🇩🇪 46.101.163.117:27424 637ms DE [DigitalOcean, LLC]
 🇷🇺 85.143.254.38:1080 331ms RU [Comfortel Ltd.]
+🇺🇦 194.44.208.62:80 367ms UA [UARNET-LL]
 🇷🇺 185.23.81.5:1080 379ms RU [OJSC Telecom-Service]
 🇨🇦 184.95.220.42:1080 373ms CA [Fibrenoire Inc.]
 🇻🇳 202.92.6.70:54580 273ms VN [INET]
-🇨🇳 117.74.65.207:5441 521ms CN [CNC Group CHINA169 Hebei Province Network]
+🇨🇳 117.74.65.207:5441 491ms CN [CNC Group CHINA169 Hebei Province Network]
 🇸🇬 51.79.248.208:14720 565ms SG [OVH SAS]
-🇨🇦 51.79.51.174:10328 647ms CA [OVH SAS]
 🇦🇺 185.139.155.155:1976 703ms AU [Internet Vikings International AB]
+🇳🇱 178.159.42.76:14300 756ms NL [Zomro B.V.]
 🇺🇦 91.200.115.49:1080 330ms UA [Joint Ukrainian American Enterprise "Telecommunications Resource Center" ltd]
 🇻🇳 113.176.118.150:1080 231ms VN [VNPT]
 🇮🇳 139.59.93.221:27247 483ms IN [DIGITALOCEAN]
 🇹🇷 185.87.121.35:8975 395ms TR [Ideal Hosting Teknoloji]
-🇹🇷 185.87.121.5:8975 494ms TR [Ideal Hosting Teknoloji A.S.]
-🇹🇷 185.86.5.162:8975 422ms TR [Ideal Hosting Teknoloji]
+🇹🇷 185.87.121.5:8975 448ms TR [Ideal Hosting Teknoloji A.S.]
+🇹🇷 185.86.5.162:8975 427ms TR [Ideal Hosting Teknoloji]
 🏳 166.62.38.100:45310 607ms  []
 🇻🇳 113.160.188.21:1080 539ms VN [VietNam Post and Telecom Corporation]
