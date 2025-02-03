@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2025-02-03 16:00:01 GMT+7
+SOCKS5 Proxy list updated at 2025-02-03 17:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -17,17 +17,19 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 🇪🇸 178.33.162.89:59490 580ms ES [OVH ISP]
 🇮🇩 103.174.178.131:1020 350ms ID [PT Gasatek Bintang Nusantara]
 🇱🇺 104.244.75.78:31534 253ms LU [FranTech Solutions]
-🇬🇧 51.89.21.99:62311 362ms GB [OVH SAS]
-🇩🇪 46.101.163.117:27424 375ms DE [DigitalOcean, LLC]
+🇬🇧 51.89.21.99:62311 686ms GB [OVH SAS]
+🇷🇺 85.143.254.38:1080 332ms RU [Comfortel Ltd.]
 🇨🇦 142.93.150.134:43093 538ms CA [DigitalOcean, LLC]
-🇷🇺 31.25.24.67:1080 701ms RU [LLC Cifrovie Seti Urala]
+🇺🇦 194.44.208.62:80 426ms UA [UARNET-LL]
+🇷🇺 31.25.24.67:1080 364ms RU [LLC Cifrovie Seti Urala]
 🇿🇦 102.36.127.53:1080 473ms ZA [Clear Access (Pty) Ltd]
 🇺🇸 67.205.177.122:56826 487ms US [DigitalOcean, LLC]
-🇨🇳 117.74.65.207:5441 474ms CN [CNC Group CHINA169 Hebei Province Network]
+🇨🇳 117.74.65.207:5441 768ms CN [CNC Group CHINA169 Hebei Province Network]
 🇸🇪 130.255.160.60:18946 717ms SE [Internet Vikings]
-🇸🇬 51.79.248.208:14720 316ms SG [OVH SAS]
+🇫🇷 37.44.238.2:63617 436ms FR [Harmony Hosting SARL]
+🇸🇬 51.79.248.208:14720 414ms SG [OVH SAS]
 🇨🇦 184.95.235.194:1080 293ms CA [Fibrenoire Inc]
-🇨🇦 51.79.51.174:10328 591ms CA [OVH SAS]
+🇨🇦 51.79.51.174:10328 512ms CA [OVH SAS]
 🇦🇺 185.139.155.155:1976 468ms AU [Internet Vikings International AB]
 🇳🇱 178.159.42.76:14300 592ms NL [Zomro B.V.]
 🇺🇦 91.200.115.49:1080 627ms UA [Joint Ukrainian American Enterprise "Telecommunications Resource Center" ltd]
