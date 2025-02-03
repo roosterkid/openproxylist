@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2025-02-04 03:00:01 GMT+7
+SOCKS5 Proxy list updated at 2025-02-04 04:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -11,18 +11,17 @@ https://buymeacoffee.com/roosterkid
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
 🇧🇬 213.169.39.234:31098 663ms BG [Spectrum NET]
-🇧🇩 103.234.27.221:1080 507ms BD [BTS Communications (BD) Ltd]
-🇧🇷 187.63.9.62:63253 732ms BR [Gigalink de Nova Friburgo Soluções em Rede Multimi]
+🇧🇩 103.234.27.221:1080 114ms BD [BTS Communications (BD) Ltd]
+🇧🇷 187.63.9.62:63253 403ms BR [Gigalink de Nova Friburgo Soluções em Rede Multimi]
 🇪🇸 178.33.162.89:59490 645ms ES [OVH ISP]
 🇮🇩 103.174.178.131:1020 151ms ID [PT Gasatek Bintang Nusantara]
 🇬🇧 51.89.21.99:62311 667ms GB [OVH SAS]
 🇷🇺 85.143.254.38:1080 546ms RU [Comfortel Ltd.]
-🇺🇦 194.44.208.62:80 309ms UA [UARNET-LL]
 🇷🇺 212.33.248.45:1080 708ms RU [JSC "ER-Telecom Holding"]
+🇬🇧 138.68.145.36:49518 754ms GB [DigitalOcean, LLC]
 🇺🇸 67.205.177.122:56826 268ms US [DigitalOcean, LLC]
-🇻🇳 202.92.6.70:54580 252ms VN [INET]
-🇨🇳 117.74.65.207:5441 766ms CN [CNC Group CHINA169 Hebei Province Network]
-🇫🇷 37.44.238.2:63617 422ms FR [Harmony Hosting SARL]
+🇻🇳 202.92.6.70:54580 672ms VN [INET]
+🇨🇳 117.74.65.207:5441 768ms CN [CNC Group CHINA169 Hebei Province Network]
 🇸🇬 51.79.248.208:14720 359ms SG [OVH SAS]
 🇨🇦 51.79.51.174:10328 514ms CA [OVH SAS]
 🇹🇷 185.87.121.35:8975 564ms TR [Ideal Hosting Teknoloji]
