@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2025-02-12 09:00:01 GMT+7
+SOCKS5 Proxy list updated at 2025-02-12 10:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -10,13 +10,12 @@ https://buymeacoffee.com/roosterkid
 
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇷🇺 87.117.11.57:1080 665ms RU [Macroregional South]
 🇺🇸 45.79.189.110:28224 304ms US [Akamai Technologies, Inc.]
 🇧🇩 103.234.27.221:1080 134ms BD [BTS Communications (BD) Ltd]
 🇫🇷 37.187.73.7:15229 770ms FR [OVH SAS]
-🇪🇸 178.33.162.89:59490 644ms ES [OVH ISP]
-🇮🇩 103.174.178.131:1020 59ms ID [PT Gasatek Bintang Nusantara]
-🇬🇧 51.89.21.99:62311 412ms GB [OVH SAS]
+🇪🇸 178.33.162.89:59490 498ms ES [OVH ISP]
+🇮🇩 103.174.178.131:1020 153ms ID [PT Gasatek Bintang Nusantara]
+🇬🇧 51.89.21.99:62311 457ms GB [OVH SAS]
 🇺🇦 194.44.208.62:80 403ms UA [UARNET-LL]
 🇷🇺 185.23.81.5:1080 642ms RU [OJSC Telecom-Service]
 🇨🇦 184.95.220.42:1080 592ms CA [Fibrenoire Inc.]
@@ -24,8 +23,7 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 🇨🇦 134.122.43.203:56442 656ms CA [DigitalOcean, LLC]
 🇨🇦 172.105.3.174:28029 490ms CA [Linode, LLC]
 🇿🇦 102.36.127.53:1080 499ms ZA [Clear Access (Pty) Ltd]
-🇷🇺 194.190.169.197:3701 408ms RU [Webmaster Agency Ltd]
-🇻🇳 202.92.6.70:54580 673ms VN [INET]
+🇻🇳 202.92.6.70:54580 308ms VN [INET]
 🇨🇳 117.74.65.207:5441 465ms CN [CNC Group CHINA169 Hebei Province Network]
 🇨🇦 172.105.14.39:35992 431ms CA [Linode, LLC]
 🇰🇷 193.123.252.70:35973 609ms KR [Oracle Corporation]
@@ -41,5 +39,5 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 🇹🇷 185.87.121.5:8975 417ms TR [Ideal Hosting Teknoloji A.S.]
 🇹🇷 185.86.5.162:8975 515ms TR [Ideal Hosting Teknoloji]
 🇫🇷 51.83.190.248:19050 686ms FR [OVH SAS]
-🇻🇳 113.160.188.21:1080 419ms VN [VietNam Post and Telecom Corporation]
+🇻🇳 113.160.188.21:1080 411ms VN [VietNam Post and Telecom Corporation]
 🇩🇪 188.68.52.220:9050 461ms DE [netcup GmbH]
