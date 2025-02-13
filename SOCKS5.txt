@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2025-02-14 03:00:01 GMT+7
+SOCKS5 Proxy list updated at 2025-02-14 04:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -10,29 +10,27 @@ https://buymeacoffee.com/roosterkid
 
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇺🇸 45.79.189.110:28224 307ms US [Akamai Technologies, Inc.]
+🇺🇸 45.79.189.110:28224 772ms US [Akamai Technologies, Inc.]
 🇧🇩 103.234.27.221:1080 217ms BD [BTS Communications (BD) Ltd]
-🇫🇷 37.187.73.7:15229 437ms FR [OVH SAS]
-🇺🇸 147.124.212.31:48870 614ms US [Majestic Hosting Solutions, LLC]
+🇫🇷 37.187.73.7:15229 550ms FR [OVH SAS]
+🇺🇸 147.124.212.31:48870 734ms US [Majestic Hosting Solutions, LLC]
 🇮🇩 103.174.178.131:1020 389ms ID [PT Gasatek Bintang Nusantara]
-🇬🇧 51.89.21.99:62311 552ms GB [OVH SAS]
-🇷🇺 185.112.224.151:1080 550ms RU [Orion Telecom LLC]
+🇬🇧 51.89.21.99:62311 673ms GB [OVH SAS]
 🇷🇺 94.73.251.19:1080 710ms RU [Orion Telecom LLC]
 🇷🇺 85.143.254.38:1080 363ms RU [Comfortel Ltd.]
 🇨🇦 142.93.150.134:43093 768ms CA [DigitalOcean, LLC]
 🇺🇦 194.44.208.62:80 302ms UA [UARNET-LL]
 🇷🇺 185.23.81.5:1080 560ms RU [OJSC Telecom-Service]
 🇨🇦 184.95.220.42:1080 334ms CA [Fibrenoire Inc.]
-🇬🇧 138.68.145.36:49518 716ms GB [DigitalOcean, LLC]
-🇷🇺 194.190.169.197:3701 735ms RU [Webmaster Agency Ltd]
+🇿🇦 102.36.127.53:1080 566ms ZA [Clear Access (Pty) Ltd]
 🇻🇳 202.92.6.70:54580 791ms VN [INET]
-🇺🇦 195.39.233.14:44567 671ms UA [Active Operations LLC]
+🇺🇦 195.39.233.14:44567 365ms UA [Active Operations LLC]
 🇨🇳 117.74.65.207:5441 467ms CN [CNC Group CHINA169 Hebei Province Network]
 🇨🇦 172.105.14.39:35992 483ms CA [Linode, LLC]
-🇸🇪 130.255.160.60:18946 411ms SE [Internet Vikings]
-🇦🇺 185.139.155.155:1976 464ms AU [Internet Vikings International AB]
-🇳🇱 178.159.42.76:14300 674ms NL [Zomro B.V.]
-🇻🇳 113.176.118.150:1080 218ms VN [VNPT]
+🇸🇪 130.255.160.60:18946 598ms SE [Internet Vikings]
+🇸🇬 51.79.248.208:14720 209ms SG [OVH SAS]
+🇦🇺 185.139.155.155:1976 595ms AU [Internet Vikings International AB]
+🇻🇳 113.176.118.150:1080 199ms VN [VNPT]
 🇿🇦 102.36.127.249:1080 498ms ZA [Clear Access (Pty) Ltd]
 🇹🇷 185.87.121.35:8975 375ms TR [Ideal Hosting Teknoloji]
 🇬🇧 188.241.45.142:2021 346ms GB [Talk Straight Ltd.]
