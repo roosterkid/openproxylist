@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2025-02-15 14:00:01 GMT+7
+SOCKS5 Proxy list updated at 2025-02-15 15:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -10,26 +10,27 @@ https://buymeacoffee.com/roosterkid
 
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇺🇸 45.79.189.110:28224 645ms US [Akamai Technologies, Inc.]
+🇷🇺 87.117.11.57:1080 402ms RU [Macroregional South]
+🇺🇸 45.79.189.110:28224 661ms US [Akamai Technologies, Inc.]
 🇮🇩 103.174.178.138:1080 386ms ID [PT Gasatek Bintang Nusantara]
 🇻🇳 116.97.240.147:4996 384ms VN [Viettel Corporation]
-🇧🇷 187.63.9.62:63253 721ms BR [Gigalink de Nova Friburgo Soluções em Rede Multimi]
-🇺🇸 147.124.212.31:48870 506ms US [Majestic Hosting Solutions, LLC]
+🇧🇷 187.63.9.62:63253 736ms BR [Gigalink de Nova Friburgo Soluções em Rede Multimi]
+🇺🇸 147.124.212.31:48870 628ms US [Majestic Hosting Solutions, LLC]
 🇮🇩 103.174.178.131:1020 53ms ID [PT Gasatek Bintang Nusantara]
-🇬🇧 51.89.21.99:62311 660ms GB [OVH SAS]
+🇬🇧 51.89.21.99:62311 719ms GB [OVH SAS]
 🇦🇺 194.195.123.125:22355 698ms AU [Akamai Technologies, Inc.]
 🇺🇦 194.44.208.62:80 610ms UA [UARNET-LL]
 🇺🇸 184.170.245.139:49829 529ms US [Performive LLC]
 🇨🇦 134.122.43.203:56442 488ms CA [DigitalOcean, LLC]
-🇻🇳 202.92.6.70:54580 513ms VN [INET]
-🇨🇳 117.74.65.207:5441 772ms CN [CNC Group CHINA169 Hebei Province Network]
+🇨🇳 117.74.65.207:5441 799ms CN [CNC Group CHINA169 Hebei Province Network]
 🇨🇦 172.105.14.39:35992 798ms CA [Linode, LLC]
 🇺🇸 132.148.128.88:33252 754ms US [GoDaddy.com, LLC]
-🇸🇪 130.255.160.60:18946 537ms SE [Internet Vikings]
+🇸🇬 51.79.248.208:14720 725ms SG [OVH SAS]
 🇺🇦 91.200.115.49:1080 646ms UA [Joint Ukrainian American Enterprise "Telecommunications Resource Center" ltd]
-🇻🇳 113.176.118.150:1080 396ms VN [VNPT]
+🇻🇳 113.176.118.150:1080 232ms VN [VNPT]
 🇿🇦 102.36.127.249:1080 502ms ZA [Clear Access (Pty) Ltd]
 🇷🇺 5.128.73.5:1080 366ms RU [Novotelecom Ltd.]
-🇹🇷 185.87.121.5:8975 417ms TR [Ideal Hosting Teknoloji A.S.]
-🇹🇷 185.86.5.162:8975 479ms TR [Ideal Hosting Teknoloji]
+🇹🇷 185.87.121.5:8975 408ms TR [Ideal Hosting Teknoloji A.S.]
+🇹🇷 185.86.5.162:8975 495ms TR [Ideal Hosting Teknoloji]
+🇬🇧 188.241.45.142:2021 549ms GB [Talk Straight Ltd.]
 🇻🇳 113.160.188.21:1080 405ms VN [VietNam Post and Telecom Corporation]
