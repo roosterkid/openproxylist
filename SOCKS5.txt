@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2025-02-16 16:00:01 GMT+7
+SOCKS5 Proxy list updated at 2025-02-16 17:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -10,16 +10,19 @@ https://buymeacoffee.com/roosterkid
 
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇺🇸 45.79.189.110:28224 746ms US [Akamai Technologies, Inc.]
 🇧🇷 187.63.9.62:63253 439ms BR [Gigalink de Nova Friburgo Soluções em Rede Multimi]
-🇬🇧 51.89.21.99:62311 754ms GB [OVH SAS]
-🇷🇺 185.112.224.151:1080 570ms RU [Orion Telecom LLC]
-🇺🇦 194.44.208.62:80 401ms UA [UARNET-LL]
+🇺🇸 147.124.212.31:48870 682ms US [Majestic Hosting Solutions, LLC]
+🇬🇧 51.89.21.99:62311 798ms GB [OVH SAS]
+🇷🇺 185.112.224.151:1080 424ms RU [Orion Telecom LLC]
+🇺🇦 194.44.208.62:80 464ms UA [UARNET-LL]
 🇨🇦 184.95.220.42:1080 602ms CA [Fibrenoire Inc.]
 🇷🇺 31.25.24.67:1080 369ms RU [LLC Cifrovie Seti Urala]
-🇨🇳 117.74.65.207:5441 685ms CN [CNC Group CHINA169 Hebei Province Network]
+🇿🇦 102.36.127.53:1080 464ms ZA [Clear Access (Pty) Ltd]
+🇷🇺 194.190.169.197:3701 442ms RU [Webmaster Agency Ltd]
+🇻🇳 202.92.6.70:54580 162ms VN [INET]
+🇨🇳 117.74.65.207:5441 647ms CN [CNC Group CHINA169 Hebei Province Network]
 🇺🇦 91.200.115.49:1080 428ms UA [Joint Ukrainian American Enterprise "Telecommunications Resource Center" ltd]
 🇬🇪 85.117.56.174:25668 621ms GE [Caucasus Online Ltd.]
-🇻🇳 113.176.118.150:1080 390ms VN [VNPT]
+🇻🇳 113.176.118.150:1080 406ms VN [VNPT]
 🇩🇪 82.165.137.115:7061 587ms DE [SCHLUND]
 🇻🇳 113.160.188.21:1080 218ms VN [VietNam Post and Telecom Corporation]
