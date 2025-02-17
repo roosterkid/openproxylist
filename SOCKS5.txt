@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2025-02-17 19:00:02 GMT+7
+SOCKS5 Proxy list updated at 2025-02-17 20:00:02 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -15,20 +15,21 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 🇻🇳 116.97.240.147:4996 105ms VN [Viettel Corporation]
 🇧🇷 187.63.9.62:63253 540ms BR [Gigalink de Nova Friburgo Soluções em Rede Multimi]
 🇪🇸 178.33.162.89:59490 563ms ES [OVH ISP]
-🇬🇧 51.89.21.99:62311 606ms GB [OVH SAS]
+🇬🇧 51.89.21.99:62311 479ms GB [OVH SAS]
 🇷🇺 85.143.254.38:1080 451ms RU [Comfortel Ltd.]
-🇰🇷 146.56.101.184:21681 329ms KR [Oracle Corporation]
-🇺🇦 194.44.208.62:80 426ms UA [UARNET-LL]
+🇺🇦 194.44.208.62:80 474ms UA [UARNET-LL]
 🇷🇺 31.25.24.67:1080 656ms RU [LLC Cifrovie Seti Urala]
+🇨🇦 51.222.108.216:38242 587ms CA [OVH SAS]
 🇰🇷 150.230.251.62:8080 213ms KR [Oracle Corporation]
-🇻🇳 202.92.6.70:54580 185ms VN [INET]
-🇨🇳 117.74.65.207:5441 769ms CN [CNC Group CHINA169 Hebei Province Network]
+🇻🇳 202.92.6.70:54580 658ms VN [INET]
+🇨🇳 117.74.65.207:5441 507ms CN [CNC Group CHINA169 Hebei Province Network]
 🇺🇸 132.148.128.88:33252 420ms US [GoDaddy.com, LLC]
 🇨🇦 184.95.235.194:1080 650ms CA [Fibrenoire Inc]
 🇦🇺 185.139.155.155:1976 625ms AU [Internet Vikings International AB]
 🇳🇱 178.159.42.76:14300 549ms NL [Zomro B.V.]
+🇺🇦 91.200.115.49:1080 260ms UA [Joint Ukrainian American Enterprise "Telecommunications Resource Center" ltd]
 🇺🇦 176.37.21.46:5678 362ms UA [Lanet Network]
-🇹🇷 185.87.121.35:8975 515ms TR [Ideal Hosting Teknoloji]
+🇹🇷 185.87.121.35:8975 647ms TR [Ideal Hosting Teknoloji]
 🇹🇷 185.87.121.5:8975 499ms TR [Ideal Hosting Teknoloji A.S.]
 🇹🇷 185.86.5.162:8975 513ms TR [Ideal Hosting Teknoloji]
 🇮🇩 202.6.233.59:7878 66ms ID [PT Padi Internet]
