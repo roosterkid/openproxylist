@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2025-02-18 07:00:02 GMT+7
+SOCKS5 Proxy list updated at 2025-02-18 08:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -10,23 +10,27 @@ https://buymeacoffee.com/roosterkid
 
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇺🇸 45.79.189.110:28224 409ms US [Akamai Technologies, Inc.]
+🇺🇸 45.79.189.110:28224 767ms US [Akamai Technologies, Inc.]
 🇻🇳 116.97.240.147:4996 203ms VN [Viettel Corporation]
+🇧🇷 187.63.9.62:63253 713ms BR [Gigalink de Nova Friburgo Soluções em Rede Multimi]
 🇮🇩 103.174.178.131:1020 360ms ID [PT Gasatek Bintang Nusantara]
-🇬🇧 51.89.21.99:62311 595ms GB [OVH SAS]
-🇺🇦 194.44.208.62:80 467ms UA [UARNET-LL]
+🇬🇧 51.89.21.99:62311 740ms GB [OVH SAS]
+🇨🇦 142.93.150.134:43093 323ms CA [DigitalOcean, LLC]
+🇰🇷 146.56.101.184:21681 695ms KR [Oracle Corporation]
+🇺🇦 194.44.208.62:80 621ms UA [UARNET-LL]
 🇺🇸 184.170.245.139:49829 317ms US [Performive LLC]
-🇨🇦 184.95.220.42:1080 570ms CA [Fibrenoire Inc.]
+🇨🇦 184.95.220.42:1080 292ms CA [Fibrenoire Inc.]
 🇨🇦 51.222.108.216:38242 785ms CA [OVH SAS]
 🇰🇷 150.230.251.62:8080 685ms KR [Oracle Corporation]
-🇻🇳 202.92.6.70:54580 715ms VN [INET]
 🇨🇳 117.74.65.207:5441 467ms CN [CNC Group CHINA169 Hebei Province Network]
 🇺🇸 132.148.128.88:33252 775ms US [GoDaddy.com, LLC]
 🇰🇷 193.123.252.70:35973 540ms KR [Oracle Corporation]
 🇸🇪 130.255.160.60:18946 741ms SE [Internet Vikings]
-🇦🇺 185.139.155.155:1976 679ms AU [Internet Vikings International AB]
+🇫🇷 37.44.238.2:63617 782ms FR [Harmony Hosting SARL]
+🇦🇺 185.139.155.155:1976 451ms AU [Internet Vikings International AB]
+🇬🇪 85.117.56.174:25668 406ms GE [Caucasus Online Ltd.]
 🇻🇳 113.176.118.150:1080 101ms VN [VNPT]
-🇿🇦 102.36.127.249:1080 400ms ZA [Clear Access (Pty) Ltd]
-🇹🇷 185.86.5.162:8975 491ms TR [Ideal Hosting Teknoloji]
+🇹🇷 185.87.121.35:8975 460ms TR [Ideal Hosting Teknoloji]
+🇹🇷 185.86.5.162:8975 442ms TR [Ideal Hosting Teknoloji]
 🇮🇩 202.6.233.59:7878 760ms ID [PT Padi Internet]
 🇻🇳 113.160.188.21:1080 107ms VN [VietNam Post and Telecom Corporation]
