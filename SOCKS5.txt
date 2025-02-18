@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2025-02-18 12:00:01 GMT+7
+SOCKS5 Proxy list updated at 2025-02-18 13:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -10,18 +10,14 @@ https://buymeacoffee.com/roosterkid
 
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇺🇸 45.79.189.110:28224 767ms US [Akamai Technologies, Inc.]
 🇧🇷 187.63.9.62:63253 496ms BR [Gigalink de Nova Friburgo Soluções em Rede Multimi]
 🇮🇩 103.174.178.131:1020 388ms ID [PT Gasatek Bintang Nusantara]
-🇬🇧 51.89.21.99:62311 649ms GB [OVH SAS]
+🇨🇳 210.75.240.151:4781 119ms CN [Computer Network Information Center]
+🇬🇧 51.89.21.99:62311 641ms GB [OVH SAS]
 🇨🇦 142.93.150.134:43093 613ms CA [DigitalOcean, LLC]
 🇰🇷 146.56.101.184:21681 718ms KR [Oracle Corporation]
 🇺🇦 194.44.208.62:80 408ms UA [UARNET-LL]
-🇨🇦 184.95.220.42:1080 292ms CA [Fibrenoire Inc.]
-🇨🇳 117.74.65.207:5441 793ms CN [CNC Group CHINA169 Hebei Province Network]
-🇫🇷 37.44.238.2:63617 782ms FR [Harmony Hosting SARL]
-🇦🇺 185.139.155.155:1976 451ms AU [Internet Vikings International AB]
-🇬🇪 85.117.56.174:25668 406ms GE [Caucasus Online Ltd.]
-🇹🇷 185.87.121.35:8975 460ms TR [Ideal Hosting Teknoloji]
-🇹🇷 185.86.5.162:8975 442ms TR [Ideal Hosting Teknoloji]
+🇷🇺 31.25.24.67:1080 779ms RU [LLC Cifrovie Seti Urala]
+🇺🇦 185.151.86.121:3699 471ms UA [Omega Telecom]
+🇨🇳 117.74.65.207:5441 767ms CN [CNC Group CHINA169 Hebei Province Network]
 🏳 166.62.38.100:45310 681ms  []
