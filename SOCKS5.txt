@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2025-02-20 05:00:01 GMT+7
+SOCKS5 Proxy list updated at 2025-02-20 06:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -11,16 +11,19 @@ https://buymeacoffee.com/roosterkid
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
 🇷🇺 87.117.11.57:1080 505ms RU [Macroregional South]
-🇺🇸 45.79.189.110:28224 796ms US [Akamai Technologies, Inc.]
-🇧🇩 103.234.27.221:1080 278ms BD [BTS Communications (BD) Ltd]
+🇺🇸 45.79.189.110:28224 750ms US [Akamai Technologies, Inc.]
+🇧🇩 103.234.27.221:1080 103ms BD [BTS Communications (BD) Ltd]
 🇫🇷 37.187.73.7:15229 793ms FR [OVH SAS]
 🇻🇳 116.97.240.147:4996 202ms VN [Viettel Corporation]
+🇧🇷 187.63.9.62:63253 502ms BR [Gigalink de Nova Friburgo Soluções em Rede Multimi]
 🇺🇸 147.124.212.31:48870 791ms US [Majestic Hosting Solutions, LLC]
-🇮🇩 103.174.178.131:1020 761ms ID [PT Gasatek Bintang Nusantara]
-🇬🇧 51.89.21.99:62311 653ms GB [OVH SAS]
-🇷🇺 94.73.251.19:1080 698ms RU [Orion Telecom LLC]
+🇮🇩 103.174.178.131:1020 354ms ID [PT Gasatek Bintang Nusantara]
+🇬🇧 51.89.21.99:62311 661ms GB [OVH SAS]
+🇷🇺 185.112.224.151:1080 365ms RU [Orion Telecom LLC]
+🇷🇺 94.73.251.19:1080 798ms RU [Orion Telecom LLC]
+🇷🇺 85.143.254.38:1080 438ms RU [Comfortel Ltd.]
 🇰🇷 146.56.101.184:21681 419ms KR [Oracle Corporation]
-🇺🇦 194.44.208.62:80 302ms UA [UARNET-LL]
+🇺🇦 194.44.208.62:80 610ms UA [UARNET-LL]
 🇺🇸 184.170.245.139:49829 499ms US [Performive LLC]
 🇨🇦 184.95.220.42:1080 382ms CA [Fibrenoire Inc.]
 🇨🇦 134.122.43.203:56442 425ms CA [DigitalOcean, LLC]
@@ -38,7 +41,7 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 🇺🇦 91.200.115.49:1080 745ms UA [Joint Ukrainian American Enterprise "Telecommunications Resource Center" ltd]
 🇻🇳 113.176.118.150:1080 122ms VN [VNPT]
 🇺🇦 176.37.21.46:5678 393ms UA [Lanet Network]
-🇹🇷 185.87.121.35:8975 426ms TR [Ideal Hosting Teknoloji]
-🇹🇷 185.86.5.162:8975 380ms TR [Ideal Hosting Teknoloji]
+🇹🇷 185.87.121.35:8975 389ms TR [Ideal Hosting Teknoloji]
+🇹🇷 185.86.5.162:8975 443ms TR [Ideal Hosting Teknoloji]
 🏳 166.62.38.100:45310 538ms  []
 🇻🇳 113.160.188.21:1080 104ms VN [VietNam Post and Telecom Corporation]
