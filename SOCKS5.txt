@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2025-02-22 12:00:01 GMT+7
+SOCKS5 Proxy list updated at 2025-02-22 13:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -10,26 +10,26 @@ https://buymeacoffee.com/roosterkid
 
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
+🇧🇬 213.169.39.234:31098 770ms BG [Spectrum NET]
+🇷🇺 87.117.11.57:1080 469ms RU [Macroregional South]
 🇧🇩 103.234.27.221:1080 93ms BD [BTS Communications (BD) Ltd]
 🇫🇷 37.187.73.7:15229 645ms FR [OVH SAS]
-🇧🇷 187.63.9.62:63253 428ms BR [Gigalink de Nova Friburgo Soluções em Rede Multimi]
-🇺🇸 147.124.212.31:48870 557ms US [Majestic Hosting Solutions, LLC]
+🇻🇳 116.97.240.147:4996 348ms VN [Viettel Corporation]
+🇺🇸 147.124.212.31:48870 517ms US [Majestic Hosting Solutions, LLC]
 🇮🇩 103.174.178.131:1020 165ms ID [PT Gasatek Bintang Nusantara]
-🇬🇧 51.89.21.99:62311 498ms GB [OVH SAS]
-🇷🇺 94.73.251.19:1080 446ms RU [Orion Telecom LLC]
+🇬🇧 51.89.21.99:62311 518ms GB [OVH SAS]
 🇨🇦 142.93.150.134:43093 681ms CA [DigitalOcean, LLC]
-🇰🇷 152.70.244.240:16238 712ms KR [Oracle Corporation]
+🇷🇺 83.221.194.199:1080 343ms RU [RTK]
 🇰🇷 146.56.101.184:21681 555ms KR [Oracle Corporation]
-🇺🇦 194.44.208.62:80 430ms UA [UARNET-LL]
-🇺🇸 184.170.245.139:49829 537ms US [Performive LLC]
 🇿🇦 102.36.127.53:1080 788ms ZA [Clear Access (Pty) Ltd]
-🇻🇳 202.92.6.70:54580 293ms VN [INET]
-🇨🇳 117.74.65.207:5441 624ms CN [CNC Group CHINA169 Hebei Province Network]
-🇫🇷 37.44.238.2:63617 647ms FR [Harmony Hosting SARL]
+🇷🇺 194.190.169.197:3701 462ms RU [Webmaster Agency Ltd]
+🇻🇳 202.92.6.70:54580 436ms VN [INET]
+🇨🇳 117.74.65.207:5441 567ms CN [CNC Group CHINA169 Hebei Province Network]
+🇫🇷 37.44.238.2:63617 463ms FR [Harmony Hosting SARL]
 🇸🇬 51.79.248.208:14720 295ms SG [OVH SAS]
-🇦🇺 185.139.155.155:1976 492ms AU [Internet Vikings International AB]
-🇬🇪 85.117.56.174:25668 416ms GE [Caucasus Online Ltd.]
-🇻🇳 113.176.118.150:1080 208ms VN [VNPT]
+🇦🇺 185.139.155.155:1976 569ms AU [Internet Vikings International AB]
+🇬🇪 85.117.56.174:25668 405ms GE [Caucasus Online Ltd.]
+🇻🇳 113.176.118.150:1080 192ms VN [VNPT]
 🇹🇷 185.87.121.35:8975 403ms TR [Ideal Hosting Teknoloji]
 🇹🇷 185.87.121.5:8975 438ms TR [Ideal Hosting Teknoloji A.S.]
 🏳 166.62.38.100:45310 750ms  []
