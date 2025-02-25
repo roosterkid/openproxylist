@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2025-02-25 13:00:01 GMT+7
+SOCKS5 Proxy list updated at 2025-02-25 14:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -10,18 +10,19 @@ https://buymeacoffee.com/roosterkid
 
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
+🇧🇬 213.169.39.234:31098 692ms BG [Spectrum NET]
 🇷🇺 87.117.11.57:1080 351ms RU [Macroregional South]
 🇺🇸 45.79.189.110:28224 612ms US [Akamai Technologies, Inc.]
-🇮🇩 103.174.178.138:1080 237ms ID [PT Gasatek Bintang Nusantara]
+🇮🇩 103.174.178.138:1080 173ms ID [PT Gasatek Bintang Nusantara]
 🇧🇷 187.63.9.62:63253 716ms BR [Gigalink de Nova Friburgo Soluções em Rede Multimi]
 🇺🇸 147.124.212.31:48870 687ms US [Majestic Hosting Solutions, LLC]
 🇮🇩 103.174.178.131:1020 81ms ID [PT Gasatek Bintang Nusantara]
-🇬🇧 51.89.21.99:62311 758ms GB [OVH SAS]
-🇺🇸 167.172.159.43:35290 426ms US [DigitalOcean, LLC]
+🇬🇧 51.89.21.99:62311 661ms GB [OVH SAS]
+🇺🇸 167.172.159.43:35290 462ms US [DigitalOcean, LLC]
 🇷🇺 85.143.254.38:1080 353ms RU [Comfortel Ltd.]
-🇺🇦 194.44.208.62:80 325ms UA [UARNET-LL]
+🇺🇦 194.44.208.62:80 491ms UA [UARNET-LL]
 🇷🇺 212.33.248.45:1080 314ms RU [JSC "ER-Telecom Holding"]
-🇨🇦 184.95.220.42:1080 279ms CA [Fibrenoire Inc.]
+🇨🇦 184.95.220.42:1080 377ms CA [Fibrenoire Inc.]
 🇿🇦 102.36.127.53:1080 396ms ZA [Clear Access (Pty) Ltd]
 🇫🇮 95.217.210.142:51482 459ms FI [Hetzner Online GmbH]
 🇨🇳 117.74.65.207:5441 768ms CN [CNC Group CHINA169 Hebei Province Network]
@@ -29,8 +30,10 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 🇰🇷 193.123.252.70:35973 270ms KR [Oracle Corporation]
 🇫🇷 37.44.238.2:63617 607ms FR [Harmony Hosting SARL]
 🇨🇦 184.95.235.194:1080 390ms CA [Fibrenoire Inc]
+🇺🇦 91.200.115.49:1080 370ms UA [Joint Ukrainian American Enterprise "Telecommunications Resource Center" ltd]
+🇷🇺 5.128.73.5:1080 324ms RU [Novotelecom Ltd.]
 🇹🇷 185.87.121.5:8975 782ms TR [Ideal Hosting Teknoloji A.S.]
-🏳 166.62.38.100:45310 789ms  []
+🏳 166.62.38.100:45310 673ms  []
 🇫🇷 51.83.190.248:19050 452ms FR [OVH SAS]
 🇻🇳 113.160.188.21:1080 211ms VN [VietNam Post and Telecom Corporation]
 🇷🇺 80.87.200.140:9050 683ms RU [JSC Server]
