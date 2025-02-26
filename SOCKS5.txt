@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2025-02-26 14:00:01 GMT+7
+SOCKS5 Proxy list updated at 2025-02-26 15:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -10,23 +10,26 @@ https://buymeacoffee.com/roosterkid
 
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
+🇷🇺 87.117.11.57:1080 421ms RU [Macroregional South]
 🇧🇩 103.234.27.221:1080 396ms BD [BTS Communications (BD) Ltd]
 🇮🇩 103.174.178.138:1080 124ms ID [PT Gasatek Bintang Nusantara]
+🇻🇳 116.97.240.147:4996 341ms VN [Viettel Corporation]
 🇧🇷 187.63.9.62:63253 417ms BR [Gigalink de Nova Friburgo Soluções em Rede Multimi]
 🇮🇩 103.174.178.131:1020 77ms ID [PT Gasatek Bintang Nusantara]
-🇮🇩 103.174.178.145:1020 292ms ID [PT Gasatek Bintang Nusantara]
-🇬🇧 51.89.21.99:62311 598ms GB [OVH SAS]
+🇮🇩 103.174.178.145:1020 363ms ID [PT Gasatek Bintang Nusantara]
+🇬🇧 51.89.21.99:62311 640ms GB [OVH SAS]
 🇺🇸 167.172.159.43:35290 314ms US [DigitalOcean, LLC]
-🇺🇦 194.44.208.62:80 384ms UA [UARNET-LL]
-🇨🇦 184.95.220.42:1080 576ms CA [Fibrenoire Inc.]
+🇺🇦 194.44.208.62:80 623ms UA [UARNET-LL]
+🇷🇺 212.33.248.45:1080 630ms RU [JSC "ER-Telecom Holding"]
+🇨🇦 184.95.220.42:1080 388ms CA [Fibrenoire Inc.]
 🇷🇺 31.25.24.67:1080 720ms RU [LLC Cifrovie Seti Urala]
 🇨🇦 51.222.108.216:38242 770ms CA [OVH SAS]
-🇻🇳 202.92.6.70:54580 390ms VN [INET]
+🇻🇳 202.92.6.70:54580 790ms VN [INET]
 🇫🇮 95.217.210.142:51482 726ms FI [Hetzner Online GmbH]
-🇨🇳 117.74.65.207:5441 600ms CN [CNC Group CHINA169 Hebei Province Network]
-🇰🇷 193.123.252.70:35973 255ms KR [Oracle Corporation]
-🇫🇷 37.44.238.2:63617 487ms FR [Harmony Hosting SARL]
-🇷🇺 46.241.57.29:1080 431ms RU [ZSTTK]
+🇨🇳 117.74.65.207:5441 768ms CN [CNC Group CHINA169 Hebei Province Network]
+🇷🇺 37.193.46.11:1080 375ms RU [Novotelecom Ltd.]
+🇨🇦 184.95.235.194:1080 284ms CA [Fibrenoire Inc]
+🇷🇺 46.241.57.29:1080 330ms RU [ZSTTK]
 🇺🇦 91.200.115.49:1080 356ms UA [Joint Ukrainian American Enterprise "Telecommunications Resource Center" ltd]
 🇺🇦 176.37.21.46:5678 448ms UA [Lanet Network]
 🏳 166.62.38.100:45310 628ms  []
