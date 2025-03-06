@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2025-03-06 09:00:01 GMT+7
+SOCKS5 Proxy list updated at 2025-03-06 10:00:02 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -20,13 +20,12 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 🇧🇷 187.63.9.62:63253 632ms BR [Gigalink de Nova Friburgo Soluções em Rede Multimi]
 🇮🇩 103.174.178.131:1020 74ms ID [PT Gasatek Bintang Nusantara]
 🇸🇬 128.199.196.14:15998 116ms SG [DigitalOcean, LLC]
-🇬🇧 51.89.21.99:62311 394ms GB [OVH SAS]
-🇺🇸 167.172.159.43:35290 609ms US [DigitalOcean, LLC]
-🇰🇷 152.70.244.240:16238 239ms KR [Oracle Corporation]
+🇬🇧 51.89.21.99:62311 449ms GB [OVH SAS]
+🇺🇸 167.172.159.43:35290 475ms US [DigitalOcean, LLC]
 🇺🇦 194.44.208.62:80 386ms UA [UARNET-LL]
 🇨🇦 134.122.43.203:56442 625ms CA [DigitalOcean, LLC]
-🇻🇳 202.92.6.70:54580 699ms VN [INET]
-🇨🇳 117.74.65.207:5441 620ms CN [CNC Group CHINA169 Hebei Province Network]
+🇻🇳 202.92.6.70:54580 251ms VN [INET]
+🇨🇳 117.74.65.207:5441 765ms CN [CNC Group CHINA169 Hebei Province Network]
 🇨🇦 172.105.14.39:35992 280ms CA [Linode, LLC]
 🇺🇸 132.148.128.88:33252 582ms US [GoDaddy.com, LLC]
 🇸🇪 130.255.160.60:18946 515ms SE [Internet Vikings]
