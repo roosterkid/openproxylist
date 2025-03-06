@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2025-03-06 15:00:01 GMT+7
+SOCKS5 Proxy list updated at 2025-03-06 16:00:02 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -11,26 +11,25 @@ https://buymeacoffee.com/roosterkid
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
 🇧🇬 213.169.39.234:31098 617ms BG [Spectrum NET]
-🇷🇺 87.117.11.57:1080 438ms RU [Macroregional South]
-🇸🇪 185.82.126.227:8590 419ms SE [YOURSERVER]
+🇸🇪 185.82.126.227:8590 481ms SE [YOURSERVER]
 🇺🇸 45.79.189.110:28224 797ms US [Akamai Technologies, Inc.]
 🇮🇩 103.174.178.138:1080 360ms ID [PT Gasatek Bintang Nusantara]
-🇻🇳 116.97.240.147:4996 206ms VN [Viettel Corporation]
-🇬🇧 51.89.21.99:62311 551ms GB [OVH SAS]
-🇺🇸 167.172.159.43:35290 468ms US [DigitalOcean, LLC]
+🇮🇩 103.174.178.131:1020 153ms ID [PT Gasatek Bintang Nusantara]
+🇬🇧 51.89.21.99:62311 591ms GB [OVH SAS]
+🇺🇸 167.172.159.43:35290 328ms US [DigitalOcean, LLC]
 🇷🇺 95.156.83.139:1080 665ms RU [PJSC Rostelecom]
-🇺🇦 194.44.208.62:80 511ms UA [UARNET-LL]
+🇺🇦 194.44.208.62:80 800ms UA [UARNET-LL]
 🇷🇺 212.33.248.45:1080 360ms RU [JSC "ER-Telecom Holding"]
 🇨🇦 184.95.220.42:1080 600ms CA [Fibrenoire Inc.]
 🇷🇺 31.25.24.67:1080 468ms RU [LLC Cifrovie Seti Urala]
+🇨🇦 51.222.108.216:38242 785ms CA [OVH SAS]
 🇷🇺 194.190.169.197:3701 639ms RU [Webmaster Agency Ltd]
-🇻🇳 202.92.6.70:54580 89ms VN [INET]
-🇨🇳 117.74.65.207:5441 508ms CN [CNC Group CHINA169 Hebei Province Network]
+🇻🇳 202.92.6.70:54580 378ms VN [INET]
+🇨🇳 117.74.65.207:5441 467ms CN [CNC Group CHINA169 Hebei Province Network]
 🇨🇦 172.105.14.39:35992 244ms CA [Linode, LLC]
 🇷🇺 5.129.70.128:1080 648ms RU [Novotelecom Ltd.]
 🇸🇬 51.79.248.208:14720 329ms SG [OVH SAS]
-🇦🇺 185.139.155.155:1976 368ms AU [Internet Vikings International AB]
-🇹🇷 185.87.121.35:8975 428ms TR [Ideal Hosting Teknoloji]
-🇹🇷 185.86.5.162:8975 692ms TR [Ideal Hosting Teknoloji]
+🇦🇺 185.139.155.155:1976 537ms AU [Internet Vikings International AB]
+🇺🇦 91.200.115.49:1080 324ms UA [Joint Ukrainian American Enterprise "Telecommunications Resource Center" ltd]
+🇹🇷 185.86.5.162:8975 446ms TR [Ideal Hosting Teknoloji]
 🏳 166.62.38.100:45310 629ms  []
-🇻🇳 113.160.188.21:1080 224ms VN [VietNam Post and Telecom Corporation]
