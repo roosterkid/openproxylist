@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2025-03-06 23:00:01 GMT+7
+SOCKS5 Proxy list updated at 2025-03-07 00:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -10,24 +10,23 @@ https://buymeacoffee.com/roosterkid
 
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇸🇪 185.82.126.227:8590 791ms SE [YOURSERVER]
+🇸🇪 185.82.126.227:8590 537ms SE [YOURSERVER]
 🇧🇩 103.234.27.221:1080 200ms BD [BTS Communications (BD) Ltd]
 🇫🇷 37.187.73.7:15229 631ms FR [OVH SAS]
 🇮🇩 103.174.178.138:1080 363ms ID [PT Gasatek Bintang Nusantara]
 🇧🇷 187.63.9.62:63253 521ms BR [Gigalink de Nova Friburgo Soluções em Rede Multimi]
+🇮🇩 103.174.178.131:1020 54ms ID [PT Gasatek Bintang Nusantara]
 🇸🇬 128.199.196.14:15998 729ms SG [DigitalOcean, LLC]
-🇬🇧 51.89.21.99:62311 782ms GB [OVH SAS]
-🇺🇸 167.172.159.43:35290 598ms US [DigitalOcean, LLC]
-🇷🇺 94.73.251.19:1080 451ms RU [Orion Telecom LLC]
-🇨🇦 142.93.150.134:43093 724ms CA [DigitalOcean, LLC]
+🇬🇧 51.89.21.99:62311 735ms GB [OVH SAS]
+🇺🇸 167.172.159.43:35290 596ms US [DigitalOcean, LLC]
+🇷🇺 94.73.251.19:1080 755ms RU [Orion Telecom LLC]
 🇺🇦 194.44.208.62:80 326ms UA [UARNET-LL]
-🇷🇺 212.33.248.45:1080 384ms RU [JSC "ER-Telecom Holding"]
 🇨🇦 184.95.220.42:1080 296ms CA [Fibrenoire Inc.]
 🇿🇦 102.36.127.53:1080 484ms ZA [Clear Access (Pty) Ltd]
+🇨🇦 51.222.108.216:38242 639ms CA [OVH SAS]
 🇺🇦 195.66.156.196:1080 463ms UA [PP Info-Center]
 🇻🇳 202.92.6.70:54580 605ms VN [INET]
 🇨🇳 117.74.65.207:5441 767ms CN [CNC Group CHINA169 Hebei Province Network]
-🇺🇸 132.148.128.88:33252 422ms US [GoDaddy.com, LLC]
 🇸🇪 130.255.160.60:18946 479ms SE [Internet Vikings]
 🇫🇷 37.44.238.2:63617 720ms FR [Harmony Hosting SARL]
 🇨🇦 184.95.235.194:1080 396ms CA [Fibrenoire Inc]
