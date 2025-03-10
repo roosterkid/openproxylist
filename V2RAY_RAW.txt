@@ -1,21 +1,22 @@
-vless://c4fa89d4-fcb9-48ba-adbc-665181cc817f@135.148.83.52:443?security=tls&sni=147135010072.sec21org.com&type=tcp#🇺🇸[openproxylist.com] vless-US
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjW29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1TRyIsImFkZCI6Indlc3RzZzItZGRucy5vcmFjbGVuYXQuY2MiLCJwb3J0IjoiMjM0NTIiLCJ0eXBlIjoibm9uZSIsImlkIjoiMTUwYTk5MGItM2E5Yi00NzQyLTg2NmEtOGUxNjExZmFmMzE2IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwiaG9zdCI6Indlc3RzZzItZGRucy5vcmFjbGVuYXQuY2MiLCJ0bHMiOiIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
+vless://c4fa89d4-fcb9-48ba-adbc-665181cc817f@135.148.157.112:443?security=tls&sni=147135010072.sec21org.com&type=tcp#🇺🇸[openproxylist.com] vless-US
 trojan://429ad146-8f43-4dd4-8fb3-cca3f3a30c63@jp006.421421.xyz:20230?security=tls#🇯🇵[openproxylist.com] trojan-JP
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.114.122.252:5601#🇺🇸[openproxylist.com] ss-US
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@38.114.121.249:5498#🇺🇸[openproxylist.com] ss-US
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206VDZBaGpNTVRxZHVZWHBXN0MwTTFqNmI5eEtwZjJHdCs3b0dYMlU0bndyST06dEpHZnNjdW5OU0JiTWpnRzZ4eURCZlcwby85N1hXcGsvd1dNUkVmRnh2bz0=@156.246.94.9:22579#🇯🇵[openproxylist.com] ss-JP
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206VDZBaGpNTVRxZHVZWHBXN0MwTTFqNmI5eEtwZjJHdCs3b0dYMlU0bndyST0@156.246.94.9:22579#🇯🇵[openproxylist.com] ss-JP
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4MTllMzhkMWQ2ZGIxNGI0@157.173.109.231:11107
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZDM3ZGQ0YTBiNjAzZTU5@217.77.3.48:41691
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkYTRmZTgyMDNjMTgzMzUz@89.117.20.222:11109
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZWJjYjJkOGJiMWQ3ZGI3@51.81.33.5:48231
-trojan://0cda5f7e-cc55-4ff2-8ad8-268b9b99dd01@104.21.58.135:443?security=tls&sni=Us6-02.818185.Xyz&type=ws&host=us6-02.818185.xyz&path=%2FILLcisbMYUd6MQzxVoMQ&alpn=http%2F1.1#🇺🇸[openproxylist.com] trojan-US
+trojan://0cda5f7e-cc55-4ff2-8ad8-268b9b99dd01@172.67.204.75:443?security=tls&sni=Us6-02.818185.Xyz&type=ws&host=us6-02.818185.xyz&path=%2FILLcisbMYUd6MQzxVoMQ&alpn=http%2F1.1#🇺🇸[openproxylist.com] trojan-US
 vless://b285432e-8677-40e3-a86a-ca167cd9d5bd@35.93.41.253:8443?security=reality&flow=xtls-rprx-vision&sni=zula.ir&type=tcp&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🇺🇸[openproxylist.com] vless-US
 vless://5d711a41-6fe4-4ced-9eb2-e86474c17906@160.16.148.100:31738?security=reality&flow=xtls-rprx-vision&sni=apple.com&type=tcp&fp=chrome&pbk=aMur4VIL6x4K12L7FRxqcrqjLbhmu9viYfssGXS8gEI&sid=ee#🇯🇵[openproxylist.com] vless-JP
 vless://0498c737-d0ac-4ce0-942d-414667069754@31.222.238.138:443?security=reality&sni=google.com&type=tcp&fp=chrome&pbk=cTm0TIKL9qK550XICK2YroOSr1u-f12h5UmBw2EAr2c#🇳🇱[openproxylist.com] vless-NL
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMGZhM2E5Yi0yMTE1LTRjYzAtYThmNS03ZjRmN2NhZjZlYzE=@159.69.246.135:8080#🇩🇪[openproxylist.com] ss-DE
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@38.83.114.105:5498#🇺🇸[openproxylist.com] ss-US
-trojan://6d898085-bf6a-449b-9763-0073d4dc2ce0@104.21.80.1:443?security=tls&sni=BOsToN01.818185.GGff.NET&type=ws&host=boston01.818185.ggff.net&path=%2FQ3cz2AWTPMCtDGV1L6R1Jz18eIUw&alpn=http%2F1.1#🇺🇸[openproxylist.com] trojan-US
+trojan://6d898085-bf6a-449b-9763-0073d4dc2ce0@104.21.26.69:443?security=tls&sni=BoSTON03.862224.ggFf.neT&type=ws&host=boston03.862224.ggff.net&path=%2FQ3cz2AWTPMCtDGV1L6R1Jz18eIUw&alpn=http%2F1.1#🇺🇸[openproxylist.com] trojan-US
+trojan://6d898085-bf6a-449b-9763-0073d4dc2ce0@172.67.133.248:443?security=tls&sni=bOSTON01.890604.FiLeGEAR-sG.mE&type=ws&host=boston01.890604.filegear-sg.me&path=%2FQ3cz2AWTPMCtDGV1L6R1Jz18eIUw&alpn=http%2F1.1#🇺🇸[openproxylist.com] trojan-US
 trojan://6d898085-bf6a-449b-9763-0073d4dc2ce0@104.21.112.1:443?security=tls&sni=BOsToN01.818185.GGff.NET&type=ws&host=boston01.818185.ggff.net&path=%2FQ3cz2AWTPMCtDGV1L6R1Jz18eIUw&alpn=http%2F1.1#🇺🇸[openproxylist.com] trojan-US
-trojan://6d898085-bf6a-449b-9763-0073d4dc2ce0@172.67.204.120:443?security=tls&sni=BOStON05.890603.XYz&type=ws&host=boston05.890603.xyz&path=%2FQ3cz2AWTPMCtDGV1L6R1Jz18eIUw&alpn=http%2F1.1#🇺🇸[openproxylist.com] trojan-US
 trojan://74260716866785000@hardy-haddock.shiner427.skin:443?#🇸🇬[openproxylist.com] trojan-SG
 trojan://dXjPoF4W3I@57.129.50.213:1935?security=tls&sni=x1ger-ovh.devefun.net&type=tcp&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#🇩🇪[openproxylist.com] trojan-DE
 vless://af94594c-b048-4050-adcb-cf061c3155bd@5.56.133.42:443?security=none&sni=neshan.org&type=tcp&host=neshan.org&path=/&headerType=http#🇸🇪[openproxylist.com] vless-SE
@@ -25,12 +26,12 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.90.238.93:8880?type=grpc#🇩�
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.201.91.167:8880?type=grpc#🇩🇪[openproxylist.com] vless-DE
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@65.21.55.115:8880?type=grpc#🇫🇮[openproxylist.com] vless-FI
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.12:8880?security=none&type=grpc#🇺🇸[openproxylist.com] vless-US
-vless://e868f835-ce9d-4441-a9cc-9b428d9d55d4@172.64.32.85:443?security=tls&sni=1osty0.fivegravity.com&type=ws&host=1osty0.fivegravity.com&path=/wss&alpn=http/1.1#🇺🇸[openproxylist.com] vless-US
+vless://e868f835-ce9d-4441-a9cc-9b428d9d55d4@108.162.192.85:443?security=tls&sni=1osty0.fivegravity.com&type=ws&host=1osty0.fivegravity.com&path=/wss&alpn=http/1.1#🇺🇸[openproxylist.com] vless-US
 vmess://eyJhZGQiOiIxODguMTE0Ljk3LjMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImFmcmhtczE2di5iZXN0eHJheS5idXp6IiwiaWQiOiJmNTg0ZGUxNS0yMDM0LTQxNzAtYTcyMy1mNDhjMmJhZTVlMGYiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL2xpbmt3cyIsInBvcnQiOiI0NDMiLCJwcyI6Ilx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOFtvcGVucHJveHlsaXN0LmNvbV0gdm1lc3MtVVMiLCJzY3kiOiJhdXRvIiwic25pIjoiYWZyaG1zMTZ2LmJlc3R4cmF5LmJ1enoiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
 vless://15d7410b-7689-4d2c-b0e4-216fe0bc91f1@185.125.103.139:30693?type=tcp#🇷🇺[openproxylist.com] vless-RU
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.34.160:8880?type=grpc#🇫🇮[openproxylist.com] vless-FI
 vmess://eyJhZGQiOiI1MS43Ny4yMC4xMzEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyMjMyNCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwicHMiOiJcdWQ4M2NcdWRkZWJcdWQ4M2NcdWRkZjdbb3BlbnByb3h5bGlzdC5jb21dIHZtZXNzLUZSIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
-vmess://eyJhZGQiOiIxNzIuNjcuMTc1LjU2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJvYmRpaS5jZmQiLCJpZCI6IjA1NjQxY2Y1LTU4ZDItNGJhNC1hOWYxLWIzY2RhMGIxZmIxZCIsIm5ldCI6IndzIiwicGF0aCI6IlwvbGlua3dzIiwicG9ydCI6IjQ0MyIsInBzIjoiXHVkODNjXHVkZGViXHVkODNjXHVkZGY3W29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1GUiIsInNjeSI6ImF1dG8iLCJzbmkiOiJvYmRpaS5jZmQiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
+vmess://eyJhZGQiOiIxNzIuNjcuNzEuMTYwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJvYmRpaS5jZmQiLCJpZCI6IjA1NjQxY2Y1LTU4ZDItNGJhNC1hOWYxLWIzY2RhMGIxZmIxZCIsIm5ldCI6IndzIiwicGF0aCI6IlwvbGlua3dzIiwicG9ydCI6IjQ0MyIsInBzIjoiXHVkODNjXHVkZGViXHVkODNjXHVkZGY3W29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1GUiIsInNjeSI6ImF1dG8iLCJzbmkiOiJvYmRpaS5jZmQiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.217.214.119:8880?type=grpc#🇫🇮[openproxylist.com] vless-FI
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.20.251:8880?type=grpc#🇫🇮[openproxylist.com] vless-FI
 vless://f980e40c-6c26-45cb-95e1-c2f00ba5ad61@108.162.195.157:443?security=tls&sni=ycusgm.a27app.com&type=ws&host=ycusgm.a27app.com&path=/wss&alpn=http/1.1#🇺🇸[openproxylist.com] vless-US
@@ -55,15 +56,15 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.108:8880?security=none&ty
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.92:8880?security=none&type=grpc#🇺🇸[openproxylist.com] vless-US
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@65.109.172.239:8880?security=none&type=grpc#🇫🇮[openproxylist.com] vless-FI
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.21:8880?security=none&type=grpc#🇺🇸[openproxylist.com] vless-US
-trojan://0cda5f7e-cc55-4ff2-8ad8-268b9b99dd01@172.67.204.75:443?security=tls&sni=Us6-02.818185.Xyz&type=ws&host=us6-02.818185.xyz&path=%2FILLcisbMYUd6MQzxVoMQ&alpn=http%2F1.1#🏳[openproxylist.com] trojan-
+vless://0cda5f7e-cc55-4ff2-8ad8-268b9b99dd01@172.67.204.22:443?security=tls&sni=Us6-02.890602.xYz&type=ws&host=us6-02.890602.xyz&path=%2FGuJUq5kZ2d6MQzxVoMQ&fp=chrome&alpn=http%2F1.1#🇺🇸[openproxylist.com] vless-US
 vless://b285432e-8677-40e3-a86a-ca167cd9d5bd@54.188.115.134:8443?security=reality&flow=xtls-rprx-vision&sni=zula.ir&type=tcp&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🇺🇸[openproxylist.com] vless-US
 vless://b285432e-8677-40e3-a86a-ca167cd9d5bd@18.236.96.212:8443?security=reality&flow=xtls-rprx-vision&sni=zula.ir&type=tcp&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🇺🇸[openproxylist.com] vless-US
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.119:8880?security=none&type=grpc#🇺🇸[openproxylist.com] vless-US
 vless://576c81b6-4976-4fe3-b1a9-05a9c302e98e@192.3.130.103:443?security=tls&sni=us10-01.iran2030.ggff.net&type=grpc&serviceName=HlAPZV9g9xmyAVVV002zYFTmiIeg&fp=chrome&alpn=h2#🇺🇸[openproxylist.com] vless-US
 trojan://0cda5f7e-cc55-4ff2-8ad8-268b9b99dd01@104.21.58.135:443?security=tls&sni=Us6-02.818185.Xyz&type=ws&host=us6-02.818185.xyz&path=%2FILLcisbMYUd6MQzxVoMQ&alpn=http%2F1.1#🇺🇸[openproxylist.com] trojan-US
-vmess://eyJhZGQiOiJpcmhtczAzLmRvbmdmZW5nLmNmZCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiaG1zMDMuZG9uZ2ZlbmcuY2ZkIiwiaWQiOiJmYTViNTVjZC1jYWZjLTRkZTAtYTRjOC03MjJlMDJhOWY1OGUiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL2xpbmt3cyIsInBvcnQiOiI0NDMiLCJwcyI6Ilx1ZDgzY1x1ZGRlOVx1ZDgzY1x1ZGRlYVtvcGVucHJveHlsaXN0LmNvbV0gdm1lc3MtREUiLCJzY3kiOiJhdXRvIiwic25pIjoiaG1zMDMuZG9uZ2ZlbmcuY2ZkIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMGZhM2E5Yi0yMTE1LTRjYzAtYThmNS03ZjRmN2NhZjZlYzE@217.195.200.95:8080#🇦🇪[openproxylist.com] ss-AE
-vless://d49b7b53-6697-4165-afb6-dce05a65a3c1@cld1.niassa.ir:443?security=reality&encryption=none&pbk=Xy0AQpRkBFWIWzRiG1czWTXok98URMhRt1xBE7jiTWw&headerType=none&fp=chrome&spx=/&type=tcp&sni=eset.com&sid=2f#🇩🇪[openproxylist.com] vless-DE
+vmess://eyJhZGQiOiJpcmhtczAzLmRvbmdmZW5nLmNmZCIsImFpZCI6MCwiaG9zdCI6ImhtczAzLmRvbmdmZW5nLmNmZCIsImlkIjoiZmE1YjU1Y2QtY2FmYy00ZGUwLWE0YzgtNzIyZTAyYTlmNThlIiwibmV0Ijoid3MiLCJwYXRoIjoiXC9saW5rd3MiLCJwb3J0Ijo0NDMsInBzIjoiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhW29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1ERSIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiaG1zMDMuZG9uZ2ZlbmcuY2ZkIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMGZhM2E5Yi0yMTE1LTRjYzAtYThmNS03ZjRmN2NhZjZlYzE=@217.195.200.95:8080#🇦🇪[openproxylist.com] ss-AE
+vless://d49b7b53-6697-4165-afb6-dce05a65a3c1@91.107.152.229:443?security=reality&sni=eset.com&type=tcp&fp=chrome&pbk=Xy0AQpRkBFWIWzRiG1czWTXok98URMhRt1xBE7jiTWw&sid=2f#🇩🇪[openproxylist.com] vless-DE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMGZhM2E5Yi0yMTE1LTRjYzAtYThmNS03ZjRmN2NhZjZlYzE=@154.205.147.24:8080#🇴🇲[openproxylist.com] ss-OM
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMGZhM2E5Yi0yMTE1LTRjYzAtYThmNS03ZjRmN2NhZjZlYzE=@85.90.194.200:8080#🇩🇪[openproxylist.com] ss-DE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYTZmMmVmMTg5NjI2NGY5@217.77.3.0:17629#🇺🇸[openproxylist.com] ss-US
@@ -79,16 +80,15 @@ ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.134.94.141:6697#🇺🇸[openproxyl
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4YTYwNjU0MDFkZTU2NGFj@212.56.42.207:10051#🇺🇸[openproxylist.com] ss-US
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjW29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1TRyIsImFkZCI6IjYyLjE0Ni4yMzIuMTU3IiwicG9ydCI6NTI4NTYsImlkIjoiZWQ1NGUzODgtYmZjNS00YjM2LWFlNGQtOGIzY2Q0NjBkM2Q0Iiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwidGxzIjoibm9uZSIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjW29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1TRyIsImFkZCI6IjYyLjE0Ni4yMzIuMTUzIiwicG9ydCI6NTMxNDQsImlkIjoiMTNlMTNhM2UtZTk4MS00ZWVhLWE5ZmMtMTNlNTA2MjhmZDliIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwidGxzIjoibm9uZSIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.213.90:8880?security=none&type=grpc#🇫🇮[openproxylist.com] vless-FI
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.213.90:8880?type=grpc#🇫🇮[openproxylist.com] vless-FI
 vless://12454871-7c3e-4f2c-b232-75771a75bac5@91.107.243.247:443?security=reality&sni=mw7.hellont.ir&type=tcp&fp=chrome&pbk=yvdTIbOoLcSSISo3u8sESDllxZa0EArFZb0igdbbPAo&sid=4720f75a80#🇩🇪[openproxylist.com] vless-DE
-vmess://eyJhZGQiOiIxMDQuMjEuNDQuMTA2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ4bWl2aWRlby5jZmQiLCJpZCI6IjkzZWE0ODZhLWJhZGEtNDJhNC1hYzM4LWQwODhiMzIwZmExZSIsIm5ldCI6IndzIiwicGF0aCI6IlwvbGlua3dzIiwicG9ydCI6IjQ0MyIsInBzIjoiXHVkODNjXHVkZGY5XHVkODNjXHVkZGY3W29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1UUiIsInNjeSI6ImF1dG8iLCJzbmkiOiJ4bWl2aWRlby5jZmQiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
-vmess://eyJhZGQiOiJiZXlvbmRkc3ouY2ZkIiwiYWlkIjowLCJob3N0IjoiYmV5b25kZHN6LmNmZCIsImlkIjoiOWI0NTZjMmEtZjJjMS00NWUxLTg3YTktYjc2MjhiMDRiYjI0IiwibmV0Ijoid3MiLCJwYXRoIjoiXC9saW5rd3MiLCJwb3J0Ijo0NDMsInBzIjoiXHVkODNjXHVkZGViXHVkODNjXHVkZGY3W29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1GUiIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiYmV5b25kZHN6LmNmZCJ9
+vmess://eyJhZGQiOiIxMDQuMTcuMjEzLjU3IiwiYWlkIjowLCJob3N0IjoieG1pdmlkZW8uY2ZkIiwiaWQiOiI5M2VhNDg2YS1iYWRhLTQyYTQtYWMzOC1kMDg4YjMyMGZhMWUiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL2xpbmt3cyIsInBvcnQiOjQ0MywicHMiOiJcdWQ4M2NcdWRkZjlcdWQ4M2NcdWRkZjdbb3BlbnByb3h5bGlzdC5jb21dIHZtZXNzLVRSIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiJ4bWl2aWRlby5jZmQifQ==
+vmess://eyJhZGQiOiJiZXlvbmRkc3ouY2ZkIiwiYWlkIjowLCJob3N0IjoiYmV5b25kZHN6LmNmZCIsImlkIjoiOWI0NTZjMmEtZjJjMS00NWUxLTg3YTktYjc2MjhiMDRiYjI0IiwibmV0Ijoid3MiLCJwYXRoIjoiXC9saW5rd3MiLCJwb3J0Ijo0NDMsInBzIjoiXHVkODNjXHVkZGViXHVkODNjXHVkZGY3W29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1GUiIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.33.124:8880?type=grpc#🇫🇮[openproxylist.com] vless-FI
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.201.217.33:8880?security=none&type=grpc#🇩🇪[openproxylist.com] vless-DE
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@65.108.156.55:8880?type=grpc#🇫🇮[openproxylist.com] vless-FI
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3YjZjNWE3ZDM2ZjY1YmM3@198.244.142.16:11205#🇬🇧[openproxylist.com] ss-GB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5OWRmMjZkYzdmNTI1YTI4@198.244.142.65:42782#🇬🇧[openproxylist.com] ss-GB
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@212.13.236.132:10001?security=tls&sni=a.mifeng.us.kg&type=ws&host=a.mifeng.us.kg&path=%2F%3Fed%3D2560&fp=chrome&allowInsecure=1#🇦🇹[openproxylist.com] vless-AT
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.68.134.23:7002#🇺🇸[openproxylist.com] ss-US
 trojan://ebhZ11qYng@51.195.254.75:8443?security=tls&sni=uk-02.allhubb.info&type=tcp&alpn=h3%2Ch2%2Chttp%2F1.1#🇬🇧[openproxylist.com] trojan-GB
 trojan://85c41c44-e235-4e0c-9c46-987b7233c837@192.142.4.64:40384?security=tls&sni=zfa05.333210.xyz&allowInsecure=1#🇺🇸[openproxylist.com] trojan-US
@@ -121,7 +121,6 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@188.119.112.54:2501?security=tls&sn
 trojan://94d219c9-1afc-4d42-b090-8b3794764380@159.65.14.166:443?security=tls&sni=std1.loadingip.com&allowInsecure=1#🇸🇬[openproxylist.com] trojan-SG
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@103.214.68.133:587?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560&fp=chrome#🇳🇱[openproxylist.com] vless-NL
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@188.119.112.54:2501?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560#🇳🇱[openproxylist.com] vless-NL
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@188.119.112.54:2501?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&host=a.xn--i-sx6a60i.us.kg&path=%2F%3Fed%3D2560#🇳🇱[openproxylist.com] vless-NL
 vless://3373fe14-47b8-42e5-8a18-7ab3e0dd02b3@95.179.153.250:47221?security=reality&sni=yahoo.com&type=tcp&fp=chrome&pbk=iwsj4xiBztuBQ3I1YsrBBUhnlu7mhhPFozP7bkgaal0&sid=47ff9b6c#🇳🇱[openproxylist.com] vless-NL
 vmess://eyJhZGQiOiIxNzIuMjA0LjguMTAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiODFiYmNhNzAtYTM1Zi00ODdlLTg4YTQtOGJkNTg1NmIxMGE1IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI1NTAiLCJwcyI6Ilx1ZDgzY1x1ZGRmM1x1ZDgzY1x1ZGRmZltvcGVucHJveHlsaXN0LmNvbV0gdm1lc3MtTloiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.30.42:8880?type=grpc#🇫🇮[openproxylist.com] vless-FI
@@ -131,7 +130,7 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.93.66:8880?type=grpc#🇫🇮
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@65.109.191.12:8880?security=none&type=grpc#🇫🇮[openproxylist.com] vless-FI
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@65.109.226.76:8880?security=none&type=grpc#🇫🇮[openproxylist.com] vless-FI
 vless://e657e5fb-c417-4d3f-d84e-a3a8f010f9fa@31.59.111.49:33718?security=reality&flow=xtls-rprx-vision&sni=icloud.cdn-apple.com&type=tcp&fp=chrome&pbk=g1f1wLjim5gOVGnI5LGUV0dL4iFXPoiepOPZfSxJe14#🇺🇸[openproxylist.com] vless-US
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.68.135.18:7001#🇺🇸[openproxylist.com] ss-US
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.68.135.18:6697#🇺🇸[openproxylist.com] ss-US
 vmess://eyJhZGQiOiIxMDcuMTQ4LjIwNy4yNDkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0ODcxMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4W29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1VUyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
 trojan://ac07ddf4-a3ad-4272-a9de-d1209914cc2b@134.209.78.237:443?security=tls&sni=quangtien.appsflyer.com&type=tcp&fp=randomized&alpn=h3%2Ch2%2Chttp%2F1.1#🇺🇸[openproxylist.com] trojan-US
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.20.150:8880?security=none&type=grpc#🇫🇮[openproxylist.com] vless-FI
@@ -148,3 +147,4 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.22.144:8880?security=none&t
 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGViXHVkODNjXHVkZGVlW29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1GSSIsImFkZCI6IjMxLjU4LjEzNy42NyIsInBvcnQiOjM5NDQ3LCJpZCI6IjcyNGZiOTNlLWFjZTgtNDczMy1iMDRhLTcyZmNjOWI4MGIxZiIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInRscyI6Im5vbmUiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.30.48:8880?security=none&type=grpc#🇫🇮[openproxylist.com] vless-FI
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.20.126:8880?type=grpc#🇫🇮[openproxylist.com] vless-FI
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@157.180.20.125:8880?security=none&type=grpc#🇫🇮[openproxylist.com] vless-FI
