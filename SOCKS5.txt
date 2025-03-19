@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2025-03-19 18:00:02 GMT+7
+SOCKS5 Proxy list updated at 2025-03-19 19:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -11,21 +11,22 @@ https://buymeacoffee.com/roosterkid
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
 🇸🇪 185.82.126.227:8590 522ms SE [YOURSERVER]
-🇺🇸 45.79.189.110:28224 229ms US [Akamai Technologies, Inc.]
-🇧🇩 103.234.27.221:1080 414ms BD [BTS Communications (BD) Ltd]
+🇺🇸 45.79.189.110:28224 475ms US [Akamai Technologies, Inc.]
 🇫🇷 37.187.73.7:15229 487ms FR [OVH SAS]
 🇮🇩 103.174.178.138:1080 180ms ID [PT Gasatek Bintang Nusantara]
-🇧🇷 187.63.9.62:63253 407ms BR [Gigalink de Nova Friburgo Soluções em Rede Multimi]
-🇪🇸 178.33.162.89:59490 585ms ES [OVH ISP]
+🇧🇷 187.63.9.62:63253 702ms BR [Gigalink de Nova Friburgo Soluções em Rede Multimi]
 🇮🇩 103.174.178.131:1020 248ms ID [PT Gasatek Bintang Nusantara]
-🇬🇧 51.89.21.99:62311 668ms GB [OVH SAS]
-🇺🇸 167.172.159.43:35290 346ms US [DigitalOcean, LLC]
-🇷🇺 85.143.254.38:1080 668ms RU [Comfortel Ltd.]
+🇬🇧 51.89.21.99:62311 567ms GB [OVH SAS]
+🇺🇸 167.172.159.43:35290 710ms US [DigitalOcean, LLC]
 🇺🇦 194.44.208.62:80 324ms UA [UARNET-LL]
+🇷🇺 212.33.248.45:1080 448ms RU [JSC "ER-Telecom Holding"]
 🇨🇦 184.95.220.42:1080 379ms CA [Fibrenoire Inc.]
+🇷🇺 31.25.24.67:1080 514ms RU [LLC Cifrovie Seti Urala]
 🇻🇳 202.92.6.70:54580 141ms VN [INET]
-🇨🇳 117.74.65.207:5441 787ms CN [CNC Group CHINA169 Hebei Province Network]
+🇺🇦 195.39.233.14:44567 481ms UA [Active Operations LLC]
+🇨🇳 117.74.65.207:5441 798ms CN [CNC Group CHINA169 Hebei Province Network]
 🇸🇬 51.79.248.208:14720 750ms SG [OVH SAS]
+🇷🇺 37.193.46.11:1080 378ms RU [Novotelecom Ltd.]
 🇩🇪 5.9.98.142:3080 784ms DE [Hetzner Online GmbH]
 🇸🇬 167.71.220.29:7497 26ms SG [DigitalOcean, LLC]
 🇻🇳 113.176.118.150:1080 99ms VN [VNPT]
