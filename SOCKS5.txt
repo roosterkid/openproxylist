@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2025-03-20 08:00:01 GMT+7
+SOCKS5 Proxy list updated at 2025-03-20 09:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -15,21 +15,23 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 🇺🇸 45.79.189.110:28224 316ms US [Akamai Technologies, Inc.]
 🇧🇩 103.234.27.221:1080 97ms BD [BTS Communications (BD) Ltd]
 🇻🇳 116.97.240.147:4996 110ms VN [Viettel Corporation]
+🇧🇷 187.63.9.62:63253 504ms BR [Gigalink de Nova Friburgo Soluções em Rede Multimi]
 🇪🇸 178.33.162.89:59490 722ms ES [OVH ISP]
 🇮🇩 103.174.178.131:1020 155ms ID [PT Gasatek Bintang Nusantara]
-🇬🇧 51.89.21.99:62311 771ms GB [OVH SAS]
-🇺🇸 167.172.159.43:35290 470ms US [DigitalOcean, LLC]
+🇬🇧 51.89.21.99:62311 683ms GB [OVH SAS]
+🇺🇸 167.172.159.43:35290 642ms US [DigitalOcean, LLC]
 🇷🇺 92.255.88.219:1080 521ms RU [Comfortel Ltd.]
 🇺🇦 194.44.208.62:80 624ms UA [UARNET-LL]
 🇨🇦 184.95.220.42:1080 285ms CA [Fibrenoire Inc.]
 🇺🇦 185.151.86.86:3699 488ms UA [Omega Telecom]
 🇷🇺 46.173.211.166:1080 555ms RU [Garant-Park-Internet Ltd]
 🇻🇳 202.92.6.70:54580 552ms VN [INET]
-🇨🇳 117.74.65.207:5441 487ms CN [CNC Group CHINA169 Hebei Province Network]
+🇨🇳 117.74.65.207:5441 486ms CN [CNC Group CHINA169 Hebei Province Network]
 🇨🇦 172.105.14.39:35992 632ms CA [Linode, LLC]
 🇸🇪 130.255.160.60:18946 690ms SE [Internet Vikings]
 🇸🇬 51.79.248.208:14720 208ms SG [OVH SAS]
-🇩🇪 5.9.98.142:3080 790ms DE [Hetzner Online GmbH]
+🇨🇦 184.95.235.194:1080 379ms CA [Fibrenoire Inc]
+🇩🇪 5.9.98.142:3080 745ms DE [Hetzner Online GmbH]
 🇸🇬 167.71.220.29:7497 8ms SG [DigitalOcean, LLC]
 🇺🇦 91.200.115.49:1080 320ms UA [Joint Ukrainian American Enterprise "Telecommunications Resource Center" ltd]
 🇹🇷 185.87.121.35:8975 604ms TR [Ideal Hosting Teknoloji]
