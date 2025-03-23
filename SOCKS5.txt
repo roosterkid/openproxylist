@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2025-03-24 00:00:01 GMT+7
+SOCKS5 Proxy list updated at 2025-03-24 01:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -10,28 +10,27 @@ https://buymeacoffee.com/roosterkid
 
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇸🇪 185.82.126.227:8590 385ms SE [YOURSERVER]
-🇧🇩 103.234.27.221:1080 97ms BD [BTS Communications (BD) Ltd]
+🇸🇪 185.82.126.227:8590 474ms SE [YOURSERVER]
+🇧🇩 103.234.27.221:1080 404ms BD [BTS Communications (BD) Ltd]
 🇮🇩 103.174.178.138:1080 63ms ID [PT Gasatek Bintang Nusantara]
-🇻🇳 116.97.240.147:4996 596ms VN [Viettel Corporation]
 🇪🇸 178.33.162.89:59490 694ms ES [OVH ISP]
-🇮🇩 103.174.178.131:1020 404ms ID [PT Gasatek Bintang Nusantara]
-🇬🇧 51.89.21.99:62311 670ms GB [OVH SAS]
-🇺🇸 167.172.159.43:35290 449ms US [DigitalOcean, LLC]
+🇮🇩 103.174.178.131:1020 64ms ID [PT Gasatek Bintang Nusantara]
+🇬🇧 51.89.21.99:62311 527ms GB [OVH SAS]
+🇺🇸 167.172.159.43:35290 428ms US [DigitalOcean, LLC]
 🇷🇺 85.143.254.38:1080 653ms RU [Comfortel Ltd.]
 🇺🇦 194.44.208.62:80 364ms UA [UARNET-LL]
-🇨🇦 184.95.220.42:1080 290ms CA [Fibrenoire Inc.]
+🇵🇸 93.184.8.22:1080 700ms PS [BNET network]
 🇻🇳 202.92.6.70:54580 593ms VN [INET]
-🇨🇳 117.74.65.207:5441 503ms CN [CNC Group CHINA169 Hebei Province Network]
+🇨🇳 117.74.65.207:5441 789ms CN [CNC Group CHINA169 Hebei Province Network]
 🇨🇦 172.105.14.39:35992 653ms CA [Linode, LLC]
 🇸🇪 130.255.160.60:18946 745ms SE [Internet Vikings]
 🇫🇷 37.44.238.2:63617 786ms FR [Harmony Hosting SARL]
 🇸🇬 51.79.248.208:14720 512ms SG [OVH SAS]
-🇺🇸 43.153.36.48:443 368ms US [Shenzhen Tencent Computer Systems Company Limited]
-🇨🇦 184.95.235.194:1080 595ms CA [Fibrenoire Inc]
+🇺🇸 43.153.36.48:443 144ms US [Shenzhen Tencent Computer Systems Company Limited]
+🇨🇦 184.95.235.194:1080 322ms CA [Fibrenoire Inc]
 🇦🇺 185.139.155.155:1976 717ms AU [Internet Vikings International AB]
 🇷🇺 46.241.57.29:1080 436ms RU [ZSTTK]
-🇸🇬 167.71.220.29:7497 8ms SG [DigitalOcean, LLC]
+🇸🇬 167.71.220.29:7497 7ms SG [DigitalOcean, LLC]
 🇺🇦 91.200.115.49:1080 420ms UA [Joint Ukrainian American Enterprise "Telecommunications Resource Center" ltd]
 🇹🇷 185.87.121.35:8975 437ms TR [Ideal Hosting Teknoloji]
 🇹🇷 185.87.121.5:8975 407ms TR [Ideal Hosting Teknoloji A.S.]
