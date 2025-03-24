@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2025-03-24 20:00:01 GMT+7
+SOCKS5 Proxy list updated at 2025-03-24 21:00:02 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -12,18 +12,20 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
 🇧🇩 103.234.27.221:1080 98ms BD [BTS Communications (BD) Ltd]
 🇻🇳 116.97.240.147:4996 748ms VN [Viettel Corporation]
-🇬🇧 51.89.21.99:62311 592ms GB [OVH SAS]
-🇺🇸 167.172.159.43:35290 575ms US [DigitalOcean, LLC]
+🇮🇩 103.174.178.131:1020 371ms ID [PT Gasatek Bintang Nusantara]
+🇬🇧 51.89.21.99:62311 602ms GB [OVH SAS]
+🇺🇸 167.172.159.43:35290 637ms US [DigitalOcean, LLC]
 🇷🇺 94.73.251.19:1080 574ms RU [Orion Telecom LLC]
-🇺🇦 194.44.208.62:80 405ms UA [UARNET-LL]
+🇺🇦 194.44.208.62:80 404ms UA [UARNET-LL]
+🇷🇺 185.23.81.5:1080 412ms RU [OJSC Telecom-Service]
 🇷🇺 212.33.248.45:1080 492ms RU [JSC "ER-Telecom Holding"]
 🇨🇦 184.95.220.42:1080 271ms CA [Fibrenoire Inc.]
 🇨🇦 51.222.108.216:38242 665ms CA [OVH SAS]
 🇻🇳 202.92.6.70:54580 528ms VN [INET]
-🇨🇳 117.74.65.207:5441 787ms CN [CNC Group CHINA169 Hebei Province Network]
+🇨🇳 117.74.65.207:5441 483ms CN [CNC Group CHINA169 Hebei Province Network]
 🇨🇦 172.105.14.39:35992 631ms CA [Linode, LLC]
-🇸🇬 51.79.248.208:14720 595ms SG [OVH SAS]
-🇺🇸 43.153.36.48:443 171ms US [Shenzhen Tencent Computer Systems Company Limited]
+🇸🇬 51.79.248.208:14720 436ms SG [OVH SAS]
+🇺🇸 43.153.36.48:443 138ms US [Shenzhen Tencent Computer Systems Company Limited]
 🇨🇦 184.95.235.194:1080 800ms CA [Fibrenoire Inc]
 🇦🇺 185.139.155.155:1976 466ms AU [Internet Vikings International AB]
 🇻🇳 113.176.118.150:1080 771ms VN [VNPT]
