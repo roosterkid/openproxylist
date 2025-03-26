@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2025-03-26 16:00:01 GMT+7
+SOCKS5 Proxy list updated at 2025-03-26 17:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -12,18 +12,24 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
 🇧🇩 103.234.27.221:1080 129ms BD [BTS Communications (BD) Ltd]
 🇧🇷 187.63.9.62:63253 510ms BR [Gigalink de Nova Friburgo Soluções em Rede Multimi]
-🇮🇩 103.174.178.131:1020 183ms ID [PT Gasatek Bintang Nusantara]
-🇺🇸 167.172.159.43:35290 484ms US [DigitalOcean, LLC]
+🇮🇩 103.174.178.131:1020 186ms ID [PT Gasatek Bintang Nusantara]
+🇺🇸 167.172.159.43:35290 457ms US [DigitalOcean, LLC]
 🇺🇦 194.44.208.62:80 465ms UA [UARNET-LL]
 🇷🇺 185.23.81.5:1080 579ms RU [OJSC Telecom-Service]
+🇨🇦 184.95.220.42:1080 397ms CA [Fibrenoire Inc.]
 🇷🇺 185.54.178.193:1080 700ms RU [Irkutskenergosvyaz LTD]
-🇨🇳 117.74.65.207:5441 789ms CN [CNC Group CHINA169 Hebei Province Network]
+🇨🇳 117.74.65.207:5441 787ms CN [CNC Group CHINA169 Hebei Province Network]
 🇸🇪 130.255.160.60:18946 590ms SE [Internet Vikings]
+🇸🇬 51.79.248.208:14720 313ms SG [OVH SAS]
 🇺🇸 43.153.36.48:443 138ms US [Shenzhen Tencent Computer Systems Company Limited]
 🇨🇦 184.95.235.194:1080 537ms CA [Fibrenoire Inc]
+🇦🇺 185.139.155.155:1976 718ms AU [Internet Vikings International AB]
 🇸🇬 167.71.220.29:7497 33ms SG [DigitalOcean, LLC]
+🇺🇦 91.200.115.49:1080 322ms UA [Joint Ukrainian American Enterprise "Telecommunications Resource Center" ltd]
 🇻🇳 113.176.118.150:1080 105ms VN [VNPT]
 🇹🇷 185.87.121.35:8975 647ms TR [Ideal Hosting Teknoloji]
 🇹🇷 185.87.121.5:8975 503ms TR [Ideal Hosting Teknoloji A.S.]
-🇹🇷 185.86.5.162:8975 632ms TR [Ideal Hosting Teknoloji]
+🇺🇸 173.166.191.6:3820 579ms US [Comcast Cable Communications]
+🇹🇷 185.86.5.162:8975 566ms TR [Ideal Hosting Teknoloji]
 🇮🇩 202.6.233.59:7878 219ms ID [PT Padi Internet]
+🇫🇷 51.83.190.248:19050 506ms FR [OVH SAS]
