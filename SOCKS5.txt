@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2025-03-30 12:00:01 GMT+7
+SOCKS5 Proxy list updated at 2025-03-30 13:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -10,23 +10,21 @@ https://buymeacoffee.com/roosterkid
 
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
+🇧🇷 187.63.9.62:63253 522ms BR [Gigalink de Nova Friburgo Soluções em Rede Multimi]
 🇮🇩 103.174.178.131:1020 167ms ID [PT Gasatek Bintang Nusantara]
-🇺🇸 167.172.159.43:35290 626ms US [DigitalOcean, LLC]
-🇷🇺 85.143.254.38:1080 563ms RU [Comfortel Ltd.]
-🇷🇺 95.156.83.139:1080 408ms RU [PJSC Rostelecom]
+🇺🇸 167.172.159.43:35290 422ms US [DigitalOcean, LLC]
+🇷🇺 95.156.83.139:1080 443ms RU [PJSC Rostelecom]
 🇺🇦 194.44.208.62:80 355ms UA [UARNET-LL]
-🇨🇦 184.95.220.42:1080 646ms CA [Fibrenoire Inc.]
 🇺🇦 195.66.156.196:1080 474ms UA [PP Info-Center]
 🇷🇺 194.190.169.197:3701 683ms RU [Webmaster Agency Ltd]
-🇨🇳 117.74.65.207:5441 667ms CN [CNC Group CHINA169 Hebei Province Network]
+🇺🇦 195.39.233.14:44567 670ms UA [Active Operations LLC]
+🇨🇳 117.74.65.207:5441 533ms CN [CNC Group CHINA169 Hebei Province Network]
 🇨🇦 172.105.14.39:35992 799ms CA [Linode, LLC]
-🇰🇷 193.123.252.70:35973 287ms KR [Oracle Corporation]
-🇸🇪 130.255.160.60:18946 541ms SE [Internet Vikings]
-🇫🇷 37.44.238.2:63617 577ms FR [Harmony Hosting SARL]
-🇨🇦 184.95.235.194:1080 397ms CA [Fibrenoire Inc]
-🇺🇦 91.200.115.49:1080 317ms UA [Joint Ukrainian American Enterprise "Telecommunications Resource Center" ltd]
+🇸🇪 130.255.160.60:18946 710ms SE [Internet Vikings]
+🇨🇦 184.95.235.194:1080 288ms CA [Fibrenoire Inc]
+🇺🇦 91.200.115.49:1080 319ms UA [Joint Ukrainian American Enterprise "Telecommunications Resource Center" ltd]
 🇹🇷 185.87.121.35:8975 359ms TR [Ideal Hosting Teknoloji]
-🇹🇷 185.87.121.5:8975 389ms TR [Ideal Hosting Teknoloji A.S.]
-🇩🇪 51.195.102.120:10084 330ms DE [OVH SAS]
-🏳 166.62.38.100:45310 544ms  []
+🇹🇷 185.87.121.5:8975 400ms TR [Ideal Hosting Teknoloji A.S.]
+🇹🇷 185.86.5.162:8975 412ms TR [Ideal Hosting Teknoloji]
+🏳 166.62.38.100:45310 640ms  []
 🇻🇳 113.160.188.21:1080 105ms VN [VietNam Post and Telecom Corporation]
