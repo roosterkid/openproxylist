@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2025-04-01 19:00:01 GMT+7
+SOCKS5 Proxy list updated at 2025-04-01 20:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -15,19 +15,20 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 🇧🇩 103.234.27.221:1080 210ms BD [BTS Communications (BD) Ltd]
 🇧🇷 187.63.9.62:63253 398ms BR [Gigalink de Nova Friburgo Soluções em Rede Multimi]
 🇮🇩 103.174.178.131:1020 362ms ID [PT Gasatek Bintang Nusantara]
-🇺🇸 167.172.159.43:35290 628ms US [DigitalOcean, LLC]
+🇺🇸 167.172.159.43:35290 471ms US [DigitalOcean, LLC]
 🇷🇺 95.156.83.139:1080 443ms RU [PJSC Rostelecom]
 🇺🇦 194.44.208.62:80 299ms UA [UARNET-LL]
 🇨🇦 184.95.220.42:1080 294ms CA [Fibrenoire Inc.]
-🇺🇦 195.66.156.196:1080 686ms UA [PP Info-Center]
+🇷🇺 31.25.24.67:1080 518ms RU [LLC Cifrovie Seti Urala]
+🇺🇦 195.66.156.196:1080 471ms UA [PP Info-Center]
 🇷🇺 194.190.169.197:3701 526ms RU [Webmaster Agency Ltd]
-🇨🇳 117.74.65.207:5441 786ms CN [CNC Group CHINA169 Hebei Province Network]
-🇸🇪 130.255.160.60:18946 699ms SE [Internet Vikings]
+🇨🇳 117.74.65.207:5441 521ms CN [CNC Group CHINA169 Hebei Province Network]
 🇫🇷 37.44.238.2:63617 329ms FR [Harmony Hosting SARL]
 🇷🇺 37.193.46.11:1080 393ms RU [Novotelecom Ltd.]
-🇨🇦 184.95.235.194:1080 350ms CA [Fibrenoire Inc]
 🇦🇺 185.139.155.155:1976 690ms AU [Internet Vikings International AB]
 🇻🇳 113.176.118.150:1080 425ms VN [VNPT]
+🇺🇸 216.80.120.100:3820 315ms US [RCN]
+🇷🇺 5.128.73.5:1080 354ms RU [Novotelecom Ltd.]
 🇹🇷 185.86.5.162:8975 437ms TR [Ideal Hosting Teknoloji]
 🏳 95.213.154.54:31337 464ms  []
-🇻🇳 113.160.188.21:1080 422ms VN [VietNam Post and Telecom Corporation]
+🇻🇳 113.160.188.21:1080 240ms VN [VietNam Post and Telecom Corporation]
