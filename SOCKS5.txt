@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2025-04-01 23:00:02 GMT+7
+SOCKS5 Proxy list updated at 2025-04-02 00:00:02 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -14,17 +14,15 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 🇧🇩 103.234.27.221:1080 431ms BD [BTS Communications (BD) Ltd]
 🇧🇷 187.63.9.62:63253 551ms BR [Gigalink de Nova Friburgo Soluções em Rede Multimi]
 🇮🇩 103.174.178.131:1020 69ms ID [PT Gasatek Bintang Nusantara]
-🇺🇸 167.172.159.43:35290 428ms US [DigitalOcean, LLC]
-🇷🇺 95.156.83.139:1080 443ms RU [PJSC Rostelecom]
+🇺🇸 167.172.159.43:35290 621ms US [DigitalOcean, LLC]
+🇺🇦 194.44.208.62:80 408ms UA [UARNET-LL]
 🇨🇦 184.95.220.42:1080 281ms CA [Fibrenoire Inc.]
 🇷🇺 31.25.24.67:1080 518ms RU [LLC Cifrovie Seti Urala]
 🇺🇦 195.66.156.196:1080 477ms UA [PP Info-Center]
-🇷🇺 194.190.169.197:3701 526ms RU [Webmaster Agency Ltd]
-🇨🇳 117.74.65.207:5441 517ms CN [CNC Group CHINA169 Hebei Province Network]
+🇨🇳 117.74.65.207:5441 790ms CN [CNC Group CHINA169 Hebei Province Network]
 🇸🇪 130.255.160.60:18946 684ms SE [Internet Vikings]
-🇫🇷 37.44.238.2:63617 329ms FR [Harmony Hosting SARL]
 🇦🇺 185.139.155.155:1976 470ms AU [Internet Vikings International AB]
-🇷🇺 46.241.57.29:1080 651ms RU [ZSTTK]
+🇷🇺 46.241.57.29:1080 507ms RU [ZSTTK]
 🇻🇳 113.176.118.150:1080 242ms VN [VNPT]
 🇺🇸 216.80.120.100:3820 315ms US [RCN]
 🇹🇷 185.87.121.35:8975 501ms TR [Ideal Hosting Teknoloji]
