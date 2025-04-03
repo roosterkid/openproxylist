@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2025-04-03 21:00:01 GMT+7
+SOCKS5 Proxy list updated at 2025-04-03 22:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -12,19 +12,18 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
 🇧🇩 103.234.27.221:1080 788ms BD [BTS Communications (BD) Ltd]
 🇪🇸 178.33.162.89:59490 516ms ES [OVH ISP]
-🇮🇩 103.174.178.131:1020 751ms ID [PT Gasatek Bintang Nusantara]
-🇺🇸 167.172.159.43:35290 337ms US [DigitalOcean, LLC]
-🇷🇺 95.156.83.139:1080 670ms RU [PJSC Rostelecom]
-🇺🇦 194.44.208.62:80 382ms UA [UARNET-LL]
+🇮🇩 103.174.178.131:1020 93ms ID [PT Gasatek Bintang Nusantara]
+🇺🇸 167.172.159.43:35290 622ms US [DigitalOcean, LLC]
+🇺🇦 194.44.208.62:80 278ms UA [UARNET-LL]
 🇺🇦 195.66.156.196:1080 737ms UA [PP Info-Center]
 🇷🇺 194.190.169.197:3701 341ms RU [Webmaster Agency Ltd]
-🇺🇦 195.39.233.14:44567 368ms UA [Active Operations LLC]
-🇨🇳 117.74.65.207:5441 589ms CN [CNC Group CHINA169 Hebei Province Network]
-🇨🇦 172.105.14.39:35992 456ms CA [Linode, LLC]
+🇺🇦 195.39.233.14:44567 715ms UA [Active Operations LLC]
+🇨🇳 117.74.65.207:5441 787ms CN [CNC Group CHINA169 Hebei Province Network]
+🇨🇦 172.105.14.39:35992 666ms CA [Linode, LLC]
 🇫🇷 37.44.238.2:63617 591ms FR [Harmony Hosting SARL]
 🇷🇺 37.193.46.11:1080 527ms RU [Novotelecom Ltd.]
 🇸🇬 167.71.220.29:7497 14ms SG [DigitalOcean, LLC]
-🇺🇦 91.200.115.49:1080 644ms UA [Joint Ukrainian American Enterprise "Telecommunications Resource Center" ltd]
+🇺🇦 91.200.115.49:1080 432ms UA [Joint Ukrainian American Enterprise "Telecommunications Resource Center" ltd]
 🇻🇳 113.176.118.150:1080 772ms VN [VNPT]
 🇹🇷 185.87.121.35:8975 563ms TR [Ideal Hosting Teknoloji]
 🇹🇷 185.87.121.5:8975 518ms TR [Ideal Hosting Teknoloji A.S.]
