@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2025-04-05 03:00:02 GMT+7
+SOCKS5 Proxy list updated at 2025-04-05 04:00:02 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -10,26 +10,30 @@ https://buymeacoffee.com/roosterkid
 
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇧🇩 103.234.27.221:1080 84ms BD [BTS Communications (BD) Ltd]
-🇮🇩 103.174.178.131:1020 52ms ID [PT Gasatek Bintang Nusantara]
+🇷🇺 87.117.11.57:1080 519ms RU [Macroregional South]
+🇧🇩 103.234.27.221:1080 101ms BD [BTS Communications (BD) Ltd]
+🇮🇩 103.174.178.131:1020 149ms ID [PT Gasatek Bintang Nusantara]
 🇺🇸 167.172.159.43:35290 366ms US [DigitalOcean, LLC]
+🇷🇺 92.255.88.219:1080 702ms RU [Comfortel Ltd.]
 🇺🇦 194.44.208.62:80 373ms UA [UARNET-LL]
 🇺🇦 185.151.86.86:3699 671ms UA [Omega Telecom]
+🇿🇦 102.36.127.53:1080 464ms ZA [Clear Access (Pty) Ltd]
 🇺🇦 195.66.156.196:1080 486ms UA [PP Info-Center]
 🇺🇦 195.39.233.14:44567 464ms UA [Active Operations LLC]
-🇨🇳 117.74.65.207:5441 488ms CN [CNC Group CHINA169 Hebei Province Network]
+🇨🇳 117.74.65.207:5441 788ms CN [CNC Group CHINA169 Hebei Province Network]
 🇨🇦 172.105.14.39:35992 639ms CA [Linode, LLC]
 🇫🇷 37.44.238.2:63617 514ms FR [Harmony Hosting SARL]
 🇨🇦 184.95.235.194:1080 239ms CA [Fibrenoire Inc]
 🇸🇬 167.71.220.29:7497 6ms SG [DigitalOcean, LLC]
-🇺🇦 91.200.115.49:1080 326ms UA [Joint Ukrainian American Enterprise "Telecommunications Resource Center" ltd]
+🇺🇦 91.200.115.49:1080 547ms UA [Joint Ukrainian American Enterprise "Telecommunications Resource Center" ltd]
 🇻🇳 113.176.118.150:1080 379ms VN [VNPT]
-🇺🇸 216.80.120.100:3820 273ms US [RCN]
+🇺🇸 216.80.120.100:3820 614ms US [RCN]
 🇹🇷 185.87.121.35:8975 470ms TR [Ideal Hosting Teknoloji]
-🇹🇷 185.87.121.5:8975 371ms TR [Ideal Hosting Teknoloji A.S.]
-🇺🇸 173.166.191.6:3820 628ms US [Comcast Cable Communications]
-🇹🇷 185.86.5.162:8975 384ms TR [Ideal Hosting Teknoloji]
+🇹🇷 185.87.121.5:8975 423ms TR [Ideal Hosting Teknoloji A.S.]
+🇺🇸 173.166.191.6:3820 690ms US [Comcast Cable Communications]
+🇹🇷 185.86.5.162:8975 515ms TR [Ideal Hosting Teknoloji]
 🇷🇺 109.248.46.76:1080 337ms RU [Master-Integration Ltd]
 🇮🇩 202.6.233.59:7878 181ms ID [PT Padi Internet]
 🇬🇧 188.241.45.142:2021 547ms GB [Talk Straight Ltd.]
 🇩🇪 139.162.151.176:9050 655ms DE [Linode, LLC]
+🇩🇪 188.68.52.220:9050 381ms DE [netcup GmbH]
