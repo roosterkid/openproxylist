@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2025-04-05 13:00:01 GMT+7
+SOCKS5 Proxy list updated at 2025-04-05 14:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -12,13 +12,14 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
 🇧🇷 187.63.9.62:63253 680ms BR [Gigalink de Nova Friburgo Soluções em Rede Multimi]
 🇮🇩 103.174.178.131:1020 39ms ID [PT Gasatek Bintang Nusantara]
-🇺🇸 167.172.159.43:35290 474ms US [DigitalOcean, LLC]
+🇺🇸 167.172.159.43:35290 468ms US [DigitalOcean, LLC]
 🇷🇺 94.73.251.19:1080 331ms RU [Orion Telecom LLC]
 🇷🇺 95.156.83.139:1080 315ms RU [PJSC Rostelecom]
 🇷🇺 31.25.24.67:1080 601ms RU [LLC Cifrovie Seti Urala]
+🇺🇦 185.151.86.121:3699 271ms UA [Omega Telecom]
 🇺🇦 195.66.156.196:1080 339ms UA [PP Info-Center]
 🇷🇺 185.54.178.193:1080 496ms RU [Irkutskenergosvyaz LTD]
-🇨🇳 117.74.65.207:5441 487ms CN [CNC Group CHINA169 Hebei Province Network]
+🇨🇳 117.74.65.207:5441 495ms CN [CNC Group CHINA169 Hebei Province Network]
 🇬🇧 51.155.10.0:8000 708ms GB [Zen Internet Ltd]
 🇸🇪 130.255.160.60:18946 533ms SE [Internet Vikings]
 🇺🇦 91.200.115.49:1080 322ms UA [Joint Ukrainian American Enterprise "Telecommunications Resource Center" ltd]
