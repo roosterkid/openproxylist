@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2025-04-05 17:00:02 GMT+7
+SOCKS5 Proxy list updated at 2025-04-05 18:00:02 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -12,17 +12,17 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
 🇧🇩 103.234.27.221:1080 208ms BD [BTS Communications (BD) Ltd]
 🇮🇩 103.174.178.131:1020 140ms ID [PT Gasatek Bintang Nusantara]
-🇺🇸 167.172.159.43:35290 334ms US [DigitalOcean, LLC]
+🇺🇸 167.172.159.43:35290 402ms US [DigitalOcean, LLC]
 🇷🇺 94.73.251.19:1080 438ms RU [Orion Telecom LLC]
 🇷🇺 95.156.83.139:1080 671ms RU [PJSC Rostelecom]
 🇺🇦 194.44.208.62:80 392ms UA [UARNET-LL]
 🇺🇦 185.151.86.121:3699 271ms UA [Omega Telecom]
 🇵🇸 93.184.8.22:1080 669ms PS [BNET network]
 🇺🇦 195.39.233.14:44567 466ms UA [Active Operations LLC]
-🇨🇳 117.74.65.207:5441 498ms CN [CNC Group CHINA169 Hebei Province Network]
-🇸🇪 130.255.160.60:18946 533ms SE [Internet Vikings]
+🇷🇺 185.54.178.193:1080 708ms RU [Irkutskenergosvyaz LTD]
+🇨🇳 117.74.65.207:5441 786ms CN [CNC Group CHINA169 Hebei Province Network]
 🇦🇺 185.139.155.155:1976 645ms AU [Internet Vikings International AB]
 🇺🇦 91.200.115.49:1080 423ms UA [Joint Ukrainian American Enterprise "Telecommunications Resource Center" ltd]
-🇻🇳 113.176.118.150:1080 66ms VN [VNPT]
-🇷🇺 109.248.46.76:1080 271ms RU [Master-Integration Ltd]
+🇷🇺 109.248.46.76:1080 454ms RU [Master-Integration Ltd]
+🏳 95.213.154.54:31337 628ms  []
 🇻🇳 113.160.188.21:1080 594ms VN [VietNam Post and Telecom Corporation]
