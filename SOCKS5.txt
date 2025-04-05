@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2025-04-05 08:00:01 GMT+7
+SOCKS5 Proxy list updated at 2025-04-05 09:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -10,31 +10,24 @@ https://buymeacoffee.com/roosterkid
 
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇷🇺 87.117.11.57:1080 519ms RU [Macroregional South]
 🇧🇩 103.234.27.221:1080 187ms BD [BTS Communications (BD) Ltd]
 🇧🇷 187.63.9.62:63253 339ms BR [Gigalink de Nova Friburgo Soluções em Rede Multimi]
 🇮🇩 103.174.178.131:1020 758ms ID [PT Gasatek Bintang Nusantara]
-🇺🇸 167.172.159.43:35290 369ms US [DigitalOcean, LLC]
-🇷🇺 92.255.88.219:1080 702ms RU [Comfortel Ltd.]
+🇺🇸 167.172.159.43:35290 497ms US [DigitalOcean, LLC]
 🇺🇦 194.44.208.62:80 375ms UA [UARNET-LL]
 🇨🇦 184.95.220.42:1080 330ms CA [Fibrenoire Inc.]
-🇿🇦 102.36.127.53:1080 464ms ZA [Clear Access (Pty) Ltd]
 🇷🇺 194.190.169.197:3701 452ms RU [Webmaster Agency Ltd]
 🇩🇪 37.120.162.180:40344 318ms DE [netcup GmbH]
 🇷🇺 185.54.178.193:1080 279ms RU [Irkutskenergosvyaz LTD]
-🇨🇳 117.74.65.207:5441 789ms CN [CNC Group CHINA169 Hebei Province Network]
+🇨🇳 117.74.65.207:5441 487ms CN [CNC Group CHINA169 Hebei Province Network]
 🇨🇦 172.105.14.39:35992 282ms CA [Linode, LLC]
 🇸🇪 130.255.160.60:18946 309ms SE [Internet Vikings]
-🇺🇦 91.200.115.49:1080 547ms UA [Joint Ukrainian American Enterprise "Telecommunications Resource Center" ltd]
-🇻🇳 113.176.118.150:1080 245ms VN [VNPT]
-🇺🇸 216.80.120.100:3820 614ms US [RCN]
+🇺🇦 91.200.115.49:1080 323ms UA [Joint Ukrainian American Enterprise "Telecommunications Resource Center" ltd]
+🇻🇳 113.176.118.150:1080 67ms VN [VNPT]
 🇹🇷 185.87.121.35:8975 389ms TR [Ideal Hosting Teknoloji]
 🇬🇧 81.143.236.200:443 425ms GB [BT Public Internet Service]
-🇹🇷 185.87.121.5:8975 423ms TR [Ideal Hosting Teknoloji A.S.]
-🇺🇸 173.166.191.6:3820 589ms US [Comcast Cable Communications]
-🇹🇷 185.86.5.162:8975 515ms TR [Ideal Hosting Teknoloji]
+🇺🇸 173.166.191.6:3820 743ms US [Comcast Cable Communications]
 🏳 95.213.154.54:31337 326ms  []
 🇫🇷 51.83.190.248:19050 387ms FR [OVH SAS]
 🇩🇪 139.162.151.176:9050 316ms DE [Linode, LLC]
 🇻🇳 113.160.188.21:1080 798ms VN [VietNam Post and Telecom Corporation]
-🇩🇪 188.68.52.220:9050 381ms DE [netcup GmbH]
