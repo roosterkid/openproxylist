@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2025-04-07 07:00:01 GMT+7
+SOCKS5 Proxy list updated at 2025-04-07 08:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -11,22 +11,23 @@ https://buymeacoffee.com/roosterkid
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
 🇷🇺 87.117.11.57:1080 308ms RU [Macroregional South]
-🇮🇩 103.174.178.131:1020 748ms ID [PT Gasatek Bintang Nusantara]
-🇺🇸 167.172.159.43:35290 552ms US [DigitalOcean, LLC]
-🇺🇦 194.44.208.62:80 376ms UA [UARNET-LL]
+🇮🇩 103.174.178.131:1020 143ms ID [PT Gasatek Bintang Nusantara]
+🇺🇸 167.172.159.43:35290 327ms US [DigitalOcean, LLC]
+🇺🇦 194.44.208.62:80 576ms UA [UARNET-LL]
 🇨🇦 184.95.220.42:1080 237ms CA [Fibrenoire Inc.]
-🇺🇦 185.151.86.121:3699 472ms UA [Omega Telecom]
-🇨🇳 117.74.65.207:5441 483ms CN [CNC Group CHINA169 Hebei Province Network]
+🇺🇦 185.151.86.121:3699 466ms UA [Omega Telecom]
+🇨🇳 117.74.65.207:5441 789ms CN [CNC Group CHINA169 Hebei Province Network]
 🇰🇷 193.123.252.70:35973 637ms KR [Oracle Corporation]
 🇸🇪 130.255.160.60:18946 467ms SE [Internet Vikings]
-🇫🇷 37.44.238.2:63617 709ms FR [Harmony Hosting SARL]
-🇦🇺 185.139.155.155:1976 733ms AU [Internet Vikings International AB]
+🇦🇺 185.139.155.155:1976 682ms AU [Internet Vikings International AB]
 🇸🇬 167.71.220.29:7497 6ms SG [DigitalOcean, LLC]
 🇺🇦 91.200.115.49:1080 325ms UA [Joint Ukrainian American Enterprise "Telecommunications Resource Center" ltd]
 🇹🇷 185.87.121.35:8975 418ms TR [Ideal Hosting Teknoloji]
-🇹🇷 185.87.121.5:8975 424ms TR [Ideal Hosting Teknoloji A.S.]
+🇹🇷 185.87.121.5:8975 432ms TR [Ideal Hosting Teknoloji A.S.]
+🇩🇪 51.195.102.120:10084 285ms DE [OVH SAS]
 🇷🇺 109.248.46.76:1080 468ms RU [Master-Integration Ltd]
-🇬🇧 18.133.187.220:1080 149ms GB [Amazon Technologies Inc.]
+🇬🇧 18.133.187.220:1080 196ms GB [Amazon Technologies Inc.]
+🇬🇧 188.241.45.142:2021 549ms GB [Talk Straight Ltd.]
 🇫🇷 51.83.190.248:19050 433ms FR [OVH SAS]
+🇩🇪 82.165.137.115:7061 305ms DE [SCHLUND]
 🇻🇳 113.160.188.21:1080 96ms VN [VietNam Post and Telecom Corporation]
-🇷🇺 80.87.200.140:9050 384ms RU [JSC Server]
