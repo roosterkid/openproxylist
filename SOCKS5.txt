@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2025-04-07 13:00:02 GMT+7
+SOCKS5 Proxy list updated at 2025-04-07 14:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -10,17 +10,16 @@ https://buymeacoffee.com/roosterkid
 
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
+🇧🇩 103.234.27.221:1080 311ms BD [BTS Communications (BD) Ltd]
 🇧🇷 187.63.9.62:63253 483ms BR [Gigalink de Nova Friburgo Soluções em Rede Multimi]
 🇪🇸 178.33.162.89:59490 346ms ES [OVH ISP]
 🇮🇩 103.174.178.131:1020 57ms ID [PT Gasatek Bintang Nusantara]
-🇺🇸 167.172.159.43:35290 359ms US [DigitalOcean, LLC]
+🇺🇸 167.172.159.43:35290 583ms US [DigitalOcean, LLC]
 🇷🇺 94.73.251.19:1080 337ms RU [Orion Telecom LLC]
 🇷🇺 95.156.83.139:1080 314ms RU [PJSC Rostelecom]
-🇺🇦 195.66.156.196:1080 601ms UA [PP Info-Center]
-🇨🇳 117.74.65.207:5441 687ms CN [CNC Group CHINA169 Hebei Province Network]
-🇸🇪 130.255.160.60:18946 427ms SE [Internet Vikings]
-🇨🇦 184.95.235.194:1080 340ms CA [Fibrenoire Inc]
+🇨🇳 117.74.65.207:5441 789ms CN [CNC Group CHINA169 Hebei Province Network]
+🇸🇪 130.255.160.60:18946 458ms SE [Internet Vikings]
 🇺🇦 91.200.115.49:1080 360ms UA [Joint Ukrainian American Enterprise "Telecommunications Resource Center" ltd]
 🇷🇺 109.248.46.76:1080 407ms RU [Master-Integration Ltd]
-🇬🇧 18.133.187.220:1080 153ms GB [Amazon Technologies Inc.]
+🇬🇧 18.133.187.220:1080 150ms GB [Amazon Technologies Inc.]
 🇻🇳 113.160.188.21:1080 782ms VN [VietNam Post and Telecom Corporation]
