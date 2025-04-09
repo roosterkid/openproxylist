@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2025-04-10 03:00:01 GMT+7
+SOCKS5 Proxy list updated at 2025-04-10 04:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -10,16 +10,18 @@ https://buymeacoffee.com/roosterkid
 
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇧🇩 103.234.27.221:1080 797ms BD [BTS Communications (BD) Ltd]
+🇧🇩 103.234.27.221:1080 79ms BD [BTS Communications (BD) Ltd]
 🇧🇷 187.63.9.62:63253 681ms BR [Gigalink de Nova Friburgo Soluções em Rede Multimi]
-🇮🇩 103.174.178.131:1020 61ms ID [PT Gasatek Bintang Nusantara]
-🇺🇸 167.172.159.43:35290 344ms US [DigitalOcean, LLC]
-🇺🇦 194.44.208.62:80 365ms UA [UARNET-LL]
+🇮🇩 103.174.178.131:1020 75ms ID [PT Gasatek Bintang Nusantara]
+🇺🇸 167.172.159.43:35290 330ms US [DigitalOcean, LLC]
+🇷🇺 85.143.254.38:1080 299ms RU [Comfortel Ltd.]
+🇺🇦 194.44.208.62:80 339ms UA [UARNET-LL]
 🇷🇺 185.23.81.5:1080 620ms RU [OJSC Telecom-Service]
+🇨🇦 134.122.43.203:56442 682ms CA [DigitalOcean, LLC]
 🇿🇦 102.36.127.53:1080 587ms ZA [Clear Access (Pty) Ltd]
 🇺🇦 195.66.156.196:1080 428ms UA [PP Info-Center]
 🇷🇺 194.190.169.197:3701 431ms RU [Webmaster Agency Ltd]
-🇨🇳 117.74.65.207:5441 483ms CN [CNC Group CHINA169 Hebei Province Network]
+🇨🇳 117.74.65.207:5441 787ms CN [CNC Group CHINA169 Hebei Province Network]
 🇸🇪 130.255.160.60:18946 636ms SE [Internet Vikings]
 🇫🇷 37.44.238.2:63617 394ms FR [Harmony Hosting SARL]
 🇨🇦 184.95.235.194:1080 250ms CA [Fibrenoire Inc]
@@ -27,12 +29,11 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 🇩🇪 89.58.45.94:45159 401ms DE [netcup GmbH]
 🇸🇬 167.71.220.29:7497 7ms SG [DigitalOcean, LLC]
 🇺🇦 91.200.115.49:1080 561ms UA [Joint Ukrainian American Enterprise "Telecommunications Resource Center" ltd]
-🇻🇳 113.176.118.150:1080 163ms VN [VNPT]
-🇹🇷 185.87.121.35:8975 398ms TR [Ideal Hosting Teknoloji]
+🇹🇷 185.87.121.35:8975 375ms TR [Ideal Hosting Teknoloji]
 🇹🇷 185.87.121.5:8975 389ms TR [Ideal Hosting Teknoloji A.S.]
-🇹🇷 185.86.5.162:8975 387ms TR [Ideal Hosting Teknoloji]
+🇹🇷 185.86.5.162:8975 523ms TR [Ideal Hosting Teknoloji]
 🇷🇺 109.248.46.76:1080 287ms RU [Master-Integration Ltd]
 🏳 166.62.38.100:45310 629ms  []
-🇬🇧 18.133.187.220:1080 153ms GB [Amazon Technologies Inc.]
+🇬🇧 18.133.187.220:1080 253ms GB [Amazon Technologies Inc.]
 🇫🇷 51.83.190.248:19050 674ms FR [OVH SAS]
 🇻🇳 113.160.188.21:1080 169ms VN [VietNam Post and Telecom Corporation]
