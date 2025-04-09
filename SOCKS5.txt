@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2025-04-09 21:00:01 GMT+7
+SOCKS5 Proxy list updated at 2025-04-09 22:00:02 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -10,24 +10,23 @@ https://buymeacoffee.com/roosterkid
 
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇷🇺 87.117.11.57:1080 419ms RU [Macroregional South]
 🇧🇷 187.63.9.62:63253 476ms BR [Gigalink de Nova Friburgo Soluções em Rede Multimi]
-🇮🇩 103.174.178.131:1020 60ms ID [PT Gasatek Bintang Nusantara]
-🇺🇸 167.172.159.43:35290 632ms US [DigitalOcean, LLC]
+🇮🇩 103.174.178.131:1020 54ms ID [PT Gasatek Bintang Nusantara]
+🇺🇸 167.172.159.43:35290 458ms US [DigitalOcean, LLC]
 🇷🇺 94.73.251.19:1080 381ms RU [Orion Telecom LLC]
-🇷🇺 92.255.88.219:1080 792ms RU [Comfortel Ltd.]
 🇺🇦 194.44.208.62:80 351ms UA [UARNET-LL]
 🇨🇦 184.95.220.42:1080 250ms CA [Fibrenoire Inc.]
-🇿🇦 102.36.127.53:1080 377ms ZA [Clear Access (Pty) Ltd]
+🇿🇦 102.36.127.53:1080 466ms ZA [Clear Access (Pty) Ltd]
 🇷🇺 194.190.169.197:3701 618ms RU [Webmaster Agency Ltd]
-🇨🇳 117.74.65.207:5441 793ms CN [CNC Group CHINA169 Hebei Province Network]
+🇨🇳 117.74.65.207:5441 625ms CN [CNC Group CHINA169 Hebei Province Network]
 🇬🇧 51.155.10.0:8000 770ms GB [Zen Internet Ltd]
-🇸🇪 130.255.160.60:18946 474ms SE [Internet Vikings]
+🇸🇪 130.255.160.60:18946 633ms SE [Internet Vikings]
+🇫🇷 37.44.238.2:63617 685ms FR [Harmony Hosting SARL]
 🇨🇦 184.95.235.194:1080 557ms CA [Fibrenoire Inc]
 🇦🇺 185.139.155.155:1976 592ms AU [Internet Vikings International AB]
 🇸🇬 167.71.220.29:7497 8ms SG [DigitalOcean, LLC]
-🇺🇦 91.200.115.49:1080 628ms UA [Joint Ukrainian American Enterprise "Telecommunications Resource Center" ltd]
+🇺🇦 91.200.115.49:1080 355ms UA [Joint Ukrainian American Enterprise "Telecommunications Resource Center" ltd]
 🇹🇷 185.87.121.5:8975 370ms TR [Ideal Hosting Teknoloji A.S.]
-🇹🇷 185.86.5.162:8975 405ms TR [Ideal Hosting Teknoloji]
+🇹🇷 185.86.5.162:8975 338ms TR [Ideal Hosting Teknoloji]
 🏳 166.62.38.100:45310 547ms  []
-🇬🇧 18.133.187.220:1080 197ms GB [Amazon Technologies Inc.]
+🇬🇧 18.133.187.220:1080 214ms GB [Amazon Technologies Inc.]
