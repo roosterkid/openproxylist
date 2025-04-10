@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2025-04-11 04:00:01 GMT+7
+SOCKS5 Proxy list updated at 2025-04-11 05:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -10,22 +10,30 @@ https://buymeacoffee.com/roosterkid
 
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇷🇺 87.117.11.57:1080 404ms RU [Macroregional South]
+🇧🇬 213.169.39.234:31098 292ms BG [Spectrum NET]
+🇷🇺 87.117.11.57:1080 501ms RU [Macroregional South]
 🇧🇩 103.234.27.221:1080 328ms BD [BTS Communications (BD) Ltd]
-🇧🇷 187.63.9.62:63253 504ms BR [Gigalink de Nova Friburgo Soluções em Rede Multimi]
+🇧🇷 187.63.9.62:63253 678ms BR [Gigalink de Nova Friburgo Soluções em Rede Multimi]
 🇮🇩 103.174.178.131:1020 53ms ID [PT Gasatek Bintang Nusantara]
-🇺🇸 167.172.159.43:35290 399ms US [DigitalOcean, LLC]
-🇺🇦 194.44.208.62:80 460ms UA [UARNET-LL]
+🇺🇸 167.172.159.43:35290 471ms US [DigitalOcean, LLC]
+🇺🇦 194.44.208.62:80 368ms UA [UARNET-LL]
 🇷🇺 185.23.81.5:1080 369ms RU [OJSC Telecom-Service]
+🇨🇦 184.95.220.42:1080 518ms CA [Fibrenoire Inc.]
 🇺🇦 185.151.86.121:3699 271ms UA [Omega Telecom]
-🇺🇦 195.66.156.196:1080 339ms UA [PP Info-Center]
-🇨🇳 117.74.65.207:5441 487ms CN [CNC Group CHINA169 Hebei Province Network]
+🇺🇦 195.66.156.196:1080 327ms UA [PP Info-Center]
+🇩🇪 37.120.162.180:40344 233ms DE [netcup GmbH]
+🇨🇳 117.74.65.207:5441 784ms CN [CNC Group CHINA169 Hebei Province Network]
+🇬🇧 51.155.10.0:8000 570ms GB [Zen Internet Ltd]
 🇸🇪 130.255.160.60:18946 448ms SE [Internet Vikings]
 🇫🇷 37.44.238.2:63617 723ms FR [Harmony Hosting SARL]
 🇨🇦 184.95.235.194:1080 269ms CA [Fibrenoire Inc]
-🇻🇳 113.176.118.150:1080 95ms VN [VNPT]
-🇹🇷 185.87.121.35:8975 390ms TR [Ideal Hosting Teknoloji]
+🇺🇦 91.200.115.49:1080 417ms UA [Joint Ukrainian American Enterprise "Telecommunications Resource Center" ltd]
+🇻🇳 113.176.118.150:1080 774ms VN [VNPT]
+🇹🇷 185.87.121.35:8975 411ms TR [Ideal Hosting Teknoloji]
 🇹🇷 185.87.121.5:8975 346ms TR [Ideal Hosting Teknoloji A.S.]
 🇹🇷 185.86.5.162:8975 396ms TR [Ideal Hosting Teknoloji]
-🇷🇺 109.248.46.76:1080 312ms RU [Master-Integration Ltd]
-🇬🇧 18.133.187.220:1080 186ms GB [Amazon Technologies Inc.]
+🇷🇺 109.248.46.76:1080 270ms RU [Master-Integration Ltd]
+🇬🇧 18.133.187.220:1080 165ms GB [Amazon Technologies Inc.]
+🇬🇧 188.241.45.142:2021 343ms GB [Talk Straight Ltd.]
+🇫🇷 51.83.190.248:19050 488ms FR [OVH SAS]
+🇷🇺 80.87.200.140:9050 365ms RU [JSC Server]
