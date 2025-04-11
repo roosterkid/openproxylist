@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2025-04-11 13:00:01 GMT+7
+SOCKS5 Proxy list updated at 2025-04-11 14:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -15,19 +15,20 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 🇪🇸 178.33.162.89:59490 611ms ES [OVH ISP]
 🇮🇩 103.174.178.131:1020 154ms ID [PT Gasatek Bintang Nusantara]
 🇮🇩 103.174.178.144:1020 38ms ID [PT Gasatek Bintang Nusantara]
-🇺🇸 167.172.159.43:35290 266ms US [DigitalOcean, LLC]
+🇺🇸 167.172.159.43:35290 538ms US [DigitalOcean, LLC]
 🇷🇺 85.143.254.38:1080 684ms RU [Comfortel Ltd.]
-🇨🇦 184.95.220.42:1080 587ms CA [Fibrenoire Inc.]
+🇷🇺 212.33.248.45:1080 288ms RU [JSC "ER-Telecom Holding"]
+🇨🇦 184.95.220.42:1080 239ms CA [Fibrenoire Inc.]
 🇩🇪 207.154.230.54:38660 638ms DE [DigitalOcean, LLC]
-🇺🇦 195.66.156.196:1080 629ms UA [PP Info-Center]
-🇨🇳 117.74.65.207:5441 626ms CN [CNC Group CHINA169 Hebei Province Network]
-🇬🇧 51.155.10.0:8000 391ms GB [Zen Internet Ltd]
+🇺🇦 195.66.156.196:1080 304ms UA [PP Info-Center]
+🇨🇳 117.74.65.207:5441 789ms CN [CNC Group CHINA169 Hebei Province Network]
+🇬🇧 51.155.10.0:8000 752ms GB [Zen Internet Ltd]
 🇰🇷 193.123.252.70:35973 735ms KR [Oracle Corporation]
 🇫🇷 37.44.238.2:63617 462ms FR [Harmony Hosting SARL]
 🇨🇦 184.95.235.194:1080 479ms CA [Fibrenoire Inc]
 🇹🇷 185.87.121.35:8975 386ms TR [Ideal Hosting Teknoloji]
 🇹🇷 185.87.121.5:8975 337ms TR [Ideal Hosting Teknoloji A.S.]
-🇹🇷 185.86.5.162:8975 407ms TR [Ideal Hosting Teknoloji]
+🇹🇷 185.86.5.162:8975 377ms TR [Ideal Hosting Teknoloji]
 🇷🇺 109.248.46.76:1080 315ms RU [Master-Integration Ltd]
-🇬🇧 18.133.187.220:1080 166ms GB [Amazon Technologies Inc.]
+🇬🇧 18.133.187.220:1080 400ms GB [Amazon Technologies Inc.]
 🇫🇷 51.83.190.248:19050 647ms FR [OVH SAS]
