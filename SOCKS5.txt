@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2025-04-13 08:00:01 GMT+7
+SOCKS5 Proxy list updated at 2025-04-13 09:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -14,21 +14,21 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 🇧🇩 103.234.27.221:1080 70ms BD [BTS Communications (BD) Ltd]
 🇮🇩 103.174.178.131:1020 375ms ID [PT Gasatek Bintang Nusantara]
 🇮🇩 103.174.178.144:1020 182ms ID [PT Gasatek Bintang Nusantara]
-🇺🇸 167.172.159.43:35290 360ms US [DigitalOcean, LLC]
+🇺🇸 167.172.159.43:35290 651ms US [DigitalOcean, LLC]
+🇷🇺 85.143.254.38:1080 377ms RU [Comfortel Ltd.]
 🇺🇦 194.44.208.62:80 480ms UA [UARNET-LL]
 🇷🇺 185.23.81.5:1080 446ms RU [OJSC Telecom-Service]
 🇺🇦 185.151.86.121:3699 472ms UA [Omega Telecom]
 🇺🇦 195.66.156.196:1080 626ms UA [PP Info-Center]
-🇨🇳 117.74.65.207:5441 488ms CN [CNC Group CHINA169 Hebei Province Network]
-🇸🇪 130.255.160.60:18946 555ms SE [Internet Vikings]
-🇦🇺 185.139.155.155:1976 543ms AU [Internet Vikings International AB]
+🇨🇳 117.74.65.207:5441 785ms CN [CNC Group CHINA169 Hebei Province Network]
 🇩🇪 89.58.45.94:45159 266ms DE [netcup GmbH]
-🇩🇪 5.9.98.142:3080 585ms DE [Hetzner Online GmbH]
+🇩🇪 5.9.98.142:3080 381ms DE [Hetzner Online GmbH]
 🇺🇦 91.200.115.49:1080 319ms UA [Joint Ukrainian American Enterprise "Telecommunications Resource Center" ltd]
 🇻🇳 113.176.118.150:1080 181ms VN [VNPT]
 🇹🇷 185.87.121.35:8975 326ms TR [Ideal Hosting Teknoloji]
+🇬🇧 81.143.236.200:443 643ms GB [BT Public Internet Service]
 🇹🇷 185.87.121.5:8975 334ms TR [Ideal Hosting Teknoloji A.S.]
 🇹🇷 185.86.5.162:8975 393ms TR [Ideal Hosting Teknoloji]
-🇬🇧 18.133.187.220:1080 174ms GB [Amazon Technologies Inc.]
+🇬🇧 18.133.187.220:1080 202ms GB [Amazon Technologies Inc.]
 🇫🇷 51.83.190.248:19050 432ms FR [OVH SAS]
 🇻🇳 113.160.188.21:1080 74ms VN [VietNam Post and Telecom Corporation]
