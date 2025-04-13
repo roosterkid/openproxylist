@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2025-04-13 23:00:01 GMT+7
+SOCKS5 Proxy list updated at 2025-04-14 00:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -10,24 +10,25 @@ https://buymeacoffee.com/roosterkid
 
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
+🇷🇺 87.117.11.57:1080 284ms RU [Macroregional South]
 🇧🇩 103.234.27.221:1080 796ms BD [BTS Communications (BD) Ltd]
 🇮🇩 103.174.178.138:1080 37ms ID [PT Gasatek Bintang Nusantara]
 🇮🇩 103.174.178.144:1020 37ms ID [PT Gasatek Bintang Nusantara]
-🇺🇸 167.172.159.43:35290 540ms US [DigitalOcean, LLC]
-🇷🇺 95.156.83.139:1080 662ms RU [PJSC Rostelecom]
+🇺🇸 167.172.159.43:35290 277ms US [DigitalOcean, LLC]
+🇷🇺 85.143.254.38:1080 619ms RU [Comfortel Ltd.]
 🇷🇺 185.23.81.5:1080 460ms RU [OJSC Telecom-Service]
 🇵🇸 93.184.4.254:1080 544ms PS [BCI Telecommunication & Advanced Technology Company]
 🇺🇦 195.66.156.196:1080 432ms UA [PP Info-Center]
-🇨🇳 117.74.65.207:5441 507ms CN [CNC Group CHINA169 Hebei Province Network]
+🇨🇳 117.74.65.207:5441 519ms CN [CNC Group CHINA169 Hebei Province Network]
 🇬🇧 51.155.10.0:8000 340ms GB [Zen Internet Ltd]
 🇸🇪 130.255.160.60:18946 712ms SE [Internet Vikings]
 🇫🇷 37.44.238.2:63617 683ms FR [Harmony Hosting SARL]
 🇨🇦 184.95.235.194:1080 348ms CA [Fibrenoire Inc]
 🇦🇺 185.139.155.155:1976 637ms AU [Internet Vikings International AB]
-🇩🇪 5.9.98.142:3080 388ms DE [Hetzner Online GmbH]
+🇩🇪 5.9.98.142:3080 392ms DE [Hetzner Online GmbH]
 🇺🇦 91.200.115.49:1080 621ms UA [Joint Ukrainian American Enterprise "Telecommunications Resource Center" ltd]
 🇹🇷 185.87.121.35:8975 320ms TR [Ideal Hosting Teknoloji]
-🇹🇷 185.87.121.5:8975 357ms TR [Ideal Hosting Teknoloji A.S.]
-🇹🇷 185.86.5.162:8975 331ms TR [Ideal Hosting Teknoloji]
-🇬🇧 18.133.187.220:1080 166ms GB [Amazon Technologies Inc.]
-🇻🇳 113.160.188.21:1080 202ms VN [VietNam Post and Telecom Corporation]
+🇹🇷 185.87.121.5:8975 362ms TR [Ideal Hosting Teknoloji A.S.]
+🇹🇷 185.86.5.162:8975 349ms TR [Ideal Hosting Teknoloji]
+🇷🇺 109.248.46.76:1080 301ms RU [Master-Integration Ltd]
+🇬🇧 18.133.187.220:1080 156ms GB [Amazon Technologies Inc.]
