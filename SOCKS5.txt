@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2025-04-19 03:00:01 GMT+7
+SOCKS5 Proxy list updated at 2025-04-19 04:00:02 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -10,15 +10,16 @@ https://buymeacoffee.com/roosterkid
 
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇷🇺 87.117.11.57:1080 708ms RU [Macroregional South]
+🇷🇺 87.117.11.57:1080 644ms RU [Macroregional South]
 🇮🇩 103.174.178.131:1020 340ms ID [PT Gasatek Bintang Nusantara]
-🇺🇸 167.172.159.43:35290 486ms US [DigitalOcean, LLC]
+🇺🇸 167.172.159.43:35290 261ms US [DigitalOcean, LLC]
 🇷🇺 94.73.251.19:1080 641ms RU [Orion Telecom LLC]
 🇷🇺 85.143.254.38:1080 720ms RU [Comfortel Ltd.]
+🇨🇦 184.95.220.42:1080 239ms CA [Fibrenoire Inc.]
 🇺🇦 195.66.156.196:1080 438ms UA [PP Info-Center]
-🇸🇬 138.199.25.13:3909 378ms SG [DataCamp Limited]
-🇷🇺 194.190.169.197:3701 594ms RU [Webmaster Agency Ltd]
-🇨🇳 117.74.65.207:5441 788ms CN [CNC Group CHINA169 Hebei Province Network]
+🇸🇬 138.199.25.13:3909 19ms SG [DataCamp Limited]
+🇷🇺 194.190.169.197:3701 619ms RU [Webmaster Agency Ltd]
+🇨🇳 117.74.65.207:5441 485ms CN [CNC Group CHINA169 Hebei Province Network]
 🇸🇬 167.71.220.29:7497 4ms SG [DigitalOcean, LLC]
 🇨🇭 45.91.92.45:15026 329ms CH [HostHatch]
 🇺🇦 91.200.115.49:1080 322ms UA [Joint Ukrainian American Enterprise "Telecommunications Resource Center" ltd]
@@ -26,6 +27,7 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 🇹🇷 185.87.121.35:8975 386ms TR [Ideal Hosting Teknoloji]
 🇹🇷 185.87.121.5:8975 643ms TR [Ideal Hosting Teknoloji A.S.]
 🇹🇷 185.86.5.162:8975 369ms TR [Ideal Hosting Teknoloji]
-🇮🇩 202.6.233.59:7878 24ms ID [PT Padi Internet]
+🇩🇪 51.195.102.120:10084 294ms DE [OVH SAS]
+🇮🇩 202.6.233.59:7878 111ms ID [PT Padi Internet]
 🇫🇷 51.83.190.248:19050 449ms FR [OVH SAS]
-🇻🇳 113.160.188.21:1080 181ms VN [VietNam Post and Telecom Corporation]
+🇻🇳 113.160.188.21:1080 439ms VN [VietNam Post and Telecom Corporation]
