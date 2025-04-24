@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2025-04-24 23:00:01 GMT+7
+SOCKS5 Proxy list updated at 2025-04-25 00:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -13,11 +13,10 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 🇧🇩 103.234.27.221:1080 405ms BD [BTS Communications (BD) Ltd]
 🇮🇩 103.174.178.138:1080 311ms ID [PT Gasatek Bintang Nusantara]
 🇧🇷 187.63.9.62:63253 413ms BR [Gigalink de Nova Friburgo Soluções em Rede Multimi]
-🇪🇸 178.33.162.89:59490 770ms ES [OVH ISP]
-🇮🇩 103.174.178.131:1020 41ms ID [PT Gasatek Bintang Nusantara]
+🇪🇸 178.33.162.89:59490 664ms ES [OVH ISP]
+🇮🇩 103.174.178.131:1020 139ms ID [PT Gasatek Bintang Nusantara]
 🇧🇬 31.211.142.115:8192 338ms BG [5KOM]
 🇷🇺 85.143.254.38:1080 472ms RU [Comfortel Ltd.]
-🇷🇺 92.255.88.219:1080 276ms RU [Comfortel Ltd.]
 🇺🇦 194.44.208.62:80 472ms UA [UARNET-LL]
 🇷🇺 212.33.248.45:1080 329ms RU [JSC "ER-Telecom Holding"]
 🇷🇺 31.25.24.67:1080 369ms RU [LLC Cifrovie Seti Urala]
@@ -27,8 +26,7 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 🇺🇦 195.66.156.196:1080 329ms UA [PP Info-Center]
 🇺🇦 195.39.233.14:44567 441ms UA [Active Operations LLC]
 🇷🇺 185.54.178.193:1080 436ms RU [Irkutskenergosvyaz LTD]
-🇨🇳 117.74.65.207:5441 678ms CN [CNC Group CHINA169 Hebei Province Network]
-🇸🇪 130.255.160.60:18946 681ms SE [Internet Vikings]
+🇨🇳 117.74.65.207:5441 674ms CN [CNC Group CHINA169 Hebei Province Network]
 🇫🇷 37.44.238.2:63617 423ms FR [Harmony Hosting SARL]
 🇦🇺 185.139.155.155:1976 489ms AU [Internet Vikings International AB]
 🇸🇬 167.71.220.29:7497 7ms SG [DigitalOcean, LLC]
