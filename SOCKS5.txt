@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2025-04-24 11:00:01 GMT+7
+SOCKS5 Proxy list updated at 2025-04-24 12:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -12,18 +12,17 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
 🇮🇩 103.174.178.138:1080 144ms ID [PT Gasatek Bintang Nusantara]
 🇮🇩 103.174.178.131:1020 339ms ID [PT Gasatek Bintang Nusantara]
-🇷🇺 85.143.254.38:1080 608ms RU [Comfortel Ltd.]
+🇷🇺 85.143.254.38:1080 262ms RU [Comfortel Ltd.]
+🇷🇺 92.255.88.219:1080 607ms RU [Comfortel Ltd.]
 🇨🇦 184.95.220.42:1080 242ms CA [Fibrenoire Inc.]
 🇷🇺 31.25.24.67:1080 316ms RU [LLC Cifrovie Seti Urala]
-🇵🇸 93.184.4.254:1080 442ms PS [BCI Telecommunication & Advanced Technology Company]
-🇺🇦 195.66.156.196:1080 330ms UA [PP Info-Center]
-🇨🇳 117.74.65.207:5441 787ms CN [CNC Group CHINA169 Hebei Province Network]
+🇷🇺 178.47.140.26:1080 778ms RU [PJSC Rostelecom]
+🇨🇳 117.74.65.207:5441 790ms CN [CNC Group CHINA169 Hebei Province Network]
 🇦🇺 185.139.155.155:1976 584ms AU [Internet Vikings International AB]
 🇸🇬 167.71.220.29:7497 7ms SG [DigitalOcean, LLC]
 🇻🇳 113.176.118.150:1080 167ms VN [VNPT]
-🇹🇷 185.87.121.5:8975 366ms TR [Ideal Hosting Teknoloji A.S.]
+🇹🇷 185.87.121.5:8975 419ms TR [Ideal Hosting Teknoloji A.S.]
 🇹🇷 185.86.5.162:8975 360ms TR [Ideal Hosting Teknoloji]
 🇫🇷 51.83.190.248:19050 728ms FR [OVH SAS]
-🇦🇱 80.78.77.195:1080 591ms AL [ABCom]
 🇻🇳 113.160.188.21:1080 75ms VN [VietNam Post and Telecom Corporation]
 🇩🇪 188.68.52.220:9050 259ms DE [netcup GmbH]
