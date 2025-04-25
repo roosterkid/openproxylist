@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2025-04-25 10:00:01 GMT+7
+SOCKS5 Proxy list updated at 2025-04-25 11:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -17,20 +17,18 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 🇧🇬 31.211.142.115:8192 421ms BG [5KOM]
 🇷🇺 95.156.83.139:1080 290ms RU [PJSC Rostelecom]
 🇷🇺 92.255.88.219:1080 603ms RU [Comfortel Ltd.]
-🇺🇦 194.44.208.62:80 338ms UA [UARNET-LL]
 🇨🇦 184.95.220.42:1080 540ms CA [Fibrenoire Inc.]
-🇮🇩 202.149.89.69:7999 361ms ID [Satata Neka Tama]
-🇵🇸 93.184.4.254:1080 343ms PS [BCI Telecommunication & Advanced Technology Company]
+🇵🇸 93.184.4.254:1080 445ms PS [BCI Telecommunication & Advanced Technology Company]
 🇩🇪 207.154.230.54:38660 798ms DE [DigitalOcean, LLC]
 🇿🇦 102.36.127.53:1080 466ms ZA [Clear Access (Pty) Ltd]
-🇺🇦 195.66.156.196:1080 430ms UA [PP Info-Center]
-🇨🇳 117.74.65.207:5441 788ms CN [CNC Group CHINA169 Hebei Province Network]
-🇸🇪 130.255.160.60:18946 379ms SE [Internet Vikings]
+🇨🇳 117.74.65.207:5441 482ms CN [CNC Group CHINA169 Hebei Province Network]
+🇸🇪 130.255.160.60:18946 441ms SE [Internet Vikings]
+🇫🇷 37.44.238.2:63617 610ms FR [Harmony Hosting SARL]
 🇨🇦 184.95.235.194:1080 239ms CA [Fibrenoire Inc]
-🇦🇺 185.139.155.155:1976 748ms AU [Internet Vikings International AB]
+🇦🇺 185.139.155.155:1976 384ms AU [Internet Vikings International AB]
 🇹🇷 185.87.121.35:8975 304ms TR [Ideal Hosting Teknoloji]
 🇹🇷 185.87.121.5:8975 476ms TR [Ideal Hosting Teknoloji A.S.]
-🇹🇷 185.86.5.162:8975 309ms TR [Ideal Hosting Teknoloji]
+🇹🇷 185.86.5.162:8975 345ms TR [Ideal Hosting Teknoloji]
 🇫🇷 51.83.190.248:19050 358ms FR [OVH SAS]
 🇦🇱 80.78.77.195:1080 323ms AL [ABCom]
-🇻🇳 113.160.188.21:1080 379ms VN [VietNam Post and Telecom Corporation]
+🇻🇳 113.160.188.21:1080 181ms VN [VietNam Post and Telecom Corporation]
