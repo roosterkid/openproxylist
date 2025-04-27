@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2025-04-27 09:00:01 GMT+7
+SOCKS5 Proxy list updated at 2025-04-27 10:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -20,17 +20,15 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 🇧🇬 31.211.142.115:8192 375ms BG [5KOM]
 🇷🇺 85.143.254.38:1080 292ms RU [Comfortel Ltd.]
 🇷🇺 185.23.81.5:1080 521ms RU [OJSC Telecom-Service]
-🇨🇦 184.95.220.42:1080 242ms CA [Fibrenoire Inc.]
 🇵🇸 93.184.4.254:1080 350ms PS [BCI Telecommunication & Advanced Technology Company]
 🇿🇦 102.36.127.53:1080 565ms ZA [Clear Access (Pty) Ltd]
 🇺🇦 195.66.156.196:1080 634ms UA [PP Info-Center]
 🇷🇺 185.54.178.193:1080 411ms RU [Irkutskenergosvyaz LTD]
-🇨🇳 117.74.65.207:5441 782ms CN [CNC Group CHINA169 Hebei Province Network]
-🇫🇷 37.44.238.2:63617 583ms FR [Harmony Hosting SARL]
+🇨🇳 117.74.65.207:5441 506ms CN [CNC Group CHINA169 Hebei Province Network]
 🇨🇦 184.95.235.194:1080 544ms CA [Fibrenoire Inc]
 🇸🇬 167.71.220.29:7497 7ms SG [DigitalOcean, LLC]
-🇹🇷 185.87.121.5:8975 410ms TR [Ideal Hosting Teknoloji A.S.]
-🇹🇷 185.86.5.162:8975 329ms TR [Ideal Hosting Teknoloji]
+🇹🇷 185.87.121.5:8975 325ms TR [Ideal Hosting Teknoloji A.S.]
+🇹🇷 185.86.5.162:8975 311ms TR [Ideal Hosting Teknoloji]
 🇷🇺 176.117.237.132:1080 599ms RU [CJSC "ER-Telecom Holding" Irkutsk branch]
 🇫🇷 51.83.190.248:19050 645ms FR [OVH SAS]
 🇻🇳 113.160.188.21:1080 193ms VN [VietNam Post and Telecom Corporation]
