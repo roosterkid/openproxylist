@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2025-04-28 04:00:01 GMT+7
+SOCKS5 Proxy list updated at 2025-04-28 05:00:02 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -11,16 +11,17 @@ https://buymeacoffee.com/roosterkid
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
 🇩🇪 161.97.129.202:9060 529ms DE [Contabo GmbH]
-🇧🇷 187.63.9.62:63253 680ms BR [Gigalink de Nova Friburgo Soluções em Rede Multimi]
+🇧🇩 103.234.27.221:1080 109ms BD [BTS Communications (BD) Ltd]
+🇮🇩 103.174.178.131:1020 349ms ID [PT Gasatek Bintang Nusantara]
 🇧🇬 31.211.142.115:8192 432ms BG [5KOM]
-🇷🇺 85.143.254.38:1080 273ms RU [Comfortel Ltd.]
+🇷🇺 85.143.254.38:1080 602ms RU [Comfortel Ltd.]
 🇨🇦 184.95.220.42:1080 545ms CA [Fibrenoire Inc.]
 🇵🇸 93.184.4.254:1080 346ms PS [BCI Telecommunication & Advanced Technology Company]
 🇺🇦 185.151.86.86:3699 445ms UA [Omega Telecom]
 🇿🇦 102.36.127.53:1080 663ms ZA [Clear Access (Pty) Ltd]
 🇺🇦 195.66.156.196:1080 329ms UA [PP Info-Center]
-🇷🇺 194.190.169.197:3701 496ms RU [Webmaster Agency Ltd]
-🇨🇳 117.74.65.207:5441 489ms CN [CNC Group CHINA169 Hebei Province Network]
+🇷🇺 194.190.169.197:3701 489ms RU [Webmaster Agency Ltd]
+🇨🇳 117.74.65.207:5441 476ms CN [CNC Group CHINA169 Hebei Province Network]
 🇨🇦 184.95.235.194:1080 345ms CA [Fibrenoire Inc]
 🇸🇬 167.71.220.29:7497 6ms SG [DigitalOcean, LLC]
 🇻🇳 113.176.118.150:1080 55ms VN [VNPT]
