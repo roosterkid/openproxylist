@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2025-04-28 09:00:01 GMT+7
+SOCKS5 Proxy list updated at 2025-04-28 10:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -15,15 +15,14 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 🇧🇷 187.63.9.62:63253 673ms BR [Gigalink de Nova Friburgo Soluções em Rede Multimi]
 🇮🇩 103.174.178.131:1020 766ms ID [PT Gasatek Bintang Nusantara]
 🇧🇬 31.211.142.115:8192 326ms BG [5KOM]
-🇷🇺 85.143.254.38:1080 321ms RU [Comfortel Ltd.]
-🇷🇺 95.156.83.139:1080 283ms RU [PJSC Rostelecom]
+🇷🇺 85.143.254.38:1080 580ms RU [Comfortel Ltd.]
+🇷🇺 95.156.83.139:1080 287ms RU [PJSC Rostelecom]
 🇵🇸 93.184.4.254:1080 444ms PS [BCI Telecommunication & Advanced Technology Company]
 🇺🇦 185.151.86.121:3699 650ms UA [Omega Telecom]
-🇿🇦 102.36.127.53:1080 769ms ZA [Clear Access (Pty) Ltd]
+🇿🇦 102.36.127.53:1080 459ms ZA [Clear Access (Pty) Ltd]
 🇺🇦 195.66.156.196:1080 360ms UA [PP Info-Center]
-🇷🇺 194.190.169.197:3701 489ms RU [Webmaster Agency Ltd]
 🇺🇦 195.39.233.14:44567 440ms UA [Active Operations LLC]
-🇨🇳 117.74.65.207:5441 781ms CN [CNC Group CHINA169 Hebei Province Network]
+🇨🇳 117.74.65.207:5441 504ms CN [CNC Group CHINA169 Hebei Province Network]
 🇺🇦 91.200.115.49:1080 320ms UA [Joint Ukrainian American Enterprise "Telecommunications Resource Center" ltd]
 🇻🇳 113.176.118.150:1080 72ms VN [VNPT]
 🇬🇧 81.143.236.200:443 718ms GB [BT Public Internet Service]
