@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2025-04-29 07:00:01 GMT+7
+SOCKS5 Proxy list updated at 2025-04-29 08:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -12,20 +12,20 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
 🇧🇬 213.169.39.234:31098 782ms BG [Spectrum NET]
 🇷🇺 87.117.11.57:1080 636ms RU [Macroregional South]
+🇮🇩 103.174.178.138:1080 68ms ID [PT Gasatek Bintang Nusantara]
 🇧🇷 187.63.9.62:63253 501ms BR [Gigalink de Nova Friburgo Soluções em Rede Multimi]
-🇮🇩 103.174.178.131:1020 158ms ID [PT Gasatek Bintang Nusantara]
+🇮🇩 103.174.178.131:1020 61ms ID [PT Gasatek Bintang Nusantara]
 🇧🇬 31.211.142.115:8192 630ms BG [5KOM]
 🇷🇺 85.143.254.38:1080 560ms RU [Comfortel Ltd.]
-🇷🇺 185.23.81.5:1080 721ms RU [OJSC Telecom-Service]
-🇨🇦 184.95.220.42:1080 243ms CA [Fibrenoire Inc.]
-🇵🇸 93.184.4.254:1080 354ms PS [BCI Telecommunication & Advanced Technology Company]
-🇩🇪 207.154.230.54:38660 519ms DE [DigitalOcean, LLC]
+🇷🇺 185.23.81.5:1080 487ms RU [OJSC Telecom-Service]
+🇨🇦 184.95.220.42:1080 541ms CA [Fibrenoire Inc.]
+🇵🇸 93.184.4.254:1080 347ms PS [BCI Telecommunication & Advanced Technology Company]
 🇿🇦 102.36.127.53:1080 596ms ZA [Clear Access (Pty) Ltd]
-🇺🇦 195.66.156.196:1080 347ms UA [PP Info-Center]
+🇺🇦 195.66.156.196:1080 343ms UA [PP Info-Center]
 🇺🇦 195.39.233.14:44567 444ms UA [Active Operations LLC]
-🇨🇳 117.74.65.207:5441 521ms CN [CNC Group CHINA169 Hebei Province Network]
-🇫🇷 37.44.238.2:63617 435ms FR [Harmony Hosting SARL]
+🇨🇳 117.74.65.207:5441 479ms CN [CNC Group CHINA169 Hebei Province Network]
 🇨🇦 184.95.235.194:1080 239ms CA [Fibrenoire Inc]
+🇯🇵 150.230.96.150:19291 436ms JP [Oracle Corporation]
 🇸🇬 167.71.220.29:7497 12ms SG [DigitalOcean, LLC]
 🇺🇦 91.200.115.49:1080 425ms UA [Joint Ukrainian American Enterprise "Telecommunications Resource Center" ltd]
 🇻🇳 113.176.118.150:1080 188ms VN [VNPT]
