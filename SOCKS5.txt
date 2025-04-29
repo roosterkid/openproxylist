@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2025-04-29 10:00:02 GMT+7
+SOCKS5 Proxy list updated at 2025-04-29 11:00:02 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -10,25 +10,28 @@ https://buymeacoffee.com/roosterkid
 
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
+🇧🇬 213.169.39.234:31098 738ms BG [Spectrum NET]
 🇷🇺 87.117.11.57:1080 311ms RU [Macroregional South]
-🇮🇩 103.174.178.138:1080 67ms ID [PT Gasatek Bintang Nusantara]
-🇧🇷 187.63.9.62:63253 501ms BR [Gigalink de Nova Friburgo Soluções em Rede Multimi]
+🇮🇩 103.174.178.138:1080 48ms ID [PT Gasatek Bintang Nusantara]
+🇧🇷 187.63.9.62:63253 702ms BR [Gigalink de Nova Friburgo Soluções em Rede Multimi]
+🇪🇸 178.33.162.89:59490 325ms ES [OVH ISP]
 🇮🇩 103.174.178.131:1020 180ms ID [PT Gasatek Bintang Nusantara]
 🇮🇩 103.174.178.144:1020 46ms ID [PT Gasatek Bintang Nusantara]
 🇧🇬 31.211.142.115:8192 449ms BG [5KOM]
-🇷🇺 85.143.254.38:1080 560ms RU [Comfortel Ltd.]
+🇷🇺 85.143.254.38:1080 313ms RU [Comfortel Ltd.]
+🇷🇺 95.156.83.139:1080 669ms RU [PJSC Rostelecom]
 🇷🇺 185.23.81.5:1080 487ms RU [OJSC Telecom-Service]
-🇨🇦 184.95.220.42:1080 541ms CA [Fibrenoire Inc.]
+🇨🇦 184.95.220.42:1080 351ms CA [Fibrenoire Inc.]
 🇵🇸 93.184.4.254:1080 347ms PS [BCI Telecommunication & Advanced Technology Company]
+🇿🇦 102.36.127.53:1080 776ms ZA [Clear Access (Pty) Ltd]
 🇺🇦 195.66.156.196:1080 314ms UA [PP Info-Center]
-🇨🇳 117.74.65.207:5441 779ms CN [CNC Group CHINA169 Hebei Province Network]
+🇨🇳 117.74.65.207:5441 705ms CN [CNC Group CHINA169 Hebei Province Network]
 🇨🇦 184.95.235.194:1080 239ms CA [Fibrenoire Inc]
 🇯🇵 150.230.96.150:19291 436ms JP [Oracle Corporation]
-🇸🇬 167.71.220.29:7497 12ms SG [DigitalOcean, LLC]
+🇷🇺 46.241.57.29:1080 324ms RU [ZSTTK]
 🇺🇦 91.200.115.49:1080 425ms UA [Joint Ukrainian American Enterprise "Telecommunications Resource Center" ltd]
-🇻🇳 113.176.118.150:1080 188ms VN [VNPT]
+🇻🇳 113.176.118.150:1080 70ms VN [VNPT]
 🇹🇷 185.87.121.35:8975 353ms TR [Ideal Hosting Teknoloji]
 🇹🇷 185.87.121.5:8975 379ms TR [Ideal Hosting Teknoloji A.S.]
 🇹🇷 185.86.5.162:8975 396ms TR [Ideal Hosting Teknoloji]
 🇦🇱 80.78.77.195:1080 411ms AL [ABCom]
-🇻🇳 113.160.188.21:1080 86ms VN [VietNam Post and Telecom Corporation]
