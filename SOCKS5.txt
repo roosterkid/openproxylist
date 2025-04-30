@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2025-04-30 15:00:01 GMT+7
+SOCKS5 Proxy list updated at 2025-04-30 16:00:02 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -12,15 +12,19 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
 🇷🇺 87.117.11.57:1080 512ms RU [Macroregional South]
 🇧🇩 103.234.27.221:1080 416ms BD [BTS Communications (BD) Ltd]
+🇧🇷 187.63.9.62:63253 571ms BR [Gigalink de Nova Friburgo Soluções em Rede Multimi]
 🇮🇩 103.174.178.131:1020 42ms ID [PT Gasatek Bintang Nusantara]
 🇮🇩 103.174.178.144:1020 506ms ID [PT Gasatek Bintang Nusantara]
 🇧🇬 31.211.142.115:8192 448ms BG [5KOM]
 🇷🇺 85.143.254.38:1080 387ms RU [Comfortel Ltd.]
-🇿🇦 13.244.95.129:9002 388ms ZA [Amazon Technologies Inc.]
+🇵🇸 93.184.4.254:1080 347ms PS [BCI Telecommunication & Advanced Technology Company]
+🇿🇦 13.244.95.129:9002 426ms ZA [Amazon Technologies Inc.]
+🇿🇦 102.36.127.53:1080 364ms ZA [Clear Access (Pty) Ltd]
 🇺🇦 195.66.156.196:1080 353ms UA [PP Info-Center]
 🇸🇬 138.199.25.13:3909 80ms SG [DataCamp Limited]
-🇨🇳 117.74.65.207:5441 669ms CN [CNC Group CHINA169 Hebei Province Network]
+🇨🇳 117.74.65.207:5441 651ms CN [CNC Group CHINA169 Hebei Province Network]
 🇫🇷 37.44.238.2:63617 586ms FR [Harmony Hosting SARL]
+🇨🇦 184.95.235.194:1080 288ms CA [Fibrenoire Inc]
 🇸🇬 167.71.220.29:7497 35ms SG [DigitalOcean, LLC]
 🇻🇳 113.176.118.150:1080 162ms VN [VNPT]
 🇹🇷 185.87.121.5:8975 385ms TR [Ideal Hosting Teknoloji A.S.]
