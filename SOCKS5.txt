@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2025-05-04 03:00:01 GMT+7
+SOCKS5 Proxy list updated at 2025-05-04 04:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -10,14 +10,17 @@ https://buymeacoffee.com/roosterkid
 
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇧🇷 187.63.9.62:63253 679ms BR [Gigalink de Nova Friburgo Soluções em Rede Multimi]
-🇮🇩 103.174.178.131:1020 63ms ID [PT Gasatek Bintang Nusantara]
-🇧🇬 31.211.142.115:8192 681ms BG [5KOM]
-🇷🇺 85.143.254.38:1080 288ms RU [Comfortel Ltd.]
-🇵🇸 93.184.4.254:1080 479ms PS [BCI Telecommunication & Advanced Technology Company]
+🇧🇩 103.234.27.221:1080 117ms BD [BTS Communications (BD) Ltd]
+🇧🇷 187.63.9.62:63253 672ms BR [Gigalink de Nova Friburgo Soluções em Rede Multimi]
+🇪🇸 178.33.162.89:59490 586ms ES [OVH ISP]
+🇮🇩 103.174.178.131:1020 35ms ID [PT Gasatek Bintang Nusantara]
+🇧🇬 31.211.142.115:8192 458ms BG [5KOM]
+🇵🇸 93.184.4.254:1080 423ms PS [BCI Telecommunication & Advanced Technology Company]
+🇺🇦 185.151.86.86:3699 349ms UA [Omega Telecom]
 🇿🇦 102.36.127.53:1080 473ms ZA [Clear Access (Pty) Ltd]
-🇺🇦 195.66.156.196:1080 327ms UA [PP Info-Center]
-🇨🇳 117.74.65.207:5441 627ms CN [CNC Group CHINA169 Hebei Province Network]
+🇺🇦 195.66.156.196:1080 426ms UA [PP Info-Center]
+🇷🇺 194.190.169.197:3701 755ms RU [Webmaster Agency Ltd]
+🇨🇳 117.74.65.207:5441 795ms CN [CNC Group CHINA169 Hebei Province Network]
 🇫🇷 37.44.238.2:63617 517ms FR [Harmony Hosting SARL]
 🇸🇬 167.71.220.29:7497 7ms SG [DigitalOcean, LLC]
 🇺🇦 91.200.115.49:1080 694ms UA [Joint Ukrainian American Enterprise "Telecommunications Resource Center" ltd]
@@ -26,4 +29,4 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 🇹🇷 185.86.5.162:8975 441ms TR [Ideal Hosting Teknoloji]
 🏳 95.213.154.54:31337 401ms  []
 🇫🇷 51.83.190.248:19050 423ms FR [OVH SAS]
-🇻🇳 113.160.188.21:1080 190ms VN [VietNam Post and Telecom Corporation]
+🇻🇳 113.160.188.21:1080 198ms VN [VietNam Post and Telecom Corporation]
