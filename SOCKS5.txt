@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2025-05-10 06:00:02 GMT+7
+SOCKS5 Proxy list updated at 2025-05-10 07:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -10,21 +10,24 @@ https://buymeacoffee.com/roosterkid
 
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇷🇺 87.117.11.57:1080 352ms RU [Macroregional South]
+🇷🇺 87.117.11.57:1080 657ms RU [Macroregional South]
 🇧🇷 187.63.9.62:63253 405ms BR [Gigalink de Nova Friburgo Soluções em Rede Multimi]
 🇪🇸 178.33.162.89:59490 635ms ES [OVH ISP]
-🇧🇬 31.211.142.115:8192 355ms BG [5KOM]
-🇿🇦 102.36.127.53:1080 400ms ZA [Clear Access (Pty) Ltd]
+🇧🇬 31.211.142.115:8192 670ms BG [5KOM]
+🇿🇦 102.36.127.53:1080 473ms ZA [Clear Access (Pty) Ltd]
 🇺🇦 195.66.156.196:1080 686ms UA [PP Info-Center]
-🇸🇬 138.199.25.13:3909 52ms SG [DataCamp Limited]
+🇸🇬 138.199.25.13:3909 387ms SG [DataCamp Limited]
 🇷🇺 194.190.169.197:3701 432ms RU [Webmaster Agency Ltd]
-🇨🇳 117.74.65.207:5441 794ms CN [CNC Group CHINA169 Hebei Province Network]
-🇫🇷 37.44.238.2:63617 506ms FR [Harmony Hosting SARL]
-🇨🇦 184.95.235.194:1080 575ms CA [Fibrenoire Inc]
+🇨🇳 117.74.65.207:5441 793ms CN [CNC Group CHINA169 Hebei Province Network]
+🇫🇷 37.44.238.2:63617 637ms FR [Harmony Hosting SARL]
+🇨🇦 184.95.235.194:1080 327ms CA [Fibrenoire Inc]
+🇷🇺 46.241.57.29:1080 437ms RU [ZSTTK]
 🇺🇦 91.200.115.49:1080 321ms UA [Joint Ukrainian American Enterprise "Telecommunications Resource Center" ltd]
 🇻🇳 113.176.118.150:1080 89ms VN [VNPT]
 🇹🇷 185.87.121.35:8975 439ms TR [Ideal Hosting Teknoloji]
 🇹🇷 185.87.121.5:8975 381ms TR [Ideal Hosting Teknoloji A.S.]
 🇹🇷 185.86.5.162:8975 428ms TR [Ideal Hosting Teknoloji]
+🇬🇧 188.241.45.142:2021 246ms GB [Talk Straight Ltd.]
 🇫🇷 51.83.190.248:19050 664ms FR [OVH SAS]
-🇻🇳 113.160.188.21:1080 123ms VN [VietNam Post and Telecom Corporation]
+🇩🇪 82.165.137.115:7061 422ms DE [SCHLUND]
+🇻🇳 113.160.188.21:1080 393ms VN [VietNam Post and Telecom Corporation]
