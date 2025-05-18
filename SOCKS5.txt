@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2025-05-19 00:00:01 GMT+7
+SOCKS5 Proxy list updated at 2025-05-19 01:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -12,17 +12,17 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
 🇧🇩 103.234.27.221:1080 444ms BD [BTS Communications (BD) Ltd]
 🇧🇷 187.63.9.62:63253 721ms BR [Gigalink de Nova Friburgo Soluções em Rede Multimi]
-🇪🇸 178.33.162.89:59490 677ms ES [OVH ISP]
 🇧🇬 31.211.142.115:8192 630ms BG [5KOM]
 🇷🇺 85.143.254.38:1080 726ms RU [Comfortel Ltd.]
-🇷🇺 212.33.248.45:1080 472ms RU [JSC "ER-Telecom Holding"]
 🇨🇦 184.95.220.42:1080 320ms CA [Fibrenoire Inc.]
-🇵🇸 93.184.4.254:1080 623ms PS [BCI Telecommunication & Advanced Technology Company]
+🇵🇸 93.184.4.254:1080 330ms PS [BCI Telecommunication & Advanced Technology Company]
+🇺🇦 185.151.86.86:3699 368ms UA [Omega Telecom]
 🇺🇦 195.66.156.196:1080 380ms UA [PP Info-Center]
 🇸🇬 138.199.25.13:3909 685ms SG [DataCamp Limited]
 🇺🇦 195.39.233.14:44567 668ms UA [Active Operations LLC]
-🇨🇳 117.74.65.207:5441 724ms CN [CNC Group CHINA169 Hebei Province Network]
+🇨🇳 117.74.65.207:5441 669ms CN [CNC Group CHINA169 Hebei Province Network]
 🇨🇦 184.95.235.194:1080 327ms CA [Fibrenoire Inc]
-🇩🇪 5.9.98.142:3080 479ms DE [Hetzner Online GmbH]
+🇩🇪 5.9.98.142:3080 554ms DE [Hetzner Online GmbH]
+🇺🇦 91.200.115.49:1080 424ms UA [Joint Ukrainian American Enterprise "Telecommunications Resource Center" ltd]
 🇹🇷 185.87.121.5:8975 595ms TR [Ideal Hosting Teknoloji A.S.]
 🇫🇷 51.83.190.248:19050 668ms FR [OVH SAS]
