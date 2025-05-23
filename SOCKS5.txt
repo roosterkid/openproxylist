@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2025-05-23 13:00:01 GMT+7
+SOCKS5 Proxy list updated at 2025-05-23 14:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -12,19 +12,19 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
 🇷🇺 87.117.11.57:1080 399ms RU [Macroregional South]
 🇧🇩 103.234.27.221:1080 228ms BD [BTS Communications (BD) Ltd]
-🇮🇩 103.174.178.138:1080 62ms ID [PT Gasatek Bintang Nusantara]
 🇧🇬 31.211.142.115:8192 670ms BG [5KOM]
 🇷🇺 94.73.251.19:1080 784ms RU [Orion Telecom LLC]
 🇷🇺 85.143.254.38:1080 617ms RU [Comfortel Ltd.]
 🇷🇺 95.156.83.139:1080 617ms RU [PJSC Rostelecom]
 🇷🇺 92.255.88.219:1080 397ms RU [Comfortel Ltd.]
 🇷🇺 212.33.248.45:1080 306ms RU [JSC "ER-Telecom Holding"]
-🇵🇸 93.184.4.254:1080 352ms PS [BCI Telecommunication & Advanced Technology Company]
+🇵🇸 93.184.4.254:1080 400ms PS [BCI Telecommunication & Advanced Technology Company]
 🇿🇦 102.36.127.53:1080 474ms ZA [Clear Access (Pty) Ltd]
-🇺🇦 195.66.156.196:1080 653ms UA [PP Info-Center]
-🇸🇬 138.199.25.13:3909 52ms SG [DataCamp Limited]
-🇨🇳 117.74.65.207:5441 789ms CN [CNC Group CHINA169 Hebei Province Network]
-🇫🇷 37.44.238.2:63617 489ms FR [Harmony Hosting SARL]
+🇺🇦 195.66.156.196:1080 542ms UA [PP Info-Center]
+🇷🇺 79.104.34.214:1080 370ms RU [EDN SOVINTEL]
+🇸🇬 138.199.25.13:3909 783ms SG [DataCamp Limited]
+🇨🇳 117.74.65.207:5441 514ms CN [CNC Group CHINA169 Hebei Province Network]
+🇺🇦 91.200.115.49:1080 317ms UA [Joint Ukrainian American Enterprise "Telecommunications Resource Center" ltd]
 🇹🇷 185.87.121.35:8975 389ms TR [Ideal Hosting Teknoloji]
 🇹🇷 185.87.121.5:8975 406ms TR [Ideal Hosting Teknoloji A.S.]
-🇫🇷 51.83.190.248:19050 532ms FR [OVH SAS]
+🏳 95.213.154.54:31337 515ms  []
