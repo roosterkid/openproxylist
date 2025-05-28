@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2025-05-28 10:00:02 GMT+7
+SOCKS5 Proxy list updated at 2025-05-28 11:00:02 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -16,17 +16,15 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 🇧🇬 31.211.142.115:8192 636ms BG [5KOM]
 🇷🇺 85.143.254.38:1080 459ms RU [Comfortel Ltd.]
 🇵🇸 93.184.4.254:1080 299ms PS [BCI Telecommunication & Advanced Technology Company]
-🇨🇦 134.122.43.203:56442 794ms CA [DigitalOcean, LLC]
 🇺🇦 185.151.86.86:3699 451ms UA [Omega Telecom]
+🇵🇸 93.184.8.22:1080 654ms PS [BNET network]
 🇿🇦 102.36.127.53:1080 781ms ZA [Clear Access (Pty) Ltd]
-🇸🇬 138.199.25.13:3909 491ms SG [DataCamp Limited]
+🇸🇬 138.199.25.13:3909 56ms SG [DataCamp Limited]
 🇷🇺 194.190.169.197:3701 540ms RU [Webmaster Agency Ltd]
-🇨🇳 117.74.65.207:5441 527ms CN [CNC Group CHINA169 Hebei Province Network]
+🇨🇳 117.74.65.207:5441 549ms CN [CNC Group CHINA169 Hebei Province Network]
 🇫🇷 37.44.238.2:63617 710ms FR [Harmony Hosting SARL]
 🇨🇦 184.95.235.194:1080 372ms CA [Fibrenoire Inc]
 🇺🇸 134.195.91.76:29585 779ms US [HostHatch]
 🇷🇺 46.241.57.29:1080 362ms RU [ZSTTK]
 🇻🇳 113.176.118.150:1080 64ms VN [VNPT]
-🇹🇷 185.87.121.5:8975 401ms TR [Ideal Hosting Teknoloji A.S.]
-🇹🇷 185.86.5.162:8975 398ms TR [Ideal Hosting Teknoloji]
-🇫🇷 51.83.190.248:19050 452ms FR [OVH SAS]
+🇹🇷 185.86.5.162:8975 525ms TR [Ideal Hosting Teknoloji]
