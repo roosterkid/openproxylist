@@ -1,4 +1,4 @@
-HTTP(S) Proxy list updated at 2025-06-03 18:00:01 GMT+7
+HTTP(S) Proxy list updated at 2025-06-03 19:00:02 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -10,33 +10,31 @@ https://buymeacoffee.com/roosterkid
 
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇨🇦 67.43.228.250:14395 359ms CA [GloboTech Communications]
 🇷🇺 194.186.248.97:80 455ms RU [GOLDEN Telecom]
-🇨🇦 72.10.164.178:3001 357ms CA [GloboTech Communications]
-🇵🇭 103.84.177.28:8083 388ms PH [Panay Broadband / Buenavista Cable TV., Inc.]
+🇨🇦 72.10.164.178:3001 314ms CA [GloboTech Communications]
 🇮🇩 103.39.49.156:3128 373ms ID [PT. Mega Mentari Mandiri]
 🇹🇭 110.49.53.69:8081 320ms TH [Advanced Wireless Network Company Limited]
 🇨🇦 67.43.228.253:3767 233ms CA [GloboTech Communications]
-🇮🇩 103.170.22.52:8089 424ms ID [PT Puskomedia Indonesia Kreatif]
-🇮🇩 202.154.18.1:8080 38ms ID [DIGITNET]
-🇲🇽 201.150.119.170:999 285ms MX [Hulux Telecomunicaciones]
+🇮🇩 202.154.18.1:8080 62ms ID [DIGITNET]
+🇲🇽 201.150.119.170:999 396ms MX [Hulux Telecomunicaciones]
 🇺🇦 91.200.163.190:3128 464ms UA [MAGEAL]
+🇮🇩 103.88.229.59:8080 423ms ID [Institut Agama Islam Negeri Raden Intan Lampung]
 🇸🇬 51.79.207.21:8080 64ms SG [OVH SAS]
 🇺🇸 104.129.194.44:10336 124ms US [ZSCALER, INC.]
 🇺🇸 104.129.194.43:10336 112ms US [ZSCALER, INC.]
 🇺🇸 165.139.202.86:8080 189ms US [Education Networks of America]
-🇸🇬 8.219.97.248:80 303ms SG [Alibaba (US) Technology Co., Ltd.]
-🇵🇭 161.49.176.173:1337 787ms PH [Converge ICT Solution Inc]
+🇸🇬 8.219.97.248:80 347ms SG [Alibaba (US) Technology Co., Ltd.]
+🇵🇭 161.49.176.173:1337 362ms PH [Converge ICT Solution Inc]
 🇻🇳 113.160.235.248:19132 418ms VN [VietNam Post and Telecom Corporation]
 🇯🇵 74.82.50.155:3128 39ms JP [Hurricane Electric]
 🇵🇭 161.49.116.131:1337 371ms PH [Converge ICT Solution Inc]
 🇺🇸 170.106.151.187:39876 440ms US [Tencent Cloud Computing (Beijing) Co]
-🇸🇬 47.74.226.8:5001 248ms SG [Alibaba Cloud (Singapore) Private Limited]
+🇹🇭 1.0.170.50:8080 148ms TH [TOT Public Company Limited]
 🇮🇩 103.156.17.56:8181 464ms ID [RSTNET]
 🇧🇷 201.89.97.222:8080 368ms BR [Brasil Telecom S/A - Filial Distrito Federal]
-🇧🇷 179.96.28.58:80 287ms BR [G8 NETWORKS LTDA]
+🇧🇷 179.96.28.58:80 292ms BR [G8 NETWORKS LTDA]
 🇹🇭 96.30.79.84:8080 377ms TH [Symphony Communication Public Company Limited]
-🇮🇩 103.3.58.162:3128 372ms ID [PT. Java Digital Nusantara]
+🇮🇩 103.3.58.162:3128 321ms ID [PT. Java Digital Nusantara]
 🇮🇩 103.156.249.34:8085 76ms ID [Trans Media Telekomunikasi]
 🇮🇩 36.94.232.177:999 143ms ID [PT. Telekomunikasi Indonesia]
 🇿🇲 41.223.119.156:3128 260ms ZM [MTN Zambia]
