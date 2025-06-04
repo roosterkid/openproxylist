@@ -1,4 +1,4 @@
-HTTP(S) Proxy list updated at 2025-06-04 17:00:01 GMT+7
+HTTP(S) Proxy list updated at 2025-06-04 18:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -10,8 +10,9 @@ https://buymeacoffee.com/roosterkid
 
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇨🇦 72.10.164.178:3001 370ms CA [GloboTech Communications]
+🇨🇦 72.10.164.178:3001 462ms CA [GloboTech Communications]
 🇭🇺 79.121.102.227:8080 304ms HU [Magyar Telekom plc.]
+🇱🇾 154.73.29.65:8080 219ms LY [Rawafed]
 🇨🇦 67.43.236.20:5103 328ms CA [GloboTech Communications]
 🇮🇩 203.174.15.83:8080 343ms ID [PT Orion Cyber Internet]
 🇲🇽 201.150.119.170:999 391ms MX [Hulux Telecomunicaciones]
@@ -20,22 +21,26 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 🇮🇩 103.172.70.237:8080 381ms ID [AZNET]
 🇮🇩 202.162.195.54:8089 490ms ID [Media Antar Nusa PT.]
 🇮🇩 101.255.117.138:2020 209ms ID [PT Remala Abadi]
-🇺🇸 104.129.194.44:10336 116ms US [ZSCALER, INC.]
-🇺🇸 104.129.194.43:10336 114ms US [ZSCALER, INC.]
+🇺🇸 104.129.194.44:10336 112ms US [ZSCALER, INC.]
+🇺🇸 104.129.194.43:10336 112ms US [ZSCALER, INC.]
 🇮🇩 101.255.167.174:8080 406ms ID [PT Remala Abadi]
 🇺🇸 165.139.202.86:8080 171ms US [Education Networks of America]
-🇸🇬 8.219.97.248:80 314ms SG [Alibaba (US) Technology Co., Ltd.]
+🇸🇬 8.219.97.248:80 401ms SG [Alibaba (US) Technology Co., Ltd.]
+🇮🇩 119.252.167.130:41890 461ms ID [PT Indonesia Comnets Plus]
 🇮🇩 103.166.197.34:3128 414ms ID [Hipernet Indodata]
 🇨🇴 200.116.198.222:9812 420ms CO [EPM Telecomunicaciones S.A. E.S.P]
 🇯🇵 74.82.50.155:3128 38ms JP [Hurricane Electric]
 🇫🇷 91.121.208.196:5062 386ms FR [OVH SAS]
 🇪🇨 45.71.200.65:999 381ms EC [Nedetel S.A]
-🇺🇸 170.106.151.187:39876 398ms US [Tencent Cloud Computing (Beijing) Co]
+🇺🇸 170.106.151.187:39876 419ms US [Tencent Cloud Computing (Beijing) Co]
 🇮🇩 103.156.17.56:8181 370ms ID [RSTNET]
 🇧🇷 201.89.97.222:8080 223ms BR [Brasil Telecom S/A - Filial Distrito Federal]
 🇮🇩 103.3.58.162:3128 123ms ID [PT. Java Digital Nusantara]
+🇧🇾 213.184.242.144:8080 437ms BY [Parallelny mir Ltd.]
 🇦🇷 190.220.1.173:56974 775ms AR [AMX Argentina S.A.]
+🇵🇭 203.177.133.235:8080 201ms PH [SECURITY]
 🇿🇲 41.223.119.156:3128 260ms ZM [MTN Zambia]
+🇺🇸 98.154.21.253:3128 465ms US [Charter Communications Inc]
 🇲🇽 187.188.169.169:8080 298ms MX [Total Play Telecomunicaciones SA De CV]
 🇺🇸 204.48.31.203:80 322ms US [DigitalOcean, LLC]
 🇧🇬 77.238.79.111:8080 258ms BG [FIBER1]
