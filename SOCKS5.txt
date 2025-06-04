@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2025-06-05 03:00:01 GMT+7
+SOCKS5 Proxy list updated at 2025-06-05 04:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -12,15 +12,17 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
 🇮🇩 103.174.178.138:1080 202ms ID [PT Gasatek Bintang Nusantara]
 🇧🇷 187.63.9.62:63253 502ms BR [Gigalink de Nova Friburgo Soluções em Rede Multimi]
-🇪🇸 178.33.162.89:59490 778ms ES [OVH ISP]
+🇪🇸 178.33.162.89:59490 627ms ES [OVH ISP]
 🇧🇬 31.211.142.115:8192 428ms BG [5KOM]
-🇷🇺 85.143.254.38:1080 293ms RU [Comfortel Ltd.]
+🇷🇺 85.143.254.38:1080 402ms RU [Comfortel Ltd.]
 🇨🇦 184.95.220.42:1080 388ms CA [Fibrenoire Inc.]
 🇨🇦 134.122.43.203:56442 732ms CA [DigitalOcean, LLC]
-🇸🇬 138.199.25.13:3909 365ms SG [DataCamp Limited]
-🇨🇳 117.74.65.207:5441 779ms CN [CNC Group CHINA169 Hebei Province Network]
+🇸🇬 138.199.25.13:3909 604ms SG [DataCamp Limited]
+🇨🇳 117.74.65.207:5441 621ms CN [CNC Group CHINA169 Hebei Province Network]
 🇫🇷 37.44.238.2:63617 578ms FR [Harmony Hosting SARL]
 🇨🇦 184.95.235.194:1080 575ms CA [Fibrenoire Inc]
+🇷🇺 46.241.57.29:1080 456ms RU [ZSTTK]
+🇸🇬 167.71.220.29:7497 6ms SG [DigitalOcean, LLC]
 🇨🇭 45.91.92.45:15026 618ms CH [HostHatch]
 🇺🇦 91.200.115.49:1080 638ms UA [Joint Ukrainian American Enterprise "Telecommunications Resource Center" ltd]
 🇹🇷 185.87.121.5:8975 522ms TR [Ideal Hosting Teknoloji A.S.]
