@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2025-06-06 22:00:01 GMT+7
+SOCKS5 Proxy list updated at 2025-06-06 23:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -10,25 +10,24 @@ https://buymeacoffee.com/roosterkid
 
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇷🇺 87.117.11.57:1080 695ms RU [Macroregional South]
 🇧🇩 103.234.27.221:1080 399ms BD [BTS Communications (BD) Ltd]
 🇮🇩 103.174.178.138:1080 64ms ID [PT Gasatek Bintang Nusantara]
-🇧🇬 31.211.142.115:8192 318ms BG [5KOM]
+🇧🇷 187.63.9.62:63253 543ms BR [Gigalink de Nova Friburgo Soluções em Rede Multimi]
+🇧🇬 31.211.142.115:8192 328ms BG [5KOM]
 🇷🇺 85.143.254.38:1080 392ms RU [Comfortel Ltd.]
 🇷🇺 212.33.248.45:1080 304ms RU [JSC "ER-Telecom Holding"]
 🇨🇦 184.95.220.42:1080 382ms CA [Fibrenoire Inc.]
 🇵🇸 93.184.4.254:1080 379ms PS [BCI Telecommunication & Advanced Technology Company]
 🇩🇪 207.154.230.54:38660 797ms DE [DigitalOcean, LLC]
 🇺🇦 185.151.86.86:3699 366ms UA [Omega Telecom]
-🇷🇺 178.47.140.26:1080 445ms RU [PJSC Rostelecom]
 🇿🇦 102.36.127.53:1080 706ms ZA [Clear Access (Pty) Ltd]
 🇸🇬 138.199.25.13:3909 51ms SG [DataCamp Limited]
-🇷🇺 83.169.255.92:1080 631ms RU [Siberia Branch of OJSC MegaFon internal .]
 🇷🇺 194.190.169.197:3701 515ms RU [Webmaster Agency Ltd]
-🇷🇺 185.54.178.193:1080 667ms RU [Irkutskenergosvyaz LTD]
-🇨🇳 117.74.65.207:5441 758ms CN [CNC Group CHINA169 Hebei Province Network]
+🇨🇳 117.74.65.207:5441 720ms CN [CNC Group CHINA169 Hebei Province Network]
 🇨🇦 184.95.235.194:1080 368ms CA [Fibrenoire Inc]
 🇷🇺 46.241.57.29:1080 349ms RU [ZSTTK]
+🇸🇬 167.71.220.29:7497 23ms SG [DigitalOcean, LLC]
+🇨🇭 45.91.92.45:15026 372ms CH [HostHatch]
 🇻🇳 113.176.118.150:1080 178ms VN [VNPT]
 🇹🇷 185.87.121.5:8975 690ms TR [Ideal Hosting Teknoloji A.S.]
 🇮🇩 202.6.233.59:7878 793ms ID [PT Padi Internet]
