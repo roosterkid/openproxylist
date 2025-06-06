@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2025-06-07 01:00:01 GMT+7
+SOCKS5 Proxy list updated at 2025-06-07 02:00:02 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -10,26 +10,24 @@ https://buymeacoffee.com/roosterkid
 
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇷🇺 87.117.11.57:1080 426ms RU [Macroregional South]
+🇷🇺 87.117.11.57:1080 550ms RU [Macroregional South]
 🇧🇩 103.234.27.221:1080 97ms BD [BTS Communications (BD) Ltd]
-🇮🇩 103.174.178.138:1080 64ms ID [PT Gasatek Bintang Nusantara]
 🇧🇷 187.63.9.62:63253 513ms BR [Gigalink de Nova Friburgo Soluções em Rede Multimi]
-🇧🇬 31.211.142.115:8192 328ms BG [5KOM]
+🇧🇬 31.211.142.115:8192 629ms BG [5KOM]
 🇷🇺 85.143.254.38:1080 294ms RU [Comfortel Ltd.]
 🇷🇺 212.33.248.45:1080 304ms RU [JSC "ER-Telecom Holding"]
 🇨🇦 184.95.220.42:1080 586ms CA [Fibrenoire Inc.]
 🇵🇸 93.184.4.254:1080 314ms PS [BCI Telecommunication & Advanced Technology Company]
-🇩🇪 207.154.230.54:38660 797ms DE [DigitalOcean, LLC]
 🇷🇺 178.47.140.26:1080 366ms RU [PJSC Rostelecom]
 🇿🇦 102.36.127.53:1080 706ms ZA [Clear Access (Pty) Ltd]
 🇸🇬 138.199.25.13:3909 65ms SG [DataCamp Limited]
 🇷🇺 194.190.169.197:3701 515ms RU [Webmaster Agency Ltd]
-🇨🇳 117.74.65.207:5441 522ms CN [CNC Group CHINA169 Hebei Province Network]
+🇨🇳 117.74.65.207:5441 786ms CN [CNC Group CHINA169 Hebei Province Network]
 🇨🇦 184.95.235.194:1080 368ms CA [Fibrenoire Inc]
 🇸🇬 167.71.220.29:7497 23ms SG [DigitalOcean, LLC]
-🇨🇭 45.91.92.45:15026 372ms CH [HostHatch]
-🇻🇳 113.176.118.150:1080 387ms VN [VNPT]
-🇹🇷 185.87.121.5:8975 687ms TR [Ideal Hosting Teknoloji A.S.]
+🇨🇭 45.91.92.45:15026 401ms CH [HostHatch]
+🇻🇳 113.176.118.150:1080 85ms VN [VNPT]
+🇹🇷 185.87.121.5:8975 676ms TR [Ideal Hosting Teknoloji A.S.]
 🇹🇷 185.86.5.162:8975 475ms TR [Ideal Hosting Teknoloji]
 🇮🇩 202.6.233.59:7878 793ms ID [PT Padi Internet]
-🇫🇷 51.83.190.248:19050 642ms FR [OVH SAS]
+🇫🇷 51.83.190.248:19050 503ms FR [OVH SAS]
