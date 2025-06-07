@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2025-06-07 14:00:01 GMT+7
+SOCKS5 Proxy list updated at 2025-06-07 15:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -11,13 +11,17 @@ https://buymeacoffee.com/roosterkid
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
 🇧🇩 103.234.27.221:1080 211ms BD [BTS Communications (BD) Ltd]
-🇷🇺 94.73.251.19:1080 608ms RU [Orion Telecom LLC]
+🇧🇷 187.63.9.62:63253 407ms BR [Gigalink de Nova Friburgo Soluções em Rede Multimi]
+🇷🇺 94.73.251.19:1080 421ms RU [Orion Telecom LLC]
 🇷🇺 85.143.254.38:1080 394ms RU [Comfortel Ltd.]
+🇷🇺 212.33.248.45:1080 580ms RU [JSC "ER-Telecom Holding"]
 🇨🇦 184.95.220.42:1080 269ms CA [Fibrenoire Inc.]
 🇵🇸 93.184.4.254:1080 607ms PS [BCI Telecommunication & Advanced Technology Company]
 🇩🇪 207.154.230.54:38660 777ms DE [DigitalOcean, LLC]
+🇨🇦 134.122.43.203:56442 511ms CA [DigitalOcean, LLC]
 🇺🇦 185.151.86.121:3699 361ms UA [Omega Telecom]
-🇸🇬 138.199.25.13:3909 335ms SG [DataCamp Limited]
+🇿🇦 102.36.127.53:1080 478ms ZA [Clear Access (Pty) Ltd]
+🇸🇬 138.199.25.13:3909 251ms SG [DataCamp Limited]
 🇷🇺 194.190.169.197:3701 729ms RU [Webmaster Agency Ltd]
 🇰🇷 150.230.249.42:46818 307ms KR [Oracle Corporation]
 🇨🇳 117.74.65.207:5441 784ms CN [CNC Group CHINA169 Hebei Province Network]
@@ -25,4 +29,4 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 🇨🇭 45.91.92.45:15026 471ms CH [HostHatch]
 🇹🇷 185.87.121.35:8975 426ms TR [Ideal Hosting Teknoloji]
 🇹🇷 185.87.121.5:8975 643ms TR [Ideal Hosting Teknoloji A.S.]
-🇹🇷 185.86.5.162:8975 583ms TR [Ideal Hosting Teknoloji]
+🇹🇷 185.86.5.162:8975 447ms TR [Ideal Hosting Teknoloji]
