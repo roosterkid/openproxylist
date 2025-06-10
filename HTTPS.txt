@@ -1,4 +1,4 @@
-HTTP(S) Proxy list updated at 2025-06-11 01:00:01 GMT+7
+HTTP(S) Proxy list updated at 2025-06-11 02:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -10,21 +10,22 @@ https://buymeacoffee.com/roosterkid
 
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
+🇨🇦 67.43.228.250:14395 342ms CA [GloboTech Communications]
 🇮🇩 103.39.49.156:3128 62ms ID [PT. Mega Mentari Mandiri]
+🇧🇬 92.247.12.136:9510 405ms BG [A1 Bulgaria EAD]
 🇪🇬 154.236.191.44:1981 341ms EG [Etisalat Fixed BB]
-🇧🇬 91.92.136.132:8889 221ms BG [Belcloud LTD]
+🇧🇬 91.92.136.132:8889 481ms BG [Belcloud LTD]
 🇮🇩 203.174.15.83:8080 23ms ID [PT Orion Cyber Internet]
 🇮🇩 202.154.18.1:8080 343ms ID [DIGITNET]
 🇮🇩 103.111.136.110:3125 47ms ID [PT Mitra Lintas Multimedia]
 🇹🇷 188.132.222.46:8080 408ms TR [High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.]
-🇮🇩 180.178.95.142:8080 238ms ID [PT Widya Intersat Nusantara]
 🇮🇩 103.156.74.154:1111 76ms ID [PT Trika Global Media]
-🇮🇩 103.176.96.178:8080 336ms ID [PT Global Sarana Elektronika]
+🇮🇩 36.66.111.81:8080 328ms ID [PT. Telekomunikasi Indonesia]
 🇪🇬 62.193.108.135:1981 204ms EG [Etisalat]
 🇬🇶 102.164.252.150:8080 374ms GQ [Conexxia GE S.L]
 🇧🇬 84.54.191.22:8080 499ms BG [ComNet Bulgaria Ltd.]
-🇸🇬 8.219.97.248:80 141ms SG [Alibaba (US) Technology Co., Ltd.]
-🇺🇸 147.75.68.201:80 89ms US [Packet Host, Inc.]
+🇸🇬 8.219.97.248:80 97ms SG [Alibaba (US) Technology Co., Ltd.]
+🇺🇸 147.75.68.201:80 86ms US [Packet Host, Inc.]
 🇵🇭 161.49.176.173:1337 352ms PH [Converge ICT Solution Inc]
 🇵🇭 152.32.67.107:1337 226ms PH [Converge ICT Solution Inc]
 🇯🇵 74.82.50.155:3128 37ms JP [Hurricane Electric]
@@ -32,11 +33,12 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 🇮🇩 103.36.11.121:8181 149ms ID [PT Awinet Global Mandiri]
 🇺🇸 170.106.151.187:39876 357ms US [Tencent Cloud Computing (Beijing) Co]
 🇮🇩 112.78.134.133:7777 298ms ID [Biznet Networks]
-🇧🇷 201.89.97.222:8080 222ms BR [Brasil Telecom S/A - Filial Distrito Federal]
-🇧🇷 179.96.28.58:80 247ms BR [G8 NETWORKS LTDA]
+🇧🇷 201.89.97.222:8080 239ms BR [Brasil Telecom S/A - Filial Distrito Federal]
+🇧🇷 179.96.28.58:80 396ms BR [G8 NETWORKS LTDA]
 🇷🇺 77.50.104.110:3128 478ms RU [StarLink Telecom Network]
 🇧🇾 213.184.242.144:8080 461ms BY [Parallelny mir Ltd.]
 🏳 203.142.71.54:8080 450ms  []
+🇮🇩 103.156.249.34:8085 28ms ID [Trans Media Telekomunikasi]
 🇮🇩 36.94.232.177:999 36ms ID [PT. Telekomunikasi Indonesia]
 🇿🇲 41.223.119.156:3128 305ms ZM [MTN Zambia]
 🇹🇷 213.14.32.66:9090 281ms TR [Tellcom Main Network Statement]
