@@ -1,4 +1,4 @@
-HTTP(S) Proxy list updated at 2025-06-12 15:00:01 GMT+7
+HTTP(S) Proxy list updated at 2025-06-12 16:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -10,31 +10,34 @@ https://buymeacoffee.com/roosterkid
 
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
+🇨🇦 67.43.228.250:14395 477ms CA [GloboTech Communications]
 🇳🇵 103.124.97.12:8080 166ms NP [Pokhara Internet Pvt. Ltd]
-🇮🇩 103.39.49.156:3128 102ms ID [PT. Mega Mentari Mandiri]
-🇧🇬 91.92.136.132:8889 148ms BG [Belcloud LTD]
+🇮🇩 103.39.49.156:3128 95ms ID [PT. Mega Mentari Mandiri]
+🇧🇬 91.92.136.132:8889 361ms BG [Belcloud LTD]
 🇮🇩 203.174.15.83:8080 152ms ID [PT Orion Cyber Internet]
+🇧🇩 203.112.79.90:8080 456ms BD [OptiMax Communication Ltd]
 🇮🇩 202.154.18.1:8080 72ms ID [DIGITNET]
 🇮🇩 124.158.153.218:8180 325ms ID [PT iForte Global Internet]
-🇨🇭 185.191.236.162:3128 459ms CH [Grupo Panaglobal 15 S.A]
-🇮🇩 103.156.74.154:1111 396ms ID [PT Trika Global Media]
+🇨🇭 185.191.236.162:3128 308ms CH [Grupo Panaglobal 15 S.A]
 🇮🇩 180.178.103.70:8080 486ms ID [PT Hipernet Indodata]
 🇮🇩 103.124.137.35:8080 164ms ID [Global Media Data Prima]
 🇮🇩 112.109.20.106:6060 389ms ID [DATAUTAMANET]
 🇹🇷 188.132.222.10:8080 380ms TR [High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.]
 🇹🇭 203.150.113.212:57322 487ms TH [Internet Thailand Company Ltd.]
-🇺🇸 165.139.202.86:8080 171ms US [Education Networks of America]
+🇹🇭 103.10.230.246:1337 384ms TH [CATBB]
+🇺🇸 165.139.202.86:8080 189ms US [Education Networks of America]
 🇮🇩 58.147.186.214:3125 418ms ID [PT. Transhybrid Communication]
-🇸🇬 8.219.97.248:80 363ms SG [Alibaba (US) Technology Co., Ltd.]
+🇸🇬 8.219.97.248:80 140ms SG [Alibaba (US) Technology Co., Ltd.]
+🇪🇸 77.225.198.220:9812 319ms ES [Comunitel Global]
 🇯🇵 74.82.50.155:3128 38ms JP [Hurricane Electric]
 🇺🇸 170.106.151.187:39876 592ms US [Tencent Cloud Computing (Beijing) Co]
+🇮🇩 182.253.93.3:53281 469ms ID [BIZNET]
 🇧🇷 201.89.97.222:8080 450ms BR [Brasil Telecom S/A - Filial Distrito Federal]
 🇪🇬 41.65.160.173:1981 185ms EG [Etisalat Misr Mobile BB]
 🇧🇾 213.184.242.144:8080 769ms BY [Parallelny mir Ltd.]
 🇵🇭 203.177.133.235:8080 415ms PH [SECURITY]
 🇮🇩 36.94.232.177:999 80ms ID [PT. Telekomunikasi Indonesia]
-🇿🇲 41.223.119.156:3128 270ms ZM [MTN Zambia]
-🇧🇩 203.112.223.126:8080 207ms BD [Bangladesh Telecommunications Company Ltd.]
+🇿🇲 41.223.119.156:3128 341ms ZM [MTN Zambia]
 🇮🇩 103.123.64.234:3128 200ms ID [CEPATNET]
 🇮🇩 122.50.6.186:8080 478ms ID [PT Mora Telematika Indonesia]
 🇧🇬 77.238.79.111:8080 444ms BG [FIBER1]
