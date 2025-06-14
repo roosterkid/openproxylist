@@ -1,4 +1,4 @@
-HTTP(S) Proxy list updated at 2025-06-14 13:00:01 GMT+7
+HTTP(S) Proxy list updated at 2025-06-14 14:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -10,8 +10,8 @@ https://buymeacoffee.com/roosterkid
 
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇨🇦 72.10.164.178:3001 286ms CA [GloboTech Communications]
-🇵🇭 103.84.177.28:8083 398ms PH [Panay Broadband / Buenavista Cable TV., Inc.]
+🇨🇦 72.10.164.178:3001 340ms CA [GloboTech Communications]
+🇮🇩 103.39.49.156:3128 56ms ID [PT. Mega Mentari Mandiri]
 🇨🇴 131.100.48.73:999 417ms CO [Fibernet TV SAS]
 🇧🇬 87.126.65.11:1388 448ms BG [Vivacom Bulgaria EAD]
 🇨🇦 72.10.160.90:19101 312ms CA [GloboTech Communications]
@@ -20,23 +20,22 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 🇮🇩 203.174.15.83:8080 28ms ID [PT Orion Cyber Internet]
 🇩🇪 176.9.238.176:16379 484ms DE [Hetzner]
 🇹🇷 188.132.222.47:8080 401ms TR [High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.]
-🇹🇷 188.132.221.170:8080 485ms TR [High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.]
 🇮🇩 101.255.117.138:2020 476ms ID [PT Remala Abadi]
 🇮🇩 103.214.103.22:3127 468ms ID [SMARTPLUS]
 🇷🇺 176.213.141.107:8080 349ms RU [CJSC "ER-Telecom Holding" Rostov-na-Donu branch]
 🇮🇩 103.105.55.170:8080 226ms ID [PT. Mega Artha Lintas Data]
 🇪🇬 62.193.108.135:1981 366ms EG [Etisalat]
 🇨🇴 181.57.131.122:8080 498ms CO [Telmex Colombia S.A.]
-🇺🇸 165.139.202.86:8080 184ms US [Education Networks of America]
-🇸🇬 8.219.97.248:80 397ms SG [Alibaba (US) Technology Co., Ltd.]
+🇺🇸 165.139.202.86:8080 197ms US [Education Networks of America]
+🇸🇬 8.219.97.248:80 134ms SG [Alibaba (US) Technology Co., Ltd.]
 🇪🇸 77.225.198.220:9812 687ms ES [Comunitel Global]
-🇯🇵 74.82.50.155:3128 38ms JP [Hurricane Electric]
+🇯🇵 74.82.50.155:3128 52ms JP [Hurricane Electric]
 🇵🇭 161.49.116.131:1337 794ms PH [Converge ICT Solution Inc]
 🇨🇴 190.14.224.244:999 480ms CO [Media Commerce Partners S.A]
-🇺🇸 170.106.151.187:39876 582ms US [Tencent Cloud Computing (Beijing) Co]
+🇺🇸 170.106.151.187:39876 468ms US [Tencent Cloud Computing (Beijing) Co]
 🇵🇱 94.75.76.3:8080 462ms PL [ASTER Sp. z o.o]
-🇪🇬 41.65.160.173:1981 160ms EG [Etisalat Misr Mobile BB]
+🇪🇬 41.65.160.173:1981 482ms EG [Etisalat Misr Mobile BB]
 🇮🇩 36.94.232.177:999 342ms ID [PT. Telekomunikasi Indonesia]
-🇿🇲 41.223.119.156:3128 259ms ZM [MTN Zambia]
-🇧🇬 77.238.79.111:8080 272ms BG [FIBER1]
+🇿🇲 41.223.119.156:3128 257ms ZM [MTN Zambia]
+🇧🇬 77.238.79.111:8080 356ms BG [FIBER1]
 🇦🇷 181.209.82.154:23500 478ms AR [ARSAT - Empresa Argentina de Soluciones Satelitales S.A]
