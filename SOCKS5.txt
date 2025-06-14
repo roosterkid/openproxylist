@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2025-06-15 01:00:01 GMT+7
+SOCKS5 Proxy list updated at 2025-06-15 02:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -12,16 +12,17 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
 🇷🇺 87.117.11.57:1080 695ms RU [Macroregional South]
 🇧🇩 103.234.27.221:1080 105ms BD [BTS Communications (BD) Ltd]
-🇮🇩 103.174.178.138:1080 786ms ID [PT Gasatek Bintang Nusantara]
+🇮🇩 103.174.178.138:1080 64ms ID [PT Gasatek Bintang Nusantara]
 🇧🇬 31.211.142.115:8192 798ms BG [5KOM]
-🇷🇺 212.33.248.45:1080 729ms RU [JSC "ER-Telecom Holding"]
-🇸🇬 138.199.25.13:3909 27ms SG [DataCamp Limited]
-🇨🇳 117.74.65.207:5441 482ms CN [CNC Group CHINA169 Hebei Province Network]
-🇫🇷 37.44.238.2:63617 278ms FR [Harmony Hosting SARL]
+🇸🇬 138.199.25.13:3909 304ms SG [DataCamp Limited]
+🇨🇳 117.74.65.207:5441 799ms CN [CNC Group CHINA169 Hebei Province Network]
 🇨🇦 184.95.235.194:1080 277ms CA [Fibrenoire Inc]
 🇭🇰 47.243.75.202:58853 634ms HK [Alibaba (US) Technology Co., Ltd.]
 🇺🇦 91.200.115.49:1080 338ms UA [Joint Ukrainian American Enterprise "Telecommunications Resource Center" ltd]
 🇻🇳 113.176.118.150:1080 81ms VN [VNPT]
+🇹🇷 185.86.5.162:8975 526ms TR [Ideal Hosting Teknoloji]
 🇮🇩 202.6.233.59:7878 774ms ID [PT Padi Internet]
-🇫🇷 51.83.190.248:19050 430ms FR [OVH SAS]
+🇬🇧 188.241.45.142:2021 246ms GB [Talk Straight Ltd.]
+🇫🇷 51.83.190.248:19050 529ms FR [OVH SAS]
+🇩🇪 139.162.151.176:9050 551ms DE [Linode, LLC]
 🇻🇳 113.160.188.21:1080 402ms VN [VietNam Post and Telecom Corporation]
