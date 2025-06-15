@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2025-06-15 09:00:01 GMT+7
+SOCKS5 Proxy list updated at 2025-06-15 10:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -12,16 +12,15 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
 🇧🇩 103.234.27.221:1080 98ms BD [BTS Communications (BD) Ltd]
 🇮🇩 103.174.178.138:1080 72ms ID [PT Gasatek Bintang Nusantara]
-🇧🇷 187.63.9.62:63253 714ms BR [Gigalink de Nova Friburgo Soluções em Rede Multimi]
+🇧🇷 187.63.9.62:63253 397ms BR [Gigalink de Nova Friburgo Soluções em Rede Multimi]
 🇧🇬 31.211.142.115:8192 652ms BG [5KOM]
-🇨🇦 184.95.220.42:1080 364ms CA [Fibrenoire Inc.]
 🇺🇦 185.151.86.86:3699 366ms UA [Omega Telecom]
 🇺🇦 185.151.86.121:3699 371ms UA [Omega Telecom]
 🇿🇦 102.36.127.53:1080 503ms ZA [Clear Access (Pty) Ltd]
-🇸🇬 138.199.25.13:3909 772ms SG [DataCamp Limited]
-🇨🇳 117.74.65.207:5441 793ms CN [CNC Group CHINA169 Hebei Province Network]
-🇻🇳 113.176.118.150:1080 77ms VN [VNPT]
-🇬🇧 188.241.45.142:2021 347ms GB [Talk Straight Ltd.]
+🇸🇬 138.199.25.13:3909 163ms SG [DataCamp Limited]
+🇨🇳 117.74.65.207:5441 779ms CN [CNC Group CHINA169 Hebei Province Network]
+🇷🇺 82.200.125.194:1080 499ms RU [ZSTTK]
+🇹🇷 185.86.5.162:8975 775ms TR [Ideal Hosting Teknoloji]
 🇫🇷 51.83.190.248:19050 604ms FR [OVH SAS]
 🇻🇳 113.160.188.21:1080 390ms VN [VietNam Post and Telecom Corporation]
 🇷🇺 80.87.200.140:9050 739ms RU [JSC Server]
