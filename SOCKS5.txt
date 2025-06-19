@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2025-06-19 19:00:01 GMT+7
+SOCKS5 Proxy list updated at 2025-06-19 20:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -12,22 +12,24 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
 🇩🇪 161.97.129.202:9060 349ms DE [Contabo GmbH]
 🇧🇩 103.234.27.221:1080 97ms BD [BTS Communications (BD) Ltd]
+🇧🇷 187.63.9.62:63253 654ms BR [Gigalink de Nova Friburgo Soluções em Rede Multimi]
 🇧🇬 31.211.142.115:8192 668ms BG [5KOM]
 🇷🇺 85.143.254.38:1080 268ms RU [Comfortel Ltd.]
-🇷🇺 212.33.248.45:1080 342ms RU [JSC "ER-Telecom Holding"]
+🇷🇺 212.33.248.45:1080 333ms RU [JSC "ER-Telecom Holding"]
 🇷🇺 31.25.24.67:1080 630ms RU [LLC Cifrovie Seti Urala]
 🇵🇸 93.184.4.254:1080 696ms PS [BCI Telecommunication & Advanced Technology Company]
 🇨🇦 134.122.43.203:56442 762ms CA [DigitalOcean, LLC]
 🇵🇸 93.184.8.22:1080 388ms PS [BNET network]
-🇿🇦 102.36.127.53:1080 777ms ZA [Clear Access (Pty) Ltd]
-🇨🇳 117.74.65.207:5441 636ms CN [CNC Group CHINA169 Hebei Province Network]
-🇫🇷 37.44.238.2:63617 608ms FR [Harmony Hosting SARL]
+🇨🇳 117.74.65.207:5441 529ms CN [CNC Group CHINA169 Hebei Province Network]
+🇫🇷 37.44.238.2:63617 540ms FR [Harmony Hosting SARL]
 🇨🇦 184.95.235.194:1080 400ms CA [Fibrenoire Inc]
-🇭🇰 47.243.75.202:58853 51ms HK [Alibaba (US) Technology Co., Ltd.]
+🇭🇰 47.243.75.202:58853 206ms HK [Alibaba (US) Technology Co., Ltd.]
+🇸🇬 167.71.220.29:7497 5ms SG [DigitalOcean, LLC]
 🇺🇦 91.200.115.49:1080 265ms UA [Joint Ukrainian American Enterprise "Telecommunications Resource Center" ltd]
 🇹🇷 185.87.121.35:8975 404ms TR [Ideal Hosting Teknoloji]
 🇹🇷 185.87.121.5:8975 377ms TR [Ideal Hosting Teknoloji A.S.]
 🇹🇷 185.86.5.162:8975 374ms TR [Ideal Hosting Teknoloji]
 🏳 95.213.154.54:31337 498ms  []
 🇮🇩 202.6.233.59:7878 741ms ID [PT Padi Internet]
+🇬🇧 188.241.45.142:2021 344ms GB [Talk Straight Ltd.]
 🇫🇷 51.83.190.248:19050 696ms FR [OVH SAS]
