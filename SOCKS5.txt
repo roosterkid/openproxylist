@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2025-06-20 16:00:01 GMT+7
+SOCKS5 Proxy list updated at 2025-06-20 17:00:02 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -12,14 +12,16 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
 🇷🇺 87.117.11.57:1080 361ms RU [Macroregional South]
 🇮🇩 103.174.178.138:1080 54ms ID [PT Gasatek Bintang Nusantara]
+🇷🇺 94.73.251.19:1080 694ms RU [Orion Telecom LLC]
 🇷🇺 85.143.254.38:1080 613ms RU [Comfortel Ltd.]
-🇷🇺 212.33.248.45:1080 346ms RU [JSC "ER-Telecom Holding"]
+🇷🇺 212.33.248.45:1080 335ms RU [JSC "ER-Telecom Holding"]
+🇵🇸 93.184.4.254:1080 432ms PS [BCI Telecommunication & Advanced Technology Company]
 🇺🇦 185.151.86.121:3699 467ms UA [Omega Telecom]
 🇿🇦 102.36.127.53:1080 774ms ZA [Clear Access (Pty) Ltd]
-🇸🇬 138.199.25.13:3909 456ms SG [DataCamp Limited]
-🇨🇳 117.74.65.207:5441 740ms CN [CNC Group CHINA169 Hebei Province Network]
-🇫🇷 37.44.238.2:63617 509ms FR [Harmony Hosting SARL]
+🇸🇬 138.199.25.13:3909 315ms SG [DataCamp Limited]
+🇨🇳 117.74.65.207:5441 516ms CN [CNC Group CHINA169 Hebei Province Network]
 🇭🇰 47.243.75.202:58853 490ms HK [Alibaba (US) Technology Co., Ltd.]
 🇸🇬 167.71.220.29:7497 10ms SG [DigitalOcean, LLC]
-🇺🇦 176.37.21.46:5678 235ms UA [Lanet Network]
+🇺🇦 91.200.115.49:1080 582ms UA [Joint Ukrainian American Enterprise "Telecommunications Resource Center" ltd]
+🇮🇩 202.6.233.59:7878 123ms ID [PT Padi Internet]
 🇫🇷 51.83.190.248:19050 480ms FR [OVH SAS]
