@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2025-06-21 17:00:01 GMT+7
+SOCKS5 Proxy list updated at 2025-06-21 18:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -10,19 +10,17 @@ https://buymeacoffee.com/roosterkid
 
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇩🇪 161.97.129.202:9060 559ms DE [Contabo GmbH]
 🇷🇺 87.117.11.57:1080 390ms RU [Macroregional South]
 🇧🇩 103.234.27.221:1080 104ms BD [BTS Communications (BD) Ltd]
 🇷🇺 94.73.251.19:1080 708ms RU [Orion Telecom LLC]
 🇷🇺 95.156.83.139:1080 427ms RU [PJSC Rostelecom]
-🇷🇺 212.33.248.45:1080 298ms RU [JSC "ER-Telecom Holding"]
 🇸🇬 138.199.25.13:3909 722ms SG [DataCamp Limited]
-🇷🇺 194.190.169.197:3701 792ms RU [Webmaster Agency Ltd]
-🇨🇳 117.74.65.207:5441 529ms CN [CNC Group CHINA169 Hebei Province Network]
+🇷🇺 194.190.169.197:3701 686ms RU [Webmaster Agency Ltd]
+🇨🇳 117.74.65.207:5441 791ms CN [CNC Group CHINA169 Hebei Province Network]
 🇭🇰 47.243.75.202:58853 196ms HK [Alibaba (US) Technology Co., Ltd.]
 🇸🇬 167.71.220.29:7497 7ms SG [DigitalOcean, LLC]
-🇹🇷 185.87.121.35:8975 449ms TR [Ideal Hosting Teknoloji]
-🇹🇷 185.87.121.5:8975 448ms TR [Ideal Hosting Teknoloji A.S.]
+🇹🇷 185.87.121.35:8975 410ms TR [Ideal Hosting Teknoloji]
+🇹🇷 185.87.121.5:8975 415ms TR [Ideal Hosting Teknoloji A.S.]
 🇷🇺 176.117.237.132:1080 733ms RU [CJSC "ER-Telecom Holding" Irkutsk branch]
 🇫🇷 51.83.190.248:19050 742ms FR [OVH SAS]
-🇻🇳 113.160.188.21:1080 361ms VN [VietNam Post and Telecom Corporation]
+🇻🇳 113.160.188.21:1080 185ms VN [VietNam Post and Telecom Corporation]
