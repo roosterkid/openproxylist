@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2025-06-27 00:00:01 GMT+7
+SOCKS5 Proxy list updated at 2025-06-27 01:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -14,15 +14,13 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 🇧🇩 103.234.27.221:1080 94ms BD [BTS Communications (BD) Ltd]
 🇮🇩 103.174.178.138:1080 51ms ID [PT Gasatek Bintang Nusantara]
 🇧🇷 187.63.9.62:63253 416ms BR [Gigalink de Nova Friburgo Soluções em Rede Multimi]
-🇧🇬 31.211.142.115:8192 367ms BG [5KOM]
-🇷🇺 212.33.248.45:1080 363ms RU [JSC "ER-Telecom Holding"]
+🇧🇬 31.211.142.115:8192 345ms BG [5KOM]
 🇨🇦 184.95.220.42:1080 600ms CA [Fibrenoire Inc.]
-🇷🇺 31.25.24.67:1080 737ms RU [LLC Cifrovie Seti Urala]
-🇩🇪 207.154.230.54:38660 725ms DE [DigitalOcean, LLC]
+🇩🇪 207.154.230.54:38660 450ms DE [DigitalOcean, LLC]
 🇨🇦 134.122.43.203:56442 602ms CA [DigitalOcean, LLC]
 🇸🇬 138.199.25.13:3909 288ms SG [DataCamp Limited]
-🇨🇳 117.74.65.207:5441 783ms CN [CNC Group CHINA169 Hebei Province Network]
-🇹🇷 185.87.121.35:8975 756ms TR [Ideal Hosting Teknoloji]
+🇨🇳 117.74.65.207:5441 785ms CN [CNC Group CHINA169 Hebei Province Network]
+🇹🇷 185.87.121.35:8975 657ms TR [Ideal Hosting Teknoloji]
 🇬🇧 81.143.236.200:443 645ms GB [BT Public Internet Service]
 🇹🇷 185.86.5.162:8975 469ms TR [Ideal Hosting Teknoloji]
 🇫🇷 51.83.190.248:19050 477ms FR [OVH SAS]
