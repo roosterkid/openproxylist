@@ -1,4 +1,4 @@
-HTTP(S) Proxy list updated at 2025-07-01 13:00:01 GMT+7
+HTTP(S) Proxy list updated at 2025-07-01 14:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -10,26 +10,30 @@ https://buymeacoffee.com/roosterkid
 
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇨🇦 67.43.228.250:14395 464ms CA [GloboTech Communications]
-🇨🇦 72.10.164.178:3001 352ms CA [GloboTech Communications]
+🇨🇦 67.43.228.250:14395 233ms CA [GloboTech Communications]
+🇨🇦 72.10.164.178:3001 243ms CA [GloboTech Communications]
 🇮🇩 103.39.49.156:3128 88ms ID [PT. Mega Mentari Mandiri]
 🇨🇦 67.43.228.252:10693 279ms CA [GloboTech Communications]
-🇨🇦 72.10.160.90:19101 270ms CA [GloboTech Communications]
 🇮🇩 103.152.93.156:8080 170ms ID [PT. JAYA LINTAS INDONESIA]
 🇨🇦 67.43.228.253:3767 291ms CA [GloboTech Communications]
 🇮🇩 203.174.15.83:8080 53ms ID [PT Orion Cyber Internet]
+🇮🇩 103.165.234.46:8080 483ms ID [PT iForte Global Internet]
 🇺🇦 91.200.163.190:3128 416ms UA [MAGEAL]
 🇨🇦 51.79.71.106:8080 237ms CA [OVH SAS]
 🇮🇩 103.172.70.237:8080 360ms ID [AZNET]
 🇺🇸 104.129.194.43:10336 115ms US [ZSCALER, INC.]
-🇮🇩 182.253.109.17:8080 41ms ID [Biznet Metronet]
+🇮🇩 103.137.111.231:8086 209ms ID [PT. Capoeng Digital Nusantara]
+🇮🇩 182.253.109.17:8080 173ms ID [Biznet Metronet]
 🇪🇬 62.193.108.135:1981 469ms EG [Etisalat]
-🇺🇸 165.139.202.86:8080 176ms US [Education Networks of America]
-🇸🇬 8.219.97.248:80 127ms SG [Alibaba (US) Technology Co., Ltd.]
+🇺🇸 165.139.202.86:8080 239ms US [Education Networks of America]
+🇸🇬 8.219.97.248:80 415ms SG [Alibaba (US) Technology Co., Ltd.]
 🇪🇸 77.225.198.220:9812 436ms ES [Comunitel Global]
-🇯🇵 74.82.50.155:3128 38ms JP [Hurricane Electric]
+🇯🇵 74.82.50.155:3128 39ms JP [Hurricane Electric]
+🇮🇩 103.156.17.123:8181 233ms ID [RSTNET]
 🇵🇭 161.49.116.131:1337 397ms PH [Converge ICT Solution Inc]
+🇹🇭 203.150.128.210:8080 772ms TH [Internet Thailand Company Ltd]
 🇧🇷 201.89.97.222:8080 239ms BR [Brasil Telecom S/A - Filial Distrito Federal]
+🇧🇾 213.184.242.144:8080 749ms BY [Parallelny mir Ltd.]
 🇵🇭 122.3.41.154:8090 112ms PH [Philippine Long Distance Telephone Co.]
 🇲🇽 187.188.169.169:8080 694ms MX [Total Play Telecomunicaciones SA De CV]
 🇨🇴 181.129.183.19:53281 448ms CO [EPM Telecomunicaciones S.A. E.S.P.]
