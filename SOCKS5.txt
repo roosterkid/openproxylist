@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2025-07-02 07:00:01 GMT+7
+SOCKS5 Proxy list updated at 2025-07-02 08:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -12,21 +12,22 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
 🇷🇺 87.117.11.57:1080 563ms RU [Macroregional South]
 🇧🇩 103.234.27.221:1080 195ms BD [BTS Communications (BD) Ltd]
-🇧🇷 187.63.9.62:63253 515ms BR [Gigalink de Nova Friburgo Soluções em Rede Multimi]
-🇧🇬 31.211.142.115:8192 367ms BG [5KOM]
-🇷🇺 85.143.254.38:1080 369ms RU [Comfortel Ltd.]
+🇧🇷 187.63.9.62:63253 742ms BR [Gigalink de Nova Friburgo Soluções em Rede Multimi]
+🇧🇬 31.211.142.115:8192 349ms BG [5KOM]
+🇷🇺 85.143.254.38:1080 548ms RU [Comfortel Ltd.]
 🇨🇦 184.95.220.42:1080 277ms CA [Fibrenoire Inc.]
 🇩🇪 207.154.230.54:38660 775ms DE [DigitalOcean, LLC]
-🇨🇦 134.122.43.203:56442 468ms CA [DigitalOcean, LLC]
+🇨🇦 134.122.43.203:56442 714ms CA [DigitalOcean, LLC]
 🇺🇦 185.151.86.86:3699 365ms UA [Omega Telecom]
-🇿🇦 102.36.127.53:1080 428ms ZA [Clear Access (Pty) Ltd]
+🇿🇦 102.36.127.53:1080 395ms ZA [Clear Access (Pty) Ltd]
 🇸🇬 138.199.25.13:3909 243ms SG [DataCamp Limited]
 🇺🇦 195.39.233.14:44567 418ms UA [Active Operations LLC]
-🇨🇳 117.74.65.207:5441 788ms CN [CNC Group CHINA169 Hebei Province Network]
-🇻🇳 113.176.118.150:1080 309ms VN [VNPT]
+🇨🇳 117.74.65.207:5441 789ms CN [CNC Group CHINA169 Hebei Province Network]
+🇨🇦 184.95.235.194:1080 275ms CA [Fibrenoire Inc]
+🇻🇳 113.176.118.150:1080 303ms VN [VNPT]
 🇺🇦 176.37.21.46:5678 332ms UA [Lanet Network]
-🇹🇷 185.87.121.35:8975 493ms TR [Ideal Hosting Teknoloji]
-🇹🇷 185.87.121.5:8975 307ms TR [Ideal Hosting Teknoloji A.S.]
-🇹🇷 185.86.5.162:8975 431ms TR [Ideal Hosting Teknoloji]
+🇹🇷 185.87.121.5:8975 444ms TR [Ideal Hosting Teknoloji A.S.]
+🇹🇷 185.86.5.162:8975 532ms TR [Ideal Hosting Teknoloji]
+🇬🇧 188.241.45.142:2021 346ms GB [Talk Straight Ltd.]
 🇫🇷 51.83.190.248:19050 519ms FR [OVH SAS]
 🇻🇳 113.160.188.21:1080 547ms VN [VietNam Post and Telecom Corporation]
