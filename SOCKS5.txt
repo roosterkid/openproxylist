@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2025-07-06 00:00:01 GMT+7
+SOCKS5 Proxy list updated at 2025-07-06 01:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -12,20 +12,20 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
 🇩🇪 161.97.129.202:9060 511ms DE [Contabo GmbH]
 🇧🇩 103.234.27.221:1080 101ms BD [BTS Communications (BD) Ltd]
-🇮🇩 103.174.178.138:1080 186ms ID [PT Gasatek Bintang Nusantara]
+🇮🇩 103.174.178.138:1080 798ms ID [PT Gasatek Bintang Nusantara]
 🇧🇬 31.211.142.115:8192 627ms BG [5KOM]
-🇷🇺 85.143.254.38:1080 583ms RU [Comfortel Ltd.]
+🇷🇺 85.143.254.38:1080 655ms RU [Comfortel Ltd.]
 🇩🇪 207.154.230.54:38660 501ms DE [DigitalOcean, LLC]
 🇿🇦 102.36.127.53:1080 771ms ZA [Clear Access (Pty) Ltd]
-🇸🇬 138.199.25.13:3909 254ms SG [DataCamp Limited]
+🇸🇬 138.199.25.13:3909 192ms SG [DataCamp Limited]
 🇷🇺 185.54.178.193:1080 642ms RU [Irkutskenergosvyaz LTD]
-🇰🇷 150.230.249.42:46818 485ms KR [Oracle Corporation]
-🇨🇳 117.74.65.207:5441 633ms CN [CNC Group CHINA169 Hebei Province Network]
-🇫🇷 37.44.238.2:63617 537ms FR [Harmony Hosting SARL]
-🇨🇦 184.95.235.194:1080 299ms CA [Fibrenoire Inc]
+🇰🇷 150.230.249.42:46818 280ms KR [Oracle Corporation]
+🇨🇳 117.74.65.207:5441 720ms CN [CNC Group CHINA169 Hebei Province Network]
+🇫🇷 37.44.238.2:63617 779ms FR [Harmony Hosting SARL]
+🇨🇦 184.95.235.194:1080 322ms CA [Fibrenoire Inc]
+🇺🇦 91.200.115.49:1080 317ms UA [Joint Ukrainian American Enterprise "Telecommunications Resource Center" ltd]
 🇻🇳 113.176.118.150:1080 372ms VN [VNPT]
-🇹🇷 185.87.121.35:8975 440ms TR [Ideal Hosting Teknoloji]
+🇹🇷 185.87.121.35:8975 362ms TR [Ideal Hosting Teknoloji]
 🇬🇧 81.143.236.200:443 399ms GB [BT Public Internet Service]
 🇹🇷 185.87.121.5:8975 345ms TR [Ideal Hosting Teknoloji A.S.]
-🇹🇷 185.86.5.162:8975 399ms TR [Ideal Hosting Teknoloji]
-🇫🇷 51.83.190.248:19050 585ms FR [OVH SAS]
+🇹🇷 185.86.5.162:8975 412ms TR [Ideal Hosting Teknoloji]
