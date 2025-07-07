@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2025-07-08 04:00:01 GMT+7
+SOCKS5 Proxy list updated at 2025-07-08 05:00:02 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -10,23 +10,25 @@ https://buymeacoffee.com/roosterkid
 
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇷🇺 87.117.11.57:1080 501ms RU [Macroregional South]
+🇷🇺 87.117.11.57:1080 721ms RU [Macroregional South]
 🇧🇩 103.234.27.221:1080 182ms BD [BTS Communications (BD) Ltd]
-🇮🇩 103.174.178.138:1080 756ms ID [PT Gasatek Bintang Nusantara]
-🇧🇬 31.211.142.115:8192 430ms BG [5KOM]
-🇷🇺 85.143.254.38:1080 302ms RU [Comfortel Ltd.]
+🇮🇩 103.174.178.138:1080 60ms ID [PT Gasatek Bintang Nusantara]
+🇧🇷 187.63.9.62:63253 506ms BR [Gigalink de Nova Friburgo Soluções em Rede Multimi]
+🇧🇬 31.211.142.115:8192 325ms BG [5KOM]
+🇷🇺 85.143.254.38:1080 289ms RU [Comfortel Ltd.]
 🇿🇦 102.36.127.53:1080 573ms ZA [Clear Access (Pty) Ltd]
-🇸🇬 138.199.25.13:3909 614ms SG [DataCamp Limited]
+🇸🇬 138.199.25.13:3909 47ms SG [DataCamp Limited]
 🇺🇦 195.39.233.14:44567 438ms UA [Active Operations LLC]
-🇨🇳 117.74.65.207:5441 785ms CN [CNC Group CHINA169 Hebei Province Network]
+🇨🇳 117.74.65.207:5441 520ms CN [CNC Group CHINA169 Hebei Province Network]
 🇷🇺 89.19.177.197:1080 335ms RU [OJSC Comcor]
-🇫🇷 37.44.238.2:63617 653ms FR [Harmony Hosting SARL]
+🇫🇷 37.44.238.2:63617 727ms FR [Harmony Hosting SARL]
 🇨🇦 184.95.235.194:1080 299ms CA [Fibrenoire Inc]
-🇷🇺 46.241.57.29:1080 494ms RU [ZSTTK]
+🇷🇺 46.241.57.29:1080 434ms RU [ZSTTK]
+🇸🇬 167.71.220.29:7497 8ms SG [DigitalOcean, LLC]
 🇺🇦 91.200.115.49:1080 623ms UA [Joint Ukrainian American Enterprise "Telecommunications Resource Center" ltd]
-🇻🇳 113.176.118.150:1080 373ms VN [VNPT]
+🇻🇳 113.176.118.150:1080 769ms VN [VNPT]
 🇹🇷 185.87.121.35:8975 398ms TR [Ideal Hosting Teknoloji]
 🇬🇧 81.143.236.200:443 547ms GB [BT Public Internet Service]
 🇹🇷 185.87.121.5:8975 402ms TR [Ideal Hosting Teknoloji A.S.]
-🇹🇷 185.86.5.162:8975 514ms TR [Ideal Hosting Teknoloji]
-🇫🇷 51.83.190.248:19050 504ms FR [OVH SAS]
+🇹🇷 185.86.5.162:8975 433ms TR [Ideal Hosting Teknoloji]
+🇫🇷 51.83.190.248:19050 658ms FR [OVH SAS]
