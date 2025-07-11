@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2025-07-11 10:00:01 GMT+7
+SOCKS5 Proxy list updated at 2025-07-11 11:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -10,26 +10,23 @@ https://buymeacoffee.com/roosterkid
 
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇷🇺 87.117.11.57:1080 682ms RU [Macroregional South]
+🇷🇺 87.117.11.57:1080 502ms RU [Macroregional South]
 🇧🇩 103.234.27.221:1080 89ms BD [BTS Communications (BD) Ltd]
-🇮🇩 103.174.178.138:1080 157ms ID [PT Gasatek Bintang Nusantara]
-🇧🇷 187.63.9.62:63253 408ms BR [Gigalink de Nova Friburgo Soluções em Rede Multimi]
+🇮🇩 103.174.178.138:1080 767ms ID [PT Gasatek Bintang Nusantara]
+🇧🇷 187.63.9.62:63253 607ms BR [Gigalink de Nova Friburgo Soluções em Rede Multimi]
 🇧🇬 31.211.142.115:8192 355ms BG [5KOM]
-🇨🇦 184.95.220.42:1080 659ms CA [Fibrenoire Inc.]
-🇩🇪 207.154.230.54:38660 514ms DE [DigitalOcean, LLC]
 🇿🇦 102.36.127.53:1080 463ms ZA [Clear Access (Pty) Ltd]
 🇸🇬 138.199.25.13:3909 429ms SG [DataCamp Limited]
 🇷🇺 185.54.178.193:1080 544ms RU [Irkutskenergosvyaz LTD]
 🇰🇷 150.230.249.42:46818 513ms KR [Oracle Corporation]
-🇨🇳 117.74.65.207:5441 529ms CN [CNC Group CHINA169 Hebei Province Network]
-🇷🇺 89.19.177.197:1080 318ms RU [OJSC Comcor]
-🇫🇷 37.44.238.2:63617 486ms FR [Harmony Hosting SARL]
+🇨🇳 117.74.65.207:5441 698ms CN [CNC Group CHINA169 Hebei Province Network]
+🇷🇺 89.19.177.197:1080 314ms RU [OJSC Comcor]
 🇨🇦 184.95.235.194:1080 712ms CA [Fibrenoire Inc]
-🇺🇦 91.200.115.49:1080 248ms UA [Joint Ukrainian American Enterprise "Telecommunications Resource Center" ltd]
+🇺🇦 91.200.115.49:1080 264ms UA [Joint Ukrainian American Enterprise "Telecommunications Resource Center" ltd]
 🇻🇳 113.176.118.150:1080 785ms VN [VNPT]
 🇹🇷 185.87.121.35:8975 462ms TR [Ideal Hosting Teknoloji]
-🇬🇧 81.143.236.200:443 588ms GB [BT Public Internet Service]
 🇹🇷 185.87.121.5:8975 417ms TR [Ideal Hosting Teknoloji A.S.]
+🇹🇷 185.86.5.162:8975 413ms TR [Ideal Hosting Teknoloji]
 🇺🇸 193.29.62.48:50132 320ms US [HostHatch]
-🇫🇷 51.83.190.248:19050 772ms FR [OVH SAS]
-🇻🇳 113.160.188.21:1080 401ms VN [VietNam Post and Telecom Corporation]
+🇫🇷 51.83.190.248:19050 396ms FR [OVH SAS]
+🇻🇳 113.160.188.21:1080 102ms VN [VietNam Post and Telecom Corporation]
