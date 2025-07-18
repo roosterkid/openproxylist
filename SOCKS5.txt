@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2025-07-18 16:00:02 GMT+7
+SOCKS5 Proxy list updated at 2025-07-18 17:00:02 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -15,12 +15,13 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 🇿🇦 102.36.127.53:1080 569ms ZA [Clear Access (Pty) Ltd]
 🇸🇬 138.199.25.13:3909 349ms SG [DataCamp Limited]
 🇷🇺 194.190.169.197:3701 494ms RU [Webmaster Agency Ltd]
-🇨🇳 117.74.65.207:5441 521ms CN [CNC Group CHINA169 Hebei Province Network]
+🇨🇳 117.74.65.207:5441 525ms CN [CNC Group CHINA169 Hebei Province Network]
 🇫🇷 37.44.238.2:63617 467ms FR [Harmony Hosting SARL]
 🇨🇦 184.95.235.194:1080 323ms CA [Fibrenoire Inc]
-🇭🇰 47.243.75.202:58853 91ms HK [Alibaba (US) Technology Co., Ltd.]
-🇹🇷 185.87.121.5:8975 425ms TR [Ideal Hosting Teknoloji A.S.]
+🇭🇰 47.243.75.202:58853 61ms HK [Alibaba (US) Technology Co., Ltd.]
+🇹🇷 185.87.121.35:8975 435ms TR [Ideal Hosting Teknoloji]
+🇹🇷 185.87.121.5:8975 361ms TR [Ideal Hosting Teknoloji A.S.]
 🇹🇷 185.86.5.162:8975 406ms TR [Ideal Hosting Teknoloji]
-🇮🇩 202.6.233.59:7878 124ms ID [PT Padi Internet]
+🇮🇩 202.6.233.59:7878 27ms ID [PT Padi Internet]
 🇫🇷 51.83.190.248:19050 483ms FR [OVH SAS]
-🇻🇳 113.160.188.21:1080 93ms VN [VietNam Post and Telecom Corporation]
+🇻🇳 113.160.188.21:1080 386ms VN [VietNam Post and Telecom Corporation]
