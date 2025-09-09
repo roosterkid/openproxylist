@@ -1,4 +1,4 @@
-HTTP(S) Proxy list updated at 2025-09-09 16:00:01 GMT+7
+HTTP(S) Proxy list updated at 2025-09-09 17:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -10,26 +10,24 @@ https://buymeacoffee.com/roosterkid
 
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
+🇨🇦 67.43.228.250:14395 250ms CA [GloboTech Communications]
 🇨🇦 72.10.164.178:3001 325ms CA [GloboTech Communications]
 🇹🇭 1.0.171.213:8080 262ms TH [TOT Public Company Limited]
 🇮🇩 192.145.228.226:8082 275ms ID [PT Mandala Lintas Nusa]
-🇮🇩 203.174.15.138:8080 362ms ID [PT Orion Cyber Internet]
+🇮🇩 203.174.15.83:8080 489ms ID [PT Orion Cyber Internet]
 🇮🇩 103.157.79.83:1111 239ms ID [EASTMEDIA]
 🇮🇩 103.36.11.21:8080 464ms ID [PT Awinet Global Mandiri]
-🇮🇩 103.75.52.193:8989 399ms ID [PT Quantum Tera Network]
-🇨🇦 51.79.71.106:8080 168ms CA [OVH SAS]
 🇮🇩 103.176.96.178:8080 180ms ID [PT Global Sarana Elektronika]
 🇮🇩 103.165.128.171:8080 141ms ID [PT iForte Global Internet]
-🇺🇸 104.129.194.44:10336 121ms US [ZSCALER, INC.]
-🇺🇸 104.129.194.43:10336 124ms US [ZSCALER, INC.]
+🇺🇸 104.129.194.44:10336 124ms US [ZSCALER, INC.]
+🇺🇸 104.129.194.43:10336 118ms US [ZSCALER, INC.]
 🇧🇩 180.211.179.126:8080 319ms BD [Bangladesh Telegraph & Telephone Board]
+🇸🇬 138.2.64.185:8118 34ms SG [Oracle Corporation]
 🇮🇩 103.120.175.243:9191 463ms ID [PT. Eka Mas Republik]
-🇸🇬 8.219.97.248:80 148ms SG [Alibaba (US) Technology Co., Ltd.]
+🇸🇬 8.219.97.248:80 213ms SG [Alibaba (US) Technology Co., Ltd.]
 🇯🇵 74.82.50.155:3128 41ms JP [Hurricane Electric]
-🇹🇭 203.150.128.210:8080 182ms TH [Internet Thailand Company Ltd]
 🇧🇷 201.89.97.222:8080 410ms BR [Brasil Telecom S/A - Filial Distrito Federal]
 🇮🇳 103.139.242.181:83 351ms IN [Spectram Telecom Pvt.Ltd]
-🇺🇸 70.186.128.126:8080 207ms US [Cox Communications Inc.]
-🇦🇫 180.94.86.252:8080 161ms AF [Government Communications Network]
+🇮🇳 45.127.56.194:84 452ms IN [Tri-Networks]
 🇿🇲 41.223.119.156:3128 251ms ZM [MTN Zambia]
 🇱🇦 103.137.91.250:8080 439ms LA [SLT Network Co., LTD]
