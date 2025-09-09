@@ -1,4 +1,4 @@
-HTTP(S) Proxy list updated at 2025-09-09 19:00:01 GMT+7
+HTTP(S) Proxy list updated at 2025-09-09 20:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -11,26 +11,27 @@ https://buymeacoffee.com/roosterkid
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
 🇨🇦 67.43.228.250:14395 250ms CA [GloboTech Communications]
-🇹🇭 1.0.171.213:8080 262ms TH [TOT Public Company Limited]
+🇨🇦 72.10.160.170:10919 238ms CA [GloboTech Communications]
+🇺🇸 74.62.179.122:8080 309ms US [Charter Communications Inc]
 🇺🇸 199.48.129.114:3120 162ms US [NetActuate, Inc]
+🇨🇦 72.10.160.90:19101 450ms CA [GloboTech Communications]
 🇮🇩 203.174.15.83:8080 489ms ID [PT Orion Cyber Internet]
 🇫🇷 195.25.20.155:3128 287ms FR [Orange Business Services]
 🇮🇩 223.25.100.42:2222 381ms ID [PT Indonesia Comnets Plus]
 🇮🇩 103.156.74.184:8080 486ms ID [PT Trika Global Media]
-🇮🇩 103.176.96.178:8080 180ms ID [PT Global Sarana Elektronika]
 🇮🇩 103.144.181.74:3000 390ms ID [PT. Indonesia Comnets Plus]
 🇮🇩 103.165.128.171:8080 141ms ID [PT iForte Global Internet]
-🇺🇸 104.129.194.44:10336 337ms US [ZSCALER, INC.]
-🇺🇸 104.129.194.43:10336 388ms US [ZSCALER, INC.]
+🇺🇸 104.129.194.44:10336 120ms US [ZSCALER, INC.]
+🇺🇸 104.129.194.43:10336 124ms US [ZSCALER, INC.]
 🇮🇩 139.255.67.52:3888 364ms ID [PT. LINKNET]
+🇮🇩 103.105.76.65:8080 481ms ID [GARUDA]
 🇸🇬 138.2.64.185:8118 34ms SG [Oracle Corporation]
 🇮🇩 58.147.186.214:3125 465ms ID [PT. Transhybrid Communication]
 🇸🇬 8.219.97.248:80 426ms SG [Alibaba (US) Technology Co., Ltd.]
-🇯🇵 74.82.50.155:3128 41ms JP [Hurricane Electric]
+🇯🇵 74.82.50.155:3128 39ms JP [Hurricane Electric]
 🇵🇭 161.49.116.131:1337 73ms PH [Converge ICT Solution Inc]
-🇧🇷 201.89.97.222:8080 410ms BR [Brasil Telecom S/A - Filial Distrito Federal]
 🇮🇳 45.127.56.194:84 452ms IN [Tri-Networks]
-🇵🇭 122.3.41.154:8090 458ms PH [Philippine Long Distance Telephone Co.]
+🇵🇭 122.3.41.154:8090 130ms PH [Philippine Long Distance Telephone Co.]
 🇮🇩 103.156.17.35:8181 322ms ID [PT Smart Teknologi Utama]
 🇿🇲 41.223.119.156:3128 251ms ZM [MTN Zambia]
 🇱🇦 103.137.91.250:8080 439ms LA [SLT Network Co., LTD]
