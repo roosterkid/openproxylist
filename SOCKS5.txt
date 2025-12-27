@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2025-12-28 00:00:02 GMT+7
+SOCKS5 Proxy list updated at 2025-12-28 01:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -10,22 +10,21 @@ https://buymeacoffee.com/roosterkid
 
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇷🇺 87.117.11.57:1080 454ms RU [Macroregional South]
-🇮🇩 103.174.178.138:1080 364ms ID [PT Gasatek Bintang Nusantara]
+🇷🇺 87.117.11.57:1080 654ms RU [Macroregional South]
+🇮🇩 103.174.178.138:1080 70ms ID [PT Gasatek Bintang Nusantara]
 🇧🇷 187.63.9.62:63253 628ms BR [Gigalink de Nova Friburgo Soluções em Rede Multimi]
 🇧🇬 31.211.142.115:8192 455ms BG [5KOM]
-🇨🇦 184.95.220.42:1080 300ms CA [Fibrenoire Inc.]
+🇨🇦 184.95.220.42:1080 578ms CA [Fibrenoire Inc.]
 🇵🇸 93.184.4.254:1080 764ms PS [BCI Telecommunication & Advanced Technology Company]
 🇺🇦 185.151.86.121:3699 660ms UA [Omega Telecom]
 🇿🇦 102.36.127.53:1080 649ms ZA [Clear Access (Pty) Ltd]
-🇸🇬 138.199.25.13:3909 612ms SG [DataCamp Limited]
-🇨🇳 117.74.65.207:5441 761ms CN [CNC Group CHINA169 Hebei Province Network]
-🇫🇷 37.44.238.2:63617 664ms FR [Harmony Hosting SARL]
+🇸🇬 138.199.25.13:3909 25ms SG [DataCamp Limited]
+🇨🇳 117.74.65.207:5441 456ms CN [CNC Group CHINA169 Hebei Province Network]
 🇨🇦 184.95.235.194:1080 502ms CA [Fibrenoire Inc]
 🇸🇬 167.71.220.29:7497 24ms SG [DigitalOcean, LLC]
-🇺🇦 91.200.115.49:1080 320ms UA [Joint Ukrainian American Enterprise "Telecommunications Resource Center" ltd]
+🇺🇦 91.200.115.49:1080 421ms UA [Joint Ukrainian American Enterprise "Telecommunications Resource Center" ltd]
 🇻🇳 113.176.118.150:1080 107ms VN [VNPT]
-🇹🇷 185.87.121.35:8975 519ms TR [Ideal Hosting Teknoloji]
-🇹🇷 185.87.121.5:8975 434ms TR [Ideal Hosting Teknoloji A.S.]
-🇹🇷 185.86.5.162:8975 409ms TR [Ideal Hosting Teknoloji]
-🇷🇺 176.117.237.132:1080 400ms RU [CJSC "ER-Telecom Holding" Irkutsk branch]
+🇹🇷 185.87.121.35:8975 428ms TR [Ideal Hosting Teknoloji]
+🇹🇷 185.87.121.5:8975 484ms TR [Ideal Hosting Teknoloji A.S.]
+🇷🇺 176.117.237.132:1080 497ms RU [CJSC "ER-Telecom Holding" Irkutsk branch]
+🇻🇳 113.160.188.21:1080 399ms VN [VietNam Post and Telecom Corporation]
