@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2026-01-08 16:00:02 GMT+7
+SOCKS5 Proxy list updated at 2026-01-08 17:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -10,11 +10,10 @@ https://buymeacoffee.com/roosterkid
 
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇷🇺 87.117.11.57:1080 630ms RU [Macroregional South]
 🇷🇺 212.33.248.45:1080 399ms RU [JSC "ER-Telecom Holding"]
-🇵🇸 93.184.4.254:1080 405ms PS [BCI Telecommunication & Advanced Technology Company]
-🇿🇦 102.36.127.53:1080 619ms ZA [Clear Access (Pty) Ltd]
-🇸🇬 138.199.25.13:3909 267ms SG [DataCamp Limited]
+🇵🇸 93.184.4.254:1080 542ms PS [BCI Telecommunication & Advanced Technology Company]
+🇸🇬 138.199.25.13:3909 49ms SG [DataCamp Limited]
+🇷🇺 185.54.178.193:1080 751ms RU [Irkutskenergosvyaz LTD]
 🇫🇷 37.44.238.2:63617 770ms FR [Harmony Hosting SARL]
 🇨🇦 184.95.235.194:1080 463ms CA [Fibrenoire Inc]
 🇷🇺 46.0.205.4:1080 606ms RU [JSC "ER-Telecom Holding"]
@@ -24,5 +23,5 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 🇹🇷 185.87.121.35:8975 720ms TR [Ideal Hosting Teknoloji]
 🇬🇧 81.143.236.200:443 773ms GB [BT Public Internet Service]
 🇹🇷 185.87.121.5:8975 674ms TR [Ideal Hosting Teknoloji A.S.]
-🇹🇷 185.86.5.162:8975 697ms TR [Ideal Hosting Teknoloji]
+🇹🇷 185.86.5.162:8975 624ms TR [Ideal Hosting Teknoloji]
 🇮🇩 202.6.233.59:7878 389ms ID [PT Padi Internet]
