@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2026-01-17 18:00:01 GMT+7
+SOCKS5 Proxy list updated at 2026-01-17 19:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -10,16 +10,17 @@ https://buymeacoffee.com/roosterkid
 
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇷🇺 87.117.11.57:1080 382ms RU [Macroregional South]
-🇧🇷 187.63.9.62:63253 511ms BR [Gigalink de Nova Friburgo Soluções em Rede Multimi]
+🇷🇺 87.117.11.57:1080 409ms RU [Macroregional South]
+🇧🇷 187.63.9.62:63253 562ms BR [Gigalink de Nova Friburgo Soluções em Rede Multimi]
 🇧🇬 31.211.142.115:8192 381ms BG [5KOM]
 🇨🇦 184.95.220.42:1080 620ms CA [Fibrenoire Inc.]
-🇵🇸 93.184.4.254:1080 394ms PS [BCI Telecommunication & Advanced Technology Company]
+🇵🇸 93.184.4.254:1080 674ms PS [BCI Telecommunication & Advanced Technology Company]
 🇿🇦 102.36.127.53:1080 770ms ZA [Clear Access (Pty) Ltd]
-🇸🇬 138.199.25.13:3909 167ms SG [DataCamp Limited]
+🇸🇬 138.199.25.13:3909 419ms SG [DataCamp Limited]
 🇺🇦 195.39.233.14:44567 501ms UA [Active Operations LLC]
-🇨🇦 184.95.235.194:1080 660ms CA [Fibrenoire Inc]
-🇷🇺 46.241.57.29:1080 536ms RU [ZSTTK]
+🇨🇦 184.95.235.194:1080 366ms CA [Fibrenoire Inc]
+🇷🇺 46.241.57.29:1080 583ms RU [ZSTTK]
+🇸🇬 167.71.220.29:7497 36ms SG [DigitalOcean, LLC]
 🇺🇦 91.200.115.49:1080 345ms UA [Joint Ukrainian American Enterprise "Telecommunications Resource Center" ltd]
 🇻🇳 113.176.118.150:1080 203ms VN [VNPT]
 🇮🇩 202.6.233.59:7878 787ms ID [PT Padi Internet]
