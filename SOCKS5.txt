@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2026-01-29 23:00:01 GMT+7
+SOCKS5 Proxy list updated at 2026-01-30 00:00:02 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -12,14 +12,18 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
 🇷🇺 87.117.11.57:1080 420ms RU [Macroregional South]
 🇷🇺 212.33.248.45:1080 359ms RU [JSC "ER-Telecom Holding"]
+🇵🇸 93.184.8.22:1080 654ms PS [BNET network]
 🇿🇦 102.36.127.53:1080 370ms ZA [Clear Access (Pty) Ltd]
-🇸🇬 138.199.25.13:3909 344ms SG [DataCamp Limited]
+🇸🇬 138.199.25.13:3909 278ms SG [DataCamp Limited]
 🇺🇦 195.39.233.14:44567 478ms UA [Active Operations LLC]
 🇷🇺 185.54.178.193:1080 476ms RU [Irkutskenergosvyaz LTD]
-🇫🇷 37.44.238.2:63617 659ms FR [Harmony Hosting SARL]
+🇫🇷 37.44.238.2:63617 708ms FR [Harmony Hosting SARL]
+🇨🇦 184.95.235.194:1080 341ms CA [Fibrenoire Inc]
 🇷🇺 46.241.57.29:1080 402ms RU [ZSTTK]
 🇻🇳 113.176.118.150:1080 222ms VN [VNPT]
+🇺🇦 176.37.21.46:5678 392ms UA [Lanet Network]
 🇹🇷 185.87.121.35:8975 325ms TR [Ideal Hosting Teknoloji]
+🇬🇧 81.143.236.200:443 333ms GB [BT Public Internet Service]
 🇹🇷 185.87.121.5:8975 321ms TR [Ideal Hosting Teknoloji A.S.]
-🇹🇷 185.86.5.162:8975 308ms TR [Ideal Hosting Teknoloji]
+🇹🇷 185.86.5.162:8975 369ms TR [Ideal Hosting Teknoloji]
 🇻🇳 113.160.188.21:1080 119ms VN [VietNam Post and Telecom Corporation]
