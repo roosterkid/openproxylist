@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2026-03-26 21:00:01 GMT+7
+SOCKS5 Proxy list updated at 2026-03-26 22:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -10,17 +10,20 @@ https://buymeacoffee.com/roosterkid
 
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
+🇷🇺 87.117.11.57:1080 511ms RU [Macroregional South]
 🇧🇷 187.63.9.62:63253 402ms BR [Gigalink de Nova Friburgo Soluções em Rede Multimi]
 🇧🇬 31.211.142.115:8192 446ms BG [5KOM]
 🇨🇦 184.95.220.42:1080 486ms CA [Fibrenoire Inc.]
-🇸🇬 138.199.25.13:3909 88ms SG [DataCamp Limited]
-🇷🇺 185.54.178.193:1080 691ms RU [Irkutskenergosvyaz LTD]
+🇿🇦 102.36.127.53:1080 328ms ZA [Clear Access (Pty) Ltd]
+🇸🇬 138.199.25.13:3909 118ms SG [DataCamp Limited]
+🇯🇵 132.226.7.23:30277 646ms JP [Oracle Corporation]
 🇨🇦 184.95.235.194:1080 490ms CA [Fibrenoire Inc]
 🇷🇺 46.0.205.4:1080 257ms RU [JSC "ER-Telecom Holding"]
 🇭🇰 47.243.75.202:58853 689ms HK [Alibaba (US) Technology Co., Ltd.]
 🇷🇺 46.241.57.29:1080 272ms RU [ZSTTK]
-🇻🇳 113.176.118.150:1080 221ms VN [VNPT]
+🇻🇳 113.176.118.150:1080 119ms VN [VNPT]
 🇹🇷 185.87.121.35:8975 212ms TR [Ideal Hosting Teknoloji]
 🇬🇧 81.143.236.200:443 612ms GB [BT Public Internet Service]
-🇹🇷 185.86.5.162:8975 261ms TR [Ideal Hosting Teknoloji]
+🇹🇷 185.87.121.5:8975 223ms TR [Ideal Hosting Teknoloji A.S.]
+🇹🇷 185.86.5.162:8975 260ms TR [Ideal Hosting Teknoloji]
 🇻🇳 113.160.188.21:1080 155ms VN [VietNam Post and Telecom Corporation]
