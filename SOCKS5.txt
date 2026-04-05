@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2026-04-05 22:00:01 GMT+7
+SOCKS5 Proxy list updated at 2026-04-05 23:00:02 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -12,8 +12,9 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
 🇷🇺 87.117.11.57:1080 515ms RU [Macroregional South]
 🇧🇷 187.63.9.62:63253 362ms BR [Gigalink de Nova Friburgo Soluções em Rede Multimi]
-🇸🇬 138.199.25.13:3909 527ms SG [DataCamp Limited]
-🇨🇦 184.95.235.194:1080 289ms CA [Fibrenoire Inc]
-🇭🇰 47.243.75.202:58853 76ms HK [Alibaba (US) Technology Co., Ltd.]
+🇨🇦 184.95.220.42:1080 481ms CA [Fibrenoire Inc.]
+🇸🇬 138.199.25.13:3909 257ms SG [DataCamp Limited]
+🇭🇰 47.243.75.202:58853 208ms HK [Alibaba (US) Technology Co., Ltd.]
 🇬🇧 81.143.236.200:443 517ms GB [BT Public Internet Service]
+🇮🇩 202.6.233.59:7878 116ms ID [PT Padi Internet]
 🇻🇳 113.160.188.21:1080 206ms VN [VietNam Post and Telecom Corporation]
