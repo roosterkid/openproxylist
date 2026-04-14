@@ -1,4 +1,4 @@
-HTTP(S) Proxy list updated at 2026-04-14 19:00:01 GMT+7
+HTTP(S) Proxy list updated at 2026-04-14 20:00:02 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -10,14 +10,20 @@ https://buymeacoffee.com/roosterkid
 
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
+🇮🇩 203.174.15.138:8080 73ms ID [PT Orion Cyber Internet]
+🇮🇩 103.171.157.133:8080 147ms ID [MYREPUBLIC]
+🇰🇪 197.248.86.237:32650 373ms KE [Safaricom Limited]
 🇹🇷 188.132.222.134:8080 427ms TR [High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.]
-🇵🇱 78.11.96.22:8080 156ms PL [Netia SA]
+🇵🇱 78.11.96.22:8080 145ms PL [Netia SA]
 🇸🇬 95.111.194.14:2659 196ms SG [UpCloud Ltd]
 🇺🇦 91.200.163.190:3128 353ms UA [MAGEAL]
 🇮🇳 103.130.70.253:83 397ms IN [Siliguri Meghrekha Net Services Pvt. Ltd]
+🇮🇩 103.125.117.42:8080 88ms ID [PT Baraya Telematika Nusantara]
+🇮🇳 124.108.19.6:9292 487ms IN [Advantus Corporate Infoserv Private Ltd]
 🇨🇭 185.191.236.162:3128 379ms CH [Grupo Panaglobal 15 S.A]
 🇮🇩 103.144.90.72:8080 81ms ID [BEAT]
-🇪🇸 195.57.239.25:8080 165ms ES [TDENET (Red de servicios IP)]
+🇪🇨 177.234.217.238:999 448ms EC [Nedetel S.A.]
+🇪🇸 195.57.239.25:8080 187ms ES [TDENET (Red de servicios IP)]
 🇦🇷 138.121.113.179:8080 354ms AR [Refsa Telecomunicaciones]
 🇺🇸 209.141.62.12:5555 396ms US [FranTech Solutions]
 🇸🇬 8.219.97.248:80 66ms SG [Alibaba (US) Technology Co., Ltd.]
@@ -26,13 +32,12 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 🇨🇴 200.116.198.222:9812 458ms CO [EPM Telecomunicaciones S.A. E.S.P]
 🇯🇵 74.82.50.155:3128 41ms JP [Hurricane Electric]
 🇨🇱 190.54.100.74:8080 365ms CL [Telmex Chile Internet S.A.]
-🇷🇺 82.114.228.67:8080 345ms RU [SCTS]
+🇷🇺 82.114.228.67:8080 159ms RU [SCTS]
 🇮🇩 103.3.58.162:3128 376ms ID [PT. Java Digital Nusantara]
 🇦🇷 190.220.1.173:56974 311ms AR [AMX Argentina S.A.]
+🇨🇱 179.49.237.6:999 497ms CL [Sitelco SPA]
 🇨🇴 190.109.6.115:999 449ms CO [Lazus Medellin]
-🇺🇸 98.154.21.253:3128 462ms US [Charter Communications Inc]
+🇬🇷 94.68.245.147:8080 328ms GR [OTEnet]
 🇺🇦 91.214.31.234:8080 484ms UA [TOV "Telza"]
 🇺🇦 31.131.135.247:8080 458ms UA [NewLine Broadband]
-🇧🇬 77.238.79.111:8080 297ms BG [FIBER1]
-🇹🇭 183.88.219.206:41564 72ms TH [Triple T Internet Company Limited]
-🇵🇰 202.69.38.82:8080 296ms PK [Advertiese Flag]
+🇧🇬 77.238.79.111:8080 292ms BG [FIBER1]
