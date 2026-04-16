@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2026-04-16 18:00:01 GMT+7
+SOCKS5 Proxy list updated at 2026-04-16 19:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -14,17 +14,16 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 🇧🇷 187.63.9.62:63253 504ms BR [Gigalink de Nova Friburgo Soluções em Rede Multimi]
 🇧🇬 31.211.142.115:8192 158ms BG [5KOM]
 🇷🇺 94.73.251.19:1080 220ms RU [Orion Telecom LLC]
-🇷🇺 212.33.248.45:1080 264ms RU [JSC "ER-Telecom Holding"]
+🇷🇺 85.143.254.38:1080 204ms RU [Comfortel Ltd.]
+🇷🇺 212.33.248.45:1080 793ms RU [JSC "ER-Telecom Holding"]
 🇨🇦 184.95.220.42:1080 278ms CA [Fibrenoire Inc.]
-🇵🇸 93.184.4.254:1080 343ms PS [BCI Telecommunication & Advanced Technology Company]
-🇺🇦 185.151.86.86:3699 492ms UA [Omega Telecom]
-🇿🇦 102.36.127.53:1080 315ms ZA [Clear Access (Pty) Ltd]
-🇸🇬 138.199.25.13:3909 104ms SG [DataCamp Limited]
+🇿🇦 102.36.127.53:1080 587ms ZA [Clear Access (Pty) Ltd]
+🇸🇬 138.199.25.13:3909 73ms SG [DataCamp Limited]
 🇺🇦 195.39.233.14:44567 226ms UA [Active Operations LLC]
-🇫🇷 37.44.238.2:63617 696ms FR [Harmony Hosting SARL]
+🇫🇷 37.44.238.2:63617 465ms FR [Harmony Hosting SARL]
 🇯🇵 132.226.7.23:30277 690ms JP [Oracle Corporation]
-🇷🇺 46.241.57.29:1080 260ms RU [ZSTTK]
-🇻🇳 113.176.118.150:1080 415ms VN [VNPT]
-🇺🇸 173.166.191.6:3820 439ms US [Comcast Cable Communications]
+🇷🇺 46.241.57.29:1080 257ms RU [ZSTTK]
+🇻🇳 113.176.118.150:1080 98ms VN [VNPT]
+🇺🇸 173.166.191.6:3820 387ms US [Comcast Cable Communications]
 🇮🇩 202.6.233.59:7878 597ms ID [PT Padi Internet]
 🇻🇳 113.160.188.21:1080 110ms VN [VietNam Post and Telecom Corporation]
