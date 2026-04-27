@@ -1,4 +1,4 @@
-HTTP(S) Proxy list updated at 2026-04-27 13:00:02 GMT+7
+HTTP(S) Proxy list updated at 2026-04-27 14:00:02 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -11,20 +11,18 @@ https://buymeacoffee.com/roosterkid
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
 🇹🇼 220.128.223.136:8082 84ms TW [Chunghwa Telecom Co., Ltd.]
-🇺🇦 91.243.192.17:3128 160ms UA ["Fregat TV" Ltd.]
-🇪🇸 195.57.239.25:8080 228ms ES [TDENET (Red de servicios IP)]
+🇺🇦 91.243.192.17:3128 454ms UA ["Fregat TV" Ltd.]
+🇪🇸 195.57.239.25:8080 273ms ES [TDENET (Red de servicios IP)]
 🇮🇩 203.128.75.194:8080 447ms ID [Neuviz]
 🇮🇳 115.248.66.131:3129 118ms IN [Reliance Communications Limited]
-🇲🇽 45.189.252.193:999 444ms MX [Tracered SA De CV]
-🇸🇬 8.219.97.248:80 316ms SG [Alibaba (US) Technology Co., Ltd.]
-🇮🇳 13.127.170.8:3128 65ms IN [Amazon Technologies Inc.]
-🇯🇵 74.82.50.155:3128 46ms JP [Hurricane Electric]
+🇸🇬 8.219.97.248:80 74ms SG [Alibaba (US) Technology Co., Ltd.]
+🇮🇳 13.127.170.8:3128 208ms IN [Amazon Technologies Inc.]
+🇯🇵 74.82.50.155:3128 40ms JP [Hurricane Electric]
 🇺🇦 134.249.185.223:41890 438ms UA [Kyivstar UA]
 🇮🇩 182.253.6.236:8080 102ms ID [Biznet Networks]
 🇨🇱 190.54.100.74:8080 341ms CL [Telmex Chile Internet S.A.]
 🇷🇺 82.114.228.67:8080 236ms RU [SCTS]
-🇹🇭 96.30.79.84:8080 334ms TH [Symphony Communication Public Company Limited]
-🇨🇱 201.220.112.98:999 444ms CL [Telefonica del Sur S.A.]
+🇹🇭 96.30.79.84:8080 477ms TH [Symphony Communication Public Company Limited]
 🇬🇹 45.228.233.78:999 462ms GT [Inversiones Grajeda Andrade S.A]
 🇨🇴 190.7.138.78:80 422ms CO [EPM Telecomunicaciones S.A. E.S.P.]
 🇨🇴 181.129.183.19:53281 445ms CO [EPM Telecomunicaciones S.A. E.S.P.]
