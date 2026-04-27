@@ -1,4 +1,4 @@
-HTTP(S) Proxy list updated at 2026-04-27 15:00:02 GMT+7
+HTTP(S) Proxy list updated at 2026-04-27 16:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -10,18 +10,16 @@ https://buymeacoffee.com/roosterkid
 
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇹🇼 220.128.223.136:8082 84ms TW [Chunghwa Telecom Co., Ltd.]
 🇮🇩 101.255.117.138:2020 295ms ID [PT Remala Abadi]
 🇺🇦 91.243.192.17:3128 454ms UA ["Fregat TV" Ltd.]
-🇪🇸 195.57.239.25:8080 170ms ES [TDENET (Red de servicios IP)]
+🇪🇸 195.57.239.25:8080 183ms ES [TDENET (Red de servicios IP)]
 🇹🇭 203.150.113.198:8080 430ms TH [Internet Thailand Company Ltd.]
-🇮🇩 203.128.75.194:8080 447ms ID [Neuviz]
 🇮🇳 115.248.66.131:3129 118ms IN [Reliance Communications Limited]
 🇮🇳 103.161.31.249:83 470ms IN [Venkata Sai Internet Pvt. Ltd]
-🇸🇬 8.219.97.248:80 128ms SG [Alibaba (US) Technology Co., Ltd.]
-🇮🇳 13.127.170.8:3128 67ms IN [Amazon Technologies Inc.]
+🇸🇬 8.219.97.248:80 342ms SG [Alibaba (US) Technology Co., Ltd.]
+🇮🇳 13.127.170.8:3128 57ms IN [Amazon Technologies Inc.]
 🇱🇾 102.68.128.212:8080 472ms LY [Aljeel Aljadeed For Technology]
-🇯🇵 74.82.50.155:3128 44ms JP [Hurricane Electric]
+🇯🇵 74.82.50.155:3128 41ms JP [Hurricane Electric]
 🇵🇭 161.49.116.131:1337 188ms PH [Converge ICT Solution Inc]
 🇺🇦 134.249.185.223:41890 438ms UA [Kyivstar UA]
 🇮🇩 182.253.6.236:8080 102ms ID [Biznet Networks]
@@ -29,9 +27,10 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 🇹🇭 96.30.79.84:8080 477ms TH [Symphony Communication Public Company Limited]
 🇦🇷 190.220.1.173:56974 400ms AR [AMX Argentina S.A.]
 🇧🇩 103.54.43.131:8080 253ms BD [THE NET HEADS]
+🇮🇩 203.142.71.54:8080 368ms ID [BIZNET]
 🇬🇹 45.228.233.78:999 462ms GT [Inversiones Grajeda Andrade S.A]
-🇨🇴 190.7.138.78:80 422ms CO [EPM Telecomunicaciones S.A. E.S.P.]
+🇹🇭 125.26.4.219:443 166ms TH [TOT Public Company Limited]
+🇧🇷 177.68.149.122:8080 462ms BR [Vivo]
 🇨🇴 181.129.183.19:53281 445ms CO [EPM Telecomunicaciones S.A. E.S.P.]
 🇧🇬 77.238.79.111:8080 242ms BG [FIBER1]
-🇹🇭 1.1.220.100:8080 287ms TH [TOT Public Company Limited]
 🇹🇭 183.88.219.206:41564 215ms TH [Triple T Internet Company Limited]
