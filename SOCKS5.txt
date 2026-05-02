@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2026-05-02 18:00:02 GMT+7
+SOCKS5 Proxy list updated at 2026-05-02 19:00:02 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -10,15 +10,15 @@ https://buymeacoffee.com/roosterkid
 
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇩🇪 161.97.129.202:9060 781ms DE [Contabo GmbH]
-🇷🇺 87.117.11.57:1080 219ms RU [Macroregional South]
-🇭🇰 8.210.117.246:15673 308ms HK [Alibaba.com LLC]
-🇧🇬 31.211.142.115:8192 241ms BG [5KOM]
-🇷🇺 212.33.248.45:1080 261ms RU [JSC "ER-Telecom Holding"]
+🇭🇰 8.210.117.246:15673 758ms HK [Alibaba.com LLC]
+🇧🇷 187.63.9.62:63253 377ms BR [Gigalink de Nova Friburgo Soluções em Rede Multimi]
+🇧🇬 31.211.142.115:8192 253ms BG [5KOM]
+🇷🇺 212.33.248.45:1080 273ms RU [JSC "ER-Telecom Holding"]
 🇨🇦 184.95.220.42:1080 189ms CA [Fibrenoire Inc.]
-🇵🇸 93.184.4.254:1080 354ms PS [BCI Telecommunication & Advanced Technology Company]
+🇵🇸 93.184.4.254:1080 536ms PS [BCI Telecommunication & Advanced Technology Company]
 🇺🇦 185.151.86.86:3699 285ms UA [Omega Telecom]
-🇸🇬 138.199.25.13:3909 46ms SG [DataCamp Limited]
+🇸🇬 138.199.25.13:3909 596ms SG [DataCamp Limited]
+🇷🇺 194.190.169.197:3701 355ms RU [Webmaster Agency Ltd]
 🇺🇦 195.39.233.14:44567 188ms UA [Active Operations LLC]
 🇫🇷 37.44.238.2:63617 441ms FR [Harmony Hosting SARL]
 🇨🇦 184.95.235.194:1080 320ms CA [Fibrenoire Inc]
