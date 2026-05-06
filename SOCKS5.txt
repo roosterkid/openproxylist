@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2026-05-06 14:00:01 GMT+7
+SOCKS5 Proxy list updated at 2026-05-06 15:00:02 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -12,15 +12,17 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
 🇩🇪 161.97.129.202:9060 384ms DE [Contabo GmbH]
 🇭🇰 8.210.117.246:15673 458ms HK [Alibaba.com LLC]
-🇧🇷 187.63.9.62:63253 476ms BR [Gigalink de Nova Friburgo Soluções em Rede Multimi]
-🇧🇬 31.211.142.115:8192 141ms BG [5KOM]
-🇷🇺 212.33.248.45:1080 258ms RU [JSC "ER-Telecom Holding"]
-🇵🇸 93.184.4.254:1080 178ms PS [BCI Telecommunication & Advanced Technology Company]
-🇸🇬 138.199.25.13:3909 35ms SG [DataCamp Limited]
+🇧🇷 187.63.9.62:63253 708ms BR [Gigalink de Nova Friburgo Soluções em Rede Multimi]
+🇧🇬 31.211.142.115:8192 143ms BG [5KOM]
+🇷🇺 212.33.248.45:1080 245ms RU [JSC "ER-Telecom Holding"]
+🇵🇸 93.184.4.254:1080 467ms PS [BCI Telecommunication & Advanced Technology Company]
+🇵🇸 93.184.8.22:1080 532ms PS [BNET network]
+🇸🇬 138.199.25.13:3909 437ms SG [DataCamp Limited]
 🇷🇺 194.190.169.197:3701 332ms RU [Webmaster Agency Ltd]
-🇺🇦 195.39.233.14:44567 485ms UA [Active Operations LLC]
-🇫🇷 37.44.238.2:63617 389ms FR [Harmony Hosting SARL]
+🇺🇦 195.39.233.14:44567 302ms UA [Active Operations LLC]
+🇫🇷 37.44.238.2:63617 467ms FR [Harmony Hosting SARL]
 🇨🇦 184.95.235.194:1080 218ms CA [Fibrenoire Inc]
 🇷🇺 46.241.57.29:1080 204ms RU [ZSTTK]
-🇻🇳 113.176.118.150:1080 413ms VN [VNPT]
+🇻🇳 113.176.118.150:1080 117ms VN [VNPT]
 🇮🇩 202.6.233.59:7878 59ms ID [PT Padi Internet]
+🇻🇳 113.160.188.21:1080 417ms VN [VietNam Post and Telecom Corporation]
