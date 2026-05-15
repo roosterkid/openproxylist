@@ -1,4 +1,4 @@
-SOCKS4 Proxy list updated at 2026-05-16 00:00:01 GMT+7
+SOCKS4 Proxy list updated at 2026-05-16 01:00:02 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -14,6 +14,7 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 🇲🇹 213.165.185.211:4153 226ms MT [Melita Cable plc]
 🇷🇺 109.232.106.150:52435 237ms RU [CJSC Thyphone Communications 106]
 🇧🇴 190.104.8.142:14888 313ms BO [Telef�nica Celular de Bolivia S.A.]
+🇺🇸 50.250.205.21:32100 147ms US [Comcast Cable Communications, LLC]
 🇺🇸 64.64.152.248:39593 284ms US [Great Plains Communications LLC]
 🇷🇴 81.12.157.98:5678 271ms RO [Vodafone RO]
 🇧🇩 202.40.177.94:5678 88ms BD [Ranks ITT]
