@@ -1,4 +1,4 @@
-SOCKS4 Proxy list updated at 2026-05-15 07:00:01 GMT+7
+SOCKS4 Proxy list updated at 2026-05-15 08:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -10,7 +10,7 @@ https://buymeacoffee.com/roosterkid
 
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇺🇸 50.238.47.86:32100 163ms US [Comcast Cable Communications, LLC]
+🇺🇸 50.238.47.86:32100 451ms US [Comcast Cable Communications, LLC]
 🇲🇳 49.0.156.20:6114 246ms MN [YokozunaNET]
 🇷🇺 83.220.46.106:4145 143ms RU [GARS-Block1]
 🇧🇴 190.104.8.142:14888 231ms BO [Telef�nica Celular de Bolivia S.A.]
@@ -18,4 +18,3 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 🇷🇺 185.216.18.138:44550 242ms RU [Mega Tec LLC]
 🇮🇶 109.224.12.170:52015 294ms IQ [EarthLink Ltd. Communications&Internet Services]
 🇷🇴 81.18.90.43:4153 107ms RO [RCS & RDS]
-🇵🇱 91.150.189.122:60647 250ms PL [Skyware Sp. z o.o.]
