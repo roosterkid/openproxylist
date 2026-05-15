@@ -1,4 +1,4 @@
-SOCKS4 Proxy list updated at 2026-05-15 12:00:02 GMT+7
+SOCKS4 Proxy list updated at 2026-05-15 13:00:02 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -13,6 +13,8 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 🇭🇷 82.132.19.108:4153 127ms HR [Croatian Academic and Research Network]
 🇺🇸 50.238.47.86:32100 139ms US [Comcast Cable Communications, LLC]
 🇹🇼 125.228.94.199:4145 67ms TW [Chunghwa Telecom Co., Ltd.]
+🇲🇾 175.139.201.193:4153 49ms MY [Tmnet, Telekom Malaysia Bhd.]
 🇧🇬 213.149.154.213:5678 107ms BG [VIM TV Ltd]
+🇷🇺 85.237.62.189:3629 169ms RU [PJSC Rostelecom]
 🇷🇺 89.151.134.157:3629 629ms RU [VolgaTelecom Cheboxary]
-🇧🇬 88.213.214.254:4145 113ms BG [Netbox LTD]
+🇧🇬 88.213.214.254:4145 115ms BG [Netbox LTD]
