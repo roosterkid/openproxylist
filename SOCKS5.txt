@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2026-05-30 18:00:01 GMT+7
+SOCKS5 Proxy list updated at 2026-05-30 19:00:02 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -12,15 +12,16 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
 🇩🇪 161.97.129.202:9060 646ms DE [Contabo GmbH]
 🇧🇷 187.63.9.62:63253 439ms BR [Gigalink de Nova Friburgo Solu��es em Rede Multimi]
-🇧🇬 31.211.142.115:8192 455ms BG [5KOM]
-🇷🇺 212.33.248.45:1080 234ms RU [JSC "ER-Telecom Holding"]
+🇷🇺 89.208.30.16:7894 330ms RU [KONEKT Ltd.]
+🇧🇬 31.211.142.115:8192 153ms BG [5KOM]
+🇷🇺 212.33.248.45:1080 276ms RU [JSC "ER-Telecom Holding"]
 🇨🇦 184.95.220.42:1080 504ms CA [Fibrenoire Inc.]
-🇵🇸 93.184.4.254:1080 278ms PS [BCI Telecommunication & Advanced Technology Company]
+🇵🇸 93.184.4.254:1080 543ms PS [BCI Telecommunication & Advanced Technology Company]
 🇺🇦 185.151.86.86:3699 492ms UA [Omega Telecom]
 🇺🇦 185.151.86.121:3699 303ms UA [Omega Telecom]
-🇸🇬 138.199.25.13:3909 29ms SG [DataCamp Limited]
-🇫🇷 37.44.238.2:63617 257ms FR [Harmony Hosting SARL]
-🇨🇦 184.95.235.194:1080 214ms CA [Fibrenoire Inc]
+🇸🇬 138.199.25.13:3909 47ms SG [DataCamp Limited]
+🇫🇷 37.44.238.2:63617 277ms FR [Harmony Hosting SARL]
+🇨🇦 184.95.235.194:1080 370ms CA [Fibrenoire Inc]
 🇻🇳 113.176.118.150:1080 787ms VN [VNPT]
 🇮🇩 202.6.233.59:7878 457ms ID [PT Padi Internet]
 🇻🇳 113.160.188.21:1080 205ms VN [VietNam Post and Telecom Corporation]
