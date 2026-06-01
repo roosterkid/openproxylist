@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2026-06-01 07:00:02 GMT+7
+SOCKS5 Proxy list updated at 2026-06-01 08:00:03 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -10,20 +10,15 @@ https://buymeacoffee.com/roosterkid
 
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇩🇪 161.97.129.202:9060 185ms DE [Contabo GmbH]
-🇷🇺 89.208.30.16:7894 667ms RU [KONEKT Ltd.]
-🇧🇬 31.211.142.115:8192 482ms BG [5KOM]
+🇩🇪 161.97.129.202:9060 743ms DE [Contabo GmbH]
+🇧🇷 187.63.9.62:63253 690ms BR [Gigalink de Nova Friburgo Solu��es em Rede Multimi]
 🇨🇦 184.95.220.42:1080 323ms CA [Fibrenoire Inc.]
 🇵🇸 93.184.4.254:1080 295ms PS [BCI Telecommunication & Advanced Technology Company]
-🇺🇦 185.151.86.86:3699 303ms UA [Omega Telecom]
-🇺🇦 185.151.86.121:3699 196ms UA [Omega Telecom]
 🇵🇸 93.184.8.22:1080 316ms PS [BNET network]
-🇸🇬 138.199.25.13:3909 149ms SG [DataCamp Limited]
-🇷🇺 194.190.169.197:3701 384ms RU [Webmaster Agency Ltd]
+🇸🇬 138.199.25.13:3909 98ms SG [DataCamp Limited]
+🇷🇺 194.190.169.197:3701 505ms RU [Webmaster Agency Ltd]
 🇺🇸 38.127.172.34:18013 468ms US [Cogent Communications]
-🇺🇦 195.39.233.14:44567 195ms UA [Active Operations LLC]
 🇺🇸 38.127.172.8:42908 476ms US [Cogent Communications]
 🇫🇷 37.44.238.2:63617 469ms FR [Harmony Hosting SARL]
-🇨🇦 184.95.235.194:1080 493ms CA [Fibrenoire Inc]
-🇻🇳 113.176.118.150:1080 105ms VN [VNPT]
-🇻🇳 113.160.188.21:1080 427ms VN [VietNam Post and Telecom Corporation]
+🇯🇵 132.226.7.23:30277 762ms JP [Oracle Corporation]
+🇻🇳 113.176.118.150:1080 393ms VN [VNPT]
