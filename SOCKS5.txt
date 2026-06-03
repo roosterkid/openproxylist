@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2026-06-03 20:00:01 GMT+7
+SOCKS5 Proxy list updated at 2026-06-03 21:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -14,16 +14,17 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 🇧🇷 187.63.9.62:63253 677ms BR [Gigalink de Nova Friburgo Solu��es em Rede Multimi]
 🇷🇺 89.208.30.16:7894 569ms RU [KONEKT Ltd.]
 🇧🇬 31.211.142.115:8192 462ms BG [5KOM]
-🇷🇺 85.143.254.38:1080 627ms RU [Comfortel Ltd.]
-🇷🇺 212.33.248.45:1080 352ms RU [JSC "ER-Telecom Holding"]
-🇨🇦 184.95.220.42:1080 293ms CA [Fibrenoire Inc.]
+🇷🇺 85.143.254.38:1080 156ms RU [Comfortel Ltd.]
+🇷🇺 212.33.248.45:1080 546ms RU [JSC "ER-Telecom Holding"]
+🇨🇦 184.95.220.42:1080 491ms CA [Fibrenoire Inc.]
 🇵🇸 93.184.4.254:1080 245ms PS [BCI Telecommunication & Advanced Technology Company]
 🇺🇦 185.151.86.86:3699 205ms UA [Omega Telecom]
-🇸🇬 138.199.25.13:3909 120ms SG [DataCamp Limited]
+🇺🇦 185.151.86.121:3699 291ms UA [Omega Telecom]
+🇸🇬 138.199.25.13:3909 670ms SG [DataCamp Limited]
 🇷🇺 194.190.169.197:3701 254ms RU [Webmaster Agency Ltd]
 🇺🇦 195.39.233.14:44567 490ms UA [Active Operations LLC]
-🇫🇷 37.44.238.2:63617 311ms FR [Harmony Hosting SARL]
-🇻🇳 113.176.118.150:1080 205ms VN [VNPT]
+🇫🇷 37.44.238.2:63617 364ms FR [Harmony Hosting SARL]
+🇻🇳 113.176.118.150:1080 396ms VN [VNPT]
 🇺🇦 176.37.21.46:5678 424ms UA [Lanet Network]
 🇮🇩 202.6.233.59:7878 57ms ID [PT Padi Internet]
-🇻🇳 113.160.188.21:1080 207ms VN [VietNam Post and Telecom Corporation]
+🇻🇳 113.160.188.21:1080 429ms VN [VietNam Post and Telecom Corporation]
