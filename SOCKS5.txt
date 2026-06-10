@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2026-06-10 12:00:01 GMT+7
+SOCKS5 Proxy list updated at 2026-06-10 13:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -12,13 +12,12 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
 🇩🇪 161.97.129.202:9060 254ms DE [Contabo GmbH]
 🇧🇷 187.63.9.62:63253 473ms BR [Gigalink de Nova Friburgo Solu��es em Rede Multimi]
-🇧🇬 31.211.142.115:8192 140ms BG [5KOM]
-🇷🇺 212.33.248.45:1080 234ms RU [JSC "ER-Telecom Holding"]
-🇵🇸 93.184.4.254:1080 497ms PS [BCI Telecommunication & Advanced Technology Company]
-🇷🇺 194.190.169.197:3701 340ms RU [Webmaster Agency Ltd]
+🇧🇬 31.211.142.115:8192 152ms BG [5KOM]
+🇷🇺 212.33.248.45:1080 229ms RU [JSC "ER-Telecom Holding"]
+🇨🇦 184.95.220.42:1080 315ms CA [Fibrenoire Inc.]
 🇺🇸 38.127.172.34:18013 408ms US [Cogent Communications]
 🇺🇦 195.39.233.14:44567 199ms UA [Active Operations LLC]
-🇫🇷 37.44.238.2:63617 182ms FR [Harmony Hosting SARL]
-🇨🇦 184.95.235.194:1080 303ms CA [Fibrenoire Inc]
+🇫🇷 37.44.238.2:63617 368ms FR [Harmony Hosting SARL]
+🇨🇦 184.95.235.194:1080 496ms CA [Fibrenoire Inc]
 🇻🇳 113.176.118.150:1080 158ms VN [VNPT]
 🇻🇳 113.160.188.21:1080 200ms VN [VietNam Post and Telecom Corporation]
