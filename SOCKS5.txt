@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2026-06-18 18:00:01 GMT+7
+SOCKS5 Proxy list updated at 2026-06-18 19:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -10,20 +10,21 @@ https://buymeacoffee.com/roosterkid
 
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇧🇷 187.63.9.62:63253 368ms BR [Gigalink de Nova Friburgo Solu��es em Rede Multimi]
-🇧🇬 31.211.142.115:8192 160ms BG [5KOM]
-🇷🇺 85.143.254.38:1080 584ms RU [Comfortel Ltd.]
+🇧🇷 187.63.9.62:63253 514ms BR [Gigalink de Nova Friburgo Solu��es em Rede Multimi]
+🇧🇬 31.211.142.115:8192 257ms BG [5KOM]
+🇷🇺 85.143.254.38:1080 176ms RU [Comfortel Ltd.]
 🇷🇺 212.33.248.45:1080 518ms RU [JSC "ER-Telecom Holding"]
-🇵🇸 93.184.4.254:1080 189ms PS [BCI Telecommunication & Advanced Technology Company]
+🇵🇸 93.184.4.254:1080 308ms PS [BCI Telecommunication & Advanced Technology Company]
 🇺🇦 185.151.86.86:3699 201ms UA [Omega Telecom]
 🇺🇦 185.151.86.121:3699 497ms UA [Omega Telecom]
-🇸🇬 138.199.25.13:3909 187ms SG [DataCamp Limited]
-🇷🇺 194.190.169.197:3701 263ms RU [Webmaster Agency Ltd]
+🇸🇬 138.199.25.13:3909 387ms SG [DataCamp Limited]
+🇷🇺 194.190.169.197:3701 503ms RU [Webmaster Agency Ltd]
 🇺🇦 195.39.233.14:44567 301ms UA [Active Operations LLC]
-🇫🇷 37.44.238.2:63617 670ms FR [Harmony Hosting SARL]
+🇫🇷 37.44.238.2:63617 651ms FR [Harmony Hosting SARL]
 🇷🇺 95.78.119.94:1080 257ms RU [CJSC "ER-Telecom Holding" Naberezhnye Chelny branch]
-🇷🇺 46.0.205.4:1080 189ms RU [JSC "ER-Telecom Holding"]
+🇨🇦 184.95.235.194:1080 194ms CA [Fibrenoire Inc]
+🇷🇺 46.0.205.4:1080 190ms RU [JSC "ER-Telecom Holding"]
 🇻🇳 113.176.118.150:1080 206ms VN [VNPT]
 🇨🇳 218.70.229.168:1080 318ms CN [Chinanet]
 🇮🇩 202.6.233.59:7878 167ms ID [PT Padi Internet]
-🇻🇳 113.160.188.21:1080 343ms VN [VietNam Post and Telecom Corporation]
+🇻🇳 113.160.188.21:1080 116ms VN [VietNam Post and Telecom Corporation]
