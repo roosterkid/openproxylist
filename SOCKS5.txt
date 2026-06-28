@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2026-06-29 03:00:01 GMT+7
+SOCKS5 Proxy list updated at 2026-06-29 04:00:02 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -10,15 +10,17 @@ https://buymeacoffee.com/roosterkid
 
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇧🇷 187.63.9.62:63253 428ms BR [Gigalink de Nova Friburgo Solu��es em Rede Multimi]
-🇧🇬 31.211.142.115:8192 178ms BG [5KOM]
+🇩🇪 161.97.129.202:9060 381ms DE [Contabo GmbH]
+🇧🇷 187.63.9.62:63253 414ms BR [Gigalink de Nova Friburgo Solu��es em Rede Multimi]
+🇧🇬 31.211.142.115:8192 279ms BG [5KOM]
 🇨🇦 184.95.220.42:1080 211ms CA [Fibrenoire Inc.]
-🇵🇸 93.184.4.254:1080 692ms PS [BCI Telecommunication & Advanced Technology Company]
-🇷🇺 194.190.169.197:3701 167ms RU [Webmaster Agency Ltd]
+🇵🇸 93.184.4.254:1080 224ms PS [BCI Telecommunication & Advanced Technology Company]
+🇷🇺 194.190.169.197:3701 189ms RU [Webmaster Agency Ltd]
 🇺🇦 195.39.233.14:44567 226ms UA [Active Operations LLC]
-🇫🇷 37.44.238.2:63617 434ms FR [Harmony Hosting SARL]
-🇨🇦 184.95.235.194:1080 301ms CA [Fibrenoire Inc]
-🇻🇳 113.176.118.150:1080 190ms VN [VNPT]
+🇫🇷 37.44.238.2:63617 639ms FR [Harmony Hosting SARL]
+🇨🇦 184.95.235.194:1080 326ms CA [Fibrenoire Inc]
+🇻🇳 113.176.118.150:1080 388ms VN [VNPT]
+🇺🇦 176.37.21.46:5678 403ms UA [Lanet Network]
 🇩🇪 51.195.102.120:10084 85ms DE [OVH SAS]
 🇮🇩 202.6.233.59:7878 521ms ID [PT Padi Internet]
-🇻🇳 113.160.188.21:1080 202ms VN [VietNam Post and Telecom Corporation]
+🇻🇳 113.160.188.21:1080 204ms VN [VietNam Post and Telecom Corporation]
