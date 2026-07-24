@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2026-07-25 02:00:01 GMT+7
+SOCKS5 Proxy list updated at 2026-07-25 03:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -11,16 +11,15 @@ https://buymeacoffee.com/roosterkid
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
 🇩🇪 161.97.129.202:9060 564ms DE [Contabo GmbH]
-🇧🇷 187.63.9.62:63253 744ms BR [Gigalink de Nova Friburgo Solu��es em Rede Multimi]
-🇧🇬 31.211.142.115:8192 287ms BG [5KOM]
-🇨🇦 184.95.220.42:1080 302ms CA [Fibrenoire Inc.]
-🇵🇸 93.184.4.254:1080 237ms PS [BCI Telecommunication & Advanced Technology Company]
-🇺🇸 69.55.49.177:38172 192ms US [DigitalOcean, LLC]
+🇧🇷 187.63.9.62:63253 403ms BR [Gigalink de Nova Friburgo Solu��es em Rede Multimi]
+🇧🇬 31.211.142.115:8192 464ms BG [5KOM]
+🇨🇦 184.95.220.42:1080 503ms CA [Fibrenoire Inc.]
+🇵🇸 93.184.4.254:1080 419ms PS [BCI Telecommunication & Advanced Technology Company]
+🇺🇸 69.55.49.177:38172 188ms US [DigitalOcean, LLC]
 🇺🇦 185.151.86.86:3699 488ms UA [Omega Telecom]
 🇺🇦 185.151.86.121:3699 243ms UA [Omega Telecom]
-🇷🇺 194.190.169.197:3701 210ms RU [Webmaster Agency Ltd]
-🇫🇷 37.44.238.2:63617 617ms FR [Harmony Hosting SARL]
-🇨🇦 184.95.235.194:1080 267ms CA [Fibrenoire Inc]
+🇷🇺 194.190.169.197:3701 196ms RU [Webmaster Agency Ltd]
+🇫🇷 37.44.238.2:63617 649ms FR [Harmony Hosting SARL]
+🇨🇦 184.95.235.194:1080 536ms CA [Fibrenoire Inc]
 🇻🇳 113.176.118.150:1080 88ms VN [VNPT]
-🇨🇳 218.70.229.168:1080 384ms CN [Chinanet]
-🇮🇩 202.6.233.59:7878 66ms ID [PT Padi Internet]
+🇮🇩 202.6.233.59:7878 354ms ID [PT Padi Internet]
