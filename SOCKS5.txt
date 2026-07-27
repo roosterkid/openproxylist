@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2026-07-27 14:00:01 GMT+7
+SOCKS5 Proxy list updated at 2026-07-27 15:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -12,15 +12,14 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
 🇩🇪 161.97.129.202:9060 478ms DE [Contabo GmbH]
 🇧🇷 187.63.9.62:63253 429ms BR [Gigalink de Nova Friburgo Solu��es em Rede Multimi]
-🇧🇬 31.211.142.115:8192 266ms BG [5KOM]
+🇧🇬 31.211.142.115:8192 255ms BG [5KOM]
 🇨🇦 184.95.220.42:1080 231ms CA [Fibrenoire Inc.]
-🇵🇸 93.184.4.254:1080 233ms PS [BCI Telecommunication & Advanced Technology Company]
-🇺🇸 69.55.49.177:38172 309ms US [DigitalOcean, LLC]
-🇵🇸 93.184.8.22:1080 499ms PS [BNET network]
+🇵🇸 93.184.4.254:1080 345ms PS [BCI Telecommunication & Advanced Technology Company]
+🇺🇸 69.55.49.177:38172 196ms US [DigitalOcean, LLC]
 🇷🇺 194.190.169.197:3701 724ms RU [Webmaster Agency Ltd]
-🇫🇷 37.44.238.2:63617 245ms FR [Harmony Hosting SARL]
+🇫🇷 37.44.238.2:63617 644ms FR [Harmony Hosting SARL]
 🇨🇦 184.95.235.194:1080 285ms CA [Fibrenoire Inc]
-🇻🇳 113.176.118.150:1080 76ms VN [VNPT]
+🇻🇳 113.176.118.150:1080 208ms VN [VNPT]
+🇺🇦 176.37.21.46:5678 487ms UA [Lanet Network]
 🇩🇪 51.195.102.120:10084 85ms DE [OVH SAS]
-🇨🇳 218.70.229.168:1080 287ms CN [Chinanet]
 🇮🇩 202.6.233.59:7878 357ms ID [PT Padi Internet]
