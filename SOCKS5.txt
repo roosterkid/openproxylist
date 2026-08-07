@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2026-08-08 03:00:02 GMT+7
+SOCKS5 Proxy list updated at 2026-08-08 04:00:02 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -13,16 +13,13 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 🇧🇷 187.63.9.62:63253 675ms BR [Gigalink de Nova Friburgo Solu��es em Rede Multimi]
 🇧🇬 31.211.142.115:8192 245ms BG [5KOM]
 🇷🇺 94.73.251.19:1080 596ms RU [Orion Telecom LLC]
-🇷🇺 85.143.254.38:1080 591ms RU [Comfortel Ltd.]
+🇷🇺 85.143.254.38:1080 487ms RU [Comfortel Ltd.]
 🇳🇱 178.62.230.185:7497 105ms NL [DigitalOcean, LLC]
-🇺🇸 69.55.49.177:38172 223ms US [DigitalOcean, LLC]
+🇺🇸 69.55.49.177:38172 216ms US [DigitalOcean, LLC]
 🇺🇦 185.151.86.86:3699 507ms UA [Omega Telecom]
-🇺🇦 185.151.86.121:3699 180ms UA [Omega Telecom]
-🇵🇸 93.184.8.22:1080 282ms PS [BNET network]
+🇺🇦 185.151.86.121:3699 486ms UA [Omega Telecom]
 🇮🇩 103.242.107.227:49032 340ms ID [PT Lintas Jaringan Nusantara]
-🇸🇬 138.199.25.13:3909 436ms SG [DataCamp Limited]
-🇷🇺 194.190.169.197:3701 555ms RU [Webmaster Agency Ltd]
-🇺🇸 162.243.102.207:9764 717ms US [DigitalOcean, LLC]
+🇷🇺 194.190.169.197:3701 593ms RU [Webmaster Agency Ltd]
 🇯🇵 132.226.7.23:30277 646ms JP [Oracle Corporation]
 🇻🇳 113.176.118.150:1080 230ms VN [VNPT]
 🇨🇳 218.70.229.168:1080 755ms CN [Chinanet]
