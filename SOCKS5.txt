@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2026-10-01 07:00:02 GMT+7
+SOCKS5 Proxy list updated at 2026-10-01 08:00:02 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -10,5 +10,6 @@ https://buymeacoffee.com/roosterkid
 
 Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
-🇧🇬 31.211.142.115:8192 286ms BG [5KOM]
-🇨🇳 218.70.229.168:1080 616ms CN [Chinanet]
+🇧🇬 31.211.142.115:8192 455ms BG [5KOM]
+🇨🇳 218.70.229.168:1080 336ms CN [Chinanet]
+🇩🇪 51.195.102.121:10084 148ms DE [OVH SAS]
