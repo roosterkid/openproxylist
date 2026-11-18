@@ -1,4 +1,4 @@
-SOCKS5 Proxy list updated at 2026-11-18 20:00:03 GMT+7
+SOCKS5 Proxy list updated at 2026-11-18 21:00:01 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -12,8 +12,8 @@ Fromat: CountryFlag IP:PORT ResponseTime CountryCode [ISP]
 
 🇧🇬 31.211.142.115:8192 251ms BG [5KOM]
 🇳🇱 178.62.230.185:7497 103ms NL [DigitalOcean, LLC]
-🇺🇸 69.55.49.177:38172 272ms US [DigitalOcean, LLC]
-🇺🇦 185.151.86.86:3699 216ms UA [Omega Telecom]
+🇺🇸 69.55.49.177:38172 203ms US [DigitalOcean, LLC]
 🇻🇳 113.176.118.150:1080 167ms VN [VNPT]
-🇮🇩 202.6.233.59:7878 87ms ID [PT Padi Internet]
-🇻🇳 113.160.188.21:1080 233ms VN [VietNam Post and Telecom Corporation]
+🇿🇦 102.36.127.249:1080 494ms ZA [Clear Access (Pty) Ltd]
+🇮🇩 202.6.233.59:7878 27ms ID [PT Padi Internet]
+🇻🇳 113.160.188.21:1080 224ms VN [VietNam Post and Telecom Corporation]
