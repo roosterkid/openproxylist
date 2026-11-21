@@ -1,4 +1,4 @@
-V2Ray Proxy list updated at 2026-11-21 06:00:02 GMT+7
+V2Ray Proxy list updated at 2026-11-21 07:00:02 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -12,7 +12,7 @@ Fromat: CountryFlag CONFIG ResponseTime CountryCode [ISP]
 
 🇳🇱 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6aFozVmJONTkySlpzdXpaOW91K3BHT0JGTVNSR0JpU1ZjekpGZ2hjUmFFWT0@84.235.170.154:45819#🇳🇱[openproxylist.com] ss-NL 501ms NL [Oracle Corporation]
 🇸🇬 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6YzExSk1mQ01RM1k0YUdsaE1YNUxyTXBNMTN1dncrVVZiakdmSFArZUtrWT0@168.138.177.98:56927#🇸🇬[openproxylist.com] ss-SG 22ms SG [Oracle Corporation]
-🇱🇺 vless://5de0c218-0138-45d8-94d2-c2c3f37a1a6d@94.183.234.245:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.bing.com&fp=qq&flow=xtls-rprx-vision&sid=7f1e29593aa94ad1&pbk=tfFzmbVByvoZxxIEUiHMv22_k0-nQz00L0XjU0bd_Fc&encryption=none#🇱🇺[openproxylist.com] vless-LU 130ms LU [Realcloud OU]
+🇱🇺 vless://5de0c218-0138-45d8-94d2-c2c3f37a1a6d@94.183.234.245:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.bing.com&fp=qq&flow=xtls-rprx-vision&sid=7f1e29593aa94ad1&pbk=tfFzmbVByvoZxxIEUiHMv22_k0-nQz00L0XjU0bd_Fc&encryption=none#🇱🇺[openproxylist.com] vless-LU 100ms LU [Realcloud OU]
 🇬🇧 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6cVFpWTZvaEFCMG5aU1F0R0s4U2NZK2phVGVKZ1l4c2RFUkhXMHZyWHhuWT0=@134.65.60.109:61312#🇬🇧[openproxylist.com] ss-GB 101ms GB [Oracle Corporation]
 🇫🇷 vless://11111111-2222-3333-4444-555555555555@jdxl.cf.090227.xyz:443?&security=tls&fp=chrome&sni=notified-rendered-moore-consideration.trycloudflare.com&type=ws&headerType=none&host=notified-rendered-moore-consideration.trycloudflare.com&path=%2Ftg-jiedianxielou#🇫🇷[openproxylist.com] vless-FR 446ms FR [Bouygues Telecom ISP]
 🇫🇮 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDOFpKN1I0cF9ISEozMmNzdDdpbFQtMFppMkYyMmhBYw@static.28.210.29.2.clients.your-server.de:25565#🇫🇮[openproxylist.com] ss-FI 115ms FI [Hetzner Online GmbH]
@@ -21,7 +21,6 @@ Fromat: CountryFlag CONFIG ResponseTime CountryCode [ISP]
 🇸🇬 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6R01oWFJweS9wZlBNVnJaZUNBeE94STVNcHVIM2xsT3RaS29lTkxVVDBuOD0=@158.178.230.120:56927#🇸🇬[openproxylist.com] ss-SG 3ms SG [Oracle Corporation]
 🇳🇱 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6eW9vdzl6dUFXMklVeDI5RUwyNU56WDI5L3h4MjBGcFNFS09zbnUvVG5CRT0=@158.101.205.73:45819#🇳🇱[openproxylist.com] ss-NL 77ms NL [Oracle Corporation]
 🇩🇪 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Rm1CNEhCTS8rNjNMWnIrc2p4czV6a0ZJdlptQi8vNUJQcWRmOFcrd250Zz0=@79.76.105.62:59924#🇩🇪[openproxylist.com] ss-DE 73ms DE [Oracle Corporation]
-🇩🇪 vless://fd90e601-a56c-42b8-aab7-aa02d26fcb04@46.243.205.192:443?&security=tls&fp=chrome&sni=46.243.205.192&type=ws&headerType=none&host=46.243.205.192&path=%2Fcatalog%2Ffeed%2FH9eui7WsW3xS#🇩🇪[openproxylist.com] vless-DE 353ms DE [FDCservers.net]
 🇮🇹 ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ==@57.131.27.21:8388#🇮🇹[openproxylist.com] ss-IT 100ms IT [OVH SAS]
 🇳🇱 vless://24fb9b5b-43b7-4058-a7e5-a0499ada1fda@146.19.254.171:8443?sni=146.19.254.171&flow=xtls-rprx-vision&fp=firefox&security=tls#🇳🇱[openproxylist.com] vless-NL 100ms NL [BlueVPS OU]
 🇩🇪 vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@176.98.176.60:443?sni=mosaic.topp-con.xyz&alpn=h2%2Chttp/1.1&flow=xtls-rprx-vision&fp=firefox&security=tls#🇩🇪[openproxylist.com] vless-DE 100ms DE [Hetzner Online AG]
@@ -69,7 +68,6 @@ Fromat: CountryFlag CONFIG ResponseTime CountryCode [ISP]
 🇬🇧 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@38.114.120.221:19999#🇬🇧[openproxylist.com] ss-GB 75ms GB [GTHost]
 🇫🇷 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@167.17.64.22:19999#🇫🇷[openproxylist.com] ss-FR 72ms FR [GTHost]
 🇸🇪 vless://b2fe1fa4-6a79-4938-a3f4-63b54ae7f16b@138.124.86.230:48115?sni=138-124-86-230.sslip.io&type=grpc&serviceName=138-124-86-230-sslip-io&fp=firefox&security=tls#🇸🇪[openproxylist.com] vless-SE 66ms SE [Baykov Ilya Sergeevich]
-🇺🇸 vmess://eyJhZGQiOiIxNzIuMTExLjM4LjI0NiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiaG9zdCI6IiIsImlkIjoiNWMwNDBmMWQtNDVkYi00M2JkLThkNDYtZTQ5NTBlNDMzNzM1IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMjcwIiwicHMiOiJcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjhbb3BlbnByb3h5bGlzdC5jb21dIHZtZXNzLVVTIiwic2N5IjoiYXV0byIsInNuaSI6InhtZmhscHkuY29tIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9 100ms US [GTHost]
 🇦🇹 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBZGF3ZmZGTUh5bWxhc1JiMFZPUDNIRmY3c1RHNXNKeA==@152.53.1.57:8388#🇦🇹[openproxylist.com] ss-AT 80ms AT [ANX]
 🇳🇱 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@151.241.19.36:19999#🇳🇱[openproxylist.com] ss-NL 72ms NL [DigitalOcean, LLC]
 🇳🇱 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@151.241.19.29:19999#🇳🇱[openproxylist.com] ss-NL 69ms NL [DigitalOcean, LLC]
@@ -88,6 +86,7 @@ Fromat: CountryFlag CONFIG ResponseTime CountryCode [ISP]
 🇷🇺 vless://c90395e6-2140-47ad-a54d-9b166729d3ef@xssite.webredirect.org:443?sni=xssite.webredirect.org&type=grpc&serviceName=grpc-ru&fp=random&security=tls#🇷🇺[openproxylist.com] vless-RU 100ms RU []
 🇨🇦 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.222.136.236:8882#🇨🇦[openproxylist.com] ss-CA 101ms CA [OVH SAS]
 🇦🇹 vmess://eyJhZGQiOiJ6ZmQtYm9hcmR2Mi5rdW5sdW4wMWRucy5jb20iLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjA4MDJhYzAzLTc5NzMtMzllZi1hMDE5LWJhMDJkZTZjMDFlMSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTYzMDgiLCJwcyI6Ilx1ZDgzY1x1ZGRlNlx1ZDgzY1x1ZGRmOVtvcGVucHJveHlsaXN0LmNvbV0gdm1lc3MtQVQiLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0= 100ms AT [Global Connectivity Solutions LLP]
+🇬🇧 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwW29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1ISyIsImFkZCI6ImRvZy1oay5rdW5sdW4wMWRucy5jb20iLCJwb3J0IjoyMTAxOCwiaWQiOiI5NDY0Y2E0MC1kZDc1LTM3NDItYTYyOC1kOTMxYTlmNDEzYjIiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiIiwidGxzIjoiIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0= 71ms GB [HGC Global Communications Limited]
 🇲🇾 trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?#🇲🇾[openproxylist.com] trojan-MY 88ms MY [Alibaba Cloud LLC]
 🇯🇵 ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:80#🇯🇵[openproxylist.com] ss-JP 101ms JP [Contabo Asia Private Limited]
 🇹🇼 vless://c1c04450-bf71-4049-ad0c-9cf6d94d9f1f@60.248.219.53:443?&security=tls&fp=chrome&sni=ty986gfazs.cainiaohub.xyz&type=ws&headerType=none&host=ty986gfazs.cainiaohub.xyz&path=%2F81574b6b-c9d7-44a0-b83d-dad56e8cb530#🇹🇼[openproxylist.com] vless-TW 95ms TW [Chunghwa Telecom Co., Ltd.]
