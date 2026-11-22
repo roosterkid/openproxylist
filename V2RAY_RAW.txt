@@ -16,7 +16,6 @@ ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6RVAvMGtJamsxOGM0M3Rma3FlSnFkVlFtOGx
 ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ==@57.131.27.21:8388#🇮🇹[openproxylist.com] ss-IT
 vless://24fb9b5b-43b7-4058-a7e5-a0499ada1fda@146.19.254.171:8443?sni=146.19.254.171&flow=xtls-rprx-vision&fp=firefox&security=tls#🇳🇱[openproxylist.com] vless-NL
 vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@176.98.176.60:443?sni=mosaic.topp-con.xyz&alpn=h2%2Chttp/1.1&flow=xtls-rprx-vision&fp=firefox&security=tls#🇩🇪[openproxylist.com] vless-DE
-vless://5de0c218-0138-45d8-94d2-c2c3f37a1a6d@94.183.234.245:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.bing.com&fp=qq&pbk=tfFzmbVByvoZxxIEUiHMv22_k0-nQz00L0XjU0bd_Fc&sid=7f1e29593aa94ad1&type=tcp&headerType=none#🇬🇧[openproxylist.com] vless-GB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyRWY4WDIxV0FMcUs3SDZOOEE3OGo1V1l0elo5OTlQUDhyRjhEYUxzYjVMTHlETFFwZjVkR1ZBamRBM21qMXd1ZGlnS1hUdDVoZVlVOWptYUJiZnhYQkpKQXFoUEhreGU=@194.87.233.93:46190#🇳🇱[openproxylist.com] ss-NL
 vless://38308ff1-5aa9-494f-a25a-0f2870d56b3e@201.24.116.192:443?sni=vps3.nemnogogo.com&type=grpc&serviceName=mobile.api.Event&fp=firefox&security=tls#🇷🇺[openproxylist.com] vless-RU
 ss://YWVzLTI1Ni1nY206RGdNeXdYS3FvakhYZXVYWThoT0phWUdQRmNqd2VDSUplRDVjZGcvY1VVWT0=@213.176.92.148:40647#🇫🇮[openproxylist.com] ss-FI
@@ -102,6 +101,7 @@ vless://c90395e6-2140-47ad-a54d-9b166729d3ef@xssite.webredirect.org:443?sni=xssi
 ss://YWVzLTI1Ni1nY206aU9hSVhOc1FYVkl4d21rWQ==@140.82.56.38:8388#🇳🇱[openproxylist.com] ss-NL
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.141.125:445#🇨🇦[openproxylist.com] ss-CA
 vless://a289a3d3-5833-4b28-8809-ae72898a98d0@138.16.141.59:7443?security=reality&type=tcp&packetEncoding=xudp&sni=ibm.com&fp=chrome&sid=a09ff9f8&pbk=RY7zkFQ01lI92jxNAyCa8T33UBW1fgpJgg8ZEqMA10k&encryption=none#🇳🇱[openproxylist.com] vless-NL
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@43.170.8.95:443?encryption=none&security=tls&sni=jp3.yohototo.top&fp=unsafe&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&type=ws&host=jp3.yohototo.top&path=%2Ftyxyws#🇯🇵[openproxylist.com] vless-JP
 trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?#🇲🇾[openproxylist.com] trojan-MY
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@51.222.155.32:5003#🇨🇦[openproxylist.com] ss-CA
 ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:80#🇯🇵[openproxylist.com] ss-JP
@@ -122,3 +122,4 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#🇯🇵[openproxylist.c
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#🇯🇵[openproxylist.com] ss-JP
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.181:443#🇬🇧[openproxylist.com] ss-GB
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#🇬🇧[openproxylist.com] ss-GB
+vless://53bbdad4-2f4e-45db-8df4-fa491a6a7227@172.64.154.113:8443?&security=tls&fp=chrome&sni=freeceshi6.frii.site&type=ws&headerType=none&host=freeceshi6.frii.site&path=%2Fproxyip%3DProxyIP.JP.CMLiussss.net#🏳[openproxylist.com] vless-
