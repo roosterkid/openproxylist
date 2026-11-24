@@ -1,4 +1,4 @@
-V2Ray Proxy list updated at 2026-11-24 21:00:01 GMT+7
+V2Ray Proxy list updated at 2026-11-24 22:00:02 GMT+7
 Website=https://openproxylist.com
 
 Support us:
@@ -80,9 +80,10 @@ Fromat: CountryFlag CONFIG ResponseTime CountryCode [ISP]
 🇸🇪 vless://80de563a-cac8-40ea-8cb0-4cb082dd92f9@5.178.109.174:14430?type=ws&host=5.178.109.174&path=/vless#🇸🇪[openproxylist.com] vless-SE 100ms SE [Baykov Ilya Sergeevich]
 🇦🇪 vless://965ffbbe-c6b6-4d5f-8dea-6d8abc55d9c0@95.174.68.188:14430?sni=95.174.68.188&type=ws&host=95.174.68.188&path=/vless#🇦🇪[openproxylist.com] vless-AE 100ms AE [Melbikomas UAB]
 🇮🇹 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.164.175.81:19999#🇮🇹[openproxylist.com] ss-IT 100ms IT [Datacamp Limited]
-🇭🇰 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZmYzW29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy0iLCJhZGQiOiI0Ny44Ni45MC4zMSIsInBvcnQiOjQ0MywiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInRscyI6InRscyIsImlkIjoiMjM0YTgwNDEtMmI0ZC00NGEzLWE4ZDgtNTIzY2JmZDU4ZGM0Iiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiYnl3eGRoaXJxa2pqOHhhei52LjNkbnMudmlwIiwiaG9zdCI6ImJ5d3hkaGlycWtqajh4YXoudi4zZG5zLnZpcCIsInBhdGgiOiJcL3dzLXZtZXNzIn0= 101ms HK []
+🇭🇰 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZmYzW29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy0iLCJhZGQiOiI0Ny44Ni45MC4zMSIsInBvcnQiOjQ0MywiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInRscyI6InRscyIsImlkIjoiMjM0YTgwNDEtMmI0ZC00NGEzLWE4ZDgtNTIzY2JmZDU4ZGM0Iiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiYnl3eGRoaXJxa2pqOHhhei52LjNkbnMudmlwIiwiaG9zdCI6ImJ5d3hkaGlycWtqajh4YXoudi4zZG5zLnZpcCIsInBhdGgiOiJcL3dzLXZtZXNzIn0= 239ms HK []
 🇦🇹 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@82.110.60.9:19999#🇦🇹[openproxylist.com] ss-AT 69ms AT [Datacamp Limited]
 🇷🇺 vless://c90395e6-2140-47ad-a54d-9b166729d3ef@xssite.webredirect.org:443?sni=xssite.webredirect.org&type=grpc&serviceName=grpc-ru&fp=random&security=tls#🇷🇺[openproxylist.com] vless-RU 100ms RU []
+🏳 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.229:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=ios&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a&type=tcp&headerType=none#🏳[openproxylist.com] vless- 101ms  []
 🇳🇱 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.46:8080#🇳🇱[openproxylist.com] ss-NL 100ms NL [Greenhost BV]
 🇨🇦 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.141.125:445#🇨🇦[openproxylist.com] ss-CA 100ms CA [OVH SAS]
 🇨🇦 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.222.200.165:5000#🏳[openproxylist.com] ss- 100ms CA []
@@ -92,7 +93,6 @@ Fromat: CountryFlag CONFIG ResponseTime CountryCode [ISP]
 🇩🇪 vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@marina.gerqix.online:443?&security=tls&fp=firefox&alpn=http%2F1.1&sni=marina.gerqix.online&type=ws&headerType=none&host=marina.gerqix.online&path=%2Fapi%2Fde3%2Fstream#🇩🇪[openproxylist.com] vless-DE 254ms DE [Tabunscic Anatoli]
 🇬🇧 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@158.173.24.73:443#🇬🇧[openproxylist.com] ss-GB 73ms GB [Datacamp Limited]
 🇰🇿 vless://b573cefb-7bc7-4a42-b407-b8b534e66773@109.248.170.119:13447?security=reality&type=tcp&packetEncoding=xudp&sni=yahoo.com&fp=chrome&sid=83&pbk=_0wM2ep44eAcrgf5PflKaBivknCWT6kMvQBQUoScCkE#🇰🇿[openproxylist.com] vless-KZ 488ms KZ [PE Fedinyak Sergey Vyacheslavovich]
-🇺🇸 vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4W29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1VUyIsImFkZCI6IjM4LjkxLjEwNy40OSIsInBvcnQiOjE4MDAwLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiIiLCJ0bHMiOiIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ== 102ms US [GTHost]
 🇿🇦 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#🇿🇦[openproxylist.com] ss-ZA 100ms ZA [Microsoft Corporation]
 🇿🇦 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc3k4T3g0eU9WM3hMbHB4dGp6czNY@102.133.165.160:16233#🏳[openproxylist.com] ss- 74ms ZA []
 🇳🇱 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.19:23576?security=reality&type=tcp&packetEncoding=xudp&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&sid=01&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s#🏳[openproxylist.com] vless- 208ms NL []
@@ -103,4 +103,3 @@ Fromat: CountryFlag CONFIG ResponseTime CountryCode [ISP]
 🇯🇵 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#🇯🇵[openproxylist.com] ss-JP 31ms JP [Datacamp Limited]
 🇬🇧 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.181:443#🇬🇧[openproxylist.com] ss-GB 80ms GB [M247 Europe SRL]
 🇬🇧 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#🇬🇧[openproxylist.com] ss-GB 85ms GB [M247 Europe SRL]
-🇸🇬 vless://53bbdad4-2f4e-45db-8df4-fa491a6a7227@172.64.154.113:8443?sni=freeceshi6.frii.site&type=ws&host=freeceshi6.frii.site&path=/proxyip=ProxyIP.JP.CMLiussss.netfp=chrome&security=tls#🇸🇬[openproxylist.com] vless-SG 87ms SG [Cloudflare, Inc.]
