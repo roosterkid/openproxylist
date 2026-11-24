@@ -11,7 +11,7 @@ vless://c762af05-2e92-4133-bc30-8cf45dd40a28@188.114.99.137:80?type=ws&host=suh.
 vless://04920673-035c-410d-94e4-5b1469d3fb6f@91.132.190.161:443?sni=171.22.183.166&alpn=h2%2Chttp/1.1&flow=xtls-rprx-vision&fp=firefox&security=tls#🇳🇱[openproxylist.com] vless-NL
 trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@i1tr.mateflora.com:443?allowInsecure=1&sni=i1tr.mateflora.com#🏳[openproxylist.com] trojan-
 trojan://57beeeb0-03fc-4fc9-94da-7604488a7134@77.93.89.2:443?security=tls&sni=bgsg1.hikigo.com&type=tcp#🇸🇬[openproxylist.com] trojan-SG
-vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@parchment.merlano.monster:443?&security=tls&fp=firefox&alpn=http%2F1.1&sni=parchment.merlano.monster&type=ws&headerType=none&host=parchment.merlano.monster&path=%2Fapi%2Fde7%2Fstream#🇩🇪[openproxylist.com] vless-DE
+vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@parchment.merlano.monster:443?&security=tls&fp=firefox&alpn=http%2F1.1&sni=parchment.merlano.monster&type=ws&headerType=none&host=parchment.merlano.monster&path=%2Fapi%2Fde7%2Fstream#🏳[openproxylist.com] vless-
 ss://YWVzLTI1Ni1nY206NW1LalhBR3JsaUlBbFl3V0RlRnprQ0VNSWdRZEZRTGU=@48.103.218.77:18443#🇺🇸[openproxylist.com] ss-US
 vless://51a6ab93-e805-4b8b-89d1-d3ab85a118ce@54.36.102.152:2083?type=ws&path=/vless-kulo#🇫🇷[openproxylist.com] vless-FR
 vless://5ab065b0-2c7a-45a0-829d-9af9af7d8e05@152.53.120.90:50955?#🇩🇪[openproxylist.com] vless-DE
@@ -45,6 +45,7 @@ ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@15.235.182.183:19999#🇸🇬[openproxylist.com] ss-SG
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@138.199.55.243:19999#🏳[openproxylist.com] ss-
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@15.235.164.133:19999#🇸🇬[openproxylist.com] ss-SG
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@149.88.106.74:19999#🇸🇬[openproxylist.com] ss-SG
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@38.109.228.110:19999#🏳[openproxylist.com] ss-
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@186.190.215.251:19999#🇨🇭[openproxylist.com] ss-CH
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@149.88.107.74:19999#🇸🇬[openproxylist.com] ss-SG
@@ -91,8 +92,10 @@ trojan://5931134d1cde66bf83a54acdfebe7ab2@47.250.84.25:443?#🇲🇾[openproxyli
 vless://c08f0056-7a6d-4931-813b-aaa3cdd00aed@node-uk.connectsuite.org:8443?sni=node-uk.connectsuite.org&security=tls#🏳[openproxylist.com] vless-
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.12.127:445#🇨🇦[openproxylist.com] ss-CA
 vless://4fddfe0e-fddc-4032-b4c8-09c6d811fed0@152.53.1.170:443?&security=tls&flow=xtls-rprx-vision&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=node-au.neverlock.uk&type=tcp&headerType=none&path=%2F#🇦🇹[openproxylist.com] vless-AT
-vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@marina.gerqix.online:443?&security=tls&fp=firefox&alpn=http%2F1.1&sni=marina.gerqix.online&type=ws&headerType=none&host=marina.gerqix.online&path=%2Fapi%2Fde3%2Fstream#🇩🇪[openproxylist.com] vless-DE
+vless://0b6a7fe0-206b-4071-9f96-cd397d1ec01a@marina.gerqix.online:443?&security=tls&fp=firefox&alpn=http%2F1.1&sni=marina.gerqix.online&type=ws&headerType=none&host=marina.gerqix.online&path=%2Fapi%2Fde3%2Fstream#🏳[openproxylist.com] vless-
+vless://814bd064-544d-4255-a070-5705c03f6da9@103.75.118.228:12683?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0#🇯🇵[openproxylist.com] vless-JP
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@158.173.24.73:443#🏳[openproxylist.com] ss-
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4W29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1VUyIsImFkZCI6IjE2OS4xOTcuMTQyLjIyIiwicG9ydCI6MTgwMDAsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6IiIsInRscyI6IiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
 vless://83706ae4-be2f-4b2b-8079-c3eb4e0b2e3e@cove.gerqix.online:443?&security=tls&fp=firefox&alpn=http%2F1.1&sni=cove.gerqix.online&type=ws&headerType=none&host=cove.gerqix.online&path=%2Fapi%2Fde6%2Fstream#🇩🇪[openproxylist.com] vless-DE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#🏳[openproxylist.com] ss-
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc3k4T3g0eU9WM3hMbHB4dGp6czNY@102.133.165.160:16233#🏳[openproxylist.com] ss-
